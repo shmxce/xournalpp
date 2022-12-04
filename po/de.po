@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-03 07:31+0000\n"
-"PO-Revision-Date: 2022-12-03 08:29\n"
+"PO-Revision-Date: 2022-12-04 22:48\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -184,7 +184,7 @@ msgstr "Liniendicke ändern"
 
 #: ../src/core/control/RecentManager.cpp:290
 msgid "Clear list"
-msgstr ""
+msgstr "Liste leeren"
 
 #: ../src/core/control/xojfile/LoadHandlerHelper.cpp:96
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
@@ -905,7 +905,7 @@ msgstr "Es stehen keine PDF-Seiten zum Anhängen zur Verfügung. Möglicherweise
 
 #: ../src/core/control/RecentManager.cpp:250
 msgid "No recent files"
-msgstr ""
+msgstr "Keine kürzlich verwendeten Dateien vorhanden"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:126
 msgid "Normal drawing"
@@ -1895,7 +1895,7 @@ msgstr "0,00"
 
 #: ../ui/settings.glade:4828
 msgid "0.20"
-msgstr ""
+msgstr "0.20"
 
 #: ../ui/settings.glade:1741
 msgid "1"
@@ -2448,7 +2448,7 @@ msgstr "Duplizieren"
 
 #: ../ui/main.glade:1242
 msgid "Duplicate Page"
-msgstr ""
+msgstr "Seite duplizieren"
 
 #: ../ui/main.glade:2952
 msgid "Edit (not implemented yet)"
@@ -2831,7 +2831,7 @@ msgstr "Minimaler Druck:"
 
 #: ../ui/settings.glade:4815
 msgid "Minimum Stroke Size"
-msgstr ""
+msgstr "Minimale Strichdicke"
 
 #: ../ui/settings.glade:1460 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
@@ -2851,11 +2851,11 @@ msgstr "Nach hinten verschieben"
 
 #: ../ui/main.glade:490
 msgid "Move Selection Layer Down"
-msgstr ""
+msgstr "Auswahl Ebene nach unten verschieben"
 
 #: ../ui/main.glade:480
 msgid "Move Selection Layer Up"
-msgstr ""
+msgstr "Auswahl-Ebene nach oben verschieben"
 
 #: ../ui/main.glade:2854 ../ui/main.glade:2929
 msgid "Move Up"
@@ -3230,7 +3230,7 @@ msgstr "Ausgewählten Text durchstreichen"
 
 #: ../ui/settings.glade:4856
 msgid "Stroke Recognizer"
-msgstr ""
+msgstr "Figurenerkennung"
 
 #: ../ui/settings.glade:1976
 msgid "Stylus"
