@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-03 07:31+0000\n"
-"PO-Revision-Date: 2022-12-03 08:29\n"
+"PO-Revision-Date: 2022-12-05 04:51\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -184,7 +184,7 @@ msgstr "Vonalvastagság megváltoztatása"
 
 #: ../src/core/control/RecentManager.cpp:290
 msgid "Clear list"
-msgstr ""
+msgstr "Lista törlése"
 
 #: ../src/core/control/xojfile/LoadHandlerHelper.cpp:96
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
@@ -904,7 +904,7 @@ msgstr "Nem érhető el több hozzáfűzhető pdf oldal. Szükséges lehet a dok
 
 #: ../src/core/control/RecentManager.cpp:250
 msgid "No recent files"
-msgstr ""
+msgstr "Nincsenek legutóbbi fájlok"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:126
 msgid "Normal drawing"
@@ -1877,7 +1877,7 @@ msgstr "(újraindítás szükséges)"
 #: ../ui/settings.glade:4979
 msgid "... AND How much time must have passed since last stroke.\n\n"
 "<i>Recommended: 500ms</i>"
-msgstr "... ÉS mennyi idő telt el az utolsó vonalhúzás között.\n"
+msgstr "… ÉS mennyi idő telt el az utolsó vonalhúzás között.\n"
 "<i>Ajánlott: 500ms</i>"
 
 #: ../ui/settings.glade:1096
@@ -1926,7 +1926,7 @@ msgstr "5"
 
 #: ../ui/images.glade:88
 msgid "<b>... or select already used Image:</b>"
-msgstr "<b>... vagy válasszon egy használatban levő képet:</b>"
+msgstr "<b>… vagy válasszon egy használatban levő képet:</b>"
 
 #: ../ui/pageTemplate.glade:245
 msgid "<b>Background Color</b>"
@@ -2523,7 +2523,7 @@ msgstr "Exportálás"
 
 #: ../ui/main.glade:247
 msgid "Export as..."
-msgstr "Exportálás másként..."
+msgstr "Exportálás másként…"
 
 #: ../ui/exportSettings.glade:367
 msgid "Export layers progressively"
