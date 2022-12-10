@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-03 07:31+0000\n"
-"PO-Revision-Date: 2022-12-03 08:29\n"
+"POT-Creation-Date: 2022-12-10 10:23+0000\n"
+"PO-Revision-Date: 2022-12-10 10:24\n"
 "Last-Translator: \n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -289,11 +289,11 @@ msgstr "Δεν ήταν δυνατό να αφαιρεθεί το εργαλεί
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
 msgstr "Δεν ήταν δυνατό να μετονομαστεί το αρχείο από \"{1}\" σε \"{2}\": {3}"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:95
+#: ../src/core/control/latex/LatexGenerator.cpp:90
 msgid "Could not save .tex file: {1}"
 msgstr "Αδυναμία αποθήκευσης .tex αρχείου: {1}"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:110
+#: ../src/core/control/latex/LatexGenerator.cpp:105
 msgid "Could not start {1}: {2} (exit code: {3})"
 msgstr "Αδυναμία εκκίνησης {1}: {2} (κωδικός εξόδου: {3})"
 
@@ -605,11 +605,11 @@ msgid "Export without ruling\n"
 "                                 The exported file has no paper ruling\n"
 msgstr ""
 
-#: ../src/core/control/latex/LatexGenerator.cpp:83
+#: ../src/core/control/latex/LatexGenerator.cpp:82
 msgid "Failed to find LaTeX generator program in PATH: {1}"
 msgstr ""
 
-#: ../src/core/control/latex/LatexGenerator.cpp:78
+#: ../src/core/control/latex/LatexGenerator.cpp:77
 msgid "Failed to find LaTeX generator program in PATH: {1}\n\n"
 "Since installation is detected within Flatpak, you need to install the Flatpak freedesktop Tex Live extension. For example, by running:\n\n"
 "$ flatpak install flathub org.freedesktop.Sdk.Extension.texlive"
