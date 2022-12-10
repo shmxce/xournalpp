@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-03 07:31+0000\n"
-"PO-Revision-Date: 2022-12-05 04:51\n"
+"POT-Creation-Date: 2022-12-10 10:23+0000\n"
+"PO-Revision-Date: 2022-12-10 10:25\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -290,11 +290,11 @@ msgstr "Nem sikerült eltávolítani a(z) {1} eszközt a(z) {2} eszköztár {3} 
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
 msgstr "Nem sikerült átnevezni az automatikusan mentett fájlt erről: „{1}” erre: „{2}”: {3}"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:95
+#: ../src/core/control/latex/LatexGenerator.cpp:90
 msgid "Could not save .tex file: {1}"
 msgstr "Nem sikerült elmenteni a .tex fájlt: {1}"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:110
+#: ../src/core/control/latex/LatexGenerator.cpp:105
 msgid "Could not start {1}: {2} (exit code: {3})"
 msgstr "A(z) {1} elindítása sikertelen: {2} (visszatérési érték: {3})"
 
@@ -615,11 +615,11 @@ msgid "Export without ruling\n"
 msgstr "Margó nélküli exportálás\n"
 "                                 Az exportált fájl papírmargó nélküli\n"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:83
+#: ../src/core/control/latex/LatexGenerator.cpp:82
 msgid "Failed to find LaTeX generator program in PATH: {1}"
 msgstr "Nem sikerült megtalálni a LaTeX-létrehozó programot a PATH helyen: {1}"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:78
+#: ../src/core/control/latex/LatexGenerator.cpp:77
 msgid "Failed to find LaTeX generator program in PATH: {1}\n\n"
 "Since installation is detected within Flatpak, you need to install the Flatpak freedesktop Tex Live extension. For example, by running:\n\n"
 "$ flatpak install flathub org.freedesktop.Sdk.Extension.texlive"
