@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-10 13:12+0000\n"
-"PO-Revision-Date: 2022-12-10 13:17\n"
+"PO-Revision-Date: 2022-12-11 09:52\n"
 "Last-Translator: \n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -183,7 +183,7 @@ msgstr "Kontur genişliğini değiştir"
 
 #: ../src/core/control/RecentManager.cpp:290
 msgid "Clear list"
-msgstr ""
+msgstr "Listeyi temizle"
 
 #: ../src/core/control/xojfile/LoadHandlerHelper.cpp:96
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
@@ -902,7 +902,7 @@ msgstr "Eklemeye uygun pdf sayfası yok. Dosyayı tekrar baştan açmanız gerek
 
 #: ../src/core/control/RecentManager.cpp:250
 msgid "No recent files"
-msgstr ""
+msgstr "Son kullanılan dosya yok"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:126
 msgid "Normal drawing"
