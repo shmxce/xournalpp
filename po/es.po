@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-10 13:12+0000\n"
-"PO-Revision-Date: 2022-12-12 19:21\n"
+"PO-Revision-Date: 2022-12-12 20:19\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1388,7 +1388,7 @@ msgstr "La configuración de barras de herramientas «{1}» es la predefinida. �
 
 #: ../src/core/control/Control.cpp:2265
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
-msgstr ""
+msgstr "No se pudo encontrar el archivo de fondo adjunto. Podría haber sido movido, renombrado o eliminado."
 
 #: ../src/core/control/Control.cpp:2268
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
