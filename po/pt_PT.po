@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-10 13:12+0000\n"
-"PO-Revision-Date: 2022-12-10 13:17\n"
+"PO-Revision-Date: 2022-12-16 18:12\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -184,7 +184,7 @@ msgstr "Alterar comprimento do traço"
 
 #: ../src/core/control/RecentManager.cpp:290
 msgid "Clear list"
-msgstr ""
+msgstr "Limpar lista"
 
 #: ../src/core/control/xojfile/LoadHandlerHelper.cpp:96
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
@@ -666,7 +666,7 @@ msgstr "Preencher"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:545
 msgid "Fill Opacity"
-msgstr ""
+msgstr "Opacidade do preenchimento"
 
 #: ../src/core/gui/dialog/SettingsDialog.cpp:302
 msgid "Filter input pressure. Multiply the pressure by the pressure multiplier. If less than the minimum, use the minimum pressure."
@@ -1798,15 +1798,15 @@ msgstr ""
 
 #: ../ui/latexSettings.glade:217
 msgid "%%XPP_TEXT_COLOR%%"
-msgstr ""
+msgstr "%%XPP_TEXT_COLOR%%"
 
 #: ../ui/latexSettings.glade:180
 msgid "%%XPP_TOOL_INPUT%%"
-msgstr ""
+msgstr "%%XPP_TOOL_INPUT%%"
 
 #: ../ui/settings.glade:5139
 msgid "%."
-msgstr ""
+msgstr "%."
 
 #: ../ui/settings.glade:563
 msgid "%a\t\tAbbreviated weekday name (e.g. Thu)\n"
@@ -1857,7 +1857,7 @@ msgstr "0.00"
 
 #: ../ui/settings.glade:4828
 msgid "0.20"
-msgstr ""
+msgstr "0.20"
 
 #: ../ui/settings.glade:1741
 msgid "1"
@@ -2195,7 +2195,7 @@ msgstr "Botão 2"
 
 #: ../ui/pageTemplate.glade:160
 msgid "Change"
-msgstr ""
+msgstr "Alterar"
 
 #: ../ui/latexSettings.glade:205
 msgid "Choose a global LaTeX template file"
@@ -2215,7 +2215,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2955
 msgid "Color"
-msgstr ""
+msgstr "Cor"
 
 #: ../ui/settings.glade:3010
 msgid "Colors"
@@ -2397,7 +2397,7 @@ msgstr "Duplicar"
 
 #: ../ui/main.glade:1242
 msgid "Duplicate Page"
-msgstr ""
+msgstr "Duplicar página"
 
 #: ../ui/main.glade:2952
 msgid "Edit (not implemented yet)"
@@ -2405,7 +2405,7 @@ msgstr "Editar (ainda não implementado)"
 
 #: ../ui/latexSettings.glade:606
 msgid "Editor settings"
-msgstr ""
+msgstr "Definições do editor"
 
 #: ../ui/settings.glade:2266
 msgid "Enable"
@@ -2486,11 +2486,11 @@ msgstr ""
 
 #: ../ui/main.glade:1788 ../ui/main.glade:1993
 msgid "Fi_ll"
-msgstr ""
+msgstr "Pre_encher"
 
 #: ../ui/main.glade:1798 ../ui/main.glade:2003
 msgid "Fill opacity"
-msgstr ""
+msgstr "Opacidade do preenchimento"
 
 #: ../ui/settings.glade:1228
 msgid "Finalize the stroke"
@@ -2510,7 +2510,7 @@ msgstr ""
 
 #: ../ui/latexSettings.glade:549
 msgid "Font: "
-msgstr ""
+msgstr "Tipo de letra: "
 
 #: ../ui/main.glade:577 ../ui/settings.glade:3631
 msgid "Fullscreen"
