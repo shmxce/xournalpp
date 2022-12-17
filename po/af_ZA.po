@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 13:12+0000\n"
-"PO-Revision-Date: 2022-12-10 13:17\n"
+"POT-Creation-Date: 2022-12-17 10:52+0000\n"
+"PO-Revision-Date: 2022-12-17 10:53\n"
 "Last-Translator: \n"
 "Language-Team: Afrikaans\n"
 "Language: af_ZA\n"
@@ -29,7 +29,7 @@ msgid "\n"
 msgstr "\n"
 "Wil U voortgaan?"
 
-#: ../src/core/control/Control.cpp:2278
+#: ../src/core/control/Control.cpp:2317
 msgid "\n"
 "Proposed replacement file: \"{1}\""
 msgstr ""
@@ -125,11 +125,11 @@ msgid "Audio folder not set or invalid! Recording won't work!\n"
 msgstr "Oudio lêer is nie gestel of is nie geldig nie! Opname sal nie werk nie!\n"
 "Stel asseblief die opname lêer onder \"Voorkeure > Oudio opname\""
 
-#: ../src/core/control/Control.cpp:251
+#: ../src/core/control/Control.cpp:255
 msgid "Autosave failed with an error: {1}"
 msgstr "Autosave het misluk met fout: {1}"
 
-#: ../src/core/control/Control.cpp:231
+#: ../src/core/control/Control.cpp:235
 msgid "Autosave renamed from {1} to {2}"
 msgstr "Autosave vernoem van {1} na {2}"
 
@@ -155,7 +155,7 @@ msgstr "Bring vorentoe"
 msgid "Bring to front"
 msgstr "Bring na vore"
 
-#: ../src/core/control/Control.cpp:2290 ../src/core/control/Control.cpp:2761
+#: ../src/core/control/Control.cpp:2329 ../src/core/control/Control.cpp:2800
 #: ../src/core/control/XournalMain.cpp:177
 msgid "Cancel"
 msgstr "Kanselleer"
@@ -284,7 +284,7 @@ msgstr "Kon nie werktuig item van Taakbalk {1} op posisie {2} verwyder nie"
 msgid "Could not remove tool item {1} from Toolbar {2} on position {3}"
 msgstr "Kon nie werktuig item {1} van Taakbalk {2} op posisie {3} verwyder nie"
 
-#: ../src/core/control/Control.cpp:242
+#: ../src/core/control/Control.cpp:246
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
 msgstr "Kon nie autosave lêer vernoem van \"{1}\" na \"{2}\": {3}"
 
@@ -367,7 +367,7 @@ msgstr "Verwyder hierdie laag"
 msgid "Delete this page"
 msgstr "Verwyder hierdie bladsy"
 
-#: ../src/core/control/Control.cpp:2758
+#: ../src/core/control/Control.cpp:2797
 msgid "Discard"
 msgstr "Gooi weg"
 
@@ -375,7 +375,7 @@ msgstr "Gooi weg"
 msgid "Display advanced export options"
 msgstr "Wys gevorderde uitvoer opsies"
 
-#: ../src/core/control/Control.cpp:2203
+#: ../src/core/control/Control.cpp:2242
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
@@ -387,7 +387,7 @@ msgstr "Moet nie Autosave lêers oop maak nie. Hulle sal oorskryf word!\n"
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr "Moet nie die agtergrond PDF oorskryf nie! Hierdie sal foute veroorsaak!"
 
-#: ../src/core/control/Control.cpp:2752
+#: ../src/core/control/Control.cpp:2791
 msgid "Document file was removed."
 msgstr "Dokument lêer was verwyder."
 
@@ -502,7 +502,7 @@ msgstr "Verwyder penslag"
 msgid "Eraser"
 msgstr "Uitveër"
 
-#: ../src/core/control/Control.cpp:2498
+#: ../src/core/control/Control.cpp:2537
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr "Fout annoteer PDF lêer \"{1}\"\n"
@@ -512,7 +512,7 @@ msgstr "Fout annoteer PDF lêer \"{1}\"\n"
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
 msgstr "Fout terwyl glade lêer gelaai was \"{1}\" (probeer om \"{2}\" te laai)"
 
-#: ../src/core/control/Control.cpp:2321
+#: ../src/core/control/Control.cpp:2360
 msgid "Error opening file \"{1}\""
 msgstr "Fout tydens oopmaak van lêer \"{1}\""
 
@@ -836,7 +836,7 @@ msgstr "Laag {1}"
 msgid "Layerstack Preview"
 msgstr "Laag-stapel Voorskou"
 
-#: ../src/core/gui/PageView.cpp:872
+#: ../src/core/gui/PageView.cpp:876
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:28
 msgid "Loading..."
@@ -895,7 +895,7 @@ msgstr "Geen toestel nie"
 msgid "No pages to export!"
 msgstr "Geen bladsye om uit te voer nie!"
 
-#: ../src/core/control/Control.cpp:1433
+#: ../src/core/control/Control.cpp:1472
 msgid "No pdf pages available to append. You may need to reopen the document first."
 msgstr "Geen pdf blaai is beskikbaar om aan te heg nie. Jy moet dalk die dokument eers weer oop maak."
 
@@ -1051,7 +1051,7 @@ msgstr "Druk"
 msgid "Record Audio / Stop Recording"
 msgstr "Neem klank op / Stop klank opneming"
 
-#: ../src/core/control/Control.cpp:993
+#: ../src/core/control/Control.cpp:989
 msgid "Recorder could not be started."
 msgstr "Opnemer kon nie begin word nie."
 
@@ -1064,7 +1064,7 @@ msgstr "Doen weer"
 msgid "Redo: "
 msgstr "Doen weer: "
 
-#: ../src/core/control/Control.cpp:2289
+#: ../src/core/control/Control.cpp:2328
 msgid "Remove PDF Background"
 msgstr "Verwyder PDF agtergrond"
 
@@ -1116,16 +1116,16 @@ msgstr "SVG grafieke"
 msgid "Sample LaTeX file generated successfully."
 msgstr "Voorbeeld LaTex lêer suksesvol gegenereer."
 
-#: ../src/core/control/Control.cpp:2753 ../src/core/control/jobs/SaveJob.cpp:25
+#: ../src/core/control/Control.cpp:2792 ../src/core/control/jobs/SaveJob.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:384
 msgid "Save"
 msgstr "Save"
 
-#: ../src/core/control/Control.cpp:2753
+#: ../src/core/control/Control.cpp:2792
 msgid "Save As..."
 msgstr "Save As..."
 
-#: ../src/core/control/Control.cpp:2587
+#: ../src/core/control/Control.cpp:2626
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:85
 msgid "Save File"
 msgstr "Save lêer"
@@ -1204,7 +1204,7 @@ msgstr "Kies Gebied"
 msgid "Select Text from pdf"
 msgstr "Kies Teks van pdf"
 
-#: ../src/core/control/Control.cpp:2288
+#: ../src/core/control/Control.cpp:2327
 msgid "Select another PDF"
 msgstr "Kies 'n ander PDF"
 
@@ -1378,15 +1378,15 @@ msgstr "Teks nie gevind nie"
 msgid "Text not found, searched on all pages"
 msgstr "Teks nie gevind nie, gesoek op alle blaaie"
 
-#: ../src/core/control/Control.cpp:1213
+#: ../src/core/control/Control.cpp:1248
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
 msgstr "Die Nutsbalk-konfigurasie \"{1}\" is voorafgekies, wil jy 'n afskrif maak om te verander?"
 
-#: ../src/core/control/Control.cpp:2265
+#: ../src/core/control/Control.cpp:2304
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2268
+#: ../src/core/control/Control.cpp:2307
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
 "It was last seen at: \"{2}\""
 msgstr ""
@@ -1395,7 +1395,7 @@ msgstr ""
 msgid "The check for overwriting the background failed with:\n"
 msgstr "Die kontrole vir die oorskryf van die agtergrond het misluk met:\n"
 
-#: ../src/core/control/Control.cpp:2329
+#: ../src/core/control/Control.cpp:2368
 msgid "The file being loaded has a file format version newer than the one currently supported by this version of Xournal++, so it may not load properly. Open anyways?"
 msgstr "Die lêer wat gelaai word het 'n lêer formaat wat nuwer is as die een tans ondersteun deur hierdie weergawe van Xournal++, so dit mag dalk nie reg laai nie. Maak in elk geval oop?"
 
@@ -1439,7 +1439,7 @@ msgstr "Daar was 'n fout met die vertoning van hulp: {1}"
 msgid "Thick"
 msgstr "Dik"
 
-#: ../src/core/control/Control.cpp:2752
+#: ../src/core/control/Control.cpp:2791
 msgid "This document is not saved yet."
 msgstr "Hierdie dokument is nog nie gestoor nie."
 
@@ -1471,11 +1471,11 @@ msgstr "Probeer nood om die huidige oop dokument te stoor…"
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr "Kan nie globale templaat by {1} oop maak nie. Bestaan dit?"
 
-#: ../src/core/gui/PageView.cpp:433
+#: ../src/core/gui/PageView.cpp:437
 msgid "Unable to play audio recording {1}"
 msgstr "Kan nie oudio opname speel nie {1}"
 
-#: ../src/core/control/Control.cpp:1447
+#: ../src/core/control/Control.cpp:1486
 msgid "Unable to retrieve pdf page."
 msgstr "Kan nie pdf bladsy haal nie."
 
@@ -1524,7 +1524,7 @@ msgstr ""
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2644
+#: ../src/core/control/Control.cpp:2683
 msgid "Unsaved Document"
 msgstr ""
 
@@ -1532,7 +1532,7 @@ msgstr ""
 msgid "Unsupported graphics format: "
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2286
+#: ../src/core/control/Control.cpp:2325
 msgid "Use proposed PDF"
 msgstr ""
 
@@ -1584,7 +1584,7 @@ msgstr "Xournal lêers"
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2593
+#: ../src/core/control/Control.cpp:2632
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal++ files"
 msgstr ""
@@ -1629,7 +1629,7 @@ msgstr "Zoem uit"
 msgid "Zoom to 100%"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2587
+#: ../src/core/control/Control.cpp:2626
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:15
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
@@ -1642,7 +1642,7 @@ msgstr ""
 msgid "_Open"
 msgstr "_Maak oop"
 
-#: ../src/core/control/Control.cpp:2588
+#: ../src/core/control/Control.cpp:2627
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:86
 msgid "_Save"
@@ -1685,7 +1685,7 @@ msgstr "elemente"
 msgid "eraser"
 msgstr "uitveër"
 
-#: ../src/core/control/Control.cpp:2217
+#: ../src/core/control/Control.cpp:2256
 msgid "file: {1}"
 msgstr "lêer: {1}"
 
