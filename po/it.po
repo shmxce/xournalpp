@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-19 00:36+0000\n"
-"PO-Revision-Date: 2022-12-19 00:37\n"
+"PO-Revision-Date: 2022-12-19 16:37\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -64,7 +64,7 @@ msgstr "<span foreground='red' size='x-large'>Manca il file UI necessario:\n"
 
 #: ../src/core/gui/PageView.cpp:980
 msgid "Add missing page"
-msgstr ""
+msgstr "Aggiungi pagina mancante"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:475
 msgid "Add/Edit TeX"
@@ -786,11 +786,11 @@ msgstr "Inserisci una copia della pagina corrente sotto"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:95
 msgid "Insert after current page"
-msgstr ""
+msgstr "Inserisci dopo la pagina attuale"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:96
 msgid "Insert at end"
-msgstr ""
+msgstr "Inserisci alla fine"
 
 #: ../src/core/undo/InsertUndoAction.cpp:82
 msgid "Insert elements"
@@ -1159,7 +1159,7 @@ msgstr "Scala"
 
 #: ../src/core/gui/PageView.cpp:978
 msgid "Scroll to page {1}"
-msgstr ""
+msgstr "Scorri alla pagina {1}"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:403
 msgid "Search"
