@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-17 10:52+0000\n"
-"PO-Revision-Date: 2022-12-17 10:53\n"
+"POT-Creation-Date: 2022-12-19 00:36+0000\n"
+"PO-Revision-Date: 2022-12-19 00:37\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -61,6 +61,10 @@ msgstr "<span foreground='red' size='x-large'>A szükséges UI fájl hiányzik:\
 "  Nem relatív\n"
 "  A munkakönyvtárban nem található\n"
 "  A {2} könyvtárban nem található"
+
+#: ../src/core/gui/PageView.cpp:980
+msgid "Add missing page"
+msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:475
 msgid "Add/Edit TeX"
@@ -159,6 +163,7 @@ msgstr "Előrehozás"
 
 #: ../src/core/control/Control.cpp:2329 ../src/core/control/Control.cpp:2800
 #: ../src/core/control/XournalMain.cpp:177
+#: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
 msgstr "Mégse"
 
@@ -190,7 +195,7 @@ msgstr "Lista törlése"
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
 msgstr "A(z) „{1}” szín ismeretlen (nincs definiálva az alapértelmezett színlistában)!"
 
-#: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:236
+#: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:169
 msgid "Contents"
 msgstr "Tartalom"
 
@@ -401,8 +406,8 @@ msgstr "A dokumentum hibás (nem találhatók oldalak a fájlban)"
 msgid "Document is not complete (maybe the end is cut off?)"
 msgstr "A dokumentum nem teljes (talán a vége le lett vágva?)"
 
-#: ../src/core/model/Document.cpp:296 ../src/core/model/Document.cpp:305
-#: ../src/core/model/Document.cpp:308
+#: ../src/core/model/Document.cpp:298 ../src/core/model/Document.cpp:307
+#: ../src/core/model/Document.cpp:310
 msgid "Document not loaded! ({1}), {2}"
 msgstr "A dokumentum nincs betöltve! ({1}), {2}"
 
@@ -778,6 +783,14 @@ msgstr "Jelenlegi réteg másolatának beillesztése alulra"
 msgid "Insert a copy of the current page below"
 msgstr "Jelenlegi oldal másolatának beillesztése alulra"
 
+#: ../src/core/gui/sidebar/Sidebar.cpp:95
+msgid "Insert after current page"
+msgstr ""
+
+#: ../src/core/gui/sidebar/Sidebar.cpp:96
+msgid "Insert at end"
+msgstr ""
+
 #: ../src/core/undo/InsertUndoAction.cpp:82
 msgid "Insert elements"
 msgstr "Elemek beszúrása"
@@ -839,7 +852,7 @@ msgstr "{1}. réteg"
 msgid "Layerstack Preview"
 msgstr "Egymásra helyezett rétegek előnézete"
 
-#: ../src/core/gui/PageView.cpp:876
+#: ../src/core/gui/PageView.cpp:915
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:28
 msgid "Loading..."
@@ -1142,6 +1155,10 @@ msgstr "Hiba történt a fájl mentése közben: {1}"
 #: ../src/core/undo/ScaleUndoAction.cpp:60
 msgid "Scale"
 msgstr "Méretezés"
+
+#: ../src/core/gui/PageView.cpp:978
+msgid "Scroll to page {1}"
+msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:403
 msgid "Search"
@@ -1476,7 +1493,7 @@ msgstr "Megkíséreljük menteni az éppen megnyitott dokumentumot…"
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr "Nem lehet megnyitni a globális sablonfájlt itt: {1}. Létezik?"
 
-#: ../src/core/gui/PageView.cpp:437
+#: ../src/core/gui/PageView.cpp:453
 msgid "Unable to play audio recording {1}"
 msgstr "Nem sikerült a hangfelvétel lejátszása: {1}"
 
@@ -1609,7 +1626,7 @@ msgstr "Nincsenek PDF-oldalak, amelyek közül választhat. A művelet megszakí
 msgid "You're using \"{1}/{2}\" branch. Send Bugreport will direct you to this repo's issue tracker."
 msgstr "Ön a(z) „{1}/{2}” ágat használja. A hibajelentés küldése a lerakat hibakövetőjéhez irányítja."
 
-#: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:87
+#: ../src/core/gui/sidebar/Sidebar.cpp:86
 msgid "Your current document does not contain PDF Page no {1}\n"
 "Would you like to insert this page?\n\n"
 "Tip: You can select Journal → Paper Background → PDF Background to insert a PDF page."
