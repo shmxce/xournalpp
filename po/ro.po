@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-19 00:36+0000\n"
-"PO-Revision-Date: 2022-12-19 00:37\n"
+"PO-Revision-Date: 2022-12-19 15:33\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -64,7 +64,7 @@ msgstr "<span foreground='red' size='x-large'>Lipsește fișierul UI necesar:\n"
 
 #: ../src/core/gui/PageView.cpp:980
 msgid "Add missing page"
-msgstr ""
+msgstr "Adaugă pagina lipsă"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:475
 msgid "Add/Edit TeX"
@@ -786,11 +786,11 @@ msgstr "Introdu dedesubt o copie a acestei pagini"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:95
 msgid "Insert after current page"
-msgstr ""
+msgstr "Introdu după pagina actuală"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:96
 msgid "Insert at end"
-msgstr ""
+msgstr "Introdu la sfârșit"
 
 #: ../src/core/undo/InsertUndoAction.cpp:82
 msgid "Insert elements"
