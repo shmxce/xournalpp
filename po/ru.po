@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-17 10:52+0000\n"
-"PO-Revision-Date: 2022-12-17 10:53\n"
+"POT-Creation-Date: 2022-12-19 00:36+0000\n"
+"PO-Revision-Date: 2022-12-19 00:37\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -61,6 +61,10 @@ msgstr "<span foreground='red' size='x-large'>Отсутствует необх�
 "  Не относительный\n"
 "  Не в рабочей директории\n"
 "  Не в {2}"
+
+#: ../src/core/gui/PageView.cpp:980
+msgid "Add missing page"
+msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:475
 msgid "Add/Edit TeX"
@@ -159,6 +163,7 @@ msgstr "На передний план"
 
 #: ../src/core/control/Control.cpp:2329 ../src/core/control/Control.cpp:2800
 #: ../src/core/control/XournalMain.cpp:177
+#: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
 msgstr "Отмена"
 
@@ -190,7 +195,7 @@ msgstr ""
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
 msgstr "Неизвестный цвет «{1}» (не определен в списке цветов по умолчанию)!"
 
-#: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:236
+#: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:169
 msgid "Contents"
 msgstr "Содержание"
 
@@ -401,8 +406,8 @@ msgstr "Документ повреждён (в файле не найдено �
 msgid "Document is not complete (maybe the end is cut off?)"
 msgstr "Документ не завершён (его конец, вероятно, обрезан)"
 
-#: ../src/core/model/Document.cpp:296 ../src/core/model/Document.cpp:305
-#: ../src/core/model/Document.cpp:308
+#: ../src/core/model/Document.cpp:298 ../src/core/model/Document.cpp:307
+#: ../src/core/model/Document.cpp:310
 msgid "Document not loaded! ({1}), {2}"
 msgstr "Документ не загружен! ({1}), {2}"
 
@@ -777,6 +782,14 @@ msgstr "Вставить копию текущего слоя ниже"
 msgid "Insert a copy of the current page below"
 msgstr "Вставить копию текущей страницы ниже"
 
+#: ../src/core/gui/sidebar/Sidebar.cpp:95
+msgid "Insert after current page"
+msgstr ""
+
+#: ../src/core/gui/sidebar/Sidebar.cpp:96
+msgid "Insert at end"
+msgstr ""
+
 #: ../src/core/undo/InsertUndoAction.cpp:82
 msgid "Insert elements"
 msgstr "Вставить элементы"
@@ -838,7 +851,7 @@ msgstr "Слой {1}"
 msgid "Layerstack Preview"
 msgstr "Предпросмотр стопки слоёв"
 
-#: ../src/core/gui/PageView.cpp:876
+#: ../src/core/gui/PageView.cpp:915
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:28
 msgid "Loading..."
@@ -1140,6 +1153,10 @@ msgstr "Ошибка сохранения файла: {1}"
 #: ../src/core/undo/ScaleUndoAction.cpp:60
 msgid "Scale"
 msgstr "Маштабирование"
+
+#: ../src/core/gui/PageView.cpp:978
+msgid "Scroll to page {1}"
+msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:403
 msgid "Search"
@@ -1473,7 +1490,7 @@ msgstr "Попытка аварийного сохранения текущег�
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr "Не удается открыть глобальный файл шаблона из {1}. Существует ли он?"
 
-#: ../src/core/gui/PageView.cpp:437
+#: ../src/core/gui/PageView.cpp:453
 msgid "Unable to play audio recording {1}"
 msgstr "Не удалось воспроизвести аудиозапись {1}"
 
@@ -1606,7 +1623,7 @@ msgstr "У вас нет PDF страниц для выбора. Отмена о
 msgid "You're using \"{1}/{2}\" branch. Send Bugreport will direct you to this repo's issue tracker."
 msgstr "Вы используете ветку \"{1}/{2}\". «Отправить отчёт об ошибке» перенаправит вас на баг трекер этого репозитория."
 
-#: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:87
+#: ../src/core/gui/sidebar/Sidebar.cpp:86
 msgid "Your current document does not contain PDF Page no {1}\n"
 "Would you like to insert this page?\n\n"
 "Tip: You can select Journal → Paper Background → PDF Background to insert a PDF page."
