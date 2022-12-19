@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-17 10:52+0000\n"
-"PO-Revision-Date: 2022-12-17 10:53\n"
+"POT-Creation-Date: 2022-12-19 00:36+0000\n"
+"PO-Revision-Date: 2022-12-19 00:37\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -61,6 +61,10 @@ msgstr "<span foreground='red' size='x-large'>Faltando o arquivo necessário da 
 "  Nem relativa\n"
 "  Nem no Diretório de Trabalho\n"
 "  Nem em {2}"
+
+#: ../src/core/gui/PageView.cpp:980
+msgid "Add missing page"
+msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:475
 msgid "Add/Edit TeX"
@@ -159,6 +163,7 @@ msgstr "Trazer para frente"
 
 #: ../src/core/control/Control.cpp:2329 ../src/core/control/Control.cpp:2800
 #: ../src/core/control/XournalMain.cpp:177
+#: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
 msgstr "Cancelar"
 
@@ -190,7 +195,7 @@ msgstr ""
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
 msgstr "Cor \"{1}\" desconhecida (não definida na lista padrão de cores)!"
 
-#: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:236
+#: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:169
 msgid "Contents"
 msgstr "Conteúdo"
 
@@ -401,8 +406,8 @@ msgstr "O documento está corrompido (nenhuma página encontrada no arquivo)"
 msgid "Document is not complete (maybe the end is cut off?)"
 msgstr "Documento não está completo (talvez o final esteja cortado?)"
 
-#: ../src/core/model/Document.cpp:296 ../src/core/model/Document.cpp:305
-#: ../src/core/model/Document.cpp:308
+#: ../src/core/model/Document.cpp:298 ../src/core/model/Document.cpp:307
+#: ../src/core/model/Document.cpp:310
 msgid "Document not loaded! ({1}), {2}"
 msgstr "Documento não foi carregado! ({1}), {2}"
 
@@ -777,6 +782,14 @@ msgstr "Inserir uma cópia da camada atual abaixo"
 msgid "Insert a copy of the current page below"
 msgstr "Inserir uma cópia da página atual abaixo"
 
+#: ../src/core/gui/sidebar/Sidebar.cpp:95
+msgid "Insert after current page"
+msgstr ""
+
+#: ../src/core/gui/sidebar/Sidebar.cpp:96
+msgid "Insert at end"
+msgstr ""
+
 #: ../src/core/undo/InsertUndoAction.cpp:82
 msgid "Insert elements"
 msgstr "Inserir elementos"
@@ -838,7 +851,7 @@ msgstr "Camada {1}"
 msgid "Layerstack Preview"
 msgstr "Pré-visualização da pilha de camadas"
 
-#: ../src/core/gui/PageView.cpp:876
+#: ../src/core/gui/PageView.cpp:915
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:28
 msgid "Loading..."
@@ -1141,6 +1154,10 @@ msgstr "Erro ao salvar arquivo: {1}"
 #: ../src/core/undo/ScaleUndoAction.cpp:60
 msgid "Scale"
 msgstr "Escala"
+
+#: ../src/core/gui/PageView.cpp:978
+msgid "Scroll to page {1}"
+msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:403
 msgid "Search"
@@ -1474,7 +1491,7 @@ msgstr "Tentando realizar o salvamento de emergência para o atual documento…"
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr "Não é possível abrir o arquivo de modelo global em {1}. O arquivo existe?"
 
-#: ../src/core/gui/PageView.cpp:437
+#: ../src/core/gui/PageView.cpp:453
 msgid "Unable to play audio recording {1}"
 msgstr "Não é possível reproduzir a gravação de áudio {1}"
 
@@ -1607,7 +1624,7 @@ msgstr "Você não tem nenhuma página PDF para selecionar. Cancelar operação.
 msgid "You're using \"{1}/{2}\" branch. Send Bugreport will direct you to this repo's issue tracker."
 msgstr "Você está usando a ramificação {1}/{2}. Enviar relatório de erro irá direcioná-lo para o rastreador de problemas deste repositório."
 
-#: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:87
+#: ../src/core/gui/sidebar/Sidebar.cpp:86
 msgid "Your current document does not contain PDF Page no {1}\n"
 "Would you like to insert this page?\n\n"
 "Tip: You can select Journal → Paper Background → PDF Background to insert a PDF page."
