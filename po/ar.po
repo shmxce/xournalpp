@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-12-19 00:36+0000\n"
-"PO-Revision-Date: 2022-12-19 00:37\n"
+"PO-Revision-Date: 2022-12-25 23:18\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -64,7 +64,7 @@ msgstr "<span foreground='red' size='x-large'>لم يتم العثور على م
 
 #: ../src/core/gui/PageView.cpp:980
 msgid "Add missing page"
-msgstr ""
+msgstr "ضافة الصفحة المفقودة"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:475
 msgid "Add/Edit TeX"
@@ -189,7 +189,7 @@ msgstr "تغيير عرض الخط"
 
 #: ../src/core/control/RecentManager.cpp:290
 msgid "Clear list"
-msgstr ""
+msgstr "مسح القائمة"
 
 #: ../src/core/control/xojfile/LoadHandlerHelper.cpp:96
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
@@ -784,11 +784,11 @@ msgstr "إدراج نسخة من الصفحة الحالية أدناه"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:95
 msgid "Insert after current page"
-msgstr ""
+msgstr "إدراج بعد الصفحة الحالية"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:96
 msgid "Insert at end"
-msgstr ""
+msgstr "إدراج في النهاية"
 
 #: ../src/core/undo/InsertUndoAction.cpp:82
 msgid "Insert elements"
@@ -916,7 +916,7 @@ msgstr "لا توجد صفحات PDF متاحة لإضافتها. قد تحتا�
 
 #: ../src/core/control/RecentManager.cpp:250
 msgid "No recent files"
-msgstr ""
+msgstr "لا توجد ملفات حديثة"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:126
 msgid "Normal drawing"
@@ -1157,7 +1157,7 @@ msgstr "تحجيم"
 
 #: ../src/core/gui/PageView.cpp:978
 msgid "Scroll to page {1}"
-msgstr ""
+msgstr "مرر إلى الصفحة {1}"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:403
 msgid "Search"
@@ -2465,7 +2465,7 @@ msgstr "تكرار"
 
 #: ../ui/main.glade:1242
 msgid "Duplicate Page"
-msgstr ""
+msgstr "تكرار الصفحة"
 
 #: ../ui/main.glade:2952
 msgid "Edit (not implemented yet)"
@@ -2868,11 +2868,11 @@ msgstr "تحريك لأسفل"
 
 #: ../ui/main.glade:490
 msgid "Move Selection Layer Down"
-msgstr ""
+msgstr "نقل طبقة التحديد لأسفل"
 
 #: ../ui/main.glade:480
 msgid "Move Selection Layer Up"
-msgstr ""
+msgstr "نقل طبقة التحديد لأسفل"
 
 #: ../ui/main.glade:2854 ../ui/main.glade:2929
 msgid "Move Up"
