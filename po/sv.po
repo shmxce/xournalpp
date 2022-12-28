@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-19 00:36+0000\n"
-"PO-Revision-Date: 2022-12-19 00:37\n"
+"POT-Creation-Date: 2022-12-28 21:28+0000\n"
+"PO-Revision-Date: 2022-12-28 21:31\n"
 "Last-Translator: \n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
@@ -29,7 +29,7 @@ msgid "\n"
 msgstr "\n"
 "Vill du fortsätta?"
 
-#: ../src/core/control/Control.cpp:2317
+#: ../src/core/control/Control.cpp:2303
 msgid "\n"
 "Proposed replacement file: \"{1}\""
 msgstr ""
@@ -159,7 +159,7 @@ msgstr "Skicka framåt"
 msgid "Bring to front"
 msgstr "Lägg längst fram"
 
-#: ../src/core/control/Control.cpp:2329 ../src/core/control/Control.cpp:2800
+#: ../src/core/control/Control.cpp:2315 ../src/core/control/Control.cpp:2786
 #: ../src/core/control/XournalMain.cpp:177
 #: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
@@ -369,7 +369,7 @@ msgstr "Ta bort detta lager"
 msgid "Delete this page"
 msgstr "Ta bort denna sida"
 
-#: ../src/core/control/Control.cpp:2797
+#: ../src/core/control/Control.cpp:2783
 msgid "Discard"
 msgstr "Släng"
 
@@ -377,7 +377,7 @@ msgstr "Släng"
 msgid "Display advanced export options"
 msgstr "Visa avancerade exportalternativ"
 
-#: ../src/core/control/Control.cpp:2242
+#: ../src/core/control/Control.cpp:2228
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
@@ -387,7 +387,7 @@ msgstr ""
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2791
+#: ../src/core/control/Control.cpp:2777
 msgid "Document file was removed."
 msgstr ""
 
@@ -502,7 +502,7 @@ msgstr "Sudda streck"
 msgid "Eraser"
 msgstr "Radergummi"
 
-#: ../src/core/control/Control.cpp:2537
+#: ../src/core/control/Control.cpp:2523
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr "Fel vid annotering av PDF-fil \"{1}\"\n"
@@ -512,7 +512,7 @@ msgstr "Fel vid annotering av PDF-fil \"{1}\"\n"
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2360
+#: ../src/core/control/Control.cpp:2346
 msgid "Error opening file \"{1}\""
 msgstr "Fel vid öppning av fil \"{1}\""
 
@@ -892,7 +892,7 @@ msgstr "Ingen enhet"
 msgid "No pages to export!"
 msgstr "Inga sidor att exportera!"
 
-#: ../src/core/control/Control.cpp:1472
+#: ../src/core/control/Control.cpp:1458
 msgid "No pdf pages available to append. You may need to reopen the document first."
 msgstr ""
 
@@ -1047,7 +1047,7 @@ msgstr "Skriv ut"
 msgid "Record Audio / Stop Recording"
 msgstr "Spela in ljud / stoppa inspelning"
 
-#: ../src/core/control/Control.cpp:989
+#: ../src/core/control/Control.cpp:990
 msgid "Recorder could not be started."
 msgstr ""
 
@@ -1060,7 +1060,7 @@ msgstr "Gör om"
 msgid "Redo: "
 msgstr "Gör om: "
 
-#: ../src/core/control/Control.cpp:2328
+#: ../src/core/control/Control.cpp:2314
 msgid "Remove PDF Background"
 msgstr "Ta bort PDF-bakgrund"
 
@@ -1112,16 +1112,16 @@ msgstr "SVG-grafik"
 msgid "Sample LaTeX file generated successfully."
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2792 ../src/core/control/jobs/SaveJob.cpp:25
+#: ../src/core/control/Control.cpp:2778 ../src/core/control/jobs/SaveJob.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:384
 msgid "Save"
 msgstr "Spara"
 
-#: ../src/core/control/Control.cpp:2792
+#: ../src/core/control/Control.cpp:2778
 msgid "Save As..."
 msgstr "Spara som..."
 
-#: ../src/core/control/Control.cpp:2626
+#: ../src/core/control/Control.cpp:2612
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:85
 msgid "Save File"
 msgstr "Spara fil"
@@ -1204,7 +1204,7 @@ msgstr "Markera region"
 msgid "Select Text from pdf"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2327
+#: ../src/core/control/Control.cpp:2313
 msgid "Select another PDF"
 msgstr "Välj en annan PDF"
 
@@ -1373,15 +1373,15 @@ msgstr "Text hittades inte"
 msgid "Text not found, searched on all pages"
 msgstr "Text hittades inte, sökte på alla sidor"
 
-#: ../src/core/control/Control.cpp:1248
+#: ../src/core/control/Control.cpp:1234
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2304
+#: ../src/core/control/Control.cpp:2290
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2307
+#: ../src/core/control/Control.cpp:2293
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
 "It was last seen at: \"{2}\""
 msgstr ""
@@ -1390,7 +1390,7 @@ msgstr ""
 msgid "The check for overwriting the background failed with:\n"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2368
+#: ../src/core/control/Control.cpp:2354
 msgid "The file being loaded has a file format version newer than the one currently supported by this version of Xournal++, so it may not load properly. Open anyways?"
 msgstr ""
 
@@ -1434,7 +1434,7 @@ msgstr "Det gick inte att visa hjälp: {1}"
 msgid "Thick"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2791
+#: ../src/core/control/Control.cpp:2777
 msgid "This document is not saved yet."
 msgstr "Detta dokument har inte sparats ännu."
 
@@ -1470,7 +1470,7 @@ msgstr ""
 msgid "Unable to play audio recording {1}"
 msgstr "Det gick inte att spela upp ljudinspelningen {1}"
 
-#: ../src/core/control/Control.cpp:1486
+#: ../src/core/control/Control.cpp:1472
 msgid "Unable to retrieve pdf page."
 msgstr "Det gick inte att hämta PDF-sidan."
 
@@ -1519,7 +1519,7 @@ msgstr ""
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2683
+#: ../src/core/control/Control.cpp:2669
 msgid "Unsaved Document"
 msgstr "Osparat dokument"
 
@@ -1527,7 +1527,7 @@ msgstr "Osparat dokument"
 msgid "Unsupported graphics format: "
 msgstr "Grafikformatet stöds inte: "
 
-#: ../src/core/control/Control.cpp:2325
+#: ../src/core/control/Control.cpp:2311
 msgid "Use proposed PDF"
 msgstr ""
 
@@ -1579,7 +1579,7 @@ msgstr "Xournal-filer"
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2632
+#: ../src/core/control/Control.cpp:2618
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal++ files"
 msgstr "Xournal++-filer"
@@ -1624,7 +1624,7 @@ msgstr "Zooma ut"
 msgid "Zoom to 100%"
 msgstr "Zooma till 100%"
 
-#: ../src/core/control/Control.cpp:2626
+#: ../src/core/control/Control.cpp:2612
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:15
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
@@ -1637,7 +1637,7 @@ msgstr "_Avbryt"
 msgid "_Open"
 msgstr "_Öppna"
 
-#: ../src/core/control/Control.cpp:2627
+#: ../src/core/control/Control.cpp:2613
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:86
 msgid "_Save"
@@ -1680,7 +1680,7 @@ msgstr ""
 msgid "eraser"
 msgstr "suddgummi"
 
-#: ../src/core/control/Control.cpp:2256
+#: ../src/core/control/Control.cpp:2242
 msgid "file: {1}"
 msgstr "fil: {1}"
 
