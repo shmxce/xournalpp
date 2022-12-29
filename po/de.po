@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-28 21:28+0000\n"
-"PO-Revision-Date: 2022-12-28 21:31\n"
+"POT-Creation-Date: 2022-12-29 14:59+0000\n"
+"PO-Revision-Date: 2022-12-29 15:01\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -161,7 +161,7 @@ msgstr "Eine Ebene nach vorne"
 msgid "Bring to front"
 msgstr "In den Vordergrund"
 
-#: ../src/core/control/Control.cpp:2315 ../src/core/control/Control.cpp:2786
+#: ../src/core/control/Control.cpp:2315 ../src/core/control/Control.cpp:2792
 #: ../src/core/control/XournalMain.cpp:177
 #: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
@@ -374,7 +374,7 @@ msgstr "Diese Ebene löschen"
 msgid "Delete this page"
 msgstr "Diese Seite löschen"
 
-#: ../src/core/control/Control.cpp:2783
+#: ../src/core/control/Control.cpp:2789
 msgid "Discard"
 msgstr "Verwerfen"
 
@@ -394,7 +394,7 @@ msgstr "Öffnen sie keine automatisch gespeicherten Dateien. Diese werden ansons
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr "Das Hintergrund PDF darf nicht überschrieben werden! Dies verursacht Fehler!"
 
-#: ../src/core/control/Control.cpp:2777
+#: ../src/core/control/Control.cpp:2783
 msgid "Document file was removed."
 msgstr "Datei des Dokuments wurde entfernt."
 
@@ -509,7 +509,7 @@ msgstr "Linie löschen"
 msgid "Eraser"
 msgstr "Radierer"
 
-#: ../src/core/control/Control.cpp:2523
+#: ../src/core/control/Control.cpp:2519
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr "Fehler beim Öffnen des PDFs \"{1}\"\n"
@@ -1134,16 +1134,16 @@ msgstr "SVG Bild"
 msgid "Sample LaTeX file generated successfully."
 msgstr "Beispiel-LaTeX-Datei erfolgreich erzeugt."
 
-#: ../src/core/control/Control.cpp:2778 ../src/core/control/jobs/SaveJob.cpp:25
+#: ../src/core/control/Control.cpp:2784 ../src/core/control/jobs/SaveJob.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:384
 msgid "Save"
 msgstr "Speichern"
 
-#: ../src/core/control/Control.cpp:2778
+#: ../src/core/control/Control.cpp:2784
 msgid "Save As..."
 msgstr "Speichern unter..."
 
-#: ../src/core/control/Control.cpp:2612
+#: ../src/core/control/Control.cpp:2618
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:85
 msgid "Save File"
 msgstr "Speichere Datei"
@@ -1462,7 +1462,7 @@ msgstr "Es ist ein Fehler aufgetreten beim Anzeigen der Hilfe: {1}"
 msgid "Thick"
 msgstr "Dick"
 
-#: ../src/core/control/Control.cpp:2777
+#: ../src/core/control/Control.cpp:2783
 msgid "This document is not saved yet."
 msgstr "Dieses Dokument wurde noch nicht gespeichert."
 
@@ -1547,7 +1547,7 @@ msgstr "Unbekannter Linientyp: \"{1}\", verwende Stift"
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr "Unbekannter Linientyp: \"{1}\", verwende Stift"
 
-#: ../src/core/control/Control.cpp:2669
+#: ../src/core/control/Control.cpp:2675
 msgid "Unsaved Document"
 msgstr "Ungespeichertes Dokument"
 
@@ -1607,7 +1607,7 @@ msgstr "Xournal Dateien"
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr "Xournal++ ist das letzte mal abgestürzt. Soll die Datei wiederhergestellt werden?"
 
-#: ../src/core/control/Control.cpp:2618
+#: ../src/core/control/Control.cpp:2624
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal++ files"
 msgstr "Xournal++ Dateien"
@@ -1655,7 +1655,7 @@ msgstr "Herauszoomen"
 msgid "Zoom to 100%"
 msgstr "Zoom auf 100%"
 
-#: ../src/core/control/Control.cpp:2612
+#: ../src/core/control/Control.cpp:2618
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:15
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
@@ -1668,7 +1668,7 @@ msgstr "_Abbrechen"
 msgid "_Open"
 msgstr "Ö_ffnen"
 
-#: ../src/core/control/Control.cpp:2613
+#: ../src/core/control/Control.cpp:2619
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:86
 msgid "_Save"
