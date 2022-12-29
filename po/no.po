@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-28 21:28+0000\n"
-"PO-Revision-Date: 2022-12-28 21:31\n"
+"POT-Creation-Date: 2022-12-29 14:59+0000\n"
+"PO-Revision-Date: 2022-12-29 15:02\n"
 "Last-Translator: \n"
 "Language-Team: Norwegian\n"
 "Language: no_NO\n"
@@ -154,7 +154,7 @@ msgstr "Flytt framover"
 msgid "Bring to front"
 msgstr "Flytt forrest"
 
-#: ../src/core/control/Control.cpp:2315 ../src/core/control/Control.cpp:2786
+#: ../src/core/control/Control.cpp:2315 ../src/core/control/Control.cpp:2792
 #: ../src/core/control/XournalMain.cpp:177
 #: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
@@ -363,7 +363,7 @@ msgstr "Slett lag"
 msgid "Delete this page"
 msgstr "Slett denne siden"
 
-#: ../src/core/control/Control.cpp:2783
+#: ../src/core/control/Control.cpp:2789
 msgid "Discard"
 msgstr "Forkast"
 
@@ -381,7 +381,7 @@ msgstr ""
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2777
+#: ../src/core/control/Control.cpp:2783
 msgid "Document file was removed."
 msgstr "Dokumentfilen ble fjernet."
 
@@ -496,7 +496,7 @@ msgstr "Slett strek"
 msgid "Eraser"
 msgstr "Viskelær"
 
-#: ../src/core/control/Control.cpp:2523
+#: ../src/core/control/Control.cpp:2519
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr ""
@@ -1108,16 +1108,16 @@ msgstr "SVG-grafikk"
 msgid "Sample LaTeX file generated successfully."
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2778 ../src/core/control/jobs/SaveJob.cpp:25
+#: ../src/core/control/Control.cpp:2784 ../src/core/control/jobs/SaveJob.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:384
 msgid "Save"
 msgstr "Lagre"
 
-#: ../src/core/control/Control.cpp:2778
+#: ../src/core/control/Control.cpp:2784
 msgid "Save As..."
 msgstr "Lagre som..."
 
-#: ../src/core/control/Control.cpp:2612
+#: ../src/core/control/Control.cpp:2618
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:85
 msgid "Save File"
 msgstr "Lagre fil"
@@ -1428,7 +1428,7 @@ msgstr ""
 msgid "Thick"
 msgstr "Tykk"
 
-#: ../src/core/control/Control.cpp:2777
+#: ../src/core/control/Control.cpp:2783
 msgid "This document is not saved yet."
 msgstr ""
 
@@ -1513,7 +1513,7 @@ msgstr ""
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2669
+#: ../src/core/control/Control.cpp:2675
 msgid "Unsaved Document"
 msgstr ""
 
@@ -1573,7 +1573,7 @@ msgstr "Xournal filer"
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr "Xournal++ kræsjet forrige gang. Vil du gjenopprette den sist redigerte filen?"
 
-#: ../src/core/control/Control.cpp:2618
+#: ../src/core/control/Control.cpp:2624
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal++ files"
 msgstr "Xournal++ filer"
@@ -1618,7 +1618,7 @@ msgstr "Forminsk"
 msgid "Zoom to 100%"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2612
+#: ../src/core/control/Control.cpp:2618
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:15
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
@@ -1631,7 +1631,7 @@ msgstr ""
 msgid "_Open"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2613
+#: ../src/core/control/Control.cpp:2619
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:86
 msgid "_Save"
