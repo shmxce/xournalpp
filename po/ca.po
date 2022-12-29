@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-28 21:28+0000\n"
-"PO-Revision-Date: 2022-12-28 21:30\n"
+"POT-Creation-Date: 2022-12-29 14:59+0000\n"
+"PO-Revision-Date: 2022-12-29 15:01\n"
 "Last-Translator: \n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -161,7 +161,7 @@ msgstr "Portar endavant"
 msgid "Bring to front"
 msgstr "Portar al davant"
 
-#: ../src/core/control/Control.cpp:2315 ../src/core/control/Control.cpp:2786
+#: ../src/core/control/Control.cpp:2315 ../src/core/control/Control.cpp:2792
 #: ../src/core/control/XournalMain.cpp:177
 #: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
@@ -374,7 +374,7 @@ msgstr "Eliminar aquesta capa"
 msgid "Delete this page"
 msgstr "Eliminar aquesta pàgina"
 
-#: ../src/core/control/Control.cpp:2783
+#: ../src/core/control/Control.cpp:2789
 msgid "Discard"
 msgstr "Descartar"
 
@@ -394,7 +394,7 @@ msgstr "No obriu els fitxers de desat automàtic. Es poden sobreescriure!\n"
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr "No sobreescriviu el PDF de fons! Això provocarà errors!"
 
-#: ../src/core/control/Control.cpp:2777
+#: ../src/core/control/Control.cpp:2783
 msgid "Document file was removed."
 msgstr "S'ha eliminat el fitxer del document."
 
@@ -509,7 +509,7 @@ msgstr "Borrar traç"
 msgid "Eraser"
 msgstr "Borrador"
 
-#: ../src/core/control/Control.cpp:2523
+#: ../src/core/control/Control.cpp:2519
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr "Error a l'anotar l'arxiu PDF \"{1}\"\n"
@@ -1129,16 +1129,16 @@ msgstr "Gràfics SVG"
 msgid "Sample LaTeX file generated successfully."
 msgstr "Fitxer LaTeX d'exemple generat amb èxit."
 
-#: ../src/core/control/Control.cpp:2778 ../src/core/control/jobs/SaveJob.cpp:25
+#: ../src/core/control/Control.cpp:2784 ../src/core/control/jobs/SaveJob.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:384
 msgid "Save"
 msgstr "Desar"
 
-#: ../src/core/control/Control.cpp:2778
+#: ../src/core/control/Control.cpp:2784
 msgid "Save As..."
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2612
+#: ../src/core/control/Control.cpp:2618
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:85
 msgid "Save File"
 msgstr ""
@@ -1449,7 +1449,7 @@ msgstr ""
 msgid "Thick"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2777
+#: ../src/core/control/Control.cpp:2783
 msgid "This document is not saved yet."
 msgstr ""
 
@@ -1534,7 +1534,7 @@ msgstr ""
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2669
+#: ../src/core/control/Control.cpp:2675
 msgid "Unsaved Document"
 msgstr ""
 
@@ -1594,7 +1594,7 @@ msgstr ""
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2618
+#: ../src/core/control/Control.cpp:2624
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal++ files"
 msgstr ""
@@ -1639,7 +1639,7 @@ msgstr ""
 msgid "Zoom to 100%"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2612
+#: ../src/core/control/Control.cpp:2618
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:15
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
@@ -1652,7 +1652,7 @@ msgstr ""
 msgid "_Open"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2613
+#: ../src/core/control/Control.cpp:2619
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:86
 msgid "_Save"
