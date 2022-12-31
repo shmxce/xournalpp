@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-29 14:59+0000\n"
-"PO-Revision-Date: 2022-12-29 15:02\n"
+"POT-Creation-Date: 2022-12-31 11:34+0000\n"
+"PO-Revision-Date: 2022-12-31 11:51\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -160,6 +160,10 @@ msgstr "Trazer para a frente"
 #: ../src/core/control/tools/EditSelection.cpp:403
 msgid "Bring to front"
 msgstr "Trazer para frente"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:36
+msgid "Built on"
+msgstr "Construído em"
 
 #: ../src/core/control/Control.cpp:2315 ../src/core/control/Control.cpp:2792
 #: ../src/core/control/XournalMain.cpp:177
@@ -695,13 +699,21 @@ msgstr "Fonte"
 msgid "Forward"
 msgstr "Avançar"
 
-#: ../src/core/gui/dialog/AboutDialog.cpp:46
+#: ../src/core/gui/dialog/AboutDialog.cpp:72
 msgid "GNU GPLv2 or later"
 msgstr "GNU GPLv2 ou posterior"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:39
+msgid "GTK Version"
+msgstr ""
 
 #: ../src/core/control/XournalMain.cpp:614
 msgid "Get version of xournalpp"
 msgstr "Obter versão do xournalpp"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:46
+msgid "Git commit"
+msgstr "Git commit"
 
 #: ../src/core/control/LatexController.cpp:76
 msgid "Global template file does not exist. Please check your settings."
@@ -1163,7 +1175,7 @@ msgstr ""
 msgid "Search"
 msgstr "Pesquisar"
 
-#: ../src/core/gui/dialog/AboutDialog.cpp:39
+#: ../src/core/gui/dialog/AboutDialog.cpp:65
 msgid "See the full list of contributors"
 msgstr "Veja a lista completa de recursos dos colaboradores"
 
@@ -1555,6 +1567,10 @@ msgstr "Formato gráfico não suportado: "
 #: ../src/core/control/Control.cpp:2311
 msgid "Use proposed PDF"
 msgstr "Usar PDF proposto"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:33
+msgid "Version"
+msgstr "Versão"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:498
 msgid "Vertical Space"
@@ -2103,7 +2119,7 @@ msgstr "<i>Em algumas configurações, os traços das canetas possuem problemas 
 msgid "<i>You can configure devices, not identified by GTK as touchscreen, to behave as if they were one.</i>"
 msgstr "<i>Você pode configurar dispositivos, não identificados pelo GTK como touchscreen, para se comportar como se fossem um.</i>"
 
-#: ../ui/about.glade:206
+#: ../ui/about.glade:117
 msgid "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
 "<i>The next generation</i>"
 msgstr "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
@@ -2171,7 +2187,7 @@ msgstr "Gravação de Áudio"
 msgid "Author: "
 msgstr "Autor: "
 
-#: ../ui/about.glade:452
+#: ../ui/about.glade:363
 msgid "Authors"
 msgstr "Autores"
 
@@ -2239,10 +2255,6 @@ msgstr "Trazer para Frente"
 #: ../ui/settings.glade:1023
 msgid "Buffersize"
 msgstr "Tamanho do buffer"
-
-#: ../ui/about.glade:100
-msgid "Built on"
-msgstr "Construído em"
 
 #: ../ui/settings.glade:1851
 msgid "Button 1"
@@ -2593,10 +2605,6 @@ msgstr "Parâmetro gaussiano: quanto maior, maior a estabilização e maior o at
 msgid "General LaTeX tool settings"
 msgstr "Configurações gerais da ferramenta LaTeX"
 
-#: ../ui/about.glade:115
-msgid "Git commit"
-msgstr "Git commit"
-
 #: ../ui/settings.glade:3028
 msgid "Global"
 msgstr "Sistema"
@@ -2673,7 +2681,7 @@ msgid "How short (time)  AND...\n\n"
 msgstr "Quão curto (tempo) E...\n\n"
 "<i>Recomendado: 150ms</i>"
 
-#: ../ui/about.glade:246
+#: ../ui/about.glade:157
 msgid "Icon Designers"
 msgstr "Designers do Ícone"
 
@@ -2777,7 +2785,7 @@ msgstr "Layout"
 msgid "Left / Right-Handed"
 msgstr "Esquerda / Direita-Mão"
 
-#: ../ui/about.glade:424
+#: ../ui/about.glade:335
 msgid "License"
 msgstr "Licença"
 
@@ -2965,7 +2973,7 @@ msgstr "Cor do Papel"
 msgid "Paper _Format"
 msgstr "Formato do Papel"
 
-#: ../ui/about.glade:299
+#: ../ui/about.glade:210
 msgid "Partially based on Xournal\n"
 "by Denis Auroux"
 msgstr "Portado da base do Xournal\n"
@@ -3038,10 +3046,6 @@ msgstr "Multiplicador de Pressão: "
 #: ../ui/settings.glade:1673
 msgid "Pressure Sensitivity"
 msgstr "Sensibilidade de pressão"
-
-#: ../ui/about.glade:130
-msgid "RELEASE_IDENTIFIER"
-msgstr "Identificador da versão"
 
 #: ../ui/settings.glade:3197
 msgid "Radius"
@@ -3214,7 +3218,7 @@ msgstr "Ícone de ponto pequeno"
 msgid "Snapping"
 msgstr "Snap"
 
-#: ../ui/about.glade:359
+#: ../ui/about.glade:270
 msgid "Source Code / Bug Tracker"
 msgstr "Código Fonte / Rastreador de Bug"
 
@@ -3384,10 +3388,6 @@ msgstr "Usualmente 0 ou 1"
 msgid "Velocity based Gaussian weights"
 msgstr "Pesos gaussianos baseados em velocidade"
 
-#: ../ui/about.glade:184
-msgid "Version"
-msgstr "Versão"
-
 #: ../ui/pluginEntry.glade:131
 msgid "Version: "
 msgstr "Versão: "
@@ -3396,7 +3396,7 @@ msgstr "Versão: "
 msgid "View"
 msgstr "Visualizar"
 
-#: ../ui/about.glade:331
+#: ../ui/about.glade:242
 msgid "Website"
 msgstr "Site na Web"
 
@@ -3428,17 +3428,13 @@ msgstr "Largura"
 msgid "Width:"
 msgstr "Largura:"
 
-#: ../ui/about.glade:396
+#: ../ui/about.glade:307
 msgid "With help from the community"
 msgstr "Obter ajuda da comunidade"
 
 #: ../ui/latexSettings.glade:493
 msgid "Wrap text"
 msgstr "Quebrar texto"
-
-#: ../ui/about.glade:158
-msgid "X.X.X"
-msgstr "X.X.X"
 
 #: ../ui/settings.glade:254
 msgid "Xournal++ Preferences"
@@ -3733,8 +3729,4 @@ msgstr "s <i>(após o qual a touchscreen será reativada novamente)</i>"
 #: ../ui/main.glade:1721 ../ui/main.glade:1867 ../ui/main.glade:1976
 msgid "ver_y thick"
 msgstr "muito espesso"
-
-#: ../ui/about.glade:143
-msgid "with libgtk"
-msgstr "com libgtk"
 
