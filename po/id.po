@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-29 14:59+0000\n"
-"PO-Revision-Date: 2022-12-29 15:02\n"
+"POT-Creation-Date: 2022-12-31 11:34+0000\n"
+"PO-Revision-Date: 2022-12-31 11:51\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -159,6 +159,10 @@ msgstr "Bawa maju"
 #: ../src/core/control/tools/EditSelection.cpp:403
 msgid "Bring to front"
 msgstr "Bawa ke depan"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:36
+msgid "Built on"
+msgstr "Dibuat pada"
 
 #: ../src/core/control/Control.cpp:2315 ../src/core/control/Control.cpp:2792
 #: ../src/core/control/XournalMain.cpp:177
@@ -692,13 +696,21 @@ msgstr "Fonta"
 msgid "Forward"
 msgstr "Maju"
 
-#: ../src/core/gui/dialog/AboutDialog.cpp:46
+#: ../src/core/gui/dialog/AboutDialog.cpp:72
 msgid "GNU GPLv2 or later"
 msgstr "GNU GPLv2 atau setelahnya"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:39
+msgid "GTK Version"
+msgstr ""
 
 #: ../src/core/control/XournalMain.cpp:614
 msgid "Get version of xournalpp"
 msgstr "Dapatkan versi xournalpp"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:46
+msgid "Git commit"
+msgstr "Git commit"
 
 #: ../src/core/control/LatexController.cpp:76
 msgid "Global template file does not exist. Please check your settings."
@@ -1159,7 +1171,7 @@ msgstr ""
 msgid "Search"
 msgstr "Cari"
 
-#: ../src/core/gui/dialog/AboutDialog.cpp:39
+#: ../src/core/gui/dialog/AboutDialog.cpp:65
 msgid "See the full list of contributors"
 msgstr "Lihat daftar lengkap kontributor"
 
@@ -1546,6 +1558,10 @@ msgstr ""
 #: ../src/core/control/Control.cpp:2311
 msgid "Use proposed PDF"
 msgstr ""
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:33
+msgid "Version"
+msgstr "Versi"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:498
 msgid "Vertical Space"
@@ -2066,7 +2082,7 @@ msgstr ""
 msgid "<i>You can configure devices, not identified by GTK as touchscreen, to behave as if they were one.</i>"
 msgstr "<i>Anda bisa mengkonfigurasi perangkat yang tidak dikenali oleh GTK sebagai layar sentuh, untuk berlaku sebagai sebuah perangkat layar sentuh.</i>"
 
-#: ../ui/about.glade:206
+#: ../ui/about.glade:117
 msgid "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
 "<i>The next generation</i>"
 msgstr "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
@@ -2134,7 +2150,7 @@ msgstr "Rekaman Audio"
 msgid "Author: "
 msgstr "Penulis: "
 
-#: ../ui/about.glade:452
+#: ../ui/about.glade:363
 msgid "Authors"
 msgstr ""
 
@@ -2202,10 +2218,6 @@ msgstr ""
 #: ../ui/settings.glade:1023
 msgid "Buffersize"
 msgstr ""
-
-#: ../ui/about.glade:100
-msgid "Built on"
-msgstr "Dibuat pada"
 
 #: ../ui/settings.glade:1851
 msgid "Button 1"
@@ -2553,10 +2565,6 @@ msgstr ""
 msgid "General LaTeX tool settings"
 msgstr ""
 
-#: ../ui/about.glade:115
-msgid "Git commit"
-msgstr "Git commit"
-
 #: ../ui/settings.glade:3028
 msgid "Global"
 msgstr "Global"
@@ -2633,7 +2641,7 @@ msgid "How short (time)  AND...\n\n"
 msgstr "Seberapa pendek (waktu)  DAN...\n\n"
 "<i>Direkomendasikan: 150 ms</i>"
 
-#: ../ui/about.glade:246
+#: ../ui/about.glade:157
 msgid "Icon Designers"
 msgstr ""
 
@@ -2737,7 +2745,7 @@ msgstr "Tata Letak"
 msgid "Left / Right-Handed"
 msgstr "Kidal / Normal"
 
-#: ../ui/about.glade:424
+#: ../ui/about.glade:335
 msgid "License"
 msgstr "Lisensi"
 
@@ -2924,7 +2932,7 @@ msgstr "_Warna Kertas"
 msgid "Paper _Format"
 msgstr "_Format Kertas"
 
-#: ../ui/about.glade:299
+#: ../ui/about.glade:210
 msgid "Partially based on Xournal\n"
 "by Denis Auroux"
 msgstr "Berbasis sebagian pada Xournal\n"
@@ -2997,10 +3005,6 @@ msgstr ""
 #: ../ui/settings.glade:1673
 msgid "Pressure Sensitivity"
 msgstr "Sensitivitas Tekanan"
-
-#: ../ui/about.glade:130
-msgid "RELEASE_IDENTIFIER"
-msgstr "RELEASE_IDENTIFIER"
 
 #: ../ui/settings.glade:3197
 msgid "Radius"
@@ -3172,7 +3176,7 @@ msgstr ""
 msgid "Snapping"
 msgstr "Lengketkan"
 
-#: ../ui/about.glade:359
+#: ../ui/about.glade:270
 msgid "Source Code / Bug Tracker"
 msgstr ""
 
@@ -3342,10 +3346,6 @@ msgstr "Biasanya 0 atau 1"
 msgid "Velocity based Gaussian weights"
 msgstr ""
 
-#: ../ui/about.glade:184
-msgid "Version"
-msgstr "Versi"
-
 #: ../ui/pluginEntry.glade:131
 msgid "Version: "
 msgstr "Versi: "
@@ -3354,7 +3354,7 @@ msgstr "Versi: "
 msgid "View"
 msgstr "Tampilan"
 
-#: ../ui/about.glade:331
+#: ../ui/about.glade:242
 msgid "Website"
 msgstr "Situs web"
 
@@ -3384,17 +3384,13 @@ msgstr "Lebar"
 msgid "Width:"
 msgstr "Lebar:"
 
-#: ../ui/about.glade:396
+#: ../ui/about.glade:307
 msgid "With help from the community"
 msgstr "Dengan bantuan dari komunitas"
 
 #: ../ui/latexSettings.glade:493
 msgid "Wrap text"
 msgstr ""
-
-#: ../ui/about.glade:158
-msgid "X.X.X"
-msgstr "X.X.X"
 
 #: ../ui/settings.glade:254
 msgid "Xournal++ Preferences"
@@ -3689,8 +3685,4 @@ msgstr "s <i>(setelah itu layar sentuh akan diaktifkan kembali)</i>"
 #: ../ui/main.glade:1721 ../ui/main.glade:1867 ../ui/main.glade:1976
 msgid "ver_y thick"
 msgstr "_sangat tebal"
-
-#: ../ui/about.glade:143
-msgid "with libgtk"
-msgstr "dengan libgtk"
 
