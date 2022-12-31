@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-29 14:59+0000\n"
-"PO-Revision-Date: 2022-12-29 15:01\n"
+"POT-Creation-Date: 2022-12-31 11:34+0000\n"
+"PO-Revision-Date: 2022-12-31 11:51\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -160,6 +160,10 @@ msgstr "Előbbre hozás"
 #: ../src/core/control/tools/EditSelection.cpp:403
 msgid "Bring to front"
 msgstr "Előrehozás"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:36
+msgid "Built on"
+msgstr "Készítési időpont"
 
 #: ../src/core/control/Control.cpp:2315 ../src/core/control/Control.cpp:2792
 #: ../src/core/control/XournalMain.cpp:177
@@ -696,13 +700,21 @@ msgstr "Betűkészlet"
 msgid "Forward"
 msgstr "Következő"
 
-#: ../src/core/gui/dialog/AboutDialog.cpp:46
+#: ../src/core/gui/dialog/AboutDialog.cpp:72
 msgid "GNU GPLv2 or later"
 msgstr "GNU GPLv2 vagy újabb"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:39
+msgid "GTK Version"
+msgstr ""
 
 #: ../src/core/control/XournalMain.cpp:614
 msgid "Get version of xournalpp"
 msgstr "A xournalpp verzió lehívása"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:46
+msgid "Git commit"
+msgstr "Git commit"
 
 #: ../src/core/control/LatexController.cpp:76
 msgid "Global template file does not exist. Please check your settings."
@@ -1164,7 +1176,7 @@ msgstr ""
 msgid "Search"
 msgstr "Keresés"
 
-#: ../src/core/gui/dialog/AboutDialog.cpp:39
+#: ../src/core/gui/dialog/AboutDialog.cpp:65
 msgid "See the full list of contributors"
 msgstr "A közreműködők teljes listája"
 
@@ -1557,6 +1569,10 @@ msgstr "Nem támogatott grafikus formátum: "
 #: ../src/core/control/Control.cpp:2311
 msgid "Use proposed PDF"
 msgstr "Használja a javasolt PDF-fájlt"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:33
+msgid "Version"
+msgstr "Verzió"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:498
 msgid "Vertical Space"
@@ -2105,7 +2121,7 @@ msgstr "<i>Bizonyos beállításokkal a tollvonások elején műtermékek vannak
 msgid "<i>You can configure devices, not identified by GTK as touchscreen, to behave as if they were one.</i>"
 msgstr "<i>A GTK által nem érintőképernyőként azonosított eszközöket beállíthatja úgy, hogy azok úgy viselkedjenek, mintha azok lennének.</i>"
 
-#: ../ui/about.glade:206
+#: ../ui/about.glade:117
 msgid "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
 "<i>The next generation</i>"
 msgstr "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
@@ -2173,7 +2189,7 @@ msgstr "Hangfelvétel"
 msgid "Author: "
 msgstr "Szerző(k): "
 
-#: ../ui/about.glade:452
+#: ../ui/about.glade:363
 msgid "Authors"
 msgstr "Szerzők"
 
@@ -2241,10 +2257,6 @@ msgstr "Előrehozás"
 #: ../ui/settings.glade:1023
 msgid "Buffersize"
 msgstr "Pufferméret"
-
-#: ../ui/about.glade:100
-msgid "Built on"
-msgstr "Készítési időpont"
 
 #: ../ui/settings.glade:1851
 msgid "Button 1"
@@ -2595,10 +2607,6 @@ msgstr "Gauss-paraméter: minél magasabb, annál nagyobb a stabilitás, és ann
 msgid "General LaTeX tool settings"
 msgstr "LaTeX-eszköz általános beállításai"
 
-#: ../ui/about.glade:115
-msgid "Git commit"
-msgstr "Git commit"
-
 #: ../ui/settings.glade:3028
 msgid "Global"
 msgstr "Globális"
@@ -2675,7 +2683,7 @@ msgid "How short (time)  AND...\n\n"
 msgstr "Milyen rövid (idő) ÉS…\n\n"
 "<i>Javasolt: 150 ezredmásodperc</i>"
 
-#: ../ui/about.glade:246
+#: ../ui/about.glade:157
 msgid "Icon Designers"
 msgstr "Ikontervezők"
 
@@ -2779,7 +2787,7 @@ msgstr "Elrendezés"
 msgid "Left / Right-Handed"
 msgstr "Bal / Jobbkezes"
 
-#: ../ui/about.glade:424
+#: ../ui/about.glade:335
 msgid "License"
 msgstr "Licenc"
 
@@ -2967,7 +2975,7 @@ msgstr "Papír_szín"
 msgid "Paper _Format"
 msgstr "Papír_formátum"
 
-#: ../ui/about.glade:299
+#: ../ui/about.glade:210
 msgid "Partially based on Xournal\n"
 "by Denis Auroux"
 msgstr "Részben a Xournal alapján\n"
@@ -3040,10 +3048,6 @@ msgstr "Nyomásszorzó: "
 #: ../ui/settings.glade:1673
 msgid "Pressure Sensitivity"
 msgstr "Nyomásérzékenység"
-
-#: ../ui/about.glade:130
-msgid "RELEASE_IDENTIFIER"
-msgstr "RELEASE_IDENTIFIER"
 
 #: ../ui/settings.glade:3197
 msgid "Radius"
@@ -3216,7 +3220,7 @@ msgstr "Kis toll ikonra"
 msgid "Snapping"
 msgstr "Igazítás"
 
-#: ../ui/about.glade:359
+#: ../ui/about.glade:270
 msgid "Source Code / Bug Tracker"
 msgstr "Forráskód/Hibakövető"
 
@@ -3386,10 +3390,6 @@ msgstr "Általában 0 vagy 1"
 msgid "Velocity based Gaussian weights"
 msgstr "Sebesség alapú Gauss-súlyok"
 
-#: ../ui/about.glade:184
-msgid "Version"
-msgstr "Verzió"
-
 #: ../ui/pluginEntry.glade:131
 msgid "Version: "
 msgstr "Verzió: "
@@ -3398,7 +3398,7 @@ msgstr "Verzió: "
 msgid "View"
 msgstr "Nézet"
 
-#: ../ui/about.glade:331
+#: ../ui/about.glade:242
 msgid "Website"
 msgstr "Honlap"
 
@@ -3430,17 +3430,13 @@ msgstr "Szélesség"
 msgid "Width:"
 msgstr "Szélesség:"
 
-#: ../ui/about.glade:396
+#: ../ui/about.glade:307
 msgid "With help from the community"
 msgstr "A Közösségtől kapott segítséggel"
 
 #: ../ui/latexSettings.glade:493
 msgid "Wrap text"
 msgstr "Szöveg körbefuttatása"
-
-#: ../ui/about.glade:158
-msgid "X.X.X"
-msgstr "X.X.X"
 
 #: ../ui/settings.glade:254
 msgid "Xournal++ Preferences"
@@ -3735,8 +3731,4 @@ msgstr "s <i>(miután az érintőképernyő újra engedélyezve lesz)</i>"
 #: ../ui/main.glade:1721 ../ui/main.glade:1867 ../ui/main.glade:1976
 msgid "ver_y thick"
 msgstr "nagy_on vastag"
-
-#: ../ui/about.glade:143
-msgid "with libgtk"
-msgstr "a libgtk segítségével"
 
