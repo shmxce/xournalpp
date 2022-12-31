@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-29 14:59+0000\n"
-"PO-Revision-Date: 2022-12-29 15:02\n"
+"POT-Creation-Date: 2022-12-31 11:34+0000\n"
+"PO-Revision-Date: 2022-12-31 11:51\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional, Hong Kong\n"
 "Language: zh_HK\n"
@@ -158,6 +158,10 @@ msgstr ""
 
 #: ../src/core/control/tools/EditSelection.cpp:403
 msgid "Bring to front"
+msgstr ""
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:36
+msgid "Built on"
 msgstr ""
 
 #: ../src/core/control/Control.cpp:2315 ../src/core/control/Control.cpp:2792
@@ -683,12 +687,20 @@ msgstr "字型"
 msgid "Forward"
 msgstr "下一頁"
 
-#: ../src/core/gui/dialog/AboutDialog.cpp:46
+#: ../src/core/gui/dialog/AboutDialog.cpp:72
 msgid "GNU GPLv2 or later"
+msgstr ""
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:39
+msgid "GTK Version"
 msgstr ""
 
 #: ../src/core/control/XournalMain.cpp:614
 msgid "Get version of xournalpp"
+msgstr ""
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:46
+msgid "Git commit"
 msgstr ""
 
 #: ../src/core/control/LatexController.cpp:76
@@ -1149,7 +1161,7 @@ msgstr ""
 msgid "Search"
 msgstr "搜索"
 
-#: ../src/core/gui/dialog/AboutDialog.cpp:39
+#: ../src/core/gui/dialog/AboutDialog.cpp:65
 msgid "See the full list of contributors"
 msgstr ""
 
@@ -1536,6 +1548,10 @@ msgstr "不支持的圖片格式: "
 #: ../src/core/control/Control.cpp:2311
 msgid "Use proposed PDF"
 msgstr "使用建議的PDF"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:33
+msgid "Version"
+msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:498
 msgid "Vertical Space"
@@ -2055,7 +2071,7 @@ msgstr ""
 msgid "<i>You can configure devices, not identified by GTK as touchscreen, to behave as if they were one.</i>"
 msgstr ""
 
-#: ../ui/about.glade:206
+#: ../ui/about.glade:117
 msgid "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
 "<i>The next generation</i>"
 msgstr "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
@@ -2122,7 +2138,7 @@ msgstr ""
 msgid "Author: "
 msgstr ""
 
-#: ../ui/about.glade:452
+#: ../ui/about.glade:363
 msgid "Authors"
 msgstr ""
 
@@ -2189,10 +2205,6 @@ msgstr ""
 
 #: ../ui/settings.glade:1023
 msgid "Buffersize"
-msgstr ""
-
-#: ../ui/about.glade:100
-msgid "Built on"
 msgstr ""
 
 #: ../ui/settings.glade:1851
@@ -2538,10 +2550,6 @@ msgstr ""
 msgid "General LaTeX tool settings"
 msgstr ""
 
-#: ../ui/about.glade:115
-msgid "Git commit"
-msgstr ""
-
 #: ../ui/settings.glade:3028
 msgid "Global"
 msgstr ""
@@ -2616,7 +2624,7 @@ msgid "How short (time)  AND...\n\n"
 "<i>Recommended: 150ms</i>"
 msgstr ""
 
-#: ../ui/about.glade:246
+#: ../ui/about.glade:157
 msgid "Icon Designers"
 msgstr ""
 
@@ -2720,7 +2728,7 @@ msgstr ""
 msgid "Left / Right-Handed"
 msgstr ""
 
-#: ../ui/about.glade:424
+#: ../ui/about.glade:335
 msgid "License"
 msgstr ""
 
@@ -2907,7 +2915,7 @@ msgstr "紙張顏色(_C)"
 msgid "Paper _Format"
 msgstr "紙張樣式(_F)"
 
-#: ../ui/about.glade:299
+#: ../ui/about.glade:210
 msgid "Partially based on Xournal\n"
 "by Denis Auroux"
 msgstr ""
@@ -2978,10 +2986,6 @@ msgstr ""
 
 #: ../ui/settings.glade:1673
 msgid "Pressure Sensitivity"
-msgstr ""
-
-#: ../ui/about.glade:130
-msgid "RELEASE_IDENTIFIER"
 msgstr ""
 
 #: ../ui/settings.glade:3197
@@ -3154,7 +3158,7 @@ msgstr ""
 msgid "Snapping"
 msgstr ""
 
-#: ../ui/about.glade:359
+#: ../ui/about.glade:270
 msgid "Source Code / Bug Tracker"
 msgstr ""
 
@@ -3324,10 +3328,6 @@ msgstr ""
 msgid "Velocity based Gaussian weights"
 msgstr ""
 
-#: ../ui/about.glade:184
-msgid "Version"
-msgstr ""
-
 #: ../ui/pluginEntry.glade:131
 msgid "Version: "
 msgstr ""
@@ -3336,7 +3336,7 @@ msgstr ""
 msgid "View"
 msgstr "視圖"
 
-#: ../ui/about.glade:331
+#: ../ui/about.glade:242
 msgid "Website"
 msgstr ""
 
@@ -3366,16 +3366,12 @@ msgstr ""
 msgid "Width:"
 msgstr "寬度："
 
-#: ../ui/about.glade:396
+#: ../ui/about.glade:307
 msgid "With help from the community"
 msgstr ""
 
 #: ../ui/latexSettings.glade:493
 msgid "Wrap text"
-msgstr ""
-
-#: ../ui/about.glade:158
-msgid "X.X.X"
 msgstr ""
 
 #: ../ui/settings.glade:254
@@ -3671,8 +3667,4 @@ msgstr ""
 #: ../ui/main.glade:1721 ../ui/main.glade:1867 ../ui/main.glade:1976
 msgid "ver_y thick"
 msgstr "極粗(_y)"
-
-#: ../ui/about.glade:143
-msgid "with libgtk"
-msgstr ""
 
