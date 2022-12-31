@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-29 14:59+0000\n"
-"PO-Revision-Date: 2022-12-29 15:01\n"
+"POT-Creation-Date: 2022-12-31 11:34+0000\n"
+"PO-Revision-Date: 2022-12-31 11:51\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -160,6 +160,10 @@ msgstr "上移一层"
 #: ../src/core/control/tools/EditSelection.cpp:403
 msgid "Bring to front"
 msgstr "置于顶层"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:36
+msgid "Built on"
+msgstr "构建于"
 
 #: ../src/core/control/Control.cpp:2315 ../src/core/control/Control.cpp:2792
 #: ../src/core/control/XournalMain.cpp:177
@@ -697,13 +701,21 @@ msgstr "字体"
 msgid "Forward"
 msgstr "下一步"
 
-#: ../src/core/gui/dialog/AboutDialog.cpp:46
+#: ../src/core/gui/dialog/AboutDialog.cpp:72
 msgid "GNU GPLv2 or later"
 msgstr "GNU GPLv2 或更新的GNU协议版本"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:39
+msgid "GTK Version"
+msgstr ""
 
 #: ../src/core/control/XournalMain.cpp:614
 msgid "Get version of xournalpp"
 msgstr "获取xournalp版本信息"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:46
+msgid "Git commit"
+msgstr "Git 提交"
 
 #: ../src/core/control/LatexController.cpp:76
 msgid "Global template file does not exist. Please check your settings."
@@ -1165,7 +1177,7 @@ msgstr ""
 msgid "Search"
 msgstr "搜索"
 
-#: ../src/core/gui/dialog/AboutDialog.cpp:39
+#: ../src/core/gui/dialog/AboutDialog.cpp:65
 msgid "See the full list of contributors"
 msgstr "查看贡献者的完整列表"
 
@@ -1558,6 +1570,10 @@ msgstr "不支持的绘图格式: "
 #: ../src/core/control/Control.cpp:2311
 msgid "Use proposed PDF"
 msgstr "使用拟议的 PDF"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:33
+msgid "Version"
+msgstr "版本"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:498
 msgid "Vertical Space"
@@ -2106,7 +2122,7 @@ msgstr "<i>因为某些设置，笔触在开始时会出现伪影， 通过忽�
 msgid "<i>You can configure devices, not identified by GTK as touchscreen, to behave as if they were one.</i>"
 msgstr "<i>您可以手动配置未被GTK识别为触摸屏的设备。</i>"
 
-#: ../ui/about.glade:206
+#: ../ui/about.glade:117
 msgid "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
 "<i>The next generation</i>"
 msgstr "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
@@ -2174,7 +2190,7 @@ msgstr "音频录音"
 msgid "Author: "
 msgstr "作者: "
 
-#: ../ui/about.glade:452
+#: ../ui/about.glade:363
 msgid "Authors"
 msgstr "作者"
 
@@ -2242,10 +2258,6 @@ msgstr "移到最前"
 #: ../ui/settings.glade:1023
 msgid "Buffersize"
 msgstr "缓冲区大小"
-
-#: ../ui/about.glade:100
-msgid "Built on"
-msgstr "构建于"
 
 #: ../ui/settings.glade:1851
 msgid "Button 1"
@@ -2596,10 +2608,6 @@ msgstr "高斯参数：值越大，线条越稳定，光标到笔画末端的缺
 msgid "General LaTeX tool settings"
 msgstr "常规 LaTeX 工具设置"
 
-#: ../ui/about.glade:115
-msgid "Git commit"
-msgstr "Git 提交"
-
 #: ../ui/settings.glade:3028
 msgid "Global"
 msgstr "全局"
@@ -2676,7 +2684,7 @@ msgid "How short (time)  AND...\n\n"
 msgstr "(时间) 多短，且...\n\n"
 "<i>推荐: 150毫秒</i>"
 
-#: ../ui/about.glade:246
+#: ../ui/about.glade:157
 msgid "Icon Designers"
 msgstr "图标设计者"
 
@@ -2780,7 +2788,7 @@ msgstr "布局"
 msgid "Left / Right-Handed"
 msgstr "左利手/右利手"
 
-#: ../ui/about.glade:424
+#: ../ui/about.glade:335
 msgid "License"
 msgstr "许可协议"
 
@@ -2968,7 +2976,7 @@ msgstr "纸张颜色(_C)"
 msgid "Paper _Format"
 msgstr "纸张样式(_F)"
 
-#: ../ui/about.glade:299
+#: ../ui/about.glade:210
 msgid "Partially based on Xournal\n"
 "by Denis Auroux"
 msgstr "部分基于 Denis Auroux 的 Xournal 软件"
@@ -3040,10 +3048,6 @@ msgstr "压力增量： "
 #: ../ui/settings.glade:1673
 msgid "Pressure Sensitivity"
 msgstr "压感"
-
-#: ../ui/about.glade:130
-msgid "RELEASE_IDENTIFIER"
-msgstr "发布版本标识符"
 
 #: ../ui/settings.glade:3197
 msgid "Radius"
@@ -3216,7 +3220,7 @@ msgstr "小图标"
 msgid "Snapping"
 msgstr "吸附"
 
-#: ../ui/about.glade:359
+#: ../ui/about.glade:270
 msgid "Source Code / Bug Tracker"
 msgstr "源代码/Bug 跟踪"
 
@@ -3386,10 +3390,6 @@ msgstr "通常为 0 或 1"
 msgid "Velocity based Gaussian weights"
 msgstr "基于速度的高斯权重"
 
-#: ../ui/about.glade:184
-msgid "Version"
-msgstr "版本"
-
 #: ../ui/pluginEntry.glade:131
 msgid "Version: "
 msgstr "版本："
@@ -3398,7 +3398,7 @@ msgstr "版本："
 msgid "View"
 msgstr "视图"
 
-#: ../ui/about.glade:331
+#: ../ui/about.glade:242
 msgid "Website"
 msgstr "网站"
 
@@ -3429,17 +3429,13 @@ msgstr "宽度："
 msgid "Width:"
 msgstr "宽度："
 
-#: ../ui/about.glade:396
+#: ../ui/about.glade:307
 msgid "With help from the community"
 msgstr "来自社区的热心帮助"
 
 #: ../ui/latexSettings.glade:493
 msgid "Wrap text"
 msgstr "自动换行"
-
-#: ../ui/about.glade:158
-msgid "X.X.X"
-msgstr "X.X.X"
 
 #: ../ui/settings.glade:254
 msgid "Xournal++ Preferences"
@@ -3734,8 +3730,4 @@ msgstr "s <i>(在此之后触摸屏将被重新激活)</i>"
 #: ../ui/main.glade:1721 ../ui/main.glade:1867 ../ui/main.glade:1976
 msgid "ver_y thick"
 msgstr "极粗(_y)"
-
-#: ../ui/about.glade:143
-msgid "with libgtk"
-msgstr "使用 libgtk"
 
