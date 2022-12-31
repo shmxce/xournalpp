@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-29 14:59+0000\n"
-"PO-Revision-Date: 2022-12-29 15:01\n"
+"POT-Creation-Date: 2022-12-31 11:34+0000\n"
+"PO-Revision-Date: 2022-12-31 11:51\n"
 "Last-Translator: \n"
 "Language-Team: Basque\n"
 "Language: eu_ES\n"
@@ -160,6 +160,10 @@ msgstr "Ekarri aurrerago"
 #: ../src/core/control/tools/EditSelection.cpp:403
 msgid "Bring to front"
 msgstr "Ekarri aurrera"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:36
+msgid "Built on"
+msgstr "Integratua"
 
 #: ../src/core/control/Control.cpp:2315 ../src/core/control/Control.cpp:2792
 #: ../src/core/control/XournalMain.cpp:177
@@ -697,13 +701,21 @@ msgstr "Letra-tipoa"
 msgid "Forward"
 msgstr "Aurrera"
 
-#: ../src/core/gui/dialog/AboutDialog.cpp:46
+#: ../src/core/gui/dialog/AboutDialog.cpp:72
 msgid "GNU GPLv2 or later"
 msgstr "GNU GPLv2 edo berriagoa"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:39
+msgid "GTK Version"
+msgstr ""
 
 #: ../src/core/control/XournalMain.cpp:614
 msgid "Get version of xournalpp"
 msgstr "Eskuratu xournalpp-ren bertsioa"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:46
+msgid "Git commit"
+msgstr "Git commit"
 
 #: ../src/core/control/LatexController.cpp:76
 msgid "Global template file does not exist. Please check your settings."
@@ -1165,7 +1177,7 @@ msgstr ""
 msgid "Search"
 msgstr "Bilatu"
 
-#: ../src/core/gui/dialog/AboutDialog.cpp:39
+#: ../src/core/gui/dialog/AboutDialog.cpp:65
 msgid "See the full list of contributors"
 msgstr "Ikusi laguntzaileen zerrenda osoa"
 
@@ -1558,6 +1570,10 @@ msgstr "Onartu gabeko formatu grafikoa: "
 #: ../src/core/control/Control.cpp:2311
 msgid "Use proposed PDF"
 msgstr "Erabili proposatutako PDFa"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:33
+msgid "Version"
+msgstr "Bertsioa"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:498
 msgid "Vertical Space"
@@ -2106,7 +2122,7 @@ msgstr "<i>Konfigurazio batzuekin, arkatzaren lehenengo trazuak ez dira garbiak.
 msgid "<i>You can configure devices, not identified by GTK as touchscreen, to behave as if they were one.</i>"
 msgstr "<i>Konfiguratu ditzakezu GTK-k ukipen-pantaila gisa identifikatzen ez dituen gailuak, jokatzeko ukipen-pantaila moduan.</i>"
 
-#: ../ui/about.glade:206
+#: ../ui/about.glade:117
 msgid "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
 "<i>The next generation</i>"
 msgstr "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
@@ -2174,7 +2190,7 @@ msgstr "Audio-grabazioa"
 msgid "Author: "
 msgstr "Egilea: "
 
-#: ../ui/about.glade:452
+#: ../ui/about.glade:363
 msgid "Authors"
 msgstr "Egileak"
 
@@ -2242,10 +2258,6 @@ msgstr "Ekarri aurrera"
 #: ../ui/settings.glade:1023
 msgid "Buffersize"
 msgstr "Bufferraren tamaina"
-
-#: ../ui/about.glade:100
-msgid "Built on"
-msgstr "Integratua"
 
 #: ../ui/settings.glade:1851
 msgid "Button 1"
@@ -2596,10 +2608,6 @@ msgstr "Parametro gaussiarra: handiagoa, zenbat eta egonkorrago eta tarte handia
 msgid "General LaTeX tool settings"
 msgstr "LaTex tresnen ezarpen orokorrak"
 
-#: ../ui/about.glade:115
-msgid "Git commit"
-msgstr "Git commit"
-
 #: ../ui/settings.glade:3028
 msgid "Global"
 msgstr "Globala"
@@ -2676,7 +2684,7 @@ msgid "How short (time)  AND...\n\n"
 msgstr "Zein tarte (denbora)  AND...\n\n"
 "<i>Gomendagarria: 150ms</i>"
 
-#: ../ui/about.glade:246
+#: ../ui/about.glade:157
 msgid "Icon Designers"
 msgstr "Ikonoen diseinatzaileak"
 
@@ -2780,7 +2788,7 @@ msgstr "Diseinua"
 msgid "Left / Right-Handed"
 msgstr "Ezkertia / Eskuina"
 
-#: ../ui/about.glade:424
+#: ../ui/about.glade:335
 msgid "License"
 msgstr "Lizentzia"
 
@@ -2968,7 +2976,7 @@ msgstr "Paperaren _kolorea"
 msgid "Paper _Format"
 msgstr "Paperaren _formatua"
 
-#: ../ui/about.glade:299
+#: ../ui/about.glade:210
 msgid "Partially based on Xournal\n"
 "by Denis Auroux"
 msgstr "Xournal-en partzialki oinarritua\n"
@@ -3041,10 +3049,6 @@ msgstr "Presioaren biderkatzailea: "
 #: ../ui/settings.glade:1673
 msgid "Pressure Sensitivity"
 msgstr "Presioaren sentsibilitatea"
-
-#: ../ui/about.glade:130
-msgid "RELEASE_IDENTIFIER"
-msgstr "RELEASE_IDENTIFIER"
 
 #: ../ui/settings.glade:3197
 msgid "Radius"
@@ -3217,7 +3221,7 @@ msgstr "Puntu txikia ikonoa"
 msgid "Snapping"
 msgstr "Atxikitzea"
 
-#: ../ui/about.glade:359
+#: ../ui/about.glade:270
 msgid "Source Code / Bug Tracker"
 msgstr "Iturburu kodea / Akatsen jarraipena"
 
@@ -3387,10 +3391,6 @@ msgstr "Normalean 0 edo 1"
 msgid "Velocity based Gaussian weights"
 msgstr "Abiaduran oinarritutako presio gaussiarrak"
 
-#: ../ui/about.glade:184
-msgid "Version"
-msgstr "Bertsioa"
-
 #: ../ui/pluginEntry.glade:131
 msgid "Version: "
 msgstr "Bertsioa: "
@@ -3399,7 +3399,7 @@ msgstr "Bertsioa: "
 msgid "View"
 msgstr "Ikusi"
 
-#: ../ui/about.glade:331
+#: ../ui/about.glade:242
 msgid "Website"
 msgstr "Webgunea"
 
@@ -3430,17 +3430,13 @@ msgstr "Zabalera"
 msgid "Width:"
 msgstr "Zabalera:"
 
-#: ../ui/about.glade:396
+#: ../ui/about.glade:307
 msgid "With help from the community"
 msgstr "Komunitatearen laguntzarekin"
 
 #: ../ui/latexSettings.glade:493
 msgid "Wrap text"
 msgstr "Egokitu testua"
-
-#: ../ui/about.glade:158
-msgid "X.X.X"
-msgstr "X.X.X"
 
 #: ../ui/settings.glade:254
 msgid "Xournal++ Preferences"
@@ -3735,8 +3731,4 @@ msgstr "s <i>(ondoren, ukipen-pantaila berriro aktibatuko da)</i>"
 #: ../ui/main.glade:1721 ../ui/main.glade:1867 ../ui/main.glade:1976
 msgid "ver_y thick"
 msgstr "_oso lodia"
-
-#: ../ui/about.glade:143
-msgid "with libgtk"
-msgstr "libgtk-rekin"
 
