@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-29 14:59+0000\n"
-"PO-Revision-Date: 2022-12-29 15:01\n"
+"POT-Creation-Date: 2022-12-31 11:34+0000\n"
+"PO-Revision-Date: 2022-12-31 11:51\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -160,6 +160,10 @@ msgstr "Adu mai aproape"
 #: ../src/core/control/tools/EditSelection.cpp:403
 msgid "Bring to front"
 msgstr "Adu în prim-plan"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:36
+msgid "Built on"
+msgstr "Data creării"
 
 #: ../src/core/control/Control.cpp:2315 ../src/core/control/Control.cpp:2792
 #: ../src/core/control/XournalMain.cpp:177
@@ -697,13 +701,21 @@ msgstr "Tipul de litere"
 msgid "Forward"
 msgstr "Înainte"
 
-#: ../src/core/gui/dialog/AboutDialog.cpp:46
+#: ../src/core/gui/dialog/AboutDialog.cpp:72
 msgid "GNU GPLv2 or later"
 msgstr "GNU GPLv2 sau o versiune ulterioară"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:39
+msgid "GTK Version"
+msgstr ""
 
 #: ../src/core/control/XournalMain.cpp:614
 msgid "Get version of xournalpp"
 msgstr "Obține versiunea xournalpp"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:46
+msgid "Git commit"
+msgstr "Commit Git"
 
 #: ../src/core/control/LatexController.cpp:76
 msgid "Global template file does not exist. Please check your settings."
@@ -1165,7 +1177,7 @@ msgstr "Du-te la pagina {1}"
 msgid "Search"
 msgstr "Caută"
 
-#: ../src/core/gui/dialog/AboutDialog.cpp:39
+#: ../src/core/gui/dialog/AboutDialog.cpp:65
 msgid "See the full list of contributors"
 msgstr "Vezi lista completă a contribuitorilor"
 
@@ -1558,6 +1570,10 @@ msgstr "Format grafic neacceptat: "
 #: ../src/core/control/Control.cpp:2311
 msgid "Use proposed PDF"
 msgstr "Folosește fișierul PDF propus"
+
+#: ../src/core/gui/dialog/AboutDialog.cpp:33
+msgid "Version"
+msgstr "Versiune"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:498
 msgid "Vertical Space"
@@ -2107,7 +2123,7 @@ msgstr "<i>Cu anumite reglări, unele creioane lasă imprecizii la începutul sc
 msgid "<i>You can configure devices, not identified by GTK as touchscreen, to behave as if they were one.</i>"
 msgstr "<i>Poți configura dispozitivele neidentificate de GTK ca fiind ecran tactil, pentru a se comporta ca și cum ar fi.</i>"
 
-#: ../ui/about.glade:206
+#: ../ui/about.glade:117
 msgid "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
 "<i>The next generation</i>"
 msgstr "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
@@ -2175,7 +2191,7 @@ msgstr "Înregistrare audio"
 msgid "Author: "
 msgstr "Autor: "
 
-#: ../ui/about.glade:452
+#: ../ui/about.glade:363
 msgid "Authors"
 msgstr "Autori"
 
@@ -2243,10 +2259,6 @@ msgstr "Adu în prim-plan"
 #: ../ui/settings.glade:1023
 msgid "Buffersize"
 msgstr "Dimensiune buffer"
-
-#: ../ui/about.glade:100
-msgid "Built on"
-msgstr "Data creării"
 
 #: ../ui/settings.glade:1851
 msgid "Button 1"
@@ -2597,10 +2609,6 @@ msgstr "Parametrul lui Gauss: creșterea valorii sale îmbunătățește stabili
 msgid "General LaTeX tool settings"
 msgstr "Reglări generale pentru LaTeX"
 
-#: ../ui/about.glade:115
-msgid "Git commit"
-msgstr "Commit Git"
-
 #: ../ui/settings.glade:3028
 msgid "Global"
 msgstr "Global"
@@ -2677,7 +2685,7 @@ msgid "How short (time)  AND...\n\n"
 msgstr "Cât de scurt (timp) Și...\n\n"
 "<i>Recomandat: 150 ms</i>"
 
-#: ../ui/about.glade:246
+#: ../ui/about.glade:157
 msgid "Icon Designers"
 msgstr "Creatori de simboluri"
 
@@ -2781,7 +2789,7 @@ msgstr "Aspect"
 msgid "Left / Right-Handed"
 msgstr "Stângaci / Dreptaci"
 
-#: ../ui/about.glade:424
+#: ../ui/about.glade:335
 msgid "License"
 msgstr "Licenţă"
 
@@ -2969,7 +2977,7 @@ msgstr "Culoare hârtiei"
 msgid "Paper _Format"
 msgstr "_Formatul hârtiei"
 
-#: ../ui/about.glade:299
+#: ../ui/about.glade:210
 msgid "Partially based on Xournal\n"
 "by Denis Auroux"
 msgstr "Bazat parțial pe Xournal\n"
@@ -3042,10 +3050,6 @@ msgstr "Multiplicatorul forței de apăsare: "
 #: ../ui/settings.glade:1673
 msgid "Pressure Sensitivity"
 msgstr "Sensibilitatea la apăsare"
-
-#: ../ui/about.glade:130
-msgid "RELEASE_IDENTIFIER"
-msgstr "RELEASE_IDENTIFIER"
 
 #: ../ui/settings.glade:3197
 msgid "Radius"
@@ -3218,7 +3222,7 @@ msgstr "Punct mic"
 msgid "Snapping"
 msgstr "Ancorare"
 
-#: ../ui/about.glade:359
+#: ../ui/about.glade:270
 msgid "Source Code / Bug Tracker"
 msgstr "Cod sursă / Urmărire erori"
 
@@ -3388,10 +3392,6 @@ msgstr "De obicei 0 sau 1"
 msgid "Velocity based Gaussian weights"
 msgstr "Valori Gaussiane bazate pe viteză"
 
-#: ../ui/about.glade:184
-msgid "Version"
-msgstr "Versiune"
-
 #: ../ui/pluginEntry.glade:131
 msgid "Version: "
 msgstr "Versiune: "
@@ -3400,7 +3400,7 @@ msgstr "Versiune: "
 msgid "View"
 msgstr "Vizualizare"
 
-#: ../ui/about.glade:331
+#: ../ui/about.glade:242
 msgid "Website"
 msgstr "Sit web"
 
@@ -3432,17 +3432,13 @@ msgstr "Lățime"
 msgid "Width:"
 msgstr "Lăţime:"
 
-#: ../ui/about.glade:396
+#: ../ui/about.glade:307
 msgid "With help from the community"
 msgstr "Cu ajutorul comunității"
 
 #: ../ui/latexSettings.glade:493
 msgid "Wrap text"
 msgstr "Automat pe un rând nou"
-
-#: ../ui/about.glade:158
-msgid "X.X.X"
-msgstr "X.X.X"
 
 #: ../ui/settings.glade:254
 msgid "Xournal++ Preferences"
@@ -3737,8 +3733,4 @@ msgstr "s <i>(după care ecranul tactil va fi reactivat)</i>"
 #: ../ui/main.glade:1721 ../ui/main.glade:1867 ../ui/main.glade:1976
 msgid "ver_y thick"
 msgstr "foarte _gros"
-
-#: ../ui/about.glade:143
-msgid "with libgtk"
-msgstr "cu libgtk"
 
