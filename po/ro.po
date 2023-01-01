@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-01 00:05+0000\n"
-"PO-Revision-Date: 2023-01-01 00:07\n"
+"POT-Creation-Date: 2023-01-01 06:40+0000\n"
+"PO-Revision-Date: 2023-01-01 06:46\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -29,7 +29,7 @@ msgid "\n"
 msgstr "\n"
 " Vrei să continui?"
 
-#: ../src/core/control/Control.cpp:2308
+#: ../src/core/control/Control.cpp:2322
 msgid "\n"
 "Proposed replacement file: \"{1}\""
 msgstr "\n"
@@ -66,7 +66,7 @@ msgstr "<span foreground='red' size='x-large'>Lipsește fișierul UI necesar:\n"
 msgid "Add missing page"
 msgstr "Adaugă pagina lipsă"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:475
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:476
 msgid "Add/Edit TeX"
 msgstr "Adaugă/Modifică TeX"
 
@@ -131,11 +131,11 @@ msgid "Audio folder not set or invalid! Recording won't work!\n"
 msgstr "Dosarul audio nu este stabilit sau e greșit! Înregistrarea nu va funcționa!\n"
 "Alege dosarul de înregistrare în „Preferințe > Înregistrare audio”"
 
-#: ../src/core/control/Control.cpp:255
+#: ../src/core/control/Control.cpp:259
 msgid "Autosave failed with an error: {1}"
 msgstr "Salvarea automată a eșuat cu o eroare: {1}"
 
-#: ../src/core/control/Control.cpp:235
+#: ../src/core/control/Control.cpp:239
 msgid "Autosave renamed from {1} to {2}"
 msgstr "Salvare automată redenumită din {1} în {2}"
 
@@ -143,8 +143,8 @@ msgstr "Salvare automată redenumită din {1} în {2}"
 msgid "Autosaving to {1}"
 msgstr "Salvare automată în {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:438
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:517
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:439
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:518
 msgid "Back"
 msgstr "Înapoi"
 
@@ -165,7 +165,7 @@ msgstr "Adu în prim-plan"
 msgid "Built on"
 msgstr "Data creării"
 
-#: ../src/core/control/Control.cpp:2320 ../src/core/control/Control.cpp:2797
+#: ../src/core/control/Control.cpp:2334 ../src/core/control/Control.cpp:2811
 #: ../src/core/control/XournalMain.cpp:177
 #: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
@@ -198,6 +198,10 @@ msgstr "Șterge lista"
 #: ../src/core/control/xojfile/LoadHandlerHelper.cpp:96
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
 msgstr "Culoare necunoscută: „{1}” (nu este definită în lista de culori prestabilită)!"
+
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:412
+msgid "Compass"
+msgstr ""
 
 #: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:169
 msgid "Contents"
@@ -295,7 +299,7 @@ msgstr "Nu s-a putut elimina instrumentul din banda cu instrumente {1} poziția 
 msgid "Could not remove tool item {1} from Toolbar {2} on position {3}"
 msgstr "Nu s-a putut elimina instrumentul {1} din banda cu instrumente {2} poziția {3}"
 
-#: ../src/core/control/Control.cpp:246
+#: ../src/core/control/Control.cpp:250
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
 msgstr "Nu s-a putut redenumi fișierul salvat automat din „{1}” în „{2}”: {3}"
 
@@ -333,7 +337,7 @@ msgstr "Personalizată"
 msgid "Custom Export"
 msgstr "Exportare personalizată"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:425
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:426
 msgid "Customize Toolbars"
 msgstr "Personalizare Benzi cu instrumente"
 
@@ -345,7 +349,7 @@ msgstr "Personalizate"
 msgid "Cut"
 msgstr "Taie"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:477
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:478
 msgid "Default Tool"
 msgstr "Instrument prestabilit"
 
@@ -358,7 +362,7 @@ msgstr "Elimină"
 msgid "Delete Logfile"
 msgstr "Elimină jurnalul"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:459
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:460
 msgid "Delete current page"
 msgstr "Elimină pagina actuală"
 
@@ -378,7 +382,7 @@ msgstr "Elimină acest strat"
 msgid "Delete this page"
 msgstr "Elimină această pagină"
 
-#: ../src/core/control/Control.cpp:2794
+#: ../src/core/control/Control.cpp:2808
 msgid "Discard"
 msgstr "Nu salva"
 
@@ -386,7 +390,7 @@ msgstr "Nu salva"
 msgid "Display advanced export options"
 msgstr "Arată opțiuni avansate de exportare"
 
-#: ../src/core/control/Control.cpp:2233
+#: ../src/core/control/Control.cpp:2247
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
@@ -398,7 +402,7 @@ msgstr "Nu deschide fișierele salvate automat. Acestea pot fi suprascrise!\n"
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr "Nu suprascrie fondul PDF! Acest lucru va provoca erori!"
 
-#: ../src/core/control/Control.cpp:2788
+#: ../src/core/control/Control.cpp:2802
 msgid "Document file was removed."
 msgstr "Fișierul documentului a fost eliminat."
 
@@ -421,24 +425,24 @@ msgstr "Punctată"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:134
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:38
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:486
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:487
 msgid "Draw Arrow"
 msgstr "Desenează săgeți"
 
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:39
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:488
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:489
 msgid "Draw Double Arrow"
 msgstr "Desenează săgeți duble"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:132
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:36
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:485
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:486
 msgid "Draw Ellipse"
 msgstr "Desenează elipse"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:128
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:41
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:491
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:492
 msgid "Draw Line"
 msgstr "Desenează drepte"
 
@@ -446,19 +450,19 @@ msgstr "Desenează drepte"
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:34
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:100
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:103
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:484
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:485
 msgid "Draw Rectangle"
 msgstr "Desenează dreptunghiuri"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:140
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:46
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:492
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:493
 msgid "Draw Spline"
 msgstr "Desenează curbe"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:136
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:42
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:490
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:491
 msgid "Draw coordinate system"
 msgstr "Desenează sistemul de coordonate"
 
@@ -513,7 +517,7 @@ msgstr "Șterge linia"
 msgid "Eraser"
 msgstr "Gumă"
 
-#: ../src/core/control/Control.cpp:2524
+#: ../src/core/control/Control.cpp:2538
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr "Eroare la însemnarea fișierului PDF „{1}”\n"
@@ -523,7 +527,7 @@ msgstr "Eroare la însemnarea fișierului PDF „{1}”\n"
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
 msgstr "Eroare la încărcarea fișierului glade „{1}” (încerc să încarc „{2}”)"
 
-#: ../src/core/control/Control.cpp:2351
+#: ../src/core/control/Control.cpp:2365
 msgid "Error opening file \"{1}\""
 msgstr "Eroare la deschiderea fișierului „{1}”"
 
@@ -673,11 +677,11 @@ msgid "File couldn't be opened. You have to do it manually:\n"
 msgstr "Fișierul nu a putut fi deschis. Trebuie deschis manual:\n"
 "URL: {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:544
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:545
 msgid "Fill"
 msgstr "Umplere"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:545
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:546
 msgid "Fill Opacity"
 msgstr "Opacitatea umplerii"
 
@@ -685,7 +689,7 @@ msgstr "Opacitatea umplerii"
 msgid "Filter input pressure. Multiply the pressure by the pressure multiplier. If less than the minimum, use the minimum pressure."
 msgstr "Filtrează forța de apăsare. Înmulțește forța de apăsare cu multiplicatorul forței de apăsare. Dacă este mai mică decât valoarea minimă, se folosește apăsarea minimă."
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:564
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:565
 msgid "Fine"
 msgstr "Subțire"
 
@@ -697,7 +701,7 @@ msgstr "Caseta cu instrumente mobilă (experimental)"
 msgid "Font"
 msgstr "Tipul de litere"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:514
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:515
 msgid "Forward"
 msgstr "Înainte"
 
@@ -725,27 +729,27 @@ msgstr "Fișierul modelului global nu există. Controlează configurarea."
 msgid "Global template file is not a regular file. Please check your settings. "
 msgstr "Fișierul modelului global nu este un fișier obișnuit. Controlează configurarea. "
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:437
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:438
 msgid "Go to first page"
 msgstr "Du-te la prima pagină"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:441
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:442
 msgid "Go to last page"
 msgstr "Du-te la ultima pagină"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:444
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:445
 msgid "Go to next layer"
 msgstr "Du-te la stratul următor"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:439
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:440
 msgid "Go to page"
 msgstr "Du-te la pagina"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:443
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:444
 msgid "Go to previous layer"
 msgstr "Du-te la stratul anterior"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:445
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:446
 msgid "Go to top layer"
 msgstr "Du-te la cel mai de sus strat"
 
@@ -762,7 +766,7 @@ msgid "GtkSourceView was disabled when building Xournal++! Some options will not
 msgstr "GtkSourceView a fost dezactivat la crearea Xournal++! Unele opțiuni nu vor fi disponibile."
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:96
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:500
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:501
 msgid "Hand"
 msgstr "Mână"
 
@@ -771,12 +775,12 @@ msgid "Hide all"
 msgstr "Ascunde tot"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:90
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:472
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:473
 msgid "Highlighter"
 msgstr "Evidențiator"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:33
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:476
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:477
 msgid "Image"
 msgstr "Imagine"
 
@@ -821,7 +825,7 @@ msgstr "Introdu LaTeX"
 msgid "Insert layer"
 msgstr "Introdu un strat"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:455
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:456
 msgid "Insert page"
 msgstr "Introdu o pagină"
 
@@ -871,11 +875,11 @@ msgstr "Previzualizare straturi"
 msgid "Loading..."
 msgstr "Se încarcă..."
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:424
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:425
 msgid "Manage Toolbars"
 msgstr "Gestionare benzi cu instrumente"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:565
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:566
 msgid "Medium"
 msgstr "Mediu"
 
@@ -907,11 +911,11 @@ msgstr "Nou"
 msgid "New Xournal"
 msgstr "Document nou"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:440
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:441
 msgid "Next"
 msgstr "Următoarea"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:448
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:449
 msgid "Next annotated page"
 msgstr "Pagina următoare cu însemnări"
 
@@ -924,7 +928,7 @@ msgstr "Niciun dispozitiv"
 msgid "No pages to export!"
 msgstr "Nicio pagină de exportat!"
 
-#: ../src/core/control/Control.cpp:1460
+#: ../src/core/control/Control.cpp:1474
 msgid "No pdf pages available to append. You may need to reopen the document first."
 msgstr "Nu există pagini PDF disponibile pentru a fi adăugate. Poate că trebuie redeschis mai întâi documentul."
 
@@ -1033,7 +1037,7 @@ msgstr "Numărul paginii"
 msgid "Page type format is PageTypeFormat::Copy - converted to PageTypeFormat::Plain to avoid corrupted file"
 msgstr "Formatul tipului de pagină PageTypeFormat::Copy - convertit în PageTypeFormat::Plain pentru a evita deteriorarea fișierului"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:419
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:420
 msgid "Paired pages"
 msgstr "Pagini alăturate"
 
@@ -1042,7 +1046,7 @@ msgstr "Pagini alăturate"
 msgid "Paste"
 msgstr "Lipește"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:508
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:509
 msgid "Pause / Play"
 msgstr "Pauză / Pornire"
 
@@ -1055,7 +1059,7 @@ msgstr "Creion"
 msgid "Plain"
 msgstr "Albă"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:499
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:500
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:80
 msgid "Play Object"
@@ -1065,7 +1069,7 @@ msgstr "Redă obiectul"
 msgid "Predefined"
 msgstr "Predefinite"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:421
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:422
 msgid "Presentation mode"
 msgstr "Prezentare"
 
@@ -1077,11 +1081,11 @@ msgstr "Limba aleasă anterior nu mai este valabilă!"
 msgid "Print"
 msgstr "Tipărește"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:506
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:507
 msgid "Record Audio / Stop Recording"
 msgstr "Înregistrare audio / Oprire înregistrare"
 
-#: ../src/core/control/Control.cpp:990
+#: ../src/core/control/Control.cpp:1004
 msgid "Recorder could not be started."
 msgstr "Înregistratorul nu a putut fi pornit."
 
@@ -1094,7 +1098,7 @@ msgstr "Refă"
 msgid "Redo: "
 msgstr "Refă: "
 
-#: ../src/core/control/Control.cpp:2319
+#: ../src/core/control/Control.cpp:2333
 msgid "Remove PDF Background"
 msgstr "Elimină fondul PDF"
 
@@ -1146,16 +1150,16 @@ msgstr "Grafică SVG"
 msgid "Sample LaTeX file generated successfully."
 msgstr "Exemplu de fișier LaTeX generat cu succes."
 
-#: ../src/core/control/Control.cpp:2789 ../src/core/control/jobs/SaveJob.cpp:25
+#: ../src/core/control/Control.cpp:2803 ../src/core/control/jobs/SaveJob.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:384
 msgid "Save"
 msgstr "Salvează"
 
-#: ../src/core/control/Control.cpp:2789
+#: ../src/core/control/Control.cpp:2803
 msgid "Save As..."
 msgstr "Salvează ca..."
 
-#: ../src/core/control/Control.cpp:2623
+#: ../src/core/control/Control.cpp:2637
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:85
 msgid "Save File"
 msgstr "Salvează fișierul"
@@ -1185,17 +1189,17 @@ msgstr "Vezi lista completă a contribuitorilor"
 msgid "Select Area Text from pdf"
 msgstr "Alege o zonă de text din PDF"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:502
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:503
 msgid "Select Font"
 msgstr "Alege tipul de litere"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:481
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:482
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:19
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:22
 msgid "Select Linear PDF Text"
 msgstr "Alege text PDF liniar"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:497
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:498
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:24
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:74
 msgid "Select Object"
@@ -1213,7 +1217,7 @@ msgstr "Alege text PDF"
 msgid "Select PDF Text In Rectangle"
 msgstr "Alege textul PDF din dreptunghi"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:483
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:484
 msgid "Select PDF Text in Rectangle"
 msgstr "Alege textul PDF din dreptunghi"
 
@@ -1221,14 +1225,14 @@ msgstr "Alege textul PDF din dreptunghi"
 msgid "Select Pdf Text"
 msgstr "Alege text PDF"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:496
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:497
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:22
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:62
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:95
 msgid "Select Rectangle"
 msgstr "Selecție dreptunghiulară"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:494
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:495
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:23
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:68
 msgid "Select Region"
@@ -1238,7 +1242,7 @@ msgstr "Alege o zonă"
 msgid "Select Text from pdf"
 msgstr "Alege textul din PDF"
 
-#: ../src/core/control/Control.cpp:2318
+#: ../src/core/control/Control.cpp:2332
 msgid "Select another PDF"
 msgstr "Alege un alt PDF"
 
@@ -1308,7 +1312,7 @@ msgstr "Alege lățimea paginii pentru exportările PNG\n"
 msgid "Setsquare"
 msgstr "Echer"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:479
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:480
 msgid "Shape Recognizer"
 msgstr "Recunoaște forma"
 
@@ -1340,7 +1344,7 @@ msgstr "Momentan, Xournal++ nu poate deschide fișiere de la distanță.\n"
 msgid "Staves"
 msgstr "Portative"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:511
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:512
 msgid "Stop"
 msgstr "Stop"
 
@@ -1379,7 +1383,7 @@ msgid "System Default"
 msgstr "Limba sistemului"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:91
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:474
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:475
 msgid "Text"
 msgstr "Text"
 
@@ -1412,15 +1416,15 @@ msgstr "Textul nu a fost găsit"
 msgid "Text not found, searched on all pages"
 msgstr "Textul nu a fost găsit, căutat pe toate paginile"
 
-#: ../src/core/control/Control.cpp:1234
+#: ../src/core/control/Control.cpp:1248
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
 msgstr "Configurarea benzii cu instrumente „{1}” este predefinită. Vrei să modifici o copie?"
 
-#: ../src/core/control/Control.cpp:2295
+#: ../src/core/control/Control.cpp:2309
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
 msgstr "Fișierul fondului atașat nu a putut fi găsit. Este posibil să fi fost mutat, redenumit sau șters."
 
-#: ../src/core/control/Control.cpp:2298
+#: ../src/core/control/Control.cpp:2312
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
 "It was last seen at: \"{2}\""
 msgstr "Fișierul fondului „{1}” nu a putut fi găsit. Este posibil să fi fost mutat, redenumit sau șters.\n"
@@ -1430,7 +1434,7 @@ msgstr "Fișierul fondului „{1}” nu a putut fi găsit. Este posibil să fi f
 msgid "The check for overwriting the background failed with:\n"
 msgstr "Verificarea pentru suprascrierea fondului a eșuat cu:\n"
 
-#: ../src/core/control/Control.cpp:2359
+#: ../src/core/control/Control.cpp:2373
 msgid "The file being loaded has a file format version newer than the one currently supported by this version of Xournal++, so it may not load properly. Open anyways?"
 msgstr "Fișierul în curs de încărcare are o versiune de format mai nouă decât cea acceptată în prezent de această versiune de Xournal++, deci este posibil să nu se încarce în mod corespunzător. Deschizi oricum?"
 
@@ -1470,11 +1474,11 @@ msgstr "Există un fișier de erori din Xournal++. Trimite un raport pentru ca e
 msgid "There was an error displaying help: {1}"
 msgstr "A apărut o eroare la afișarea ajutorului: {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:566
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:567
 msgid "Thick"
 msgstr "Gros"
 
-#: ../src/core/control/Control.cpp:2788
+#: ../src/core/control/Control.cpp:2802
 msgid "This document is not saved yet."
 msgstr "Acest document nu este salvat încă."
 
@@ -1482,7 +1486,7 @@ msgstr "Acest document nu este salvat încă."
 msgid "This image could not be loaded. Error message: {1}"
 msgstr "Această imagine nu a putut fi încărcată. Mesaj de eroare: {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:422
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:423
 msgid "Toggle fullscreen"
 msgstr "Act/Dez Pe tot ecranul"
 
@@ -1510,7 +1514,7 @@ msgstr "Fișierul modelului global de la {1} nu poate fi deschis. Sigur există?
 msgid "Unable to play audio recording {1}"
 msgstr "Imposibil de redat înregistrarea audio {1}"
 
-#: ../src/core/control/Control.cpp:1474
+#: ../src/core/control/Control.cpp:1488
 msgid "Unable to retrieve pdf page."
 msgstr "Nu s-a putut afișa pagina pdf."
 
@@ -1559,7 +1563,7 @@ msgstr "Tip necunoscut de contur: „{1}”, se presupune a fi un cerc"
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr "Tip necunoscut de linie: „{1}”, se presupune a fi de creion"
 
-#: ../src/core/control/Control.cpp:2680
+#: ../src/core/control/Control.cpp:2694
 msgid "Unsaved Document"
 msgstr "Document nesalvat"
 
@@ -1567,7 +1571,7 @@ msgstr "Document nesalvat"
 msgid "Unsupported graphics format: "
 msgstr "Format grafic neacceptat: "
 
-#: ../src/core/control/Control.cpp:2316
+#: ../src/core/control/Control.cpp:2330
 msgid "Use proposed PDF"
 msgstr "Folosește fișierul PDF propus"
 
@@ -1575,7 +1579,7 @@ msgstr "Folosește fișierul PDF propus"
 msgid "Version"
 msgstr "Versiune"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:498
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:499
 msgid "Vertical Space"
 msgstr "Spațiu vertical"
 
@@ -1583,11 +1587,11 @@ msgstr "Spațiu vertical"
 msgid "Vertical space"
 msgstr "Spaţiu vertical"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:563
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:564
 msgid "Very Fine"
 msgstr "Foarte subțire"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:567
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:568
 msgid "Very Thick"
 msgstr "Foarte gros"
 
@@ -1623,7 +1627,7 @@ msgstr "Fișiere Xournal"
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr "Xournal++ s-a blocat ultima dată. Vrei să recuperezi ultimul fișier?"
 
-#: ../src/core/control/Control.cpp:2629
+#: ../src/core/control/Control.cpp:2643
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal++ files"
 msgstr "Fișier Xournal++"
@@ -1655,23 +1659,23 @@ msgstr "Documentul tău nu conține pagina PDF nr. {1}\n"
 msgid "Zoom Slider"
 msgstr "Cursor zoom"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:429
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:430
 msgid "Zoom fit to screen"
 msgstr "Zoom adaptat ferestrei"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:428
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:429
 msgid "Zoom in"
 msgstr "Mărește"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:427
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:428
 msgid "Zoom out"
 msgstr "Micșorează"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:430
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:431
 msgid "Zoom to 100%"
 msgstr "Zoom 100%"
 
-#: ../src/core/control/Control.cpp:2623
+#: ../src/core/control/Control.cpp:2637
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:15
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
@@ -1684,7 +1688,7 @@ msgstr "_Renunță"
 msgid "_Open"
 msgstr "_Deschide"
 
-#: ../src/core/control/Control.cpp:2624
+#: ../src/core/control/Control.cpp:2638
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:86
 msgid "_Save"
@@ -1727,7 +1731,7 @@ msgstr "elemente"
 msgid "eraser"
 msgstr "gumă"
 
-#: ../src/core/control/Control.cpp:2247
+#: ../src/core/control/Control.cpp:2261
 msgid "file: {1}"
 msgstr "fișier: {1}"
 
@@ -2320,7 +2324,7 @@ msgstr "Copiază în schimb fondul paginii actuale"
 msgid "Copy current page size instead"
 msgstr "Copiază în schimb dimensiunile paginii actuale"
 
-#: ../ui/main.glade:2744
+#: ../ui/main.glade:2754
 msgid "Copy selected text"
 msgstr "Copiază textul ales"
 
@@ -2476,7 +2480,7 @@ msgstr "Zona de desenare"
 msgid "Drawing Tools - Set Modifiers by Draw Direction (Experimental)"
 msgstr "Instrumente de desenare - Stabilește modificatori în funcție de direcția de desenare (Experimental)"
 
-#: ../ui/main.glade:2878 ../ui/main.glade:2915
+#: ../ui/main.glade:2888 ../ui/main.glade:2925
 msgid "Duplicate"
 msgstr "Duplicat"
 
@@ -2484,7 +2488,7 @@ msgstr "Duplicat"
 msgid "Duplicate Page"
 msgstr "Pagină duplicat"
 
-#: ../ui/main.glade:2952
+#: ../ui/main.glade:2962
 msgid "Edit (not implemented yet)"
 msgstr "Modifică (nu este implementat încă)"
 
@@ -2544,7 +2548,7 @@ msgstr "Activează gesturile pentru zoom (trebuie repornit programul)"
 msgid "Enter / edit LaTeX Text"
 msgstr "Introdu/modifică textul LaTeX"
 
-#: ../ui/main.glade:1812
+#: ../ui/main.glade:1822
 msgid "Eraser Optio_ns"
 msgstr "Opțiu_ni pentru Gumă"
 
@@ -2569,11 +2573,11 @@ msgstr "Exportă straturile pe rând"
 msgid "Export the document without any background (None) or with PDF and image backgrounds only (No ruling) or with all background types (All)."
 msgstr "Exportă documentul fără niciun fond (Niciunul) sau numai cu fonduri PDF și de imagine (Fără liniere) sau cu toate tipurile de fond (Toate)."
 
-#: ../ui/main.glade:1788 ../ui/main.glade:1993
+#: ../ui/main.glade:1798 ../ui/main.glade:2003
 msgid "Fi_ll"
 msgstr "Ump_lere"
 
-#: ../ui/main.glade:1798 ../ui/main.glade:2003
+#: ../ui/main.glade:1808 ../ui/main.glade:2013
 msgid "Fill opacity"
 msgstr "Opacitatea umplerii"
 
@@ -2581,11 +2585,11 @@ msgstr "Opacitatea umplerii"
 msgid "Finalize the stroke"
 msgstr "Termină linia"
 
-#: ../ui/main.glade:2542
+#: ../ui/main.glade:2552
 msgid "Find next occurrence of the search string"
 msgstr "Caută următoarea apariție a textului"
 
-#: ../ui/main.glade:2520
+#: ../ui/main.glade:2530
 msgid "Find previous occurrence of the search string"
 msgstr "Caută apariția anterioară a textului"
 
@@ -2669,11 +2673,11 @@ msgstr "Ascunde bara verticală de răsfoire"
 msgid "Highlight cursor position"
 msgstr "Evidențiază poziția cursorului"
 
-#: ../ui/main.glade:2766
+#: ../ui/main.glade:2776
 msgid "Highlight selected text"
 msgstr "Evidențiază textul ales"
 
-#: ../ui/main.glade:1921
+#: ../ui/main.glade:1931
 msgid "Highlighter Opti_ons"
 msgstr "Opțiuni pentru Evidențiat_or"
 
@@ -2757,11 +2761,11 @@ msgstr "Stabilizarea poate crea un gol la sfârșitul liniei trasate. Dacă bife
 msgid "Insert Latex"
 msgstr "Introdu LaTeX"
 
-#: ../ui/main.glade:2907
+#: ../ui/main.glade:2917
 msgid "Insert Page After"
 msgstr "Introdu o pagină după"
 
-#: ../ui/main.glade:2899
+#: ../ui/main.glade:2909
 msgid "Insert Page Before"
 msgstr "Introdu o pagină înainte"
 
@@ -2837,7 +2841,7 @@ msgstr "Lungime maximă (mm)"
 msgid "Max multiplier"
 msgstr "Multiplicator maxim"
 
-#: ../ui/main.glade:2870
+#: ../ui/main.glade:2880
 msgid "Merge Down"
 msgstr "Unește jos"
 
@@ -2875,7 +2879,7 @@ msgstr "Butoanele Mausului"
 msgid "Mouse+Keyboard Combo"
 msgstr "Maus+Tastatură împreună"
 
-#: ../ui/main.glade:2862 ../ui/main.glade:2937
+#: ../ui/main.glade:2872 ../ui/main.glade:2947
 msgid "Move Down"
 msgstr "Mută în jos"
 
@@ -2887,7 +2891,7 @@ msgstr "Mută jos selecția stratului"
 msgid "Move Selection Layer Up"
 msgstr "Mută sus selecția stratului"
 
-#: ../ui/main.glade:2854 ../ui/main.glade:2929
+#: ../ui/main.glade:2864 ../ui/main.glade:2939
 msgid "Move Up"
 msgstr "Mută în sus"
 
@@ -2991,11 +2995,11 @@ msgstr "Bazat parțial pe Xournal\n"
 msgid "Path: "
 msgstr "Cale: "
 
-#: ../ui/main.glade:2039
+#: ../ui/main.glade:2049
 msgid "Pause"
 msgstr "Pauză"
 
-#: ../ui/main.glade:1666
+#: ../ui/main.glade:1676
 msgid "Pen _Options"
 msgstr "_Opțiuni pentru Creion"
 
@@ -3015,7 +3019,7 @@ msgstr "Reglări de redare"
 msgid "Plugin Manager"
 msgstr "Gestionare Module"
 
-#: ../ui/main.glade:2104
+#: ../ui/main.glade:2114
 msgid "Plugin _Manager"
 msgstr "Gestionare _Module"
 
@@ -3071,7 +3075,7 @@ msgstr "Reîncarcă atunci când zoomul paginii se schimbă cu mai mult de "
 msgid "Recent _Documents"
 msgstr "Documente recente"
 
-#: ../ui/main.glade:2029
+#: ../ui/main.glade:2039
 msgid "Record / Stop"
 msgstr "Înregistrare / Oprire"
 
@@ -3250,7 +3254,7 @@ msgstr "Începe zoomul după o anumită distanță "
 msgid "Storage Folder"
 msgstr "Alege dosarul"
 
-#: ../ui/main.glade:2806
+#: ../ui/main.glade:2816
 msgid "Strikethrough selected text"
 msgstr "Taie cu o linie textul ales"
 
@@ -3307,7 +3311,7 @@ msgstr "Testează configurarea"
 msgid "Test if the current configuration is valid by running the LaTeX generation command on the global template file with a test formula."
 msgstr "Verifică dacă este valabilă configurarea actuală, prin executarea comenzii de generare LaTeX pe fișierul modelului global, cu o formulă de test."
 
-#: ../ui/main.glade:2017
+#: ../ui/main.glade:2027
 msgid "Text Font..."
 msgstr "Tipul de litere al textului..."
 
@@ -3339,7 +3343,7 @@ msgstr "Aceste configurări vor fi folosite pentru paginile noi"
 msgid "Timeout"
 msgstr "Timp"
 
-#: ../ui/main.glade:2826
+#: ../ui/main.glade:2836
 msgid "Toggle standard / region text selection"
 msgstr "Schimbă modul de alegere a textului"
 
@@ -3364,7 +3368,7 @@ msgstr "Încearcă mai întâi să alegi obiectul."
 msgid "Try to select object first; if nothing selected then show floating toolbox if enabled."
 msgstr "Încearcă mai întâi să alegi obiectul; dacă nu este ales nimic, atunci arată caseta cu instrumente mobilă dacă este activată."
 
-#: ../ui/main.glade:2786
+#: ../ui/main.glade:2796
 msgid "Underline selected text"
 msgstr "Subliniază textul ales"
 
@@ -3572,7 +3576,7 @@ msgstr "_Prima pagină"
 msgid "_Goto Page"
 msgstr "_Du-te la pagina"
 
-#: ../ui/main.glade:2118
+#: ../ui/main.glade:2128
 msgid "_Help"
 msgstr "_Ajutor"
 
@@ -3624,7 +3628,7 @@ msgstr "_Pagini alăturate"
 msgid "_Pen"
 msgstr "_Creion"
 
-#: ../ui/main.glade:2093
+#: ../ui/main.glade:2103
 msgid "_Plugin"
 msgstr "_Module"
 
@@ -3676,31 +3680,31 @@ msgstr "_Spațiu vertical"
 msgid "_View"
 msgstr "_Vizualizare"
 
-#: ../ui/main.glade:1906
+#: ../ui/main.glade:1916
 msgid "_delete strokes"
 msgstr "_elimină linii"
 
-#: ../ui/main.glade:1688 ../ui/main.glade:1834 ../ui/main.glade:1943
+#: ../ui/main.glade:1698 ../ui/main.glade:1844 ../ui/main.glade:1953
 msgid "_fine"
 msgstr "_subțire"
 
-#: ../ui/main.glade:1699 ../ui/main.glade:1845 ../ui/main.glade:1954
+#: ../ui/main.glade:1709 ../ui/main.glade:1855 ../ui/main.glade:1964
 msgid "_medium"
 msgstr "_mediu"
 
-#: ../ui/main.glade:1884
+#: ../ui/main.glade:1894
 msgid "_standard"
 msgstr "_standard"
 
-#: ../ui/main.glade:1710 ../ui/main.glade:1856 ../ui/main.glade:1965
+#: ../ui/main.glade:1720 ../ui/main.glade:1866 ../ui/main.glade:1975
 msgid "_thick"
 msgstr "_gros"
 
-#: ../ui/main.glade:1677 ../ui/main.glade:1823 ../ui/main.glade:1932
+#: ../ui/main.glade:1687 ../ui/main.glade:1833 ../ui/main.glade:1942
 msgid "_very fine"
 msgstr "_foarte subțire"
 
-#: ../ui/main.glade:1895
+#: ../ui/main.glade:1905
 msgid "_whiteout"
 msgstr "_albește"
 
@@ -3738,7 +3742,7 @@ msgstr "pixeli"
 msgid "s <i>(after which the touchscreen will be reactivated again)</i>"
 msgstr "s <i>(după care ecranul tactil va fi reactivat)</i>"
 
-#: ../ui/main.glade:1721 ../ui/main.glade:1867 ../ui/main.glade:1976
+#: ../ui/main.glade:1731 ../ui/main.glade:1877 ../ui/main.glade:1986
 msgid "ver_y thick"
 msgstr "foarte _gros"
 
