@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-31 11:34+0000\n"
-"PO-Revision-Date: 2022-12-31 11:51\n"
+"POT-Creation-Date: 2023-01-01 00:05+0000\n"
+"PO-Revision-Date: 2023-01-01 00:08\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -29,7 +29,7 @@ msgid "\n"
 msgstr "\n"
 "Apakah Anda ingin melanjutkan?"
 
-#: ../src/core/control/Control.cpp:2303
+#: ../src/core/control/Control.cpp:2308
 msgid "\n"
 "Proposed replacement file: \"{1}\""
 msgstr ""
@@ -39,7 +39,7 @@ msgctxt "Page {pagenumber} \"of {pagecount}\""
 msgid " of {1}"
 msgstr " dari {1}"
 
-#: ../src/core/control/settings/Settings.cpp:142
+#: ../src/core/control/settings/Settings.cpp:144
 msgid "%F-Note-%H-%M"
 msgstr "%F-Catatan-%H-%M"
 
@@ -164,7 +164,7 @@ msgstr "Bawa ke depan"
 msgid "Built on"
 msgstr "Dibuat pada"
 
-#: ../src/core/control/Control.cpp:2315 ../src/core/control/Control.cpp:2792
+#: ../src/core/control/Control.cpp:2320 ../src/core/control/Control.cpp:2797
 #: ../src/core/control/XournalMain.cpp:177
 #: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
@@ -377,7 +377,7 @@ msgstr "Hapus layer ini"
 msgid "Delete this page"
 msgstr "Hapus halaman ini"
 
-#: ../src/core/control/Control.cpp:2789
+#: ../src/core/control/Control.cpp:2794
 msgid "Discard"
 msgstr "Buang"
 
@@ -385,7 +385,7 @@ msgstr "Buang"
 msgid "Display advanced export options"
 msgstr "Tampilkan opsi ekspor lanjutan"
 
-#: ../src/core/control/Control.cpp:2228
+#: ../src/core/control/Control.cpp:2233
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
@@ -397,7 +397,7 @@ msgstr "Jangan membuka berkas Simpan Otomatis. Berkas itu mungkin akan ditimpa!\
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr "Jangan menimpa PDF latar belakang! Ini mungkin akan menyebabkan kesalahan!"
 
-#: ../src/core/control/Control.cpp:2783
+#: ../src/core/control/Control.cpp:2788
 msgid "Document file was removed."
 msgstr "Berkas dokumen telah dihapus."
 
@@ -512,7 +512,7 @@ msgstr "Hapus goresan"
 msgid "Eraser"
 msgstr "Penghapus"
 
-#: ../src/core/control/Control.cpp:2519
+#: ../src/core/control/Control.cpp:2524
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr "Kesalahan saat anotasi berkas PDF \"{1}\"\n"
@@ -522,7 +522,7 @@ msgstr "Kesalahan saat anotasi berkas PDF \"{1}\"\n"
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
 msgstr "Kesalahan saat memuat berkas glade \"{1}\" (cobalah memuat \"{2}\")"
 
-#: ../src/core/control/Control.cpp:2346
+#: ../src/core/control/Control.cpp:2351
 msgid "Error opening file \"{1}\""
 msgstr "Kesalahan ketika membuka berkas \"{1}\""
 
@@ -919,7 +919,7 @@ msgstr "Tidak ada perangkat"
 msgid "No pages to export!"
 msgstr "Tidak ada halaman untuk diekspor!"
 
-#: ../src/core/control/Control.cpp:1458
+#: ../src/core/control/Control.cpp:1460
 msgid "No pdf pages available to append. You may need to reopen the document first."
 msgstr "Tidak ada halaman pdf yang bisa ditambahkan. Anda mungkin perlu membuka dokumen itu terlebih dahulu."
 
@@ -1088,7 +1088,7 @@ msgstr "Ulangi"
 msgid "Redo: "
 msgstr "Ulangi: "
 
-#: ../src/core/control/Control.cpp:2314
+#: ../src/core/control/Control.cpp:2319
 msgid "Remove PDF Background"
 msgstr "Buang Latar Belakang PDF"
 
@@ -1140,16 +1140,16 @@ msgstr "Grafik SVG"
 msgid "Sample LaTeX file generated successfully."
 msgstr "Sampel berkas LaTeX berhasil dibuat."
 
-#: ../src/core/control/Control.cpp:2784 ../src/core/control/jobs/SaveJob.cpp:25
+#: ../src/core/control/Control.cpp:2789 ../src/core/control/jobs/SaveJob.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:384
 msgid "Save"
 msgstr "Simpan"
 
-#: ../src/core/control/Control.cpp:2784
+#: ../src/core/control/Control.cpp:2789
 msgid "Save As..."
 msgstr "Simpan Sebagai..."
 
-#: ../src/core/control/Control.cpp:2618
+#: ../src/core/control/Control.cpp:2623
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:85
 msgid "Save File"
 msgstr "Simpan Berkas"
@@ -1232,7 +1232,7 @@ msgstr "Pilih Bidang"
 msgid "Select Text from pdf"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2313
+#: ../src/core/control/Control.cpp:2318
 msgid "Select another PDF"
 msgstr "Pilih PDF lain"
 
@@ -1405,11 +1405,11 @@ msgstr "Teks tidak ditemukan, mencari di semua halaman"
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
 msgstr "Konfigurasi bilah alat \"{1}\" sudah ada secara bawaan, apakah Anda ingin membuat salinan untuk mengeditnya?"
 
-#: ../src/core/control/Control.cpp:2290
+#: ../src/core/control/Control.cpp:2295
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2293
+#: ../src/core/control/Control.cpp:2298
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
 "It was last seen at: \"{2}\""
 msgstr ""
@@ -1418,7 +1418,7 @@ msgstr ""
 msgid "The check for overwriting the background failed with:\n"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2354
+#: ../src/core/control/Control.cpp:2359
 msgid "The file being loaded has a file format version newer than the one currently supported by this version of Xournal++, so it may not load properly. Open anyways?"
 msgstr ""
 
@@ -1462,7 +1462,7 @@ msgstr "Terjadi kesalahan saat menampilkan bantuan: {1}"
 msgid "Thick"
 msgstr "Tebal"
 
-#: ../src/core/control/Control.cpp:2783
+#: ../src/core/control/Control.cpp:2788
 msgid "This document is not saved yet."
 msgstr "Dokumen ini belum disimpan."
 
@@ -1498,7 +1498,7 @@ msgstr ""
 msgid "Unable to play audio recording {1}"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:1472
+#: ../src/core/control/Control.cpp:1474
 msgid "Unable to retrieve pdf page."
 msgstr ""
 
@@ -1547,7 +1547,7 @@ msgstr ""
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr "Tipe goresan tidak diketahui: \"{1}\", diasumsikan pena"
 
-#: ../src/core/control/Control.cpp:2675
+#: ../src/core/control/Control.cpp:2680
 msgid "Unsaved Document"
 msgstr "Dokumen Belum Disimpan"
 
@@ -1555,7 +1555,7 @@ msgstr "Dokumen Belum Disimpan"
 msgid "Unsupported graphics format: "
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2311
+#: ../src/core/control/Control.cpp:2316
 msgid "Use proposed PDF"
 msgstr ""
 
@@ -1611,7 +1611,7 @@ msgstr "Berkas Xournal"
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr "Xournal++ telah mengalami crash. Apakah Anda ingin mengembalikan berkas yang terakhir diedit?"
 
-#: ../src/core/control/Control.cpp:2624
+#: ../src/core/control/Control.cpp:2629
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal++ files"
 msgstr "Berkas Xournal++"
@@ -1659,7 +1659,7 @@ msgstr "Perkecil"
 msgid "Zoom to 100%"
 msgstr "Perbesar ke 100%"
 
-#: ../src/core/control/Control.cpp:2618
+#: ../src/core/control/Control.cpp:2623
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:15
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
@@ -1672,7 +1672,7 @@ msgstr "_Batal"
 msgid "_Open"
 msgstr "B_uka"
 
-#: ../src/core/control/Control.cpp:2619
+#: ../src/core/control/Control.cpp:2624
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:86
 msgid "_Save"
@@ -1715,7 +1715,7 @@ msgstr "elemen"
 msgid "eraser"
 msgstr "penghapus"
 
-#: ../src/core/control/Control.cpp:2242
+#: ../src/core/control/Control.cpp:2247
 msgid "file: {1}"
 msgstr ""
 
@@ -1840,7 +1840,7 @@ msgstr ""
 msgid "%%XPP_TOOL_INPUT%%"
 msgstr ""
 
-#: ../ui/settings.glade:5139
+#: ../ui/settings.glade:5217
 msgid "%."
 msgstr "%."
 
@@ -1874,7 +1874,7 @@ msgstr ""
 msgid "(requires restart)"
 msgstr ""
 
-#: ../ui/settings.glade:4979
+#: ../ui/settings.glade:5057
 msgid "... AND How much time must have passed since last stroke.\n\n"
 "<i>Recommended: 500ms</i>"
 msgstr "... DAN Berapa berapa lama waktu sejak goresan terakhir.\n\n"
@@ -1888,11 +1888,11 @@ msgstr ""
 msgid "0,50"
 msgstr ""
 
-#: ../ui/settings.glade:5123
+#: ../ui/settings.glade:5201
 msgid "0.00"
 msgstr ""
 
-#: ../ui/settings.glade:4828
+#: ../ui/settings.glade:4906
 msgid "0.20"
 msgstr ""
 
@@ -1900,7 +1900,7 @@ msgstr ""
 msgid "1"
 msgstr "1"
 
-#: ../ui/settings.glade:5770
+#: ../ui/settings.glade:5848
 msgid "1,00"
 msgstr "1.00"
 
@@ -1944,7 +1944,7 @@ msgstr "<b>Warna</b>"
 msgid "<b>Default Tools</b>"
 msgstr "<b>Alat Bawaan</b>"
 
-#: ../ui/settings.glade:5316
+#: ../ui/settings.glade:5394
 msgid "<b>Default</b>"
 msgstr "<b>Bawaan</b>"
 
@@ -1979,11 +1979,11 @@ msgstr "<b>Pemisah</b>"
 msgid "<i>Assign device classes to each input device of your system. Only change these values if your devices are not correctly matched. (e.g. your pen shows up as touchscreen)</i>"
 msgstr "<i>Tetapkan kelas perangkat untuk setiap perangkat masukan pada sistem Anda. Hanya ubah nilai tersebut jika perangkat Anda tidak sesuai. (mis. pena muncul sebagai layar sentuh)</i>"
 
-#: ../ui/settings.glade:5407
+#: ../ui/settings.glade:5485
 msgid "<i>Audio recordings are currently stored in a separate folder and referenced from the journal.</i>"
 msgstr "<i>Rekaman audio saat ini disimpan pada sebuah folder terpisah dan direferensikan dari jurnal.</i>"
 
-#: ../ui/settings.glade:5825
+#: ../ui/settings.glade:5903
 msgid "<i>Changes take only effect on new recordings and playbacks.</i>"
 msgstr "<i>Perubahan hanya berlaku pada rekaman dan pemutaran baru.</i>"
 
@@ -2024,16 +2024,16 @@ msgstr "<i>Sensitivitas Tekanan mengijinkan Anda menggambar garis dengan lebar y
 msgid "<i>Put a ruler on your screen and move the slider until both rulers match.</i>"
 msgstr "<i>Letakkan sebuah penggaris pada layar Anda dan gerakkan slider sampai kedua penggaris cocok.</i>"
 
-#: ../ui/settings.glade:5082
+#: ../ui/settings.glade:5160
 msgid "<i>Re-render PDF backgrounds more often while zooming for better render quality. \n"
 "<b>Note:</b> This should not affect print quality.</i>"
 msgstr ""
 
-#: ../ui/settings.glade:5934
+#: ../ui/settings.glade:6012
 msgid "<i>Select language (requires restart)</i>"
 msgstr ""
 
-#: ../ui/settings.glade:5262
+#: ../ui/settings.glade:5340
 msgid "<i>Select the tool and Settings if you press the Default Button.</i>"
 msgstr "<i>Pilih alat dan Pengaturan jika Anda menekan Tombol Bawaan.</i>"
 
@@ -2045,7 +2045,7 @@ msgstr ""
 msgid "<i>Specify commands that are called once Hand Recognition triggers. The commands will be executed in the UI Thread, make sure they are not blocking!</i>"
 msgstr "<i>Tentukan perintah yang akan dipanggil ketika dipicu oleh Pengenal Tangan. Perintah akan dieksekusi pada Thread UI, pastikan mereka tidak menghalangi!</i>"
 
-#: ../ui/settings.glade:5518
+#: ../ui/settings.glade:5596
 msgid "<i>Specify the audio devices used for recording and playback of audio attachments.\n"
 "If available select <small><tt>pulse</tt></small> as input / output device.</i>"
 msgstr ""
@@ -2092,7 +2092,7 @@ msgstr "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
 msgid "About Xournal++"
 msgstr "Tentang Xournal++"
 
-#: ../ui/settings.glade:5051
+#: ../ui/settings.glade:5129
 msgid "Action on Tool Tap"
 msgstr "Aksi pada Tap Alat"
 
@@ -2104,7 +2104,7 @@ msgstr "Tambah ruang horisontal tambahan dari"
 msgid "Add additional vertical space of"
 msgstr "Tambah ruang vertikal tambahan dari"
 
-#: ../ui/settings.glade:4577
+#: ../ui/settings.glade:4655
 msgid "After resizing a selection, the line width of all strokes will be the same as before the resizing operation. "
 msgstr ""
 
@@ -2116,7 +2116,7 @@ msgstr "Semua"
 msgid "All pages"
 msgstr "Semua halaman"
 
-#: ../ui/settings.glade:5016
+#: ../ui/settings.glade:5094
 msgid "All three conditions must be met before stroke is ignored.\n"
 "It must be short in time and length and we can't have ignored another stroke recently."
 msgstr "Keseluruhan ketiga kondisi harus dipenuhi sebelum goresan diabaikan.\n"
@@ -2138,11 +2138,11 @@ msgstr ""
 msgid "Artifact workaround"
 msgstr ""
 
-#: ../ui/settings.glade:5614
+#: ../ui/settings.glade:5692
 msgid "Audio Devices"
 msgstr "Perangkat Audio"
 
-#: ../ui/settings.glade:5857
+#: ../ui/settings.glade:5935
 msgid "Audio Recording"
 msgstr "Rekaman Audio"
 
@@ -2164,6 +2164,10 @@ msgstr "Deteksi Otomatis"
 
 #: ../ui/settings.glade:705
 msgid "Autoloading"
+msgstr ""
+
+#: ../ui/settings.glade:4520
+msgid "Automatically Add Empty Last Page (excluding PDFs)"
 msgstr ""
 
 #: ../ui/settings.glade:462
@@ -2323,7 +2327,7 @@ msgstr ""
 msgid "Default Save Name"
 msgstr "Nama Simpan Bawaan"
 
-#: ../ui/settings.glade:5757
+#: ../ui/settings.glade:5835
 msgid "Default Seek Time (in seconds)"
 msgstr ""
 
@@ -2331,7 +2335,7 @@ msgstr ""
 msgid "Default name: "
 msgstr "Nama bawaan: "
 
-#: ../ui/settings.glade:5356
+#: ../ui/settings.glade:5434
 msgid "Defaults"
 msgstr "Bawaan"
 
@@ -2375,7 +2379,7 @@ msgstr "Metode Penonaktifan"
 msgid "Display DPI Calibration"
 msgstr "Kalibrasi DPI Layar"
 
-#: ../ui/settings.glade:4891
+#: ../ui/settings.glade:4969
 msgid "Do not draw for inputs of short time and length unless it comes in short succession. Instead, show floating toolbox."
 msgstr "Jangan menggambar untuk masukan dalam waktu dan ukuran yang pendek, kecuali jika dilakukan secara berurutan. Sebagai gantinya, tampilkan kotak alat melayang."
 
@@ -2390,7 +2394,7 @@ msgid "Drag LEFT from start point acts like shift key is being held.\n"
 "\t    <i>Useful for operating without keyboard.</i>"
 msgstr ""
 
-#: ../ui/settings.glade:4477
+#: ../ui/settings.glade:4555
 msgid "Drag LEFT from start point acts like shift key is being held.\n"
 "Drag UP acts as if Control key is being held.\n\n"
 "Determination Radius: Radius at which modifiers will lock in until finished drawing.\n\n"
@@ -2420,11 +2424,11 @@ msgstr "Gambar _Garis"
 msgid "Draw a transparent circle around the cursor"
 msgstr ""
 
-#: ../ui/settings.glade:5211
+#: ../ui/settings.glade:5289
 msgid "Drawing Area"
 msgstr "Area Gambar"
 
-#: ../ui/settings.glade:4545
+#: ../ui/settings.glade:4623
 msgid "Drawing Tools - Set Modifiers by Draw Direction (Experimental)"
 msgstr "Alat Gambar - Setel Pengubah dengan Arah Gambar (Eksperimental)"
 
@@ -2448,7 +2452,7 @@ msgstr ""
 msgid "Enable"
 msgstr "Aktifkan"
 
-#: ../ui/settings.glade:4472
+#: ../ui/settings.glade:4550
 msgid "Enable  with determination radius of "
 msgstr "Aktifkan dengan radius penentuan "
 
@@ -2468,7 +2472,7 @@ msgstr ""
 msgid "Enable Pressure Sensitivity"
 msgstr "Aktifkan Sensitivitas Tekanan"
 
-#: ../ui/settings.glade:4886
+#: ../ui/settings.glade:4964
 msgid "Enable Tap action"
 msgstr "Aksi Aktifkan Tap"
 
@@ -2553,7 +2557,7 @@ msgstr ""
 msgid "Fullscreen"
 msgstr "Layar penuh"
 
-#: ../ui/settings.glade:5659
+#: ../ui/settings.glade:5737
 msgid "Gain"
 msgstr "Gain"
 
@@ -2577,11 +2581,11 @@ msgstr ""
 msgid "Go to Page"
 msgstr "Ke Halaman"
 
-#: ../ui/settings.glade:4715
+#: ../ui/settings.glade:4793
 msgid "Grid size"
 msgstr "Ukuran kisi"
 
-#: ../ui/settings.glade:4672
+#: ../ui/settings.glade:4750
 msgid "Grid snapping tolerance"
 msgstr "Toleransi lengketkan ke kisi"
 
@@ -2629,13 +2633,13 @@ msgstr ""
 msgid "Highlighter Opti_ons"
 msgstr "_Opsi Penyorot"
 
-#: ../ui/settings.glade:4936
+#: ../ui/settings.glade:5014
 msgid "How short (screen mm)  of the stroke  AND...\n\n"
 "<i>Recommended: 1 mm</i>"
 msgstr "Seberapa pendek (layar mm)  goresan  DAN...\n\n"
 "<i>Direkomendasikan: 1 mm</i>"
 
-#: ../ui/settings.glade:4916
+#: ../ui/settings.glade:4994
 msgid "How short (time)  AND...\n\n"
 "<i>Recommended: 150ms</i>"
 msgstr "Seberapa pendek (waktu)  DAN...\n\n"
@@ -2649,7 +2653,7 @@ msgstr ""
 msgid "Icon Theme"
 msgstr ""
 
-#: ../ui/settings.glade:4760
+#: ../ui/settings.glade:4838
 msgid "If activated, shapes that have been recognized by the shape recognizer will be snapped to the grid automatically. This may lead to unexpected results if you have the shape recognizer turned on while writing."
 msgstr ""
 
@@ -2669,7 +2673,7 @@ msgstr ""
 msgid "If you open a PDF and there is a Xournal file with the same name it will open the xoj file."
 msgstr ""
 
-#: ../ui/settings.glade:4904
+#: ../ui/settings.glade:4982
 msgid "Ignore Time (ms)"
 msgstr "Abaikan Waktu (ms)"
 
@@ -2685,7 +2689,7 @@ msgstr "Kualitas gambar"
 msgid "Inertia"
 msgstr "Inersia"
 
-#: ../ui/settings.glade:5542
+#: ../ui/settings.glade:5620
 msgid "Input Device"
 msgstr "Perangkat Masukan"
 
@@ -2717,7 +2721,7 @@ msgstr "Sisipkan Halaman Setelah"
 msgid "Insert Page Before"
 msgstr "Sisipkan Halaman Sebelum"
 
-#: ../ui/settings.glade:5882
+#: ../ui/settings.glade:5960
 msgid "LaTeX"
 msgstr "LaTeX"
 
@@ -2729,11 +2733,11 @@ msgstr ""
 msgid "LaTeX generation command"
 msgstr ""
 
-#: ../ui/settings.glade:5971 ../ui/settings.glade:6019
+#: ../ui/settings.glade:6049 ../ui/settings.glade:6097
 msgid "Language"
 msgstr "Bahasa"
 
-#: ../ui/settings.glade:5989
+#: ../ui/settings.glade:6067
 msgid "Language Settings"
 msgstr "Pengaturan Bahasa"
 
@@ -2781,7 +2785,7 @@ msgstr ""
 msgid "Mass: the higher the mass, the more inertia and the more stabilization"
 msgstr ""
 
-#: ../ui/settings.glade:4956
+#: ../ui/settings.glade:5034
 msgid "Max Length (mm)"
 msgstr "Panjang Maksimum (mm)"
 
@@ -2810,7 +2814,7 @@ msgstr "Tombol Tengah Tetikus"
 msgid "Minimum Pressure:"
 msgstr ""
 
-#: ../ui/settings.glade:4815
+#: ../ui/settings.glade:4893
 msgid "Minimum Stroke Size"
 msgstr ""
 
@@ -2892,7 +2896,7 @@ msgstr ""
 msgid "Options"
 msgstr "Opsi"
 
-#: ../ui/settings.glade:5565
+#: ../ui/settings.glade:5643
 msgid "Output Device"
 msgstr "Perangkat Keluaran"
 
@@ -2900,7 +2904,7 @@ msgstr "Perangkat Keluaran"
 msgid "Output generated by the LaTeX command."
 msgstr ""
 
-#: ../ui/settings.glade:5180
+#: ../ui/settings.glade:5258
 msgid "PDF Cache"
 msgstr ""
 
@@ -2958,7 +2962,7 @@ msgstr "Kinerja"
 msgid "Pick the Editor's Font"
 msgstr ""
 
-#: ../ui/settings.glade:5811
+#: ../ui/settings.glade:5889
 msgid "Playback Settings"
 msgstr ""
 
@@ -2994,7 +2998,7 @@ msgstr ""
 msgid "Presentation Mode"
 msgstr "Mode Presentasi"
 
-#: ../ui/settings.glade:4572
+#: ../ui/settings.glade:4650
 msgid "Preserve line width"
 msgstr ""
 
@@ -3014,7 +3018,7 @@ msgstr "Radius"
 msgid "Range"
 msgstr "Jangkauan"
 
-#: ../ui/settings.glade:5110
+#: ../ui/settings.glade:5188
 msgid "Re-render when the page's zoom changes by more than "
 msgstr ""
 
@@ -3026,7 +3030,7 @@ msgstr "_Dokumen Terkini"
 msgid "Record / Stop"
 msgstr "Rekam / Hentikan"
 
-#: ../ui/settings.glade:5724
+#: ../ui/settings.glade:5802
 msgid "Recording Quality"
 msgstr "Kualitas Rekaman"
 
@@ -3038,7 +3042,7 @@ msgstr ""
 msgid "Rename selected layer"
 msgstr ""
 
-#: ../ui/settings.glade:4619
+#: ../ui/settings.glade:4697
 msgid "Resizing"
 msgstr ""
 
@@ -3050,11 +3054,11 @@ msgstr "Resolusi"
 msgid "Right Mouse Button"
 msgstr "Tombol Kanan Tetikus"
 
-#: ../ui/settings.glade:4659
+#: ../ui/settings.glade:4737
 msgid "Rotation snapping tolerance"
 msgstr "Toleransi lengketkan rotasi"
 
-#: ../ui/settings.glade:5647
+#: ../ui/settings.glade:5725
 msgid "Sample Rate"
 msgstr "Laju Sampel"
 
@@ -3078,7 +3082,7 @@ msgstr "Gulir di luar halaman"
 msgid "Select Background Color"
 msgstr "Pilih Warna Latar Belakang"
 
-#: ../ui/settings.glade:5444
+#: ../ui/settings.glade:5522
 msgid "Select Folder"
 msgstr "Pilih Folder"
 
@@ -3130,11 +3134,11 @@ msgstr "Setel Kolom"
 msgid "Set Rows"
 msgstr "Setel Baris"
 
-#: ../ui/settings.glade:5019
+#: ../ui/settings.glade:5097
 msgid "Settings:"
 msgstr "Setelan:"
 
-#: ../ui/settings.glade:5028
+#: ../ui/settings.glade:5106
 msgid "Show Floating Toolbox"
 msgstr "Tampilkan Kotak Alat Melayang"
 
@@ -3172,7 +3176,7 @@ msgctxt "stylus cursor uses a small dot"
 msgid "Small dot icon"
 msgstr ""
 
-#: ../ui/settings.glade:4778
+#: ../ui/settings.glade:4856
 msgid "Snapping"
 msgstr "Lengketkan"
 
@@ -3196,7 +3200,7 @@ msgstr "Standar"
 msgid "Start zooming after a distance "
 msgstr ""
 
-#: ../ui/settings.glade:5429 ../ui/settings.glade:5487
+#: ../ui/settings.glade:5507 ../ui/settings.glade:5565
 msgid "Storage Folder"
 msgstr "Folder Penyimpanan"
 
@@ -3204,7 +3208,7 @@ msgstr "Folder Penyimpanan"
 msgid "Strikethrough selected text"
 msgstr ""
 
-#: ../ui/settings.glade:4856
+#: ../ui/settings.glade:4934
 msgid "Stroke Recognizer"
 msgstr ""
 
@@ -3216,7 +3220,7 @@ msgstr "Stylus"
 msgid "Stylus Buttons"
 msgstr "Tombol Stylus"
 
-#: ../ui/settings.glade:4967
+#: ../ui/settings.glade:5045
 msgid "Successive (ms)"
 msgstr "Berturut-turut (ms)"
 
@@ -3306,11 +3310,11 @@ msgstr ""
 msgid "Touchscreen"
 msgstr "Layar sentuh"
 
-#: ../ui/settings.glade:4996
+#: ../ui/settings.glade:5074
 msgid "Try to select object first."
 msgstr "Cobalah memilih objek terlebih dahulu."
 
-#: ../ui/settings.glade:5001 ../ui/settings.glade:5033
+#: ../ui/settings.glade:5079 ../ui/settings.glade:5111
 msgid "Try to select object first; if nothing selected then show floating toolbox if enabled."
 msgstr "Cobalah memilih objek terlebih dahulu; jika tidak ada yang dipilih, tampilkan kotak alat melayang jika diaktifkan."
 
@@ -3326,7 +3330,7 @@ msgstr ""
 msgid "Use font from system theme."
 msgstr ""
 
-#: ../ui/settings.glade:4756
+#: ../ui/settings.glade:4834
 msgid "Use snapping for recognized shapes"
 msgstr ""
 
@@ -3367,7 +3371,7 @@ msgid "When drawing with touch, two-finger gestures intended to pan the view can
 "This setting can make it easier to draw with touch. "
 msgstr ""
 
-#: ../ui/settings.glade:5107
+#: ../ui/settings.glade:5185
 msgid "When zoomed in on a high-resolution PDF, each re-render can take a long time. Setting this to a large value causes these re-renders to happen less often.\n\n"
 "Set this to 0% to always re-render on zoom."
 msgstr ""
@@ -3652,6 +3656,10 @@ msgstr "_sangat halus"
 msgid "_whiteout"
 msgstr "_putihkan"
 
+#: ../ui/settings.glade:4500
+msgid "disabled"
+msgstr ""
+
 #: ../ui/exportSettings.glade:310
 msgid "dpi"
 msgstr "dpi"
@@ -3674,7 +3682,7 @@ msgstr "menit"
 
 #: ../ui/settings.glade:3169 ../ui/settings.glade:3220
 #: ../ui/settings.glade:4313 ../ui/settings.glade:4324
-#: ../ui/settings.glade:4512
+#: ../ui/settings.glade:4590
 msgid "pixels"
 msgstr "piksel"
 
@@ -3685,4 +3693,12 @@ msgstr "s <i>(setelah itu layar sentuh akan diaktifkan kembali)</i>"
 #: ../ui/main.glade:1721 ../ui/main.glade:1867 ../ui/main.glade:1976
 msgid "ver_y thick"
 msgstr "_sangat tebal"
+
+#: ../ui/settings.glade:4485
+msgid "when drawing on last page"
+msgstr ""
+
+#: ../ui/settings.glade:4470
+msgid "when scrolling to end of last page"
+msgstr ""
 
