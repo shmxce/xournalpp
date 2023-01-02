@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-01 06:40+0000\n"
-"PO-Revision-Date: 2023-01-01 06:46\n"
+"POT-Creation-Date: 2023-01-02 18:56+0000\n"
+"PO-Revision-Date: 2023-01-02 19:49\n"
 "Last-Translator: \n"
 "Language-Team: Basque\n"
 "Language: eu_ES\n"
@@ -317,11 +317,11 @@ msgid "Could not undo \"{1}\"\n"
 msgstr "Ezin izan da \"{1}\" desegin\n"
 "Zerbait gaizki joan da… Mesedez, idatzi akatsen berri…"
 
-#: ../src/core/control/xojfile/SaveHandler.cpp:248
+#: ../src/core/control/xojfile/SaveHandler.cpp:252
 msgid "Could not write background \"{1}\", {2}"
 msgstr "Ezin izan da atzeko planoa idatzi \"{1}\", {2}"
 
-#: ../src/core/control/xojfile/SaveHandler.cpp:362
+#: ../src/core/control/xojfile/SaveHandler.cpp:368
 msgid "Could not write background \"{1}\". Continuing anyway."
 msgstr "Ezin izan da \"{1}\" atzeko planoa idatzi. Jarraitu hala ere."
 
@@ -1033,7 +1033,7 @@ msgstr "Orria txertatua"
 msgid "Page number"
 msgstr "Orriaren zenbakia"
 
-#: ../src/core/control/xojfile/SaveHandler.cpp:311
+#: ../src/core/control/xojfile/SaveHandler.cpp:317
 msgid "Page type format is PageTypeFormat::Copy - converted to PageTypeFormat::Plain to avoid corrupted file"
 msgstr "Orrialde motaren formatua PageTypeFormat::Copy da - PageTypeFormat::Plain bihurtu da fitxategi hondatuta ekiditeko"
 
@@ -1254,7 +1254,7 @@ msgstr "Hautatu beste izena"
 msgid "Select background color"
 msgstr "Hautatu atzeko planoaren kolorea"
 
-#: ../src/core/gui/toolbarMenubar/ColorToolItem.cpp:85
+#: ../src/core/gui/toolbarMenubar/ColorToolItem.cpp:79
 msgid "Select color"
 msgstr "Hautatu kolorea"
 
