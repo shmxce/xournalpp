@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-01 06:40+0000\n"
-"PO-Revision-Date: 2023-01-01 06:46\n"
+"PO-Revision-Date: 2023-01-02 14:55\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -201,7 +201,7 @@ msgstr "Colore sconosciuto: \"{1}\" (non definito nella lista di default)"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:412
 msgid "Compass"
-msgstr ""
+msgstr "Compasso"
 
 #: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:169
 msgid "Contents"
@@ -711,7 +711,7 @@ msgstr "GNU GPLv2 o sucessivo"
 
 #: ../src/core/gui/dialog/AboutDialog.cpp:39
 msgid "GTK Version"
-msgstr ""
+msgstr "Versione GTK"
 
 #: ../src/core/control/XournalMain.cpp:614
 msgid "Get version of xournalpp"
@@ -755,7 +755,7 @@ msgstr "Vai al livello più alto"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:24
 msgid "Graph"
-msgstr "Grafico"
+msgstr "A quadretti"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:410
 msgid "Grid Snapping"
@@ -1337,7 +1337,7 @@ msgstr "Ci dispiace, Xournal++ può aprire solo un file alla volta.\n"
 #: ../src/core/control/XournalMain.cpp:497
 msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
-msgstr "Ci dispiace, Xournal++ non può aprire files in remoto al momento\n"
+msgstr "Ci dispiace, Xournal++ non può aprire files in remoto al momento.\n"
 "È necessario copiare il file in una cartella locale."
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:23
@@ -1352,7 +1352,7 @@ msgstr "Stop"
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:47
 #: ../src/core/undo/RecognizerUndoAction.cpp:76
 msgid "Stroke recognizer"
-msgstr "Riconosci Tratto"
+msgstr "Riconoscitore di Forme"
 
 #: ../src/core/control/CrashHandler.cpp:39
 msgid "Successfully saved document to \"{1}\""
@@ -2217,7 +2217,7 @@ msgstr "Caricamento Automatico"
 
 #: ../ui/settings.glade:4520
 msgid "Automatically Add Empty Last Page (excluding PDFs)"
-msgstr ""
+msgstr "Aggiungi automaticamente l'ultima pagina vuota (esclusi i PDF)"
 
 #: ../ui/settings.glade:462
 msgid "Autosaving"
@@ -2909,11 +2909,11 @@ msgstr "P_rossima pagina annotata"
 
 #: ../ui/main.glade:1221
 msgid "New Page _After"
-msgstr "Nuova Pagina _Dopo"
+msgstr "Inserisci una nuova pagina sotto"
 
 #: ../ui/main.glade:1211
 msgid "New Page _Before"
-msgstr "Nuova Pagina _Prima"
+msgstr "Aggiungi una nuova pagina sopra"
 
 #: ../ui/main.glade:1232
 msgid "New Page at _End"
@@ -3197,7 +3197,7 @@ msgstr "Mostra Barra degli strumenti mobile"
 
 #: ../ui/settings.glade:2746
 msgid "Show Menubar on Startup"
-msgstr "Mostra barra laterale a destra"
+msgstr "Mostra le opzioni all'avvio"
 
 #: ../ui/main.glade:588
 msgid "Show Sidebar"
@@ -3550,7 +3550,7 @@ msgstr "_Personalizza"
 
 #: ../ui/main.glade:1467
 msgid "_Default Tools"
-msgstr "_Strumenti di Default"
+msgstr "_Strumento predefinito"
 
 #: ../ui/main.glade:1272
 msgid "_Delete Page"
@@ -3622,7 +3622,7 @@ msgstr "_Prossimo Livello"
 
 #: ../ui/main.glade:1108
 msgid "_Next Page"
-msgstr "_Pagina Sucessiva"
+msgstr "_Pagina Successiva"
 
 #: ../ui/main.glade:557
 msgid "_Pair Pages"
@@ -3714,7 +3714,7 @@ msgstr "_sbianca"
 
 #: ../ui/settings.glade:4500
 msgid "disabled"
-msgstr ""
+msgstr "disabilitato"
 
 #: ../ui/exportSettings.glade:310
 msgid "dpi"
@@ -3722,7 +3722,7 @@ msgstr "dpi"
 
 #: ../ui/pluginEntry.glade:167
 msgid "enabled,"
-msgstr "Attiva"
+msgstr "abilitato,"
 
 #: ../ui/settings.glade:1757
 msgid "events"
@@ -3752,9 +3752,9 @@ msgstr "molto s_pesso"
 
 #: ../ui/settings.glade:4485
 msgid "when drawing on last page"
-msgstr ""
+msgstr "quando si disegna sull'ultima pagina"
 
 #: ../ui/settings.glade:4470
 msgid "when scrolling to end of last page"
-msgstr ""
+msgstr "quando si scorre alla fine dell'ultima pagina"
 
