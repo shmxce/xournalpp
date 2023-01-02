@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-01 06:40+0000\n"
-"PO-Revision-Date: 2023-01-01 06:46\n"
+"PO-Revision-Date: 2023-01-02 16:46\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1132,7 +1132,7 @@ msgstr "Rotation"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:408
 msgid "Rotation Snapping"
-msgstr "Rotation forcée"
+msgstr "Rotation aimantée"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:21
 msgid "Ruled"
@@ -3529,7 +3529,7 @@ msgstr "_8 lignes"
 
 #: ../ui/main.glade:196
 msgid "_Annotate PDF"
-msgstr "_Annoter le PDF"
+msgstr "_Annoter un PDF"
 
 #: ../ui/main.glade:701
 msgid "_Bottom to Top"
@@ -3613,7 +3613,7 @@ msgstr "_Navigation"
 
 #: ../ui/main.glade:1147
 msgid "_Next Layer"
-msgstr "_Couche suivante"
+msgstr "_Calque suivant"
 
 #: ../ui/main.glade:1108
 msgid "_Next Page"
