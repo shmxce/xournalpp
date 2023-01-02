@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-01 06:40+0000\n"
-"PO-Revision-Date: 2023-01-01 06:46\n"
+"POT-Creation-Date: 2023-01-02 18:56+0000\n"
+"PO-Revision-Date: 2023-01-02 19:49\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -317,11 +317,11 @@ msgid "Could not undo \"{1}\"\n"
 msgstr "تعذر التراجع عن \"{1}\"\n"
 "حدث خطأ… الرجاء تزويدنا بتقرير عن الخطأ…"
 
-#: ../src/core/control/xojfile/SaveHandler.cpp:248
+#: ../src/core/control/xojfile/SaveHandler.cpp:252
 msgid "Could not write background \"{1}\", {2}"
 msgstr "تعذر كتابة الخلفية\"{1}\"، {2}"
 
-#: ../src/core/control/xojfile/SaveHandler.cpp:362
+#: ../src/core/control/xojfile/SaveHandler.cpp:368
 msgid "Could not write background \"{1}\". Continuing anyway."
 msgstr "تعذر كتابة الخلفية «{1}». سنتابع على أيّة حال."
 
@@ -1031,7 +1031,7 @@ msgstr "تم إدراج الصفحة"
 msgid "Page number"
 msgstr "رقم الصفحة"
 
-#: ../src/core/control/xojfile/SaveHandler.cpp:311
+#: ../src/core/control/xojfile/SaveHandler.cpp:317
 msgid "Page type format is PageTypeFormat::Copy - converted to PageTypeFormat::Plain to avoid corrupted file"
 msgstr ""
 
@@ -1252,7 +1252,7 @@ msgstr "اختيار اسم آخر"
 msgid "Select background color"
 msgstr "تحديد لون الخلفية"
 
-#: ../src/core/gui/toolbarMenubar/ColorToolItem.cpp:85
+#: ../src/core/gui/toolbarMenubar/ColorToolItem.cpp:79
 msgid "Select color"
 msgstr "تحديد لون"
 
