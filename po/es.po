@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-01 06:40+0000\n"
-"PO-Revision-Date: 2023-01-01 06:46\n"
+"POT-Creation-Date: 2023-01-02 18:56+0000\n"
+"PO-Revision-Date: 2023-01-02 19:49\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -317,11 +317,11 @@ msgid "Could not undo \"{1}\"\n"
 msgstr "No se pudo deshacer «{1}»\n"
 "Se produjo un problema… Envíenos un informe de error."
 
-#: ../src/core/control/xojfile/SaveHandler.cpp:248
+#: ../src/core/control/xojfile/SaveHandler.cpp:252
 msgid "Could not write background \"{1}\", {2}"
 msgstr "No se pudo escribir el fondo «{1}», {2}"
 
-#: ../src/core/control/xojfile/SaveHandler.cpp:362
+#: ../src/core/control/xojfile/SaveHandler.cpp:368
 msgid "Could not write background \"{1}\". Continuing anyway."
 msgstr "No se pudo escribir el fondo «{1}». Se continúa de todos modos."
 
@@ -1033,7 +1033,7 @@ msgstr "Se insertó una página"
 msgid "Page number"
 msgstr "Número de página"
 
-#: ../src/core/control/xojfile/SaveHandler.cpp:311
+#: ../src/core/control/xojfile/SaveHandler.cpp:317
 msgid "Page type format is PageTypeFormat::Copy - converted to PageTypeFormat::Plain to avoid corrupted file"
 msgstr "El formato de tipo de página es PageTypeFormat::Copy - convertido a PageTypeFormat::Plain para evitar archivos corruptos"
 
@@ -1254,7 +1254,7 @@ msgstr "Seleccionar otro nombre"
 msgid "Select background color"
 msgstr "Seleccionar color de fondo"
 
-#: ../src/core/gui/toolbarMenubar/ColorToolItem.cpp:85
+#: ../src/core/gui/toolbarMenubar/ColorToolItem.cpp:79
 msgid "Select color"
 msgstr "Seleccionar color"
 
