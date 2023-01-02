@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-01 06:40+0000\n"
-"PO-Revision-Date: 2023-01-01 06:46\n"
+"PO-Revision-Date: 2023-01-02 14:55\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -289,7 +289,7 @@ msgstr "Seitenzahl für geklontes Hintergrundbild konnte nicht gelesen werden: {
 msgid "Could not redo \"{1}\"\n"
 "Something went wrong… Please write a bug report…"
 msgstr "Konnte \"{1}\" nicht wiederherstellen.\n"
-"Etwas ist schief gelaufen… Bitte erstellen Sie einen Fehlerbericht…"
+"Etwas ist schiefgelaufen… Bitte erstellen Sie einen Fehlerbericht…"
 
 #: ../src/core/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:173
 msgid "Could not remove tool item from Toolbar {1} on position {2}"
@@ -315,7 +315,7 @@ msgstr "Konnte {1} nicht starten: {2} (Ausstiegscode: {3})"
 msgid "Could not undo \"{1}\"\n"
 "Something went wrong… Please write a bug report…"
 msgstr "Konnte \"{1}\" nicht rückgängig machen.\n"
-"Etwas ist schief gelaufen... Bitte erstellen Sie einen Fehlerbericht…"
+"Etwas ist schiefgelaufen... Bitte erstellen Sie einen Fehlerbericht…"
 
 #: ../src/core/control/xojfile/SaveHandler.cpp:248
 msgid "Could not write background \"{1}\", {2}"
@@ -351,7 +351,7 @@ msgstr "Ausschneiden"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:478
 msgid "Default Tool"
-msgstr "Standard Werkzeug"
+msgstr "Standardwerkzeug"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:405
 #: ../src/core/undo/DeleteUndoAction.cpp:64
@@ -394,7 +394,7 @@ msgstr "Erweiterte Exportoptionen anzeigen"
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
-msgstr "Öffnen sie keine automatisch gespeicherten Dateien. Diese werden ansonsten überschrieben!\n"
+msgstr "Öffnen Sie keine automatisch gespeicherten Dateien. Diese werden ansonsten überschrieben!\n"
 "Kopieren Sie diese Dateien an einen anderen Ort.\n"
 "Dateien aus dem Ordner {1} können nicht geöffnet werden."
 
@@ -452,7 +452,7 @@ msgstr "Strecke zeichnen"
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:103
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:485
 msgid "Draw Rectangle"
-msgstr "Rechteck Zeichnen"
+msgstr "Rechteck zeichnen"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:140
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:46
@@ -480,7 +480,7 @@ msgstr "Zeichnungstyp Combo"
 
 #: ../src/core/undo/TextBoxUndoAction.cpp:43
 msgid "Edit text"
-msgstr "Text editieren"
+msgstr "Text bearbeiten"
 
 #: ../src/util/ElementRange.cpp:101
 msgid "ElementRange::parse(): element indices start with 1"
@@ -938,7 +938,7 @@ msgstr "Keine kürzlich verwendeten Dateien vorhanden"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:126
 msgid "Normal drawing"
-msgstr "Normal zeichnen"
+msgstr "Normales Zeichnen"
 
 #: ../src/core/gui/toolbarMenubar/model/ColorPalette.cpp:184
 #: ../src/core/plugin/Plugin.cpp:229 ../src/core/plugin/Plugin.cpp:252
@@ -981,7 +981,7 @@ msgstr "Öffne {1}"
 
 #: ../src/core/control/jobs/PdfExportJob.cpp:15
 msgid "PDF Export"
-msgstr "PDF Exportieren"
+msgstr "PDF exportieren"
 
 #: ../src/core/gui/toolbarMenubar/ToolPageSpinner.cpp:41
 msgid "PDF Page {1}"
@@ -1314,7 +1314,7 @@ msgstr "Geodreieck"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:480
 msgid "Shape Recognizer"
-msgstr "Figurenerkennung"
+msgstr "Formenerkennung"
 
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:76
 msgid "Show all"
@@ -2018,7 +2018,7 @@ msgstr "<b>Trenner</b>"
 
 #: ../ui/settings.glade:783
 msgid "<i>Assign device classes to each input device of your system. Only change these values if your devices are not correctly matched. (e.g. your pen shows up as touchscreen)</i>"
-msgstr "<i>Weise jedem Eingabegerät deines Systems eine Geräteklasse zu. Ändere die bestehenden Zuordnungen nur, wenn ein Gerät nicht korrekt zugeordnet wurde (z.B. dein Stift als Touchscreen erscheint)</i>"
+msgstr "<i>Weise jedem Eingabegerät deines Systems eine Geräteklasse zu. Ändere die bestehenden Zuordnungen nur, wenn ein Gerät nicht korrekt zugeordnet wurde (z.B. wenn dein Stift als ein Touchscreen erkannt wird)</i>"
 
 #: ../ui/settings.glade:5485
 msgid "<i>Audio recordings are currently stored in a separate folder and referenced from the journal.</i>"
@@ -2048,7 +2048,7 @@ msgstr "<i>Wenn das Dokument bereits gespeichert wurde, finden Sie die Datei im 
 
 #: ../ui/settings.glade:4221
 msgid "<i>If you add additional space beside the pages you can choose the area of the screen you would like to work on.</i>"
-msgstr "<i>Wenn Sie diese Option aktivieren, wird leerer Platz um die Seite eingefügt. Sie können die Seite somit weiter verschieben und wählen, wo auf dem Bildschirm Sie arbeiten möchten.</i>"
+msgstr "<i>Wenn Sie diese Option aktivieren, wird leerer Platz um die Seite herum eingefügt. Sie können die Seite somit weiter verschieben und wählen, wo Sie auf dem Bildschirm arbeiten möchten.</i>"
 
 #: ../ui/settings.glade:2093
 msgid "<i>If your hardware does not support hand recognition, Xournal++ can disable your touchscreen when your pen is near the screen.</i>"
@@ -2120,7 +2120,7 @@ msgstr "<i>Verwenden Sie den Touchscreen wie einen multi-touch-fähigen Stift.</
 
 #: ../ui/settings.glade:1704
 msgid "<i>With some setup, pen strokes have artifacts at their beginning. This can be avoided by ignoring the first few events/stroke-points when the pen touches the screen.</i>"
-msgstr "<i>Unter Umständen kann der Anfang eines Strichs Artifakte aufweisen. Dies kann umgangen werden, indem die ersten Berührungspunkte des Stifts mit dem Bildschirm ignoriert werden.</i>"
+msgstr "<i>Unter Umständen kann der Anfang eines Striches Artefakte aufweisen. Dies kann umgangen werden, indem die ersten Berührungspunkte des Stifts mit dem Bildschirm ignoriert werden.</i>"
 
 #: ../ui/settings.glade:2027
 msgid "<i>You can configure devices, not identified by GTK as touchscreen, to behave as if they were one.</i>"
@@ -2142,11 +2142,11 @@ msgstr "Aktion bei Tippen"
 
 #: ../ui/settings.glade:4274
 msgid "Add additional horizontal space of"
-msgstr "Füge horizontalen Platz von"
+msgstr "Erweitere Zeichenbereich links und rechts um"
 
 #: ../ui/settings.glade:4252
 msgid "Add additional vertical space of"
-msgstr "Füge vertikalen Platz von"
+msgstr "Erweitere Zeichenbereich oben und unten um"
 
 #: ../ui/settings.glade:4655
 msgid "After resizing a selection, the line width of all strokes will be the same as before the resizing operation. "
@@ -2409,7 +2409,7 @@ msgstr "Zeichnen mit diesem Gerät deaktivieren"
 
 #: ../ui/settings.glade:3457
 msgid "Disable scrollbar fade out"
-msgstr "Scrollbar-Ausblendung deaktivieren"
+msgstr "Scroll-Leiste nicht ausblenden"
 
 #: ../ui/settingsDeviceClassConfig.glade:41
 msgid "Disabled"
@@ -3192,7 +3192,7 @@ msgstr "Zeige schwebende Werkzeugbox"
 
 #: ../ui/settings.glade:2746
 msgid "Show Menubar on Startup"
-msgstr "Menüleiste beim Start zeigen"
+msgstr "Menüleiste beim Start anzeigen"
 
 #: ../ui/main.glade:588
 msgid "Show Sidebar"
@@ -3332,7 +3332,7 @@ msgstr "Suffix und Präfix für den Mathe-Modus in LaTeX."
 
 #: ../ui/settings.glade:4116
 msgid "The unit of the ruler is cm"
-msgstr "Die Einheit des Lineals ist cm"
+msgstr "Die Einheit des Lineals ist in Zentimeter"
 
 #: ../ui/pageTemplate.glade:114
 msgid "These settings will be used for new pages"
@@ -3649,7 +3649,7 @@ msgstr "_Rechts nach Links"
 
 #: ../ui/main.glade:1484
 msgid "_Shape Recognizer"
-msgstr "_Figurenerkennung"
+msgstr "_Formenerkennung"
 
 #: ../ui/main.glade:1443
 msgid "_Text"
@@ -3735,7 +3735,7 @@ msgstr "Minuten"
 #: ../ui/settings.glade:4313 ../ui/settings.glade:4324
 #: ../ui/settings.glade:4590
 msgid "pixels"
-msgstr "Pixeln hinzu"
+msgstr "Pixel"
 
 #: ../ui/settings.glade:2193
 msgid "s <i>(after which the touchscreen will be reactivated again)</i>"
