@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-01 06:40+0000\n"
-"PO-Revision-Date: 2023-01-01 06:46\n"
+"PO-Revision-Date: 2023-01-02 11:12\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -64,7 +64,7 @@ msgstr "<span foreground='red' size='x-large'>Chybí požadovaný soubor uživat
 
 #: ../src/core/gui/PageView.cpp:980
 msgid "Add missing page"
-msgstr ""
+msgstr "Přidat chybějící stránku"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:476
 msgid "Add/Edit TeX"
@@ -192,7 +192,7 @@ msgstr "Změnit tloušťku čáry"
 
 #: ../src/core/control/RecentManager.cpp:290
 msgid "Clear list"
-msgstr ""
+msgstr "Smazat seznam"
 
 #: ../src/core/control/xojfile/LoadHandlerHelper.cpp:96
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
@@ -200,7 +200,7 @@ msgstr "Neznámá barva „{1}“ (nedefinovaná ve výchozím seznamu barev)!"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:412
 msgid "Compass"
-msgstr ""
+msgstr "Kompas"
 
 #: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:169
 msgid "Contents"
@@ -635,7 +635,9 @@ msgstr "Nepodařilo se najít program na generování LaTeX v PATH: {1}"
 msgid "Failed to find LaTeX generator program in PATH: {1}\n\n"
 "Since installation is detected within Flatpak, you need to install the Flatpak freedesktop Tex Live extension. For example, by running:\n\n"
 "$ flatpak install flathub org.freedesktop.Sdk.Extension.texlive"
-msgstr ""
+msgstr "Nepodařilo se najít program generátoru LaTeX v PATH: {1}\n\n"
+"Protože je instalace zjištěna ve Flatpak, musíte nainstalovat rozšíření Flatpak ™ esktop Tex Live. Například, spuštěním:\n\n"
+"$ flatpak instalujte flathub org.<unk> esktop.Sdk.Extension.texlive"
 
 #: ../src/core/pdf/base/XojCairoPdfExport.cpp:177
 #: ../src/core/pdf/base/XojCairoPdfExport.cpp:217
@@ -708,7 +710,7 @@ msgstr "GNU GPLv2 nebo novější"
 
 #: ../src/core/gui/dialog/AboutDialog.cpp:39
 msgid "GTK Version"
-msgstr ""
+msgstr "Verze GTK"
 
 #: ../src/core/control/XournalMain.cpp:614
 msgid "Get version of xournalpp"
@@ -799,11 +801,11 @@ msgstr "Vložit kopii aktuální stránky níže"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:95
 msgid "Insert after current page"
-msgstr ""
+msgstr "Vložit za aktuální stránku"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:96
 msgid "Insert at end"
-msgstr ""
+msgstr "Vložit na konec"
 
 #: ../src/core/undo/InsertUndoAction.cpp:82
 msgid "Insert elements"
@@ -931,7 +933,7 @@ msgstr "Žádné pdf stránky k přidání nejsou k dispozici. Můžete potřebo
 
 #: ../src/core/control/RecentManager.cpp:250
 msgid "No recent files"
-msgstr ""
+msgstr "Žádné nedávné soubory"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:126
 msgid "Normal drawing"
@@ -1172,7 +1174,7 @@ msgstr "Škálovat"
 
 #: ../src/core/gui/PageView.cpp:978
 msgid "Scroll to page {1}"
-msgstr ""
+msgstr "Přejít na stránku {1}"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:403
 msgid "Search"
@@ -1606,7 +1608,7 @@ msgstr "Špatný počet bodů ({1})"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:1050
 msgid "Wrong number of pressure values, got {1}, expected {2}"
-msgstr ""
+msgstr "Nesprávný počet tlakových hodnot, dostal {1}, očekával {2}"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:247
 msgid "XML Parser error: {1}"
@@ -1928,7 +1930,7 @@ msgstr "0.00"
 
 #: ../ui/settings.glade:4906
 msgid "0.20"
-msgstr ""
+msgstr "0.20"
 
 #: ../ui/settings.glade:1741
 msgid "1"
@@ -2208,7 +2210,7 @@ msgstr "Automatické načítání"
 
 #: ../ui/settings.glade:4520
 msgid "Automatically Add Empty Last Page (excluding PDFs)"
-msgstr ""
+msgstr "Automaticky přidat prázdnou poslední stránku (kromě PDF)"
 
 #: ../ui/settings.glade:462
 msgid "Autosaving"
