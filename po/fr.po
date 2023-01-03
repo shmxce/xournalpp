@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-02 18:56+0000\n"
-"PO-Revision-Date: 2023-01-03 08:41\n"
+"PO-Revision-Date: 2023-01-03 09:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -201,7 +201,7 @@ msgstr "Couleur \"{1}\" inconnue (non définie dans la liste de couleurs par dé
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:412
 msgid "Compass"
-msgstr ""
+msgstr "Boussole"
 
 #: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:169
 msgid "Contents"
@@ -2212,7 +2212,7 @@ msgstr "Chargement automatique"
 
 #: ../ui/settings.glade:4520
 msgid "Automatically Add Empty Last Page (excluding PDFs)"
-msgstr ""
+msgstr "Ajouter automatiquement une dernière page vide (hors PDFs)"
 
 #: ../ui/settings.glade:462
 msgid "Autosaving"
@@ -3709,7 +3709,7 @@ msgstr "_blanc"
 
 #: ../ui/settings.glade:4500
 msgid "disabled"
-msgstr ""
+msgstr "désactivé"
 
 #: ../ui/exportSettings.glade:310
 msgid "dpi"
@@ -3747,9 +3747,9 @@ msgstr "trè_s épais"
 
 #: ../ui/settings.glade:4485
 msgid "when drawing on last page"
-msgstr ""
+msgstr "lors du dessin sur la dernière page"
 
 #: ../ui/settings.glade:4470
 msgid "when scrolling to end of last page"
-msgstr ""
+msgstr "lors du défilement vers la fin de la dernière page"
 
