@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-02 18:56+0000\n"
-"PO-Revision-Date: 2023-01-02 19:49\n"
+"PO-Revision-Date: 2023-01-03 08:41\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -711,7 +711,7 @@ msgstr "GNU GPLv2 ou supérieur"
 
 #: ../src/core/gui/dialog/AboutDialog.cpp:39
 msgid "GTK Version"
-msgstr ""
+msgstr "Version GTK"
 
 #: ../src/core/control/XournalMain.cpp:614
 msgid "Get version of xournalpp"
