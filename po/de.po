@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-02 18:56+0000\n"
-"PO-Revision-Date: 2023-01-02 19:49\n"
+"PO-Revision-Date: 2023-01-04 14:55\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -64,7 +64,7 @@ msgstr "<span foreground='red' size='x-large'>Benötigte UI-Datei fehlt:\n"
 
 #: ../src/core/gui/PageView.cpp:980
 msgid "Add missing page"
-msgstr ""
+msgstr "Fehlende Seite hinzufügen"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:476
 msgid "Add/Edit TeX"
@@ -201,7 +201,7 @@ msgstr "Farbe \"{1}\" unbekannt (nicht in der Standardfarbliste)!"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:412
 msgid "Compass"
-msgstr ""
+msgstr "Kompass"
 
 #: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:169
 msgid "Contents"
@@ -711,7 +711,7 @@ msgstr "GNU GPLv2 oder neuer"
 
 #: ../src/core/gui/dialog/AboutDialog.cpp:39
 msgid "GTK Version"
-msgstr ""
+msgstr "GTK-Version"
 
 #: ../src/core/control/XournalMain.cpp:614
 msgid "Get version of xournalpp"
@@ -802,11 +802,11 @@ msgstr "Eine Kopie der aktuellen Seite unten einfügen"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:95
 msgid "Insert after current page"
-msgstr ""
+msgstr "Nach aktueller Seite hinzufügen"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:96
 msgid "Insert at end"
-msgstr ""
+msgstr "Am Ende einfugen"
 
 #: ../src/core/undo/InsertUndoAction.cpp:82
 msgid "Insert elements"
@@ -1175,7 +1175,7 @@ msgstr "Skalieren"
 
 #: ../src/core/gui/PageView.cpp:978
 msgid "Scroll to page {1}"
-msgstr ""
+msgstr "Zu Seite {1} gehen"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:403
 msgid "Search"
@@ -2212,7 +2212,7 @@ msgstr "Automatisches Laden"
 
 #: ../ui/settings.glade:4520
 msgid "Automatically Add Empty Last Page (excluding PDFs)"
-msgstr ""
+msgstr "Automatisch eine leere Seite am Ende des Dokumentes hinzufügen (ausgeschlossen PDFs)"
 
 #: ../ui/settings.glade:462
 msgid "Autosaving"
@@ -3709,7 +3709,7 @@ msgstr "_weiß übermalen"
 
 #: ../ui/settings.glade:4500
 msgid "disabled"
-msgstr ""
+msgstr "deaktiviert"
 
 #: ../ui/exportSettings.glade:310
 msgid "dpi"
@@ -3747,9 +3747,9 @@ msgstr "sehr dick"
 
 #: ../ui/settings.glade:4485
 msgid "when drawing on last page"
-msgstr ""
+msgstr "beim Zeichnen auf der letzten Seite"
 
 #: ../ui/settings.glade:4470
 msgid "when scrolling to end of last page"
-msgstr ""
+msgstr "beim Scrollen zum Ende der letzten Seite"
 
