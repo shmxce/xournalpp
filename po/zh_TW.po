@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-02 18:56+0000\n"
-"PO-Revision-Date: 2023-01-02 19:49\n"
+"POT-Creation-Date: 2023-01-04 17:10+0000\n"
+"PO-Revision-Date: 2023-01-04 17:29\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -77,11 +77,11 @@ msgstr "進階匯出選項"
 msgid "All files"
 msgstr "所有檔案"
 
-#: ../src/core/control/pagetype/PageTypeMenu.cpp:198
+#: ../src/core/control/pagetype/PageTypeMenu.cpp:199
 msgid "Apply to all pages"
 msgstr "套用到所有頁面"
 
-#: ../src/core/control/pagetype/PageTypeMenu.cpp:189
+#: ../src/core/control/pagetype/PageTypeMenu.cpp:190
 msgid "Apply to current page"
 msgstr "套用到目前的頁面"
 
@@ -146,8 +146,8 @@ msgstr "自動儲存到 {1}"
 msgid "Back"
 msgstr "後退"
 
-#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:196
-#: ../src/core/model/XojPage.cpp:161
+#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:197
+#: ../src/core/model/XojPage.cpp:168
 msgid "Background"
 msgstr "背景"
 
@@ -245,15 +245,15 @@ msgid "Could not open attachment: {1}. Error message: Could not write file"
 msgstr "無法開啟附件: {1}. 錯誤訊息：無法寫入文檔"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:820
-#: ../src/core/control/xojfile/LoadHandler.cpp:1146
-#: ../src/core/control/xojfile/LoadHandler.cpp:1164
+#: ../src/core/control/xojfile/LoadHandler.cpp:1150
+#: ../src/core/control/xojfile/LoadHandler.cpp:1168
 msgid "Could not open attachment: {1}. Error message: No valid file size provided"
 msgstr "無法開啟附件: {1}. 錯誤訊息：未提供有效檔案大小"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:811
 #: ../src/core/control/xojfile/LoadHandler.cpp:827
-#: ../src/core/control/xojfile/LoadHandler.cpp:1139
-#: ../src/core/control/xojfile/LoadHandler.cpp:1153
+#: ../src/core/control/xojfile/LoadHandler.cpp:1143
+#: ../src/core/control/xojfile/LoadHandler.cpp:1157
 msgid "Could not open attachment: {1}. Error message: {2}"
 msgstr "無法開啟附件: {1}. 錯誤訊息: {2}"
 
@@ -322,7 +322,7 @@ msgstr "未能寫上背景\"{1}\", {2}"
 msgid "Could not write background \"{1}\". Continuing anyway."
 msgstr "未能寫上背景\"{1}\"，不管啦繼續哦..."
 
-#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:87
+#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:88
 msgid "Create new layer"
 msgstr "建立新圖層"
 
@@ -764,7 +764,7 @@ msgstr "建立 Xournal++ 時已關閉 GtkSourceView！有些選項可能會無�
 msgid "Hand"
 msgstr "手形工具"
 
-#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:81
+#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:82
 msgid "Hide all"
 msgstr "隱藏全部"
 
@@ -843,11 +843,11 @@ msgstr "LaTeX 編輯器主題："
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr "LaTeX 產生遇到錯誤: {1} (退出代碼: {2})"
 
-#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:250
+#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:251
 msgid "Layer"
 msgstr "圖層"
 
-#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:236
+#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:237
 msgid "Layer Combo"
 msgstr "圖層組合"
 
@@ -865,7 +865,7 @@ msgstr "圖層疊預覽"
 
 #: ../src/core/gui/PageView.cpp:915
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
-#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:28
+#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
 msgstr "加載中..."
 
@@ -1111,7 +1111,7 @@ msgstr "重新命名圖層"
 msgid "Replace"
 msgstr "替換"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1183
+#: ../src/core/control/xojfile/LoadHandler.cpp:1187
 msgid "Requested temporary file was not found for attachment {1}"
 msgstr "找不到附件所需的暫存檔{1}"
 
@@ -1309,7 +1309,7 @@ msgstr "三角板"
 msgid "Shape Recognizer"
 msgstr "識別形狀"
 
-#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:76
+#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:77
 msgid "Show all"
 msgstr "顯示全部"
 
@@ -1595,11 +1595,11 @@ msgstr "使用PDF背景"
 msgid "Write text"
 msgstr "寫文本"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1033
+#: ../src/core/control/xojfile/LoadHandler.cpp:1037
 msgid "Wrong count of points ({1})"
 msgstr "點數錯誤 ({1})"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1050
+#: ../src/core/control/xojfile/LoadHandler.cpp:1054
 msgid "Wrong number of pressure values, got {1}, expected {2}"
 msgstr ""
 
@@ -1749,7 +1749,7 @@ msgstr "滑鼠"
 msgid "pen"
 msgstr "畫筆"
 
-#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:153
+#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:154
 msgid "show"
 msgstr "顯示"
 
@@ -1788,7 +1788,7 @@ msgstr "追蹤點"
 msgid "whiteout"
 msgstr "涂白"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1049
+#: ../src/core/control/xojfile/LoadHandler.cpp:1053
 msgid "xoj-File: {1}"
 msgstr "xoj-File: {1}"
 
