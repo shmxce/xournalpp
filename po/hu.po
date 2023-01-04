@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-02 18:56+0000\n"
-"PO-Revision-Date: 2023-01-02 19:49\n"
+"POT-Creation-Date: 2023-01-04 17:10+0000\n"
+"PO-Revision-Date: 2023-01-04 17:29\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -78,11 +78,11 @@ msgstr "Haladó exportálási lehetőségek"
 msgid "All files"
 msgstr "Minden fájl"
 
-#: ../src/core/control/pagetype/PageTypeMenu.cpp:198
+#: ../src/core/control/pagetype/PageTypeMenu.cpp:199
 msgid "Apply to all pages"
 msgstr "Alkalmazás az összes oldalra"
 
-#: ../src/core/control/pagetype/PageTypeMenu.cpp:189
+#: ../src/core/control/pagetype/PageTypeMenu.cpp:190
 msgid "Apply to current page"
 msgstr "Alkalmazás a jelenlegi oldalra"
 
@@ -148,8 +148,8 @@ msgstr "Automatikus mentés ide: {1}"
 msgid "Back"
 msgstr "Vissza"
 
-#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:196
-#: ../src/core/model/XojPage.cpp:161
+#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:197
+#: ../src/core/model/XojPage.cpp:168
 msgid "Background"
 msgstr "Háttér"
 
@@ -248,15 +248,15 @@ msgid "Could not open attachment: {1}. Error message: Could not write file"
 msgstr "A csatolmány nem nyitható meg: {1}. Hibaüzenet: A fájl nem írható"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:820
-#: ../src/core/control/xojfile/LoadHandler.cpp:1146
-#: ../src/core/control/xojfile/LoadHandler.cpp:1164
+#: ../src/core/control/xojfile/LoadHandler.cpp:1150
+#: ../src/core/control/xojfile/LoadHandler.cpp:1168
 msgid "Could not open attachment: {1}. Error message: No valid file size provided"
 msgstr "A csatolmány nem nyitható meg: {1}. Hibaüzenet: A fájlméret érvénytelen"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:811
 #: ../src/core/control/xojfile/LoadHandler.cpp:827
-#: ../src/core/control/xojfile/LoadHandler.cpp:1139
-#: ../src/core/control/xojfile/LoadHandler.cpp:1153
+#: ../src/core/control/xojfile/LoadHandler.cpp:1143
+#: ../src/core/control/xojfile/LoadHandler.cpp:1157
 msgid "Could not open attachment: {1}. Error message: {2}"
 msgstr "A csatolmány nem nyitható meg: {1}. Hibaüzenet: {2}"
 
@@ -325,7 +325,7 @@ msgstr "A(z) „{1}” háttér nem írható, {2}"
 msgid "Could not write background \"{1}\". Continuing anyway."
 msgstr "A(z) \"{1}\" háttér nem írható. Folytatás ettől függetlenül."
 
-#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:87
+#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:88
 msgid "Create new layer"
 msgstr "Új réteg létrehozása"
 
@@ -769,7 +769,7 @@ msgstr "A GtkSourceView le volt tiltva a Xournal++ készítésekor! Egyes kapcso
 msgid "Hand"
 msgstr "Kéz"
 
-#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:81
+#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:82
 msgid "Hide all"
 msgstr "Összes elrejtése"
 
@@ -848,11 +848,11 @@ msgstr "LaTeX-szerkesztő téma:"
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr "A LaTeX-létrehozó közben a következő hiba lépett fel: {1} (visszatérési érték: {2})"
 
-#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:250
+#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:251
 msgid "Layer"
 msgstr "Réteg"
 
-#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:236
+#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:237
 msgid "Layer Combo"
 msgstr "Rétegkombináció"
 
@@ -870,7 +870,7 @@ msgstr "Egymásra helyezett rétegek előnézete"
 
 #: ../src/core/gui/PageView.cpp:915
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
-#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:28
+#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
 msgstr "Betöltés…"
 
@@ -1117,7 +1117,7 @@ msgstr "Réteg átnevezése"
 msgid "Replace"
 msgstr "Csere"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1183
+#: ../src/core/control/xojfile/LoadHandler.cpp:1187
 msgid "Requested temporary file was not found for attachment {1}"
 msgstr "A(z) {1} melléklethez kért ideiglenes fájl nem található"
 
@@ -1315,7 +1315,7 @@ msgstr "Háromszögű vonalzó"
 msgid "Shape Recognizer"
 msgstr "Alakzatfelismerő"
 
-#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:76
+#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:77
 msgid "Show all"
 msgstr "Összes megjelenítése"
 
@@ -1602,11 +1602,11 @@ msgstr "PDF-háttérrel"
 msgid "Write text"
 msgstr "Szöveg írása"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1033
+#: ../src/core/control/xojfile/LoadHandler.cpp:1037
 msgid "Wrong count of points ({1})"
 msgstr "Hibás pontszám ({1})"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1050
+#: ../src/core/control/xojfile/LoadHandler.cpp:1054
 msgid "Wrong number of pressure values, got {1}, expected {2}"
 msgstr "Helytelen számú nyomásérték, {1}, várható {2}"
 
@@ -1756,7 +1756,7 @@ msgstr "egér"
 msgid "pen"
 msgstr "toll"
 
-#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:153
+#: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:154
 msgid "show"
 msgstr "megjelenítés"
 
@@ -1795,7 +1795,7 @@ msgstr "trackpoint"
 msgid "whiteout"
 msgstr "kifehéredés"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1049
+#: ../src/core/control/xojfile/LoadHandler.cpp:1053
 msgid "xoj-File: {1}"
 msgstr "xoj-fájl: {1}"
 
