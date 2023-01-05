@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-04 17:10+0000\n"
-"PO-Revision-Date: 2023-01-04 17:29\n"
+"POT-Creation-Date: 2023-01-05 21:18+0000\n"
+"PO-Revision-Date: 2023-01-05 23:52\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File: /master/po/xournalpp.pot\n"
 "X-Crowdin-File-ID: 6\n"
 
-#: ../src/core/control/XournalMain.cpp:395
+#: ../src/core/control/XournalMain.cpp:394
 msgid "\n\n"
 "Will now attempt to run without this file."
 msgstr "\n\n"
@@ -48,7 +48,7 @@ msgstr "%F-Notiz-%H-%M"
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
 msgstr "<b>Es wurden keine Geräte gefunden. Dies scheint ein Fehler zu sein - vielleicht könnten Sie einen Fehlerbericht erstellen?</b>"
 
-#: ../src/core/control/XournalMain.cpp:390
+#: ../src/core/control/XournalMain.cpp:389
 msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
 "<b>{1}</b></span>\n"
 "Could not find them at any location.\n"
@@ -70,7 +70,7 @@ msgstr "Fehlende Seite hinzufügen"
 msgid "Add/Edit TeX"
 msgstr "LaTeX editieren/hinzufügen"
 
-#: ../src/core/control/XournalMain.cpp:669
+#: ../src/core/control/XournalMain.cpp:668
 msgid "Advanced export options"
 msgstr "Erweiterte Exportoptionen"
 
@@ -166,7 +166,7 @@ msgid "Built on"
 msgstr "Kompiliert am"
 
 #: ../src/core/control/Control.cpp:2334 ../src/core/control/Control.cpp:2811
-#: ../src/core/control/XournalMain.cpp:177
+#: ../src/core/control/XournalMain.cpp:176
 #: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
 msgstr "Abbrechen"
@@ -358,7 +358,7 @@ msgstr "Standardwerkzeug"
 msgid "Delete"
 msgstr "Löschen"
 
-#: ../src/core/control/XournalMain.cpp:176
+#: ../src/core/control/XournalMain.cpp:175
 msgid "Delete Logfile"
 msgstr "Logdatei löschen"
 
@@ -366,7 +366,7 @@ msgstr "Logdatei löschen"
 msgid "Delete current page"
 msgstr "Aktuelle Seite löschen"
 
-#: ../src/core/control/XournalMain.cpp:218
+#: ../src/core/control/XournalMain.cpp:217
 msgid "Delete file"
 msgstr "Datei löschen"
 
@@ -386,7 +386,7 @@ msgstr "Diese Seite löschen"
 msgid "Discard"
 msgstr "Verwerfen"
 
-#: ../src/core/control/XournalMain.cpp:670
+#: ../src/core/control/XournalMain.cpp:669
 msgid "Display advanced export options"
 msgstr "Erweiterte Exportoptionen anzeigen"
 
@@ -576,17 +576,17 @@ msgstr "Fehler: {1} ist keine reguläre Datei. Bitte überprüfen Sie Ihre Einst
 msgid "Error: {1}. Please check the contents of {2}"
 msgstr "Fehler: {1}. Bitte überprüfen Sie den Inhalt von {2}"
 
-#: ../src/core/control/XournalMain.cpp:196
+#: ../src/core/control/XournalMain.cpp:195
 msgid "Errorlog cannot be deleted. You have to do it manually.\n"
 "Logfile: {1}"
 msgstr "Fehlerlog konnte nicht gelöscht werden. Sie müssen die Datei manuell löschen.\n"
 "Logdatei: {1}"
 
-#: ../src/core/control/XournalMain.cpp:623
+#: ../src/core/control/XournalMain.cpp:622
 msgid "Export FILE as PDF"
 msgstr "Datei als PDF exportieren"
 
-#: ../src/core/control/XournalMain.cpp:625
+#: ../src/core/control/XournalMain.cpp:624
 msgid "Export FILE as image files (one per page)\n"
 "                                 Guess the output format from the extension of IMGFILE\n"
 "                                 Supported formats: .png, .svg"
@@ -602,7 +602,7 @@ msgstr "Exportieren als PDF"
 msgid "Export as PDF"
 msgstr "Als PDF exportieren"
 
-#: ../src/core/control/XournalMain.cpp:639
+#: ../src/core/control/XournalMain.cpp:638
 msgid "Export layers progressively\n"
 "                                 In PDF export, Render layers progressively one by one.\n"
 "                                 This results in N export pages per page with N layers,\n"
@@ -614,7 +614,7 @@ msgstr "Ebenen schrittweise exportieren\n"
 "                                 was den Ebenenstapel Schritt für Schritt aufbaut.\n"
 "                                 Die entstehende PDF-Datei kann als Präsentation benutzt werden.\n"
 
-#: ../src/core/control/XournalMain.cpp:630
+#: ../src/core/control/XournalMain.cpp:629
 msgid "Export without background\n"
 "                                 The exported file has transparent or white background,\n"
 "                                 depending on what its format supports\n"
@@ -622,7 +622,7 @@ msgstr "Exportiere ohne Hintergrund\n"
 "                                 Die exportierte Datei hat einen transparenten oder weißen Hintergrund,\n"
 "                                 abhängig davon, was das jeweilige Dateiformat unterstützt\n"
 
-#: ../src/core/control/XournalMain.cpp:635
+#: ../src/core/control/XournalMain.cpp:634
 msgid "Export without ruling\n"
 "                                 The exported file has no paper ruling\n"
 msgstr "Exportiere ohne Lineatur\n"
@@ -713,7 +713,7 @@ msgstr "GNU GPLv2 oder neuer"
 msgid "GTK Version"
 msgstr "GTK-Version"
 
-#: ../src/core/control/XournalMain.cpp:614
+#: ../src/core/control/XournalMain.cpp:613
 msgid "Get version of xournalpp"
 msgstr "Xournalpp-Version erhalten"
 
@@ -837,7 +837,7 @@ msgstr "Isometrische Bepunktung"
 msgid "Isometric Graph"
 msgstr "Isometrischer Graph"
 
-#: ../src/core/control/XournalMain.cpp:610
+#: ../src/core/control/XournalMain.cpp:609
 msgid "Jump to Page (first Page: 1)"
 msgstr "Springe zur Seite (erste Seite: 1)"
 
@@ -945,13 +945,13 @@ msgstr "Normales Zeichnen"
 msgid "OK"
 msgstr "OK"
 
-#: ../src/core/control/XournalMain.cpp:650
+#: ../src/core/control/XournalMain.cpp:649
 msgid "On export, only export the layers specified by RANGE (e.g. \"2-3,5,7-\")\n"
 "                                 No effect without -p/--create-pdf or -i/--create-img"
 msgstr "Beim Export nur die durch RANGE (z.B. \"2-3,5,7-\") angegebenen Ebenen ausgeben\n"
 "                                 Keine Auswirkung ohne -p/--create-pdf oder -i/--create-img"
 
-#: ../src/core/control/XournalMain.cpp:646
+#: ../src/core/control/XournalMain.cpp:645
 msgid "Only export the pages specified by RANGE (e.g. \"2-3,5,7-\")\n"
 "                                 No effect without -p/--create-pdf or -i/--create-img"
 msgstr "Exportiere nur die durch den Bereich angegebenen Seiten (z.B. \"2-3,5,7-\")\n"
@@ -961,11 +961,11 @@ msgstr "Exportiere nur die durch den Bereich angegebenen Seiten (z.B. \"2-3,5,7-
 msgid "Open Image"
 msgstr "Öffne Bild"
 
-#: ../src/core/control/XournalMain.cpp:174
+#: ../src/core/control/XournalMain.cpp:173
 msgid "Open Logfile"
 msgstr "Öffne Logdatei"
 
-#: ../src/core/control/XournalMain.cpp:175
+#: ../src/core/control/XournalMain.cpp:174
 msgid "Open Logfile directory"
 msgstr "Öffne Verzeichnis der Logdateien"
 
@@ -1073,7 +1073,7 @@ msgstr "Vordefiniert"
 msgid "Presentation mode"
 msgstr "Präsentationsmodus"
 
-#: ../src/core/gui/dialog/LanguageConfigGui.cpp:62
+#: ../src/core/gui/dialog/LanguageConfigGui.cpp:64
 msgid "Previously selected language not available anymore!"
 msgstr "Die zuvor ausgewählte Sprache ist nicht mehr verfügbar!"
 
@@ -1122,7 +1122,7 @@ msgstr "Ersetzen"
 msgid "Requested temporary file was not found for attachment {1}"
 msgstr "Angefragte temporäre Datei für Anhang {1} nicht gefunden"
 
-#: ../src/core/control/XournalMain.cpp:219
+#: ../src/core/control/XournalMain.cpp:218
 msgid "Restore file"
 msgstr "Datei wiederherstellen"
 
@@ -1270,7 +1270,7 @@ msgstr "Bereich auswählen"
 msgid "Selection Combo"
 msgstr "Auswahl-Combo"
 
-#: ../src/core/control/XournalMain.cpp:173
+#: ../src/core/control/XournalMain.cpp:172
 msgid "Send Bugreport"
 msgstr "Fehlerbericht senden"
 
@@ -1286,13 +1286,13 @@ msgstr "In den Hintergrund"
 msgid "Separator"
 msgstr "Trenner"
 
-#: ../src/core/control/XournalMain.cpp:654
+#: ../src/core/control/XournalMain.cpp:653
 msgid "Set DPI for PNG exports. Default is 300\n"
 "                                 No effect without -i/--create-img=foo.png"
 msgstr "DPI für PNG-Exporte festlegen. Standard ist 300\n"
 "                                 Keine Auswirkung ohne -i/--create-img=foo.png"
 
-#: ../src/core/control/XournalMain.cpp:664
+#: ../src/core/control/XournalMain.cpp:663
 msgid "Set page height for PNG exports\n"
 "                                 No effect without -i/--create-img=foo.png\n"
 "                                 Ignored if --export-png-dpi or --export-png-width is used"
@@ -1300,7 +1300,7 @@ msgstr "Seitenhöhe für Export von PNG-Dateien festlegen\n"
 "                                 Keine Auswirkung ohne -i/--create-img=foo.png\n"
 "                                 Ignoriert wenn --export-png-dpi oder --export-png-width verwendet wird"
 
-#: ../src/core/control/XournalMain.cpp:658
+#: ../src/core/control/XournalMain.cpp:657
 msgid "Set page width for PNG exports\n"
 "                                 No effect without -i/--create-img=foo.png\n"
 "                                 Ignored if --export-png-dpi is used"
@@ -1328,13 +1328,13 @@ msgstr "Nur nicht benutzte Seiten anzeigen (eine nicht benutzte Seite)"
 msgid "Show only not used pages ({1} unused pages)"
 msgstr "Nur nicht benutzte Seiten anzeigen ({1} nicht benutzte Seiten)"
 
-#: ../src/core/control/XournalMain.cpp:482
+#: ../src/core/control/XournalMain.cpp:481
 msgid "Sorry, Xournal++ can only open one file at once.\n"
 "Others are ignored."
 msgstr "Entschuldigung, Xournal++ kann nur eine Datei auf einmal öffnen.\n"
 "Alle weiteren werden ignoriert."
 
-#: ../src/core/control/XournalMain.cpp:497
+#: ../src/core/control/XournalMain.cpp:496
 msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
 msgstr "Entschuldigung, Xournal++ kann derzeit keine entfernten Dateien öffnen.\n"
@@ -1378,7 +1378,7 @@ msgstr "Seite mit Vorheriger tauschen"
 msgid "Swap the current page with the one below"
 msgstr "Seite mit Nächster tauschen"
 
-#: ../src/core/gui/dialog/LanguageConfigGui.cpp:46
+#: ../src/core/gui/dialog/LanguageConfigGui.cpp:48
 msgid "System Default"
 msgstr "Systemstandard"
 
@@ -1458,15 +1458,15 @@ msgstr "Die Datei ist keine gültige .xopp-Datei (Versionsdaten ungültig): \"{1
 msgid "The formula is empty when rendered or invalid."
 msgstr "Die Formel ist ungültig oder leer nachdem sie gerendert wurde."
 
-#: ../src/core/control/XournalMain.cpp:168
+#: ../src/core/control/XournalMain.cpp:167
 msgid "The most recent log file name: {1}"
 msgstr "Der aktuellste Logdateiname: {1}"
 
-#: ../src/core/control/XournalMain.cpp:163
+#: ../src/core/control/XournalMain.cpp:162
 msgid "There are errorlogfiles from Xournal++. Please send a Bugreport, so the bug may be fixed."
 msgstr "Es sind Xournal++ Fehlerlogs vorhanden. Bitte senden Sie einen Fehlerbericht (auf Englisch wenn möglich), damit der Fehler korrigiert werden kann."
 
-#: ../src/core/control/XournalMain.cpp:162
+#: ../src/core/control/XournalMain.cpp:161
 msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
 msgstr "Es ist ein Xournal++ Fehlerlog vorhanden. Bitte senden Sie einen Fehlerbericht (auf Englisch wenn möglich), damit der Fehler korrigiert werden kann."
 
@@ -1623,7 +1623,7 @@ msgstr "Xournal (Kompatibilitätsmodus)"
 msgid "Xournal files"
 msgstr "Xournal Dateien"
 
-#: ../src/core/control/XournalMain.cpp:213
+#: ../src/core/control/XournalMain.cpp:212
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr "Xournal++ ist das letzte mal abgestürzt. Soll die Datei wiederhergestellt werden?"
 
@@ -1643,7 +1643,7 @@ msgid "You don't have any PDF pages to select from. Cancel operation.\n"
 msgstr "Es gibt keine PDF Seiten zum Auswählen. Abbruch.\n"
 "Bitte wählen Sie einen anderen Hintergrundtyp: Menü \"Journal\" → \"Seitenvorlage konfigurieren\"."
 
-#: ../src/core/control/XournalMain.cpp:165
+#: ../src/core/control/XournalMain.cpp:164
 msgid "You're using \"{1}/{2}\" branch. Send Bugreport will direct you to this repo's issue tracker."
 msgstr "Sie verwenden folgenden Branch: \"{1}/{2}\". Die Bug-Report-senden-Funktion wird Sie zum Fehlerverfolger dieses Repositories leiten."
 
