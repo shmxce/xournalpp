@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-05 21:18+0000\n"
-"PO-Revision-Date: 2023-01-05 23:52\n"
+"PO-Revision-Date: 2023-01-07 18:11\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -76,7 +76,7 @@ msgstr "Opzioni avanzate di esportazione"
 
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:40
 msgid "All files"
-msgstr "Tutti i files"
+msgstr "Tutti i file"
 
 #: ../src/core/control/pagetype/PageTypeMenu.cpp:199
 msgid "Apply to all pages"
@@ -93,7 +93,7 @@ msgstr "Disporre"
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:32
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:116
 msgid "Attach file to the journal"
-msgstr "Allega file al Journal"
+msgstr "Allega file al documento"
 
 #: ../src/core/control/xojfile/LoadHandlerHelper.cpp:130
 msgid "Attribute \"{1}\" could not be parsed as double, the value is \"{2}\""
@@ -663,7 +663,7 @@ msgstr "Impossibile analizzare il percorso del generatore LaTeX: {1}"
 
 #: ../src/core/control/LatexController.cpp:81
 msgid "Failed to read global template file. Please check your settings."
-msgstr "Impossibile leggere il file del template globale. Si prega di controllare le impostazioni."
+msgstr "Impossibile leggere il file del modello globale. Controllare le impostazioni."
 
 #: ../src/core/control/jobs/BaseExportJob.cpp:108
 msgid "Failed to resolve path with the following error:\n"
@@ -1136,7 +1136,7 @@ msgstr "Rotazione Forzata"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:21
 msgid "Ruled"
-msgstr "Quadretti"
+msgstr "A righe"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:22
 msgid "Ruled with vertical line"
@@ -1144,7 +1144,7 @@ msgstr "A righe con margine"
 
 #: ../src/core/control/jobs/CustomExportJob.cpp:28
 msgid "SVG graphics"
-msgstr "Grafica PNG"
+msgstr "Grafica SVG"
 
 #: ../src/core/gui/dialog/LatexSettingsPanel.cpp:152
 msgid "Sample LaTeX file generated successfully."
@@ -1272,7 +1272,7 @@ msgstr "Combina selezione"
 
 #: ../src/core/control/XournalMain.cpp:172
 msgid "Send Bugreport"
-msgstr "Invia Bugreport"
+msgstr "Invia Segnalazione"
 
 #: ../src/core/control/tools/EditSelection.cpp:424
 msgid "Send backward"
@@ -1635,13 +1635,13 @@ msgstr "File Xournal++"
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:69
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:91
 msgid "Xournal++ template"
-msgstr "Template Xournal++"
+msgstr "Modello Xournal++"
 
 #: ../src/core/control/PageBackgroundChangeController.cpp:196
 msgid "You don't have any PDF pages to select from. Cancel operation.\n"
 "Please select another background type: Menu \"Journal\" → \"Configure Page Template\"."
-msgstr "Non hai nessuna pagina PDF da cui selezionare. Operazione Cancellata.\n"
-"Per favore, seleziona un altro tipo di sfondo: \"Journal\" → \"Configura Template Pagina\"."
+msgstr "Non hai nessuna pagina PDF da cui selezionare. Annulla l'operazione.\n"
+"Seleziona un altro tipo di sfondo: \"Documento\" → \"Configura Modello Pagina\"."
 
 #: ../src/core/control/XournalMain.cpp:164
 msgid "You're using \"{1}/{2}\" branch. Send Bugreport will direct you to this repo's issue tracker."
@@ -2286,7 +2286,7 @@ msgstr "Cambia"
 
 #: ../ui/latexSettings.glade:205
 msgid "Choose a global LaTeX template file"
-msgstr "Scegli un template globale per LaTeX"
+msgstr "Scegli un modello globale LaTeX"
 
 #: ../ui/settings.glade:3131 ../ui/settings.glade:3274
 msgid "Choose the color to use for \"Highlight cursor position\""
@@ -2314,19 +2314,19 @@ msgstr "Comando di generazione"
 
 #: ../ui/main.glade:1262
 msgid "Configure Page Template"
-msgstr "Configura Template Pagina"
+msgstr "Configura Modello Pagina"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Configure new page template"
-msgstr "Configura un nuovo template di pagina"
+msgstr "Configura un nuovo modello di pagina"
 
 #: ../ui/pageTemplate.glade:187
 msgid "Copy current page background instead"
-msgstr "Copia lo sfondo della pagina corrente invece"
+msgstr "Copia invece lo sfondo della pagina attuale"
 
 #: ../ui/pageTemplate.glade:269
 msgid "Copy current page size instead"
-msgstr "Copia la dimensione della pagina corrente invece"
+msgstr "Copia invece le dimensioni della pagina attuale"
 
 #: ../ui/main.glade:2754
 msgid "Copy selected text"
@@ -2334,7 +2334,7 @@ msgstr "Copia il testo selezionato"
 
 #: ../ui/pageTemplate.glade:192
 msgid "Copy the background of the current page instead of using the background set above."
-msgstr "Copia lo sfondo della pagina corrente invece di usare lo sfondo impostato qui sopra."
+msgstr "Copia lo sfondo della pagina attuale invece di usare lo sfondo impostato qui sopra."
 
 #: ../ui/exportSettings.glade:190
 msgid "Current page"
@@ -2514,7 +2514,7 @@ msgstr "Abilita il caricamento automatico dei Journal"
 
 #: ../ui/settings.glade:381
 msgid "Enable Autosaving"
-msgstr "Abilita il salvataggio automatico dei Journal"
+msgstr "Abilita il salvataggio automatico"
 
 #: ../ui/settings.glade:918
 msgid "Enable Pressure Inference <i>(Guess pressure from drawing speed when device-supplied pressure is not available)</i>"
@@ -2627,7 +2627,7 @@ msgstr "Globale"
 
 #: ../ui/latexSettings.glade:154
 msgid "Global template file path"
-msgstr "Percorso file template globale"
+msgstr "Percorso file modello globale"
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
@@ -3390,7 +3390,7 @@ msgstr "Usa ancoraggio per forme riconosciute"
 
 #: ../ui/pageTemplate.glade:274
 msgid "Use the current page size instead of the page size above."
-msgstr "Usa la dimensione corrente della pagina invece che la dimensione della pagina precedente."
+msgstr "Utilizza il formato pagina attuale invece del formato pagina precedente."
 
 #: ../ui/settings.glade:2569 ../ui/settings.glade:2637
 msgid "Use two fingers to pan/zoom and one finger to use the selected tool."
@@ -3598,7 +3598,7 @@ msgstr "_Immagine"
 
 #: ../ui/main.glade:1200
 msgid "_Journal"
-msgstr "_Giornale"
+msgstr "_Documento"
 
 #: ../ui/main.glade:1119
 msgid "_Last Page"
