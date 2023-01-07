@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-05 21:18+0000\n"
-"PO-Revision-Date: 2023-01-05 23:52\n"
+"POT-Creation-Date: 2023-01-07 22:46+0000\n"
+"PO-Revision-Date: 2023-01-07 22:47\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -66,7 +66,7 @@ msgstr "<span foreground='red' size='x-large'>Chybí požadovaný soubor uživat
 msgid "Add missing page"
 msgstr "Přidat chybějící stránku"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:476
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:484
 msgid "Add/Edit TeX"
 msgstr "Přidat/Upravit TeX"
 
@@ -143,7 +143,7 @@ msgid "Autosaving to {1}"
 msgstr "Automaticky ukládám do {1}"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:439
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:518
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:526
 msgid "Back"
 msgstr "Zpět"
 
@@ -348,7 +348,7 @@ msgstr "Přizpůsobený"
 msgid "Cut"
 msgstr "Vyjmout"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:478
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:486
 msgid "Default Tool"
 msgstr "Výchozí nástroj"
 
@@ -424,24 +424,24 @@ msgstr "Tečkovaně"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:134
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:38
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:487
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:495
 msgid "Draw Arrow"
 msgstr "Kreslit šipku"
 
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:39
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:489
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:497
 msgid "Draw Double Arrow"
 msgstr "Kreslit dvojitou šipku"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:132
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:36
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:486
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:494
 msgid "Draw Ellipse"
 msgstr "Nakreslit elipsu"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:128
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:41
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:492
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:500
 msgid "Draw Line"
 msgstr "Kreslit čáru"
 
@@ -449,19 +449,19 @@ msgstr "Kreslit čáru"
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:34
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:100
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:103
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:485
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:493
 msgid "Draw Rectangle"
 msgstr "Kreslit obdélník"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:140
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:46
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:493
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:501
 msgid "Draw Spline"
 msgstr "Kreslit čáru"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:136
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:42
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:491
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:499
 msgid "Draw coordinate system"
 msgstr "Nakresli souřadnicový systém"
 
@@ -676,11 +676,11 @@ msgid "File couldn't be opened. You have to do it manually:\n"
 msgstr "Soubor se nepodařilo otevřít. Udělejte to prosím ručně:\n"
 "URL: {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:545
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:553
 msgid "Fill"
 msgstr "Vyplnit"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:546
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:554
 msgid "Fill Opacity"
 msgstr "Průhlednost výplně"
 
@@ -688,7 +688,7 @@ msgstr "Průhlednost výplně"
 msgid "Filter input pressure. Multiply the pressure by the pressure multiplier. If less than the minimum, use the minimum pressure."
 msgstr "Filtrovat vstupní tlak. Násobí tlak tlakovým multiplikátorem. Pokud je menší než minimální, použije minimální tlak."
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:565
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:573
 msgid "Fine"
 msgstr "Jemně"
 
@@ -700,7 +700,7 @@ msgstr "Plovoucí panel nástrojů (experimentální)"
 msgid "Font"
 msgstr "Písmo"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:515
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:523
 msgid "Forward"
 msgstr "Vpřed"
 
@@ -765,7 +765,7 @@ msgid "GtkSourceView was disabled when building Xournal++! Some options will not
 msgstr "GtkSourceView byl zakázan během tvorby Xournal++! Některé možnosti budou nedostupné."
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:96
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:501
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:509
 msgid "Hand"
 msgstr "Ruka"
 
@@ -774,12 +774,12 @@ msgid "Hide all"
 msgstr "Skrýt vše"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:90
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:473
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:481
 msgid "Highlighter"
 msgstr "Zvýrazňovač"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:33
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:477
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:485
 msgid "Image"
 msgstr "Obrázek"
 
@@ -878,7 +878,7 @@ msgstr "Načítání..."
 msgid "Manage Toolbars"
 msgstr "Spravovat lištu nástrojů"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:566
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:574
 msgid "Medium"
 msgstr "Střední"
 
@@ -1045,7 +1045,7 @@ msgstr "Spárované stránky"
 msgid "Paste"
 msgstr "Vložit"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:509
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:517
 msgid "Pause / Play"
 msgstr "Pozastavit / Spustit"
 
@@ -1058,7 +1058,7 @@ msgstr "Pero"
 msgid "Plain"
 msgstr "Čistá"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:500
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:508
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:80
 msgid "Play Object"
@@ -1080,7 +1080,7 @@ msgstr "Dříve vybraný jazyk již není k dispozici!"
 msgid "Print"
 msgstr "Tisk"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:507
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:515
 msgid "Record Audio / Stop Recording"
 msgstr "Nahrát zvuk / Zastavit nahrávání"
 
@@ -1188,17 +1188,17 @@ msgstr "Zobrazit úplný seznam přispěvatelů"
 msgid "Select Area Text from pdf"
 msgstr "Vybrat oblast textu z pdf"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:503
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:511
 msgid "Select Font"
 msgstr "Výběr písma"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:482
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:490
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:19
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:22
 msgid "Select Linear PDF Text"
 msgstr "Vybrat PDF text v řádku"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:498
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:506
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:24
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:74
 msgid "Select Object"
@@ -1216,7 +1216,7 @@ msgstr "Vybrat PDF text"
 msgid "Select PDF Text In Rectangle"
 msgstr "Vybrat PDF text v obdélníku"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:484
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:492
 msgid "Select PDF Text in Rectangle"
 msgstr "Vybrat PDF text v obdélníku"
 
@@ -1224,14 +1224,14 @@ msgstr "Vybrat PDF text v obdélníku"
 msgid "Select Pdf Text"
 msgstr "Vybrat PDF text"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:497
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:505
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:22
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:62
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:95
 msgid "Select Rectangle"
 msgstr "Obdélníkový výběr"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:495
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:503
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:23
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:68
 msgid "Select Region"
@@ -1311,7 +1311,7 @@ msgstr "Nastavte šířku stránky pro export do PNG\n"
 msgid "Setsquare"
 msgstr "Trojúhelník"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:480
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:488
 msgid "Shape Recognizer"
 msgstr "Rozpoznávání tvarů"
 
@@ -1343,7 +1343,7 @@ msgstr "Promiň, Xournal++ momentálně nemůže otevřít vzdálené soubory.\n
 msgid "Staves"
 msgstr "Notová osnova"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:512
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:520
 msgid "Stop"
 msgstr "Zastavit"
 
@@ -1382,7 +1382,7 @@ msgid "System Default"
 msgstr "Výchozí nastavení systému"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:91
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:475
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:483
 msgid "Text"
 msgstr "Text"
 
@@ -1473,7 +1473,7 @@ msgstr "Xournal++ vytvořil soubor se záznamy o chybách. Zašlete prosím hlá
 msgid "There was an error displaying help: {1}"
 msgstr "Při zobrazování nápovědy došlo k chybě: {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:567
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:575
 msgid "Thick"
 msgstr "Tlustá"
 
@@ -1578,7 +1578,7 @@ msgstr "Použít navrhovaný PDF"
 msgid "Version"
 msgstr "Verze"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:499
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:507
 msgid "Vertical Space"
 msgstr "Vertikální mezera"
 
@@ -1586,11 +1586,11 @@ msgstr "Vertikální mezera"
 msgid "Vertical space"
 msgstr "Vertikální mezera"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:564
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:572
 msgid "Very Fine"
 msgstr "Velmi jemná"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:568
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:576
 msgid "Very Thick"
 msgstr "Velmi tlustá"
 
@@ -1698,10 +1698,12 @@ msgid "cursor"
 msgstr "kurzor"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:280
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:475
 msgid "dash-/ dotted"
 msgstr "pomlčka / tečkovaně"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:277
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:473
 msgid "dashed"
 msgstr "čárkovaně"
 
@@ -1718,6 +1720,7 @@ msgid "delete stroke"
 msgstr "odstranit čáru"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:283
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:476
 msgid "dotted"
 msgstr "tečkovaně"
 
@@ -1762,6 +1765,7 @@ msgstr "zobrazit"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:274
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:293
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:472
 msgid "standard"
 msgstr "standardní"
 
