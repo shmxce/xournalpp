@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-07 22:46+0000\n"
-"PO-Revision-Date: 2023-01-08 16:31\n"
+"PO-Revision-Date: 2023-01-08 18:06\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -3398,7 +3398,7 @@ msgstr "Utilizza il formato pagina attuale invece del formato pagina precedente.
 
 #: ../ui/settings.glade:2569 ../ui/settings.glade:2637
 msgid "Use two fingers to pan/zoom and one finger to use the selected tool."
-msgstr "Usa due dita per muovere/ingrandire e un dito per usare lo strumento selezionato."
+msgstr "Usa due dita per muovere/zoom e un dito per usare lo strumento selezionato."
 
 #: ../ui/settings.glade:4401
 msgid "Usually 0 or 1"
