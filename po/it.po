@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-07 22:46+0000\n"
-"PO-Revision-Date: 2023-01-07 22:47\n"
+"PO-Revision-Date: 2023-01-08 16:31\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -1035,7 +1035,7 @@ msgstr "Numero di Pagina"
 
 #: ../src/core/control/xojfile/SaveHandler.cpp:317
 msgid "Page type format is PageTypeFormat::Copy - converted to PageTypeFormat::Plain to avoid corrupted file"
-msgstr "Il formato del tipo di pagina è PageTypeFormat::Copia - convertito in PageTypeFormat::Plain per evitare file corrotti"
+msgstr "Il formato del tipo di pagina è PageTypeFormat::Copy - convertito in PageTypeFormat::Plain per evitare file corrotti"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:420
 msgid "Paired pages"
@@ -2085,7 +2085,7 @@ msgstr "<i>Seleziona la lingua (richiede riavvio)</i>"
 
 #: ../ui/settings.glade:5340
 msgid "<i>Select the tool and Settings if you press the Default Button.</i>"
-msgstr "<i>Selezionare lo strumento e le impostazioni se si preme il pulsante Predefinito.</i>"
+msgstr "<i>Seleziona lo strumento e le impostazioni se si preme il pulsante Predefinito.</i>"
 
 #: ../ui/settings.glade:1560
 msgid "<i>Some devices report unexpectedly small or large pressures. This can be fixed by setting a minimum pressure or scaling the pressure reported by the device.</i>"
