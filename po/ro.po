@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-07 22:46+0000\n"
-"PO-Revision-Date: 2023-01-07 22:47\n"
+"PO-Revision-Date: 2023-01-08 18:06\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -2117,7 +2117,7 @@ msgstr "<i>Activează/Dezactivează vizibilitatea opțiunilor cu F10</i>"
 
 #: ../ui/settings.glade:2415
 msgid "<i>Use pinch gestures to zoom journal pages.</i>"
-msgstr "<i>Folosește gesturi cu degetele pentru a face zoom paginilor documentului.</i>"
+msgstr "<i>Folosește degetele pentru a face zoom paginilor documentului.</i>"
 
 #: ../ui/settings.glade:2550
 msgid "<i>Use the touchscreen like a multi-touch-aware pen.</i>"
