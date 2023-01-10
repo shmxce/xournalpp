@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-07 22:46+0000\n"
-"PO-Revision-Date: 2023-01-07 22:47\n"
+"POT-Creation-Date: 2023-01-10 19:29+0000\n"
+"PO-Revision-Date: 2023-01-10 19:47\n"
 "Last-Translator: \n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
@@ -289,11 +289,11 @@ msgid "Could not redo \"{1}\"\n"
 msgstr "לא ניתן לבטל פעולה \"{1}\"\n"
 "ישנה בעיה…אנא דווח על באג…"
 
-#: ../src/core/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:173
+#: ../src/core/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:179
 msgid "Could not remove tool item from Toolbar {1} on position {2}"
 msgstr ""
 
-#: ../src/core/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:168
+#: ../src/core/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:174
 msgid "Could not remove tool item {1} from Toolbar {2} on position {3}"
 msgstr ""
 
@@ -1080,11 +1080,11 @@ msgstr "בצע מחדש: "
 msgid "Remove PDF Background"
 msgstr "הסר רקע מ-PDF"
 
-#: ../src/core/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:164
+#: ../src/core/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:170
 msgid "Removed tool item from Toolbar {1} ID {2}"
 msgstr ""
 
-#: ../src/core/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:162
+#: ../src/core/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:168
 msgid "Removed tool item {1} from Toolbar {2} ID {3}"
 msgstr ""
 
