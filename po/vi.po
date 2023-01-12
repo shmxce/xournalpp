@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 19:29+0000\n"
-"PO-Revision-Date: 2023-01-10 19:47\n"
+"POT-Creation-Date: 2023-01-12 08:19+0000\n"
+"PO-Revision-Date: 2023-01-12 08:20\n"
 "Last-Translator: \n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
@@ -61,7 +61,7 @@ msgstr "<span foreground='red' size='x-large'>Thiếu tệp giao diện người
 "  Không có trong Lộ trình làm việc\n"
 "  Không có trong {2}"
 
-#: ../src/core/gui/PageView.cpp:980
+#: ../src/core/gui/PageView.cpp:971
 msgid "Add missing page"
 msgstr ""
 
@@ -77,11 +77,11 @@ msgstr "Các tùy chọn xuất nâng cao"
 msgid "All files"
 msgstr "Tất cả các tệp tin"
 
-#: ../src/core/control/pagetype/PageTypeMenu.cpp:199
+#: ../src/core/control/pagetype/PageTypeMenu.cpp:213
 msgid "Apply to all pages"
 msgstr "Áp dụng cho mọi trang"
 
-#: ../src/core/control/pagetype/PageTypeMenu.cpp:190
+#: ../src/core/control/pagetype/PageTypeMenu.cpp:200
 msgid "Apply to current page"
 msgstr "Áp dụng cho trang hiện tại"
 
@@ -865,7 +865,7 @@ msgstr "Lớp {1}"
 msgid "Layerstack Preview"
 msgstr "Xem trước Chồng lớp"
 
-#: ../src/core/gui/PageView.cpp:915
+#: ../src/core/gui/PageView.cpp:906
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1168,7 +1168,7 @@ msgstr "Lỗi lưu tệp tin: {1}"
 msgid "Scale"
 msgstr "Tỷ lệ"
 
-#: ../src/core/gui/PageView.cpp:978
+#: ../src/core/gui/PageView.cpp:969
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1470,7 +1470,7 @@ msgstr "Dày"
 msgid "This document is not saved yet."
 msgstr "Tài liệu này chưa được lưu."
 
-#: ../src/core/control/PageBackgroundChangeController.cpp:161
+#: ../src/core/control/PageBackgroundChangeController.cpp:166
 msgid "This image could not be loaded. Error message: {1}"
 msgstr ""
 
@@ -1625,7 +1625,7 @@ msgstr ""
 msgid "Xournal++ template"
 msgstr ""
 
-#: ../src/core/control/PageBackgroundChangeController.cpp:196
+#: ../src/core/control/PageBackgroundChangeController.cpp:201
 msgid "You don't have any PDF pages to select from. Cancel operation.\n"
 "Please select another background type: Menu \"Journal\" → \"Configure Page Template\"."
 msgstr ""
