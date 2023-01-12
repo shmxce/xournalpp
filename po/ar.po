@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-12 08:19+0000\n"
-"PO-Revision-Date: 2023-01-12 08:20\n"
+"PO-Revision-Date: 2023-01-12 16:22\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -201,7 +201,7 @@ msgstr "اللون \"{1}\" غير معروف (غير معرّف في قائمة 
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:412
 msgid "Compass"
-msgstr ""
+msgstr "بوصلة"
 
 #: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:169
 msgid "Contents"
@@ -709,7 +709,7 @@ msgstr "رخصة جنو العمومية، الإصدارة الثانية أو 
 
 #: ../src/core/gui/dialog/AboutDialog.cpp:39
 msgid "GTK Version"
-msgstr ""
+msgstr "إصدار GTK"
 
 #: ../src/core/control/XournalMain.cpp:613
 msgid "Get version of xournalpp"
@@ -3713,7 +3713,7 @@ msgstr "_تبييض"
 
 #: ../ui/settings.glade:4500
 msgid "disabled"
-msgstr ""
+msgstr "معطل"
 
 #: ../ui/exportSettings.glade:310
 msgid "dpi"
@@ -3751,9 +3751,9 @@ msgstr "عري_ض جدا"
 
 #: ../ui/settings.glade:4485
 msgid "when drawing on last page"
-msgstr ""
+msgstr "عند الرسم على الصفحة الأخيرة"
 
 #: ../ui/settings.glade:4470
 msgid "when scrolling to end of last page"
-msgstr ""
+msgstr "عند التمرير إلى نهاية الصفحة الأخيرة"
 
