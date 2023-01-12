@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 19:29+0000\n"
-"PO-Revision-Date: 2023-01-10 19:47\n"
+"POT-Creation-Date: 2023-01-12 08:19+0000\n"
+"PO-Revision-Date: 2023-01-12 08:20\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -62,7 +62,7 @@ msgstr "<span foreground='red' size='x-large'>Le fichier UI requis est manquant 
 "  Pas dans le chemin de travail\n"
 "  Pas dans {2}"
 
-#: ../src/core/gui/PageView.cpp:980
+#: ../src/core/gui/PageView.cpp:971
 msgid "Add missing page"
 msgstr "Ajouter la page manquante"
 
@@ -78,11 +78,11 @@ msgstr "Options d'exportation avancées"
 msgid "All files"
 msgstr "Tous les fichiers"
 
-#: ../src/core/control/pagetype/PageTypeMenu.cpp:199
+#: ../src/core/control/pagetype/PageTypeMenu.cpp:213
 msgid "Apply to all pages"
 msgstr "Appliquer à toutes les pages"
 
-#: ../src/core/control/pagetype/PageTypeMenu.cpp:190
+#: ../src/core/control/pagetype/PageTypeMenu.cpp:200
 msgid "Apply to current page"
 msgstr "Appliquer à la page actuelle"
 
@@ -869,7 +869,7 @@ msgstr "Calque {1}"
 msgid "Layerstack Preview"
 msgstr "Aperçu de la pile de calques"
 
-#: ../src/core/gui/PageView.cpp:915
+#: ../src/core/gui/PageView.cpp:906
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1173,7 +1173,7 @@ msgstr "Erreur d'enregistrement du fichier : {1}"
 msgid "Scale"
 msgstr "Échelle"
 
-#: ../src/core/gui/PageView.cpp:978
+#: ../src/core/gui/PageView.cpp:969
 msgid "Scroll to page {1}"
 msgstr "Défiler vers la page {1}"
 
@@ -1482,7 +1482,7 @@ msgstr "Gras"
 msgid "This document is not saved yet."
 msgstr "Ce document n'est pas encore enregistré."
 
-#: ../src/core/control/PageBackgroundChangeController.cpp:161
+#: ../src/core/control/PageBackgroundChangeController.cpp:166
 msgid "This image could not be loaded. Error message: {1}"
 msgstr "Cette image n'a pas pu être chargée. Message d'erreur : {1}"
 
@@ -1637,7 +1637,7 @@ msgstr "Fichiers Xournal++"
 msgid "Xournal++ template"
 msgstr "Modèle Xournal++"
 
-#: ../src/core/control/PageBackgroundChangeController.cpp:196
+#: ../src/core/control/PageBackgroundChangeController.cpp:201
 msgid "You don't have any PDF pages to select from. Cancel operation.\n"
 "Please select another background type: Menu \"Journal\" → \"Configure Page Template\"."
 msgstr "Vous n'avez pas de pages PDF à sélectionner. Annuler l'opération.\n"
