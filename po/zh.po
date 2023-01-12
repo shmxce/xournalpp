@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 19:29+0000\n"
-"PO-Revision-Date: 2023-01-10 19:47\n"
+"POT-Creation-Date: 2023-01-12 08:19+0000\n"
+"PO-Revision-Date: 2023-01-12 08:20\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -62,7 +62,7 @@ msgstr "<span foreground='red' size='x-large'>缺失必要的用户界面文件�
 "  不在工作目录下\n"
 "  不在 {2}"
 
-#: ../src/core/gui/PageView.cpp:980
+#: ../src/core/gui/PageView.cpp:971
 msgid "Add missing page"
 msgstr ""
 
@@ -78,11 +78,11 @@ msgstr "高级导出选项"
 msgid "All files"
 msgstr "所有文件"
 
-#: ../src/core/control/pagetype/PageTypeMenu.cpp:199
+#: ../src/core/control/pagetype/PageTypeMenu.cpp:213
 msgid "Apply to all pages"
 msgstr "应用到所有页面"
 
-#: ../src/core/control/pagetype/PageTypeMenu.cpp:190
+#: ../src/core/control/pagetype/PageTypeMenu.cpp:200
 msgid "Apply to current page"
 msgstr "应用到当前页面"
 
@@ -869,7 +869,7 @@ msgstr "{1}图层"
 msgid "Layerstack Preview"
 msgstr "图层堆叠浏览"
 
-#: ../src/core/gui/PageView.cpp:915
+#: ../src/core/gui/PageView.cpp:906
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1173,7 +1173,7 @@ msgstr "保存文件错误: {1}"
 msgid "Scale"
 msgstr "缩放"
 
-#: ../src/core/gui/PageView.cpp:978
+#: ../src/core/gui/PageView.cpp:969
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1482,7 +1482,7 @@ msgstr "粗"
 msgid "This document is not saved yet."
 msgstr "此文档尚未保存。"
 
-#: ../src/core/control/PageBackgroundChangeController.cpp:161
+#: ../src/core/control/PageBackgroundChangeController.cpp:166
 msgid "This image could not be loaded. Error message: {1}"
 msgstr "无法加载此图像。错误消息: {1}"
 
@@ -1637,7 +1637,7 @@ msgstr "Xournal++ 文件"
 msgid "Xournal++ template"
 msgstr "Xournal++ 模板"
 
-#: ../src/core/control/PageBackgroundChangeController.cpp:196
+#: ../src/core/control/PageBackgroundChangeController.cpp:201
 msgid "You don't have any PDF pages to select from. Cancel operation.\n"
 "Please select another background type: Menu \"Journal\" → \"Configure Page Template\"."
 msgstr "您没有任何可以选择的 PDF 页面。操作取消。\n"
