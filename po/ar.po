@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-12 08:19+0000\n"
-"PO-Revision-Date: 2023-01-12 16:22\n"
+"PO-Revision-Date: 2023-01-12 17:46\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -484,19 +484,19 @@ msgstr "تحرير النص"
 
 #: ../src/util/ElementRange.cpp:101
 msgid "ElementRange::parse(): element indices start with 1"
-msgstr ""
+msgstr "ElementRange::parse()‎: يبدأ دليل العنصر من 1"
 
 #: ../src/util/ElementRange.cpp:95
 msgid "ElementRange::parse(): given element index is larger than maximum count."
-msgstr ""
+msgstr "ElementRange::parse()‎: دليل العنصر المعطى أكبر من العدد الأقصى."
 
 #: ../src/util/ElementRange.cpp:98
 msgid "ElementRange::parse(): interval bounds must be in increasing order."
-msgstr ""
+msgstr "ElementRange::parse()‎: يجب أن يكونا حدّي المدى بترتيب تصاعدي."
 
 #: ../src/util/ElementRange.cpp:91
 msgid "ElementRange::parse(): invalid element range."
-msgstr ""
+msgstr "ElementRange::parse()‎: مدى عنصر غير صالح."
 
 #: ../src/core/undo/EmergencySaveRestore.cpp:22
 msgid "Emergency saved document"
@@ -636,7 +636,9 @@ msgstr "تعذر العثور على برنامج توليد LaTeX في متغي
 msgid "Failed to find LaTeX generator program in PATH: {1}\n\n"
 "Since installation is detected within Flatpak, you need to install the Flatpak freedesktop Tex Live extension. For example, by running:\n\n"
 "$ flatpak install flathub org.freedesktop.Sdk.Extension.texlive"
-msgstr ""
+msgstr "فشل العثور على برنامج توليد LaTeX في PATH (متغير بيئة المسار): {1}\n\n"
+"لأن البرنامج يبدو أنه مثبتا عبر Flatpak، فستحتاج إلى تثبيت إضافة Tex Live من freedesktop لـFlatpak. جرب مثلا تنفيذ:\n\n"
+"‎$ flatpak install flathub org.freedesktop.Sdk.Extension.texlive"
 
 #: ../src/core/pdf/base/XojCairoPdfExport.cpp:177
 #: ../src/core/pdf/base/XojCairoPdfExport.cpp:217
@@ -1033,7 +1035,7 @@ msgstr "رقم الصفحة"
 
 #: ../src/core/control/xojfile/SaveHandler.cpp:317
 msgid "Page type format is PageTypeFormat::Copy - converted to PageTypeFormat::Plain to avoid corrupted file"
-msgstr ""
+msgstr "صيغة نوع الصفحة هو PageTypeFormat::Copy («نسخة») - تم تحويلها إلى PageTypeFormat::Plain («مجرد») لتجنب إتلاف الملف"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:420
 msgid "Paired pages"
@@ -2216,7 +2218,7 @@ msgstr "التحميل التلقائي"
 
 #: ../ui/settings.glade:4520
 msgid "Automatically Add Empty Last Page (excluding PDFs)"
-msgstr ""
+msgstr "أضف تلقائيًا صفحة فارغة أخيرة (باستثناء ملفات PDF)"
 
 #: ../ui/settings.glade:462
 msgid "Autosaving"
