@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-10 19:29+0000\n"
-"PO-Revision-Date: 2023-01-10 19:47\n"
+"POT-Creation-Date: 2023-01-12 08:19+0000\n"
+"PO-Revision-Date: 2023-01-12 08:20\n"
 "Last-Translator: \n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -61,7 +61,7 @@ msgstr "<span foreground='red' size='x-large'>Το απαιτούμενο αρχ
 " Δεν είναι στο λειτουργικό μονοπάτι\n"
 " Δεν είναι στο {2}"
 
-#: ../src/core/gui/PageView.cpp:980
+#: ../src/core/gui/PageView.cpp:971
 msgid "Add missing page"
 msgstr ""
 
@@ -77,11 +77,11 @@ msgstr "Σύνθετες επιλογές εξαγωγής"
 msgid "All files"
 msgstr "Όλα τα αρχεία"
 
-#: ../src/core/control/pagetype/PageTypeMenu.cpp:199
+#: ../src/core/control/pagetype/PageTypeMenu.cpp:213
 msgid "Apply to all pages"
 msgstr "Εφαρμογή σε όλες τις σελίδες"
 
-#: ../src/core/control/pagetype/PageTypeMenu.cpp:190
+#: ../src/core/control/pagetype/PageTypeMenu.cpp:200
 msgid "Apply to current page"
 msgstr "Εφαρμογή στην τρέχουσα σελίδα"
 
@@ -856,7 +856,7 @@ msgstr "Στρώση {1}"
 msgid "Layerstack Preview"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:915
+#: ../src/core/gui/PageView.cpp:906
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1158,7 +1158,7 @@ msgstr "Σφάλμα αποθήκευσης αρχείου: {1}"
 msgid "Scale"
 msgstr "Κλιμάκωση"
 
-#: ../src/core/gui/PageView.cpp:978
+#: ../src/core/gui/PageView.cpp:969
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1461,7 +1461,7 @@ msgstr "Παχύ"
 msgid "This document is not saved yet."
 msgstr "Το αρχείο δεν έχει αποθηκευτεί ακόμα."
 
-#: ../src/core/control/PageBackgroundChangeController.cpp:161
+#: ../src/core/control/PageBackgroundChangeController.cpp:166
 msgid "This image could not be loaded. Error message: {1}"
 msgstr "Απέτυχε η φόρτωση της εικόνας. Μήνυμα σφάλματος: {1}"
 
@@ -1616,7 +1616,7 @@ msgstr "Αρχεία Xournal++"
 msgid "Xournal++ template"
 msgstr "Πρότυπο Xournal++"
 
-#: ../src/core/control/PageBackgroundChangeController.cpp:196
+#: ../src/core/control/PageBackgroundChangeController.cpp:201
 msgid "You don't have any PDF pages to select from. Cancel operation.\n"
 "Please select another background type: Menu \"Journal\" → \"Configure Page Template\"."
 msgstr "Δεν έχετε σελίδες PDF για να επιλέξετε. Ακύρωση ενέργειας.\n"
