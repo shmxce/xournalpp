@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-12 08:19+0000\n"
-"PO-Revision-Date: 2023-01-12 08:20\n"
+"PO-Revision-Date: 2023-01-19 15:07\n"
 "Last-Translator: \n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
@@ -64,7 +64,7 @@ msgstr "<span foreground='red' size='x-large'> </span>קובץ ה-UI הבא לא
 
 #: ../src/core/gui/PageView.cpp:971
 msgid "Add missing page"
-msgstr ""
+msgstr "הוספת עמוד חסר"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:484
 msgid "Add/Edit TeX"
@@ -193,7 +193,7 @@ msgstr "שינוי עובי קו המתאר"
 
 #: ../src/core/control/RecentManager.cpp:290
 msgid "Clear list"
-msgstr ""
+msgstr "נקה את הרשימה"
 
 #: ../src/core/control/xojfile/LoadHandlerHelper.cpp:96
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
@@ -201,7 +201,7 @@ msgstr "צבע ״{1}״ לא ידוע (לא מוגדר ברשימת צבעי בר
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:412
 msgid "Compass"
-msgstr ""
+msgstr "מצפן"
 
 #: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:169
 msgid "Contents"
@@ -267,12 +267,14 @@ msgstr "קובץ \"{1}\" לא ניתן לפתיחה"
 #: ../src/core/gui/MainWindow.cpp:102
 msgid "Could not parse custom toolbar.ini file: {1}\n"
 "Toolbars will not be available"
-msgstr ""
+msgstr "פענות הקובץ toolbar.ini לא צלח: {1}\n"
+"שורת הכלים לא תהיה זמינה"
 
 #: ../src/core/gui/MainWindow.cpp:93
 msgid "Could not parse general toolbar.ini file: {1}\n"
 "No Toolbars will be available"
-msgstr ""
+msgstr "פענות הקובץ toolbar.ini לא צלח: {1}\n"
+"שורת הכלים לא תהיה זמינה"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:397
 #: ../src/core/control/xojfile/LoadHandler.cpp:420
