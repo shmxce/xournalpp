@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-12 08:19+0000\n"
-"PO-Revision-Date: 2023-01-19 15:07\n"
+"PO-Revision-Date: 2023-01-19 16:54\n"
 "Last-Translator: \n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
@@ -283,7 +283,7 @@ msgstr "לא ניתן לקרוא את התמונה: {1}. הודעת שגיאה {
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:430
 msgid "Could not read page number for cloned background image: {1}."
-msgstr ""
+msgstr "קריאת מספר העמוד לא צלחה עבור תמונת הרקע המשוכפלת: {1}."
 
 #: ../src/core/undo/UndoRedoHandler.cpp:142
 msgid "Could not redo \"{1}\"\n"
@@ -293,15 +293,15 @@ msgstr "לא ניתן לבטל פעולה \"{1}\"\n"
 
 #: ../src/core/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:179
 msgid "Could not remove tool item from Toolbar {1} on position {2}"
-msgstr ""
+msgstr "הסרת הכלי משורת הכלים {1} במיקום {2} לא צלחה"
 
 #: ../src/core/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:174
 msgid "Could not remove tool item {1} from Toolbar {2} on position {3}"
-msgstr ""
+msgstr "הסרת הכלי {1} משורת הכלים {2} במיקום {3} לא צלחה"
 
 #: ../src/core/control/Control.cpp:250
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
-msgstr ""
+msgstr "שינוי שם הקובץ הנשמר אוטומטית לא צלח בשינוי מ \"{1}\" אל \"{2}\":{3}"
 
 #: ../src/core/control/latex/LatexGenerator.cpp:90
 msgid "Could not save .tex file: {1}"
@@ -309,12 +309,13 @@ msgstr "לא ניתן לשמור קובץ ‎.tex:‏ {1}"
 
 #: ../src/core/control/latex/LatexGenerator.cpp:105
 msgid "Could not start {1}: {2} (exit code: {3})"
-msgstr ""
+msgstr "התחלת {1}: {2} לא צלחה (קוד יציאה: {3})"
 
 #: ../src/core/undo/UndoRedoHandler.cpp:113
 msgid "Could not undo \"{1}\"\n"
 "Something went wrong… Please write a bug report…"
-msgstr ""
+msgstr "לא ניתן לבטל פעולה \"{1}\"\n"
+"ישנה בעיה… אנא דווח על באג…"
 
 #: ../src/core/control/xojfile/SaveHandler.cpp:252
 msgid "Could not write background \"{1}\", {2}"
