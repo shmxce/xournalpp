@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 08:19+0000\n"
-"PO-Revision-Date: 2023-01-12 08:20\n"
+"POT-Creation-Date: 2023-01-22 17:48+0000\n"
+"PO-Revision-Date: 2023-01-22 17:57\n"
 "Last-Translator: \n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
@@ -371,7 +371,7 @@ msgstr "फ़ाइल हटाएँ"
 msgid "Delete layer"
 msgstr "परत मिटाएँ"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:74
 msgid "Delete this layer"
 msgstr "यह परत मिटाएँ"
 
@@ -774,7 +774,7 @@ msgstr "छवि फ़ाइल सफलतापूर्वक बनाई
 msgid "Images"
 msgstr "छवियाँ"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:74
 msgid "Insert a copy of the current layer below"
 msgstr "नीचे वर्तमान परत की एक प्रति डालें"
 
@@ -839,7 +839,7 @@ msgstr "परत"
 msgid "Layer Combo"
 msgstr "परत कॉम्बो"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:82
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
 msgid "Layer Preview"
 msgstr "परत पूर्वावलोकन"
 
@@ -847,7 +847,7 @@ msgstr "परत पूर्वावलोकन"
 msgid "Layer {1}"
 msgstr "परत {1}"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:82
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
 msgid "Layerstack Preview"
 msgstr "परतदार पूर्वावलोकन"
 
@@ -1342,11 +1342,11 @@ msgstr "दस्तावेज़ को सफलतापूर्वक स
 msgid "Supported files"
 msgstr "सभी समर्थित फाइलें"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:76
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:72
 msgid "Swap the current layer with the one above"
 msgstr "ऊपर एक के साथ वर्तमान परत को स्वैप करें"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:77
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:73
 msgid "Swap the current layer with the one below"
 msgstr "नीचे एक के साथ वर्तमान परत को स्वैप करें"
 
