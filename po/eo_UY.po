@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 08:19+0000\n"
-"PO-Revision-Date: 2023-01-12 08:20\n"
+"POT-Creation-Date: 2023-01-22 17:48+0000\n"
+"PO-Revision-Date: 2023-01-22 17:57\n"
 "Last-Translator: \n"
 "Language-Team: Esperanto\n"
 "Language: eo_UY\n"
@@ -375,7 +375,7 @@ msgstr "Forviŝi dosieron"
 msgid "Delete layer"
 msgstr "Forviŝi tavolon"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:74
 msgid "Delete this layer"
 msgstr "Forviŝi ĉi tiun tavolon"
 
@@ -791,7 +791,7 @@ msgstr "Bildodosiero sukcese kreiĝis"
 msgid "Images"
 msgstr "Bildoj"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:74
 msgid "Insert a copy of the current layer below"
 msgstr "Enmeti kopion de la aktuala tavolo suben"
 
@@ -856,7 +856,7 @@ msgstr "Tavolo"
 msgid "Layer Combo"
 msgstr "Tavola kombinaĵo"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:82
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
 msgid "Layer Preview"
 msgstr "Antaŭrigardo de tavolo"
 
@@ -864,7 +864,7 @@ msgstr "Antaŭrigardo de tavolo"
 msgid "Layer {1}"
 msgstr "Tavolo {1}"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:82
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
 msgid "Layerstack Preview"
 msgstr "Antaŭrigardo de tavolaro"
 
@@ -1361,11 +1361,11 @@ msgstr "Dokumento sukcese konserviĝis al «{1}»"
 msgid "Supported files"
 msgstr "Subtenataj dosieroj"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:76
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:72
 msgid "Swap the current layer with the one above"
 msgstr "Interŝanĝi la aktualan tavolon kaj la superan tavolon"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:77
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:73
 msgid "Swap the current layer with the one below"
 msgstr "Interŝanĝi la aktualan tavolon kaj la suban tavolon"
 
