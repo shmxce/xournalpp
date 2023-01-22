@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 08:19+0000\n"
-"PO-Revision-Date: 2023-01-12 17:46\n"
+"POT-Creation-Date: 2023-01-22 17:48+0000\n"
+"PO-Revision-Date: 2023-01-22 17:56\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -374,7 +374,7 @@ msgstr "حذف الملف"
 msgid "Delete layer"
 msgstr "حذف الطبقة"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:74
 msgid "Delete this layer"
 msgstr "حذف هذه الطبقة"
 
@@ -792,7 +792,7 @@ msgstr "تم إنشاء ملف الصورة بنجاح"
 msgid "Images"
 msgstr "صور"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:74
 msgid "Insert a copy of the current layer below"
 msgstr "إدراج نسخة من الطبقة الحالية أدناه"
 
@@ -857,7 +857,7 @@ msgstr "طبقة"
 msgid "Layer Combo"
 msgstr "قائمة الطبقات"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:82
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
 msgid "Layer Preview"
 msgstr "معاينة الطبقة"
 
@@ -865,7 +865,7 @@ msgstr "معاينة الطبقة"
 msgid "Layer {1}"
 msgstr "الطبقة {1}"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:82
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
 msgid "Layerstack Preview"
 msgstr "معاينة كومة الطبقات"
 
@@ -1362,11 +1362,11 @@ msgstr "تم حفظ المستند بنجاح إلى «{1}»"
 msgid "Supported files"
 msgstr "الملفات المدعومة"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:76
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:72
 msgid "Swap the current layer with the one above"
 msgstr "تبديل الطبقة الحالية مع الطبقة أعلاه"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:77
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:73
 msgid "Swap the current layer with the one below"
 msgstr "تبديل الطبقة الحالية مع الطبقة أدناه"
 
