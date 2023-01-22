@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 08:19+0000\n"
-"PO-Revision-Date: 2023-01-12 08:20\n"
+"POT-Creation-Date: 2023-01-22 17:48+0000\n"
+"PO-Revision-Date: 2023-01-22 17:56\n"
 "Last-Translator: \n"
 "Language-Team: Afrikaans\n"
 "Language: af_ZA\n"
@@ -372,7 +372,7 @@ msgstr "Verwyder lêer"
 msgid "Delete layer"
 msgstr "Verwyder laag"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:74
 msgid "Delete this layer"
 msgstr "Verwyder hierdie laag"
 
@@ -788,7 +788,7 @@ msgstr "Foto lêer suksesvol geskep"
 msgid "Images"
 msgstr "Foto's"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:74
 msgid "Insert a copy of the current layer below"
 msgstr "Voeg 'n afskrif van die huidige laag onder by"
 
@@ -853,7 +853,7 @@ msgstr "Laag"
 msgid "Layer Combo"
 msgstr "Laag Kombinasie"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:82
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
 msgid "Layer Preview"
 msgstr "Laag Voorskou"
 
@@ -861,7 +861,7 @@ msgstr "Laag Voorskou"
 msgid "Layer {1}"
 msgstr "Laag {1}"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:82
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
 msgid "Layerstack Preview"
 msgstr "Laag-stapel Voorskou"
 
@@ -1357,11 +1357,11 @@ msgstr "Dokument suksesvol gestoor na \"{1}\""
 msgid "Supported files"
 msgstr "Ondersteunde lêers"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:76
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:72
 msgid "Swap the current layer with the one above"
 msgstr "Ruil die huidige laag met die een bo"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:77
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:73
 msgid "Swap the current layer with the one below"
 msgstr "Ruil die huidige laag met die een onder"
 
