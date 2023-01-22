@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 08:19+0000\n"
-"PO-Revision-Date: 2023-01-12 08:20\n"
+"POT-Creation-Date: 2023-01-22 17:48+0000\n"
+"PO-Revision-Date: 2023-01-22 17:56\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -373,7 +373,7 @@ msgstr "Smazat soubor"
 msgid "Delete layer"
 msgstr "Smazat vrstvu"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:74
 msgid "Delete this layer"
 msgstr "Smazat tuto vrstvu"
 
@@ -791,7 +791,7 @@ msgstr "Obrázek úspěšně vytvořen"
 msgid "Images"
 msgstr "Obrázky"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:74
 msgid "Insert a copy of the current layer below"
 msgstr "Vložit kopii aktuální vrstvy níže"
 
@@ -856,7 +856,7 @@ msgstr "Vrstva"
 msgid "Layer Combo"
 msgstr "Kombinace vrstvy"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:82
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
 msgid "Layer Preview"
 msgstr "Náhled vrstvy"
 
@@ -864,7 +864,7 @@ msgstr "Náhled vrstvy"
 msgid "Layer {1}"
 msgstr "Vrstva {1}"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:82
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
 msgid "Layerstack Preview"
 msgstr "Náhled balíčku vrstev"
 
@@ -1361,11 +1361,11 @@ msgstr "Dokument úspěšně uložen do \"\""
 msgid "Supported files"
 msgstr "Podporované soubory"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:76
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:72
 msgid "Swap the current layer with the one above"
 msgstr "Prohodit aktuální vrstvu s výše uvedenou"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:77
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:73
 msgid "Swap the current layer with the one below"
 msgstr "Prohodit aktuální vrstvu s níže uvedenou"
 
