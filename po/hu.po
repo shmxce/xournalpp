@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-12 08:19+0000\n"
-"PO-Revision-Date: 2023-01-12 08:20\n"
+"POT-Creation-Date: 2023-01-22 17:48+0000\n"
+"PO-Revision-Date: 2023-01-22 17:57\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -374,7 +374,7 @@ msgstr "Fájl törlése"
 msgid "Delete layer"
 msgstr "Réteg törlése"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:74
 msgid "Delete this layer"
 msgstr "Réteg törlése"
 
@@ -791,7 +791,7 @@ msgstr "Képfájl sikeresen létrehozva"
 msgid "Images"
 msgstr "Képek"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:74
 msgid "Insert a copy of the current layer below"
 msgstr "Jelenlegi réteg másolatának beillesztése alulra"
 
@@ -856,7 +856,7 @@ msgstr "Réteg"
 msgid "Layer Combo"
 msgstr "Rétegkombináció"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:82
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
 msgid "Layer Preview"
 msgstr "Réteg előnézete"
 
@@ -864,7 +864,7 @@ msgstr "Réteg előnézete"
 msgid "Layer {1}"
 msgstr "{1}. réteg"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:82
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
 msgid "Layerstack Preview"
 msgstr "Egymásra helyezett rétegek előnézete"
 
@@ -1361,11 +1361,11 @@ msgstr "Sikeresen elmentett dokumentum „{1}”"
 msgid "Supported files"
 msgstr "Támogatott fájltípusok"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:76
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:72
 msgid "Swap the current layer with the one above"
 msgstr "Jelenlegi réteg megcserélése a felette levővel"
 
-#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:77
+#: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:73
 msgid "Swap the current layer with the one below"
 msgstr "Jelenlegi réteg megcserélése az alatta levővel"
 
