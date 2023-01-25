@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-22 17:48+0000\n"
-"PO-Revision-Date: 2023-01-22 17:57\n"
+"POT-Creation-Date: 2023-01-25 21:03+0000\n"
+"PO-Revision-Date: 2023-01-25 21:07\n"
 "Last-Translator: \n"
 "Language-Team: Basque\n"
 "Language: eu_ES\n"
@@ -29,7 +29,7 @@ msgid "\n"
 msgstr "\n"
 "Jarraitu nahi duzu?"
 
-#: ../src/core/control/Control.cpp:2322
+#: ../src/core/control/Control.cpp:2335
 msgid "\n"
 "Proposed replacement file: \"{1}\""
 msgstr "\n"
@@ -40,7 +40,7 @@ msgctxt "Page {pagenumber} \"of {pagecount}\""
 msgid " of {1}"
 msgstr " / {1}"
 
-#: ../src/core/control/settings/Settings.cpp:144
+#: ../src/core/control/settings/Settings.cpp:146
 msgid "%F-Note-%H-%M"
 msgstr "%F-Ohar-%H-%M"
 
@@ -131,11 +131,11 @@ msgid "Audio folder not set or invalid! Recording won't work!\n"
 msgstr "Audio karpeta ez dago ezarrita edo baliogabea da! Grabaketak ez du funtzionatuko!\n"
 "Ezarri grabaketa karpeta \"Hobespenak > Audio-grabazioa\" atalean"
 
-#: ../src/core/control/Control.cpp:259
+#: ../src/core/control/Control.cpp:260
 msgid "Autosave failed with an error: {1}"
 msgstr "Gordetze automatikoak huts egin du, mezua: {1}"
 
-#: ../src/core/control/Control.cpp:239
+#: ../src/core/control/Control.cpp:240
 msgid "Autosave renamed from {1} to {2}"
 msgstr "Gordetze automatikoak {1}-(r)i {2} izen berria eman dio"
 
@@ -165,7 +165,7 @@ msgstr "Ekarri aurrera"
 msgid "Built on"
 msgstr "Integratua"
 
-#: ../src/core/control/Control.cpp:2334 ../src/core/control/Control.cpp:2811
+#: ../src/core/control/Control.cpp:2347 ../src/core/control/Control.cpp:2824
 #: ../src/core/control/XournalMain.cpp:176
 #: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
@@ -299,7 +299,7 @@ msgstr "Ezin izan da {1} tresna-barratik {2} kokalekuko tresna"
 msgid "Could not remove tool item {1} from Toolbar {2} on position {3}"
 msgstr "Ezin izan da {2} tresna-barratik {3} kokalekuko {1} tresna"
 
-#: ../src/core/control/Control.cpp:250
+#: ../src/core/control/Control.cpp:251
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
 msgstr "Ezin izan da berrizendatu fitxategia '{1}'-etik '{2}'-era: {3}"
 
@@ -382,7 +382,7 @@ msgstr "Ezabatu geruza hau"
 msgid "Delete this page"
 msgstr "Ezabatu orri hau"
 
-#: ../src/core/control/Control.cpp:2808
+#: ../src/core/control/Control.cpp:2821
 msgid "Discard"
 msgstr "Baztertu"
 
@@ -390,7 +390,7 @@ msgstr "Baztertu"
 msgid "Display advanced export options"
 msgstr "Erakutsi esportatzeko aukera aurreratuak"
 
-#: ../src/core/control/Control.cpp:2247
+#: ../src/core/control/Control.cpp:2260
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
@@ -402,7 +402,7 @@ msgstr "Ez ireki automatikoki gordetako fitxategiak. Agian gainidatziko dira!\n"
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr "Ez gainidatzi atzeko planoko PDFa! Horrek akatsak eragingo ditu!"
 
-#: ../src/core/control/Control.cpp:2802
+#: ../src/core/control/Control.cpp:2815
 msgid "Document file was removed."
 msgstr "Dokumentu fitxategia kendu da."
 
@@ -517,7 +517,7 @@ msgstr "Ezabatu trazua"
 msgid "Eraser"
 msgstr "Borragoma"
 
-#: ../src/core/control/Control.cpp:2538
+#: ../src/core/control/Control.cpp:2551
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr "Errorea PDF oharrak fitxategian \"{1}\"\n"
@@ -527,7 +527,7 @@ msgstr "Errorea PDF oharrak fitxategian \"{1}\"\n"
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
 msgstr "Errorea \"{1}\" Glade fitxategia kargatzean (saiatu \"{2}\" kargatzen)"
 
-#: ../src/core/control/Control.cpp:2365
+#: ../src/core/control/Control.cpp:2378
 msgid "Error opening file \"{1}\""
 msgstr "Errorea \"{1}\" fitxategia irekitzean"
 
@@ -928,7 +928,7 @@ msgstr "Ez dago gailurik"
 msgid "No pages to export!"
 msgstr "Ez dago orririk esportatzeko!"
 
-#: ../src/core/control/Control.cpp:1474
+#: ../src/core/control/Control.cpp:1475
 msgid "No pdf pages available to append. You may need to reopen the document first."
 msgstr "Ez dago pdf orririk eransteko. Komeni da aurretik dokumentua berriro irekitzea."
 
@@ -1085,7 +1085,7 @@ msgstr "Inprimatu"
 msgid "Record Audio / Stop Recording"
 msgstr "Grabatu audioa / Gelditu grabazioa"
 
-#: ../src/core/control/Control.cpp:1004
+#: ../src/core/control/Control.cpp:1005
 msgid "Recorder could not be started."
 msgstr "Ezin izan da grabagailua abiatu."
 
@@ -1098,7 +1098,7 @@ msgstr "Berregin"
 msgid "Redo: "
 msgstr "Berregin: "
 
-#: ../src/core/control/Control.cpp:2333
+#: ../src/core/control/Control.cpp:2346
 msgid "Remove PDF Background"
 msgstr "Kendu atzeko planoko PDFa"
 
@@ -1150,16 +1150,16 @@ msgstr "SVG irudiak"
 msgid "Sample LaTeX file generated successfully."
 msgstr "Frogako LaTex fitxategia behar bezala sortu da."
 
-#: ../src/core/control/Control.cpp:2803 ../src/core/control/jobs/SaveJob.cpp:25
+#: ../src/core/control/Control.cpp:2816 ../src/core/control/jobs/SaveJob.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:384
 msgid "Save"
 msgstr "Gorde"
 
-#: ../src/core/control/Control.cpp:2803
+#: ../src/core/control/Control.cpp:2816
 msgid "Save As..."
 msgstr "Gorde honela..."
 
-#: ../src/core/control/Control.cpp:2637
+#: ../src/core/control/Control.cpp:2650
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:85
 msgid "Save File"
 msgstr "Gorde fitxategia"
@@ -1242,7 +1242,7 @@ msgstr "Hautatu area"
 msgid "Select Text from pdf"
 msgstr "Hautatu testua pdf-an"
 
-#: ../src/core/control/Control.cpp:2332
+#: ../src/core/control/Control.cpp:2345
 msgid "Select another PDF"
 msgstr "Hautatu beste PDF"
 
@@ -1416,15 +1416,15 @@ msgstr "Testua ez da aurkitu"
 msgid "Text not found, searched on all pages"
 msgstr "Testua ez da aurkitu, orri guztietan bilatu ondoren"
 
-#: ../src/core/control/Control.cpp:1248
+#: ../src/core/control/Control.cpp:1249
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
 msgstr "Toolbarconfiguration \"{1}\" lehenetsia dago, nahi duzu kopia bat sortu bera editatzeko?"
 
-#: ../src/core/control/Control.cpp:2309
+#: ../src/core/control/Control.cpp:2322
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
 msgstr "Ezin izan da erantsitako atzeko planoa aurkitu. Baliteke mugitu, izena aldatu edo ezabatu izana."
 
-#: ../src/core/control/Control.cpp:2312
+#: ../src/core/control/Control.cpp:2325
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
 "It was last seen at: \"{2}\""
 msgstr "Ezin izan da atzeko planoaren {1} fitxategia aurkitu. Baliteke mugitu, izena aldatu edo ezabatu izana.\n"
@@ -1434,7 +1434,7 @@ msgstr "Ezin izan da atzeko planoaren {1} fitxategia aurkitu. Baliteke mugitu, i
 msgid "The check for overwriting the background failed with:\n"
 msgstr "Atzeko planoa gainidazteko azterketak huts egin du:\n"
 
-#: ../src/core/control/Control.cpp:2373
+#: ../src/core/control/Control.cpp:2386
 msgid "The file being loaded has a file format version newer than the one currently supported by this version of Xournal++, so it may not load properly. Open anyways?"
 msgstr "Kargatuko den fitxategia Xournal++en uneko bertsiok onartzen duena baino bertsio berriago batez sortu da, beraz baliteke behar bezala ez kargatzea. Ireki edonola?"
 
@@ -1478,7 +1478,7 @@ msgstr "Laguntza erakusteak huts egin du: {1}"
 msgid "Thick"
 msgstr "Lodia"
 
-#: ../src/core/control/Control.cpp:2802
+#: ../src/core/control/Control.cpp:2815
 msgid "This document is not saved yet."
 msgstr "Dokumentu hau oraindik ez da gorde."
 
@@ -1514,7 +1514,7 @@ msgstr "Ezin izan da {1}-eko txantiloi fitxategi globala ireki. Ba al dago?"
 msgid "Unable to play audio recording {1}"
 msgstr "Ezin da erreproduzitu audio grabazioa {1}"
 
-#: ../src/core/control/Control.cpp:1488
+#: ../src/core/control/Control.cpp:1489
 msgid "Unable to retrieve pdf page."
 msgstr "Ezin izan da pdf orria berreskuratu."
 
@@ -1563,7 +1563,7 @@ msgstr "Trazu mota ezezaguna: \"{1}\", biribila suposatzen da"
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr "Trazu mota ezezaguna: {1}, arkatza erabiliko da"
 
-#: ../src/core/control/Control.cpp:2694
+#: ../src/core/control/Control.cpp:2707
 msgid "Unsaved Document"
 msgstr "Gorde gabeko dokumentua"
 
@@ -1571,7 +1571,7 @@ msgstr "Gorde gabeko dokumentua"
 msgid "Unsupported graphics format: "
 msgstr "Onartu gabeko formatu grafikoa: "
 
-#: ../src/core/control/Control.cpp:2330
+#: ../src/core/control/Control.cpp:2343
 msgid "Use proposed PDF"
 msgstr "Erabili proposatutako PDFa"
 
@@ -1627,7 +1627,7 @@ msgstr "Xournal fitxategiak"
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr "Xournal++-ek huts egin du azkenekoan. Nahi al duzu editatutako azken fitxategia leheneratzea?"
 
-#: ../src/core/control/Control.cpp:2643
+#: ../src/core/control/Control.cpp:2656
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal++ files"
 msgstr "Xournal++ fitxategiak"
@@ -1675,7 +1675,7 @@ msgstr "Txikiagotu"
 msgid "Zoom to 100%"
 msgstr "%100 eskala"
 
-#: ../src/core/control/Control.cpp:2637
+#: ../src/core/control/Control.cpp:2650
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:15
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
@@ -1688,7 +1688,7 @@ msgstr "_Utzi"
 msgid "_Open"
 msgstr "_Ireki"
 
-#: ../src/core/control/Control.cpp:2638
+#: ../src/core/control/Control.cpp:2651
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:86
 msgid "_Save"
@@ -1734,7 +1734,7 @@ msgstr "elementuak"
 msgid "eraser"
 msgstr "borragoma"
 
-#: ../src/core/control/Control.cpp:2261
+#: ../src/core/control/Control.cpp:2274
 msgid "file: {1}"
 msgstr "fitxategia: {1}"
 
@@ -1844,7 +1844,7 @@ msgstr "xournalpp-{1}"
 msgid " = Floating Toolbox (experimental) ="
 msgstr " = Tresna-kutxa mugikorra (esperimentala) ="
 
-#: ../ui/settings.glade:3981 ../ui/settings.glade:3992
+#: ../ui/settings.glade:4029 ../ui/settings.glade:4040
 msgid "%"
 msgstr "%"
 
@@ -1860,7 +1860,7 @@ msgstr "%%XPP_TEXT_COLOR%%"
 msgid "%%XPP_TOOL_INPUT%%"
 msgstr "%%XPP_TOOL_INPUT%%"
 
-#: ../ui/settings.glade:5217
+#: ../ui/settings.glade:5265
 msgid "%."
 msgstr "%."
 
@@ -1916,7 +1916,7 @@ msgstr "%a\t\tAsteko egunaren laburdura (adib. Ar)\n"
 msgid "(requires restart)"
 msgstr "(berrabiarazi behar da)"
 
-#: ../ui/settings.glade:5057
+#: ../ui/settings.glade:5105
 msgid "... AND How much time must have passed since last stroke.\n\n"
 "<i>Recommended: 500ms</i>"
 msgstr "... ETA Zenbat denbora pasa behar da azken trazuaz geroztik.\n\n"
@@ -1930,11 +1930,11 @@ msgstr "0,4"
 msgid "0,50"
 msgstr "0,50"
 
-#: ../ui/settings.glade:5201
+#: ../ui/settings.glade:5249
 msgid "0.00"
 msgstr "0.00"
 
-#: ../ui/settings.glade:4906
+#: ../ui/settings.glade:4954
 msgid "0.20"
 msgstr "0.20"
 
@@ -1942,7 +1942,7 @@ msgstr "0.20"
 msgid "1"
 msgstr "1"
 
-#: ../ui/settings.glade:5848
+#: ../ui/settings.glade:5896
 msgid "1,00"
 msgstr "1,00"
 
@@ -1986,7 +1986,7 @@ msgstr "<b>Kolorea</b>"
 msgid "<b>Default Tools</b>"
 msgstr "<b>Tresna lehenetsiak</b>"
 
-#: ../ui/settings.glade:5394
+#: ../ui/settings.glade:5442
 msgid "<b>Default</b>"
 msgstr "<b>Lehenetsia</b>"
 
@@ -2024,11 +2024,11 @@ msgstr "<b>Bereizlea</b>"
 msgid "<i>Assign device classes to each input device of your system. Only change these values if your devices are not correctly matched. (e.g. your pen shows up as touchscreen)</i>"
 msgstr "<i>Esleitu gailu klasea zure sistemako sarrera-gailu bakoitzari. Balio horiek aldatu bakarrik zure gailuak behar bezala izendatuta ez daudenean. (adibidez, arkatza ukipen-pantaila gisa agertzen denean)</i>"
 
-#: ../ui/settings.glade:5485
+#: ../ui/settings.glade:5533
 msgid "<i>Audio recordings are currently stored in a separate folder and referenced from the journal.</i>"
 msgstr "<i>Audio grabazioak une honetan bereizitako karpeta batean gordeak daude eta koadernoan estekatuta daude.</i>"
 
-#: ../ui/settings.glade:5903
+#: ../ui/settings.glade:5951
 msgid "<i>Changes take only effect on new recordings and playbacks.</i>"
 msgstr "<i>Aldaketek grabazio eta erreprodukzio berrietan baino ez dira aplikatuko.</i>"
 
@@ -2050,7 +2050,7 @@ msgid "<i>If the document already was saved you can find it in the same folder w
 msgstr "<i>Dokumentua dagoeneko gorde bada, .autosave.xoj luzapena duen karpeta berean aurki dezakezu.\n"
 "Fitxategia oraindik gorde ez bada, hemen aurki dezakezu: ~/.cache/xournalpp/autosaves</i>"
 
-#: ../ui/settings.glade:4221
+#: ../ui/settings.glade:4269
 msgid "<i>If you add additional space beside the pages you can choose the area of the screen you would like to work on.</i>"
 msgstr "<i>Orrien ondoan leku gehigarria gehitzen baduzu, landu nahi duzun pantailaren eremua aukeratu dezakezu.</i>"
 
@@ -2066,21 +2066,21 @@ msgstr "<i>Aukeratu sarrera egonkortzeko algoritmoa eta bere parametroak</i>"
 msgid "<i>Pressure Sensitivity allows you to draw lines with different widths, depending on how much pressure you apply to the pen. If your tablet does not support this feature this setting has no effect.</i>"
 msgstr "<i>Presioaren sentsibilitateak zabalera desberdineko marrak marrazteko aukera ematen du, arkatzari zenbat presio egiten zaion arabera. Zure tabletak funtzio hau onartzen ez badu ezarpen honek ez du inolako eraginik.</i>"
 
-#: ../ui/settings.glade:4068
+#: ../ui/settings.glade:4116
 msgid "<i>Put a ruler on your screen and move the slider until both rulers match.</i>"
 msgstr "<i>Jarri erregela bat zure pantailan eta mugitu graduatzailea bi erregelek bat egin arte.</i>"
 
-#: ../ui/settings.glade:5160
+#: ../ui/settings.glade:5208
 msgid "<i>Re-render PDF backgrounds more often while zooming for better render quality. \n"
 "<b>Note:</b> This should not affect print quality.</i>"
 msgstr "<i>Berriro errendatu PDFren atzeko planoak maizago handitzen diren bitartean kalitate hobea lortzeko. \n"
 "<b>Oharra:</b> Honek ez du eragingo inprimatzeko kalitatean.</i>"
 
-#: ../ui/settings.glade:6012
+#: ../ui/settings.glade:6060
 msgid "<i>Select language (requires restart)</i>"
 msgstr "<i>Aukeratu hizkuntza (berrabiaraztea eskatzen du)</i>"
 
-#: ../ui/settings.glade:5340
+#: ../ui/settings.glade:5388
 msgid "<i>Select the tool and Settings if you press the Default Button.</i>"
 msgstr "<i>Hautatu tresna eta ezarpenak lehenetsitako botoia sakatzen baduzu.</i>"
 
@@ -2092,7 +2092,7 @@ msgstr "<i>Gailu batzuek ustekabeko presio txikiak edo handiak bidaltzen dituzte
 msgid "<i>Specify commands that are called once Hand Recognition triggers. The commands will be executed in the UI Thread, make sure they are not blocking!</i>"
 msgstr "<i>Zehaztu Eskuaren Ezagutza aktibatzean pizten diren aginduak. Komandoak UIaren harian exekutatuko dira, ziurtatu ez daudela blokeatzen!</i>"
 
-#: ../ui/settings.glade:5596
+#: ../ui/settings.glade:5644
 msgid "<i>Specify the audio devices used for recording and playback of audio attachments.\n"
 "If available select <small><tt>pulse</tt></small> as input / output device.</i>"
 msgstr "<i>Zehaztu audio eranskinak grabatzeko eta erreproduzitzeko erabiltzen diren audio gailuak. \n"
@@ -2106,7 +2106,7 @@ msgstr "<i>Zehaztu hautatuko diren tresnak arkatzaren botoi bat sakatzen bada ed
 msgid "<i>This name will be proposed if you save a new document.</i>"
 msgstr "<i>Izen hau proposatuko da dokumentu berri bat gordetzen baduzu.</i>"
 
-#: ../ui/settings.glade:4047
+#: ../ui/settings.glade:4095
 msgid "<i>To make sure on 100% zoom the size of elements is natural. (requires restart)</i>"
 msgstr "<i>Ziurtatzeko zooma %100ean elementuen tamaina naturala da. (berrabiarazi behar da)</i>"
 
@@ -2140,19 +2140,19 @@ msgstr "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
 msgid "About Xournal++"
 msgstr "Xournal++-i buruz"
 
-#: ../ui/settings.glade:5129
+#: ../ui/settings.glade:5177
 msgid "Action on Tool Tap"
 msgstr "Tap tresnaren ekintza"
 
-#: ../ui/settings.glade:4274
+#: ../ui/settings.glade:4322
 msgid "Add additional horizontal space of"
 msgstr "Gehitu espazio horizontal gehiago"
 
-#: ../ui/settings.glade:4252
+#: ../ui/settings.glade:4300
 msgid "Add additional vertical space of"
 msgstr "Gehitu espazio bertikal gehiago"
 
-#: ../ui/settings.glade:4655
+#: ../ui/settings.glade:4703
 msgid "After resizing a selection, the line width of all strokes will be the same as before the resizing operation. "
 msgstr "Hautaketa baten tamaina aldatu ondoren, lerro baten trazuaren zabalera tamaina-aldaketaren aurretik zuen berdina izango da. "
 
@@ -2164,7 +2164,7 @@ msgstr "Dena"
 msgid "All pages"
 msgstr "Orri guztiak"
 
-#: ../ui/settings.glade:5094
+#: ../ui/settings.glade:5142
 msgid "All three conditions must be met before stroke is ignored.\n"
 "It must be short in time and length and we can't have ignored another stroke recently."
 msgstr "Hiru baldintzak bete behar dira trazua ahazteko.\n"
@@ -2186,11 +2186,11 @@ msgstr "Esanahi aritmetikoa"
 msgid "Artifact workaround"
 msgstr "Lanerako artefaktua"
 
-#: ../ui/settings.glade:5692
+#: ../ui/settings.glade:5740
 msgid "Audio Devices"
 msgstr "Audio gailuak"
 
-#: ../ui/settings.glade:5935
+#: ../ui/settings.glade:5983
 msgid "Audio Recording"
 msgstr "Audio-grabazioa"
 
@@ -2214,7 +2214,7 @@ msgstr "Detektatu automatikoki"
 msgid "Autoloading"
 msgstr "Karga automatikoa"
 
-#: ../ui/settings.glade:4520
+#: ../ui/settings.glade:4568
 msgid "Automatically Add Empty Last Page (excluding PDFs)"
 msgstr ""
 
@@ -2295,7 +2295,7 @@ msgstr "Aukeratu zer kolore erabili \"Nabarmendu kurtsorearen kokapena\" egitean
 msgid "Circle Color"
 msgstr "Zirkuluaren kolorea"
 
-#: ../ui/settings.glade:3812
+#: ../ui/settings.glade:3860
 msgid "Clear cached paged while scrolling"
 msgstr "Garbitu cacheko orria korritzean"
 
@@ -2375,7 +2375,7 @@ msgstr "LaTeX testu lehenetsia"
 msgid "Default Save Name"
 msgstr "Gordetzeko izen lehenetsia"
 
-#: ../ui/settings.glade:5835
+#: ../ui/settings.glade:5883
 msgid "Default Seek Time (in seconds)"
 msgstr "Kokatze denbora lehenetsia (segundotan)"
 
@@ -2383,7 +2383,7 @@ msgstr "Kokatze denbora lehenetsia (segundotan)"
 msgid "Default name: "
 msgstr "Izen lehenetsia: "
 
-#: ../ui/settings.glade:5434
+#: ../ui/settings.glade:5482
 msgid "Defaults"
 msgstr "Lehenetsiak"
 
@@ -2423,11 +2423,11 @@ msgstr "Desgaitua"
 msgid "Disabling Method"
 msgstr "Desaktibatzeko metodoa"
 
-#: ../ui/settings.glade:4139
+#: ../ui/settings.glade:4187
 msgid "Display DPI Calibration"
 msgstr "Bistaratu DPI kalibrazioa"
 
-#: ../ui/settings.glade:4969
+#: ../ui/settings.glade:5017
 msgid "Do not draw for inputs of short time and length unless it comes in short succession. Instead, show floating toolbox."
 msgstr "Ez ezazu denbora eta luzera laburreko sarrerak marraztu, ondoz ondo ez badaude. Horren ordez, erakutsi tresna-kutxa mugikorra."
 
@@ -2445,7 +2445,7 @@ msgstr "Abiapuntutik EZKERRERA arrastatzeak Maius tekla zanpatzearen baliokidea 
 "Zehaztapen erradioa: zehazten du aldagailuak zein erradioan blokeatuko diren marrazkia bukatu arte.\n\n"
 "<i> Teklaturik gabe funtzionatzeko erabilgarria. </i>"
 
-#: ../ui/settings.glade:4555
+#: ../ui/settings.glade:4603
 msgid "Drag LEFT from start point acts like shift key is being held.\n"
 "Drag UP acts as if Control key is being held.\n\n"
 "Determination Radius: Radius at which modifiers will lock in until finished drawing.\n\n"
@@ -2475,11 +2475,11 @@ msgstr "Marraztu _lerroa"
 msgid "Draw a transparent circle around the cursor"
 msgstr "Marraztu zirkulu garden bat kurtsorearen inguruan"
 
-#: ../ui/settings.glade:5289
+#: ../ui/settings.glade:5337
 msgid "Drawing Area"
 msgstr "Marrazteko area"
 
-#: ../ui/settings.glade:4623
+#: ../ui/settings.glade:4671
 msgid "Drawing Tools - Set Modifiers by Draw Direction (Experimental)"
 msgstr "Marrazteko tresnak - Ezarri aldatzaileak marrazkiaren norabidearen arabera (esperimentala)"
 
@@ -2503,7 +2503,7 @@ msgstr "Editorearen ezarpenak"
 msgid "Enable"
 msgstr "Gaitu"
 
-#: ../ui/settings.glade:4550
+#: ../ui/settings.glade:4598
 msgid "Enable  with determination radius of "
 msgstr "Gaitu zehaztapen erradio honekin "
 
@@ -2523,7 +2523,7 @@ msgstr "Gaitu presioaren inferentzia <i>(Asmatu presioa marrazteko abiaduran oin
 msgid "Enable Pressure Sensitivity"
 msgstr "Gaitu presioaren sentsibilitatea"
 
-#: ../ui/settings.glade:4964
+#: ../ui/settings.glade:5012
 msgid "Enable Tap action"
 msgstr "Gaitu tap ekintza"
 
@@ -2596,7 +2596,7 @@ msgstr "Bilatu bilaketa-katearen hurrengo agerraldia"
 msgid "Find previous occurrence of the search string"
 msgstr "Bilatu bilaketa-katearen aurreko agerraldia"
 
-#: ../ui/settings.glade:4389
+#: ../ui/settings.glade:4437
 msgid "First Page Offset "
 msgstr "Lehen orriaren desplazamendua "
 
@@ -2604,11 +2604,11 @@ msgstr "Lehen orriaren desplazamendua "
 msgid "Font: "
 msgstr "Letra-tipoa: "
 
-#: ../ui/main.glade:577 ../ui/settings.glade:3631
+#: ../ui/main.glade:577 ../ui/settings.glade:3647
 msgid "Fullscreen"
 msgstr "Pantaila osoa"
 
-#: ../ui/settings.glade:5737
+#: ../ui/settings.glade:5785
 msgid "Gain"
 msgstr "Irabazia"
 
@@ -2628,15 +2628,19 @@ msgstr "Globala"
 msgid "Global template file path"
 msgstr "Txantiloi fitxategi globalaren bidea"
 
+#: ../ui/settings.glade:3724
+msgid "Go Fullscreen"
+msgstr ""
+
 #: ../ui/goto.glade:14
 msgid "Go to Page"
 msgstr "Joan orrira"
 
-#: ../ui/settings.glade:4793
+#: ../ui/settings.glade:4841
 msgid "Grid size"
 msgstr "Saretaren tamaina"
 
-#: ../ui/settings.glade:4750
+#: ../ui/settings.glade:4798
 msgid "Grid snapping tolerance"
 msgstr "Saretara atxikitzeko tolerantzia"
 
@@ -2656,13 +2660,9 @@ msgstr "Altuera"
 msgid "Height:"
 msgstr "Altuera:"
 
-#: ../ui/main.glade:996 ../ui/settings.glade:3593 ../ui/settings.glade:3660
+#: ../ui/main.glade:996
 msgid "Hide Menubar"
 msgstr "Ezkutatu menu-barra"
-
-#: ../ui/settings.glade:3609 ../ui/settings.glade:3676
-msgid "Hide Sidebar"
-msgstr "Ezkutatu alboko panela"
 
 #: ../ui/settings.glade:3427
 msgid "Hide the horizontal scrollbar"
@@ -2684,13 +2684,13 @@ msgstr "Nabarmendu hautatutako testua"
 msgid "Highlighter Opti_ons"
 msgstr "Nabarmentzailearen aukerak"
 
-#: ../ui/settings.glade:5014
+#: ../ui/settings.glade:5062
 msgid "How short (screen mm)  of the stroke  AND...\n\n"
 "<i>Recommended: 1 mm</i>"
 msgstr "Trazuaren zabalera (pantailako mm)  AND...\n\n"
 "<i>Gomendagarria: 1 mm</i>"
 
-#: ../ui/settings.glade:4994
+#: ../ui/settings.glade:5042
 msgid "How short (time)  AND...\n\n"
 "<i>Recommended: 150ms</i>"
 msgstr "Zein tarte (denbora)  AND...\n\n"
@@ -2704,7 +2704,7 @@ msgstr "Ikonoen diseinatzaileak"
 msgid "Icon Theme"
 msgstr "Ikonoen gaia"
 
-#: ../ui/settings.glade:4838
+#: ../ui/settings.glade:4886
 msgid "If activated, shapes that have been recognized by the shape recognizer will be snapped to the grid automatically. This may lead to unexpected results if you have the shape recognizer turned on while writing."
 msgstr "Aktibatuta badago, formen ezagutzaileak identifikatutako formak saretara doituko dira automatikoki. Horrek ustekabeko emaitzak ekar ditzake formen ezagutza piztuta baduzu idazten duzun bitartean."
 
@@ -2724,7 +2724,7 @@ msgstr "Gaituta badago, orrialde bakoitzaren geruzak banan-banan gehituko dira. 
 msgid "If you open a PDF and there is a Xournal file with the same name it will open the xoj file."
 msgstr "PDF bat irekitzen baduzu eta izen bereko Xournal fitxategi bat badago, xoj fitxategia irekiko da."
 
-#: ../ui/settings.glade:4982
+#: ../ui/settings.glade:5030
 msgid "Ignore Time (ms)"
 msgstr "Ahazteko denbora (ms)"
 
@@ -2740,7 +2740,7 @@ msgstr "Irudiaren kalitatea"
 msgid "Inertia"
 msgstr "Inertzia"
 
-#: ../ui/settings.glade:5620
+#: ../ui/settings.glade:5668
 msgid "Input Device"
 msgstr "Sarrerako gailua"
 
@@ -2772,7 +2772,7 @@ msgstr "Txertatu orria ondoren"
 msgid "Insert Page Before"
 msgstr "Txertatu orria aurretik"
 
-#: ../ui/settings.glade:5960
+#: ../ui/settings.glade:6008
 msgid "LaTeX"
 msgstr "LaTeX"
 
@@ -2784,11 +2784,11 @@ msgstr "LaTeX ezarpen exekutagarriak"
 msgid "LaTeX generation command"
 msgstr "LaTeX sortzeko komandoa"
 
-#: ../ui/settings.glade:6049 ../ui/settings.glade:6097
+#: ../ui/settings.glade:6097 ../ui/settings.glade:6145
 msgid "Language"
 msgstr "Hizkuntza"
 
-#: ../ui/settings.glade:6067
+#: ../ui/settings.glade:6115
 msgid "Language Settings"
 msgstr "Hizkuntza-ezarpenak"
 
@@ -2836,7 +2836,7 @@ msgstr "Masa"
 msgid "Mass: the higher the mass, the more inertia and the more stabilization"
 msgstr "Masa: zenbat eta inertzia eta egonkortasun handiagoa, masa gehiago"
 
-#: ../ui/settings.glade:5034
+#: ../ui/settings.glade:5082
 msgid "Max Length (mm)"
 msgstr "Luzera maximoa (mm)"
 
@@ -2866,7 +2866,7 @@ msgstr "Saguaren erdiko botoia"
 msgid "Minimum Pressure:"
 msgstr "Presio minimoa:"
 
-#: ../ui/settings.glade:4893
+#: ../ui/settings.glade:4941
 msgid "Minimum Stroke Size"
 msgstr "Trazuaren gutxieneko tamaina"
 
@@ -2936,7 +2936,7 @@ msgstr "Saretarik ez"
 msgid "None"
 msgstr "Deus ez"
 
-#: ../ui/settings.glade:4388
+#: ../ui/settings.glade:4436
 msgid "Offset first page this many pages when <b>Pair Pages</b> enabled"
 msgstr "Desplazatu lehenengo orria hainbat orri <b>Parekatu orriak</b> gaituta dagoenean"
 
@@ -2948,7 +2948,7 @@ msgstr "Opakutasun ezarpenak"
 msgid "Options"
 msgstr "Aukerak"
 
-#: ../ui/settings.glade:5643
+#: ../ui/settings.glade:5691
 msgid "Output Device"
 msgstr "Irteerako gailua"
 
@@ -2956,7 +2956,7 @@ msgstr "Irteerako gailua"
 msgid "Output generated by the LaTeX command."
 msgstr "LaTeXen aginduak sortutako irteera."
 
-#: ../ui/settings.glade:5258
+#: ../ui/settings.glade:5306
 msgid "PDF Cache"
 msgstr "PDF Cache"
 
@@ -2968,7 +2968,7 @@ msgstr "Aurreko ohar-orria"
 msgid "Pages:"
 msgstr "Orriak:"
 
-#: ../ui/settings.glade:4442
+#: ../ui/settings.glade:4490
 msgid "Paired Pages"
 msgstr "Parekatutako orriak"
 
@@ -3006,7 +3006,7 @@ msgstr "Pausatu"
 msgid "Pen _Options"
 msgstr "Arkatzaren aukerak"
 
-#: ../ui/settings.glade:3841
+#: ../ui/settings.glade:3889
 msgid "Performance"
 msgstr "Errendimendua"
 
@@ -3014,7 +3014,7 @@ msgstr "Errendimendua"
 msgid "Pick the Editor's Font"
 msgstr "Aukeratu editorearen letra-tipoa"
 
-#: ../ui/settings.glade:5889
+#: ../ui/settings.glade:5937
 msgid "Playback Settings"
 msgstr "Erreprodukzio zerrendaren ezarpenak"
 
@@ -3030,11 +3030,11 @@ msgstr "Plugin _kudeatzailea"
 msgid "Plugin changes are only applied after Xournal++ is restarted"
 msgstr "Plugin aldaketak Xournal++ berrabiarazi ondoren aplikatzen dira"
 
-#: ../ui/settings.glade:3775
+#: ../ui/settings.glade:3823
 msgid "Pre-load pages after"
 msgstr "Aurrez kargatutako orriak ondoren"
 
-#: ../ui/settings.glade:3763
+#: ../ui/settings.glade:3811
 msgid "Pre-load pages before"
 msgstr "Aurrez kargatutako orriak aurretik"
 
@@ -3046,11 +3046,11 @@ msgstr "Hobespenak"
 msgid "Preprocessor"
 msgstr "Aurreprozesamendua"
 
-#: ../ui/settings.glade:3732
+#: ../ui/settings.glade:3780
 msgid "Presentation Mode"
 msgstr "Aurkezpen modua"
 
-#: ../ui/settings.glade:4650
+#: ../ui/settings.glade:4698
 msgid "Preserve line width"
 msgstr "Mantendu lerroaren zabalera"
 
@@ -3070,7 +3070,7 @@ msgstr "Erradioa"
 msgid "Range"
 msgstr "Tartea"
 
-#: ../ui/settings.glade:5188
+#: ../ui/settings.glade:5236
 msgid "Re-render when the page's zoom changes by more than "
 msgstr "Bir-errendatu orriaren zooma aldatzen bada hau baino gehiago "
 
@@ -3082,7 +3082,7 @@ msgstr "Azken _dokumentuak"
 msgid "Record / Stop"
 msgstr "Grabatu / Gelditu"
 
-#: ../ui/settings.glade:5802
+#: ../ui/settings.glade:5850
 msgid "Recording Quality"
 msgstr "Grabazioaren kalitatea"
 
@@ -3094,7 +3094,7 @@ msgstr "Berrizendatu geruza"
 msgid "Rename selected layer"
 msgstr "Berrizendatu hautatutako geruza"
 
-#: ../ui/settings.glade:4697
+#: ../ui/settings.glade:4745
 msgid "Resizing"
 msgstr "Tamaina aldatzen"
 
@@ -3106,11 +3106,11 @@ msgstr "Bereizmena"
 msgid "Right Mouse Button"
 msgstr "Saguaren eskuin klik"
 
-#: ../ui/settings.glade:4737
+#: ../ui/settings.glade:4785
 msgid "Rotation snapping tolerance"
 msgstr "Biraketaren atxikitzeko tolerantzia"
 
-#: ../ui/settings.glade:5725
+#: ../ui/settings.glade:5773
 msgid "Sample Rate"
 msgstr "Lagin-maiztasuna"
 
@@ -3126,7 +3126,7 @@ msgstr "Gorde fitxategira"
 msgid "Scrollbars"
 msgstr "Korritze-barrak"
 
-#: ../ui/settings.glade:4355
+#: ../ui/settings.glade:4403
 msgid "Scrolling outside the page"
 msgstr "Orritik kanpora korritzen"
 
@@ -3134,7 +3134,7 @@ msgstr "Orritik kanpora korritzen"
 msgid "Select Background Color"
 msgstr "Hautatu atzeko planoaren kolorea"
 
-#: ../ui/settings.glade:5522
+#: ../ui/settings.glade:5570
 msgid "Select Folder"
 msgstr "Hautatu karpeta"
 
@@ -3154,7 +3154,7 @@ msgstr "Hautatu PDF orria"
 msgid "Select Text In Rectangle"
 msgstr "Hautatu testua laukizuzenean"
 
-#: ../ui/settings.glade:3697
+#: ../ui/settings.glade:3745
 msgid "Select toolbar:"
 msgstr "Hautatu tresna-barra:"
 
@@ -3186,21 +3186,29 @@ msgstr "Ezarri zutabeak"
 msgid "Set Rows"
 msgstr "Ezarri errenkadak"
 
-#: ../ui/settings.glade:5097
+#: ../ui/settings.glade:5145
 msgid "Settings:"
 msgstr "Ezarpenak:"
 
-#: ../ui/settings.glade:5106
+#: ../ui/settings.glade:5154
 msgid "Show Floating Toolbox"
 msgstr "Erakutsi trena-barra mugikorra"
+
+#: ../ui/settings.glade:3593 ../ui/settings.glade:3676
+msgid "Show Menubar"
+msgstr ""
 
 #: ../ui/settings.glade:2746
 msgid "Show Menubar on Startup"
 msgstr "Erakutsi menu-barra abioan"
 
-#: ../ui/main.glade:588
+#: ../ui/main.glade:588 ../ui/settings.glade:3625 ../ui/settings.glade:3708
 msgid "Show Sidebar"
 msgstr "Erakutsi alboko barra"
+
+#: ../ui/settings.glade:3609 ../ui/settings.glade:3692
+msgid "Show Toolbar"
+msgstr ""
 
 #: ../ui/main.glade:604
 msgid "Show Toolbars"
@@ -3229,7 +3237,7 @@ msgctxt "stylus cursor uses a small dot"
 msgid "Small dot icon"
 msgstr "Puntu txikia ikonoa"
 
-#: ../ui/settings.glade:4856
+#: ../ui/settings.glade:4904
 msgid "Snapping"
 msgstr "Atxikitzea"
 
@@ -3237,11 +3245,11 @@ msgstr "Atxikitzea"
 msgid "Source Code / Bug Tracker"
 msgstr "Iturburu kodea / Akatsen jarraipena"
 
-#: ../ui/settings.glade:3925
+#: ../ui/settings.glade:3973
 msgid "Speed for Ctrl + Scroll"
 msgstr "Ctrl + korritzearen abiadura"
 
-#: ../ui/settings.glade:3953
+#: ../ui/settings.glade:4001
 msgid "Speed for a Zoomstep"
 msgstr "Zoomaren urratsen abiadura"
 
@@ -3253,7 +3261,7 @@ msgstr "Estandarra"
 msgid "Start zooming after a distance "
 msgstr "Distantzia baten ondoren hasi zooma egiten "
 
-#: ../ui/settings.glade:5507 ../ui/settings.glade:5565
+#: ../ui/settings.glade:5555 ../ui/settings.glade:5613
 msgid "Storage Folder"
 msgstr "Biltegiratzeko karpeta"
 
@@ -3261,7 +3269,7 @@ msgstr "Biltegiratzeko karpeta"
 msgid "Strikethrough selected text"
 msgstr "Marratu hautatutako testua"
 
-#: ../ui/settings.glade:4934
+#: ../ui/settings.glade:4982
 msgid "Stroke Recognizer"
 msgstr "Trazuen identifikatzailea"
 
@@ -3273,7 +3281,7 @@ msgstr "Stylus-a"
 msgid "Stylus Buttons"
 msgstr "Stylus-aren botoiak"
 
-#: ../ui/settings.glade:5045
+#: ../ui/settings.glade:5093
 msgid "Successive (ms)"
 msgstr "Ondorengoa (ms)"
 
@@ -3334,7 +3342,7 @@ msgstr "Hurrengo kateak ordeztuko dira txantiloi globalean LaTeX tresna erabiltz
 msgid "The math mode formula typed in the LaTeX tool."
 msgstr "LaTeX tresnan idatzitako formula matematikoa."
 
-#: ../ui/settings.glade:4116
+#: ../ui/settings.glade:4164
 msgid "The unit of the ruler is cm"
 msgstr "Erregelaren unitatea cm da"
 
@@ -3363,11 +3371,11 @@ msgstr "Ukituz korritzea"
 msgid "Touchscreen"
 msgstr "Ukipen-pantaila"
 
-#: ../ui/settings.glade:5074
+#: ../ui/settings.glade:5122
 msgid "Try to select object first."
 msgstr "Saiatu lehenengo objektuak hautatzen."
 
-#: ../ui/settings.glade:5079 ../ui/settings.glade:5111
+#: ../ui/settings.glade:5127 ../ui/settings.glade:5159
 msgid "Try to select object first; if nothing selected then show floating toolbox if enabled."
 msgstr "Saiatu lehenengo objektua hautatzen; ezer hautatuta ez badago, erakutsi tresna-barra mugikorra gaituta badago."
 
@@ -3383,7 +3391,7 @@ msgstr "Erabili ikono eskuragarrien biltegia (berrabiarazi behar da)"
 msgid "Use font from system theme."
 msgstr "Erabili sistemako gaiaren letra-tipoa."
 
-#: ../ui/settings.glade:4834
+#: ../ui/settings.glade:4882
 msgid "Use snapping for recognized shapes"
 msgstr "Doitu ezagututako formak"
 
@@ -3395,7 +3403,7 @@ msgstr "Erabili uneko orriaren tamaina goiko orriaren tamainaren ordez."
 msgid "Use two fingers to pan/zoom and one finger to use the selected tool."
 msgstr "Erabili bi hatzak egiteko pan/zoom eta bakarra hautatutako tresna erabiltzeko."
 
-#: ../ui/settings.glade:4401
+#: ../ui/settings.glade:4449
 msgid "Usually 0 or 1"
 msgstr "Normalean 0 edo 1"
 
@@ -3407,7 +3415,7 @@ msgstr "Abiaduran oinarritutako presio gaussiarrak"
 msgid "Version: "
 msgstr "Bertsioa: "
 
-#: ../ui/settings.glade:3872
+#: ../ui/settings.glade:3920
 msgid "View"
 msgstr "Ikusi"
 
@@ -3425,7 +3433,7 @@ msgid "When drawing with touch, two-finger gestures intended to pan the view can
 msgstr "Ukituarekin marraztean, korritze panoramikoa egiteko bi hatzetako keinuek zooma eragin dezakete, errendimendu akatsak sortuz.\n"
 "Ezarpen hauen bidez errazagoa da ukituarekin marraztea. "
 
-#: ../ui/settings.glade:5185
+#: ../ui/settings.glade:5233
 msgid "When zoomed in on a high-resolution PDF, each re-render can take a long time. Setting this to a large value causes these re-renders to happen less often.\n\n"
 "Set this to 0% to always re-render on zoom."
 msgstr "Bereizmen handiko PDF batean zoom egitean, errendatze bakoitzak luze jo dezake. Ezarpenetan balio handia jarrita errendatze hauek maiztasun txikiagoarekin gertatuko dira."
@@ -3454,7 +3462,7 @@ msgstr "Egokitu testua"
 msgid "Xournal++ Preferences"
 msgstr "Xournal++ hobespenak"
 
-#: ../ui/settings.glade:4170
+#: ../ui/settings.glade:4218
 msgid "Zoom"
 msgstr "Zooma"
 
@@ -3462,7 +3470,7 @@ msgstr "Zooma"
 msgid "Zoom Gestures"
 msgstr "Zoom keinuak"
 
-#: ../ui/settings.glade:4016
+#: ../ui/settings.glade:4064
 msgid "Zoom Speed"
 msgstr "Zoomaren abiadura"
 
@@ -3710,7 +3718,7 @@ msgstr "_oso fina"
 msgid "_whiteout"
 msgstr "_tinta zuzentzailea"
 
-#: ../ui/settings.glade:4500
+#: ../ui/settings.glade:4548
 msgid "disabled"
 msgstr ""
 
@@ -3735,8 +3743,8 @@ msgid "minutes"
 msgstr "minutu"
 
 #: ../ui/settings.glade:3169 ../ui/settings.glade:3220
-#: ../ui/settings.glade:4313 ../ui/settings.glade:4324
-#: ../ui/settings.glade:4590
+#: ../ui/settings.glade:4361 ../ui/settings.glade:4372
+#: ../ui/settings.glade:4638
 msgid "pixels"
 msgstr "pixel"
 
@@ -3748,11 +3756,11 @@ msgstr "s <i>(ondoren, ukipen-pantaila berriro aktibatuko da)</i>"
 msgid "ver_y thick"
 msgstr "_oso lodia"
 
-#: ../ui/settings.glade:4485
+#: ../ui/settings.glade:4533
 msgid "when drawing on last page"
 msgstr ""
 
-#: ../ui/settings.glade:4470
+#: ../ui/settings.glade:4518
 msgid "when scrolling to end of last page"
 msgstr ""
 
