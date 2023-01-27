@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-25 21:03+0000\n"
-"PO-Revision-Date: 2023-01-25 21:07\n"
+"PO-Revision-Date: 2023-01-27 16:17\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -2635,7 +2635,7 @@ msgstr "Percorso file modello globale"
 
 #: ../ui/settings.glade:3724
 msgid "Go Fullscreen"
-msgstr ""
+msgstr "Schermo intero"
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
@@ -3201,7 +3201,7 @@ msgstr "Mostra Barra degli strumenti mobile"
 
 #: ../ui/settings.glade:3593 ../ui/settings.glade:3676
 msgid "Show Menubar"
-msgstr ""
+msgstr "Mostra le opzioni"
 
 #: ../ui/settings.glade:2746
 msgid "Show Menubar on Startup"
@@ -3213,7 +3213,7 @@ msgstr "Mostra barra laterale"
 
 #: ../ui/settings.glade:3609 ../ui/settings.glade:3692
 msgid "Show Toolbar"
-msgstr ""
+msgstr "Mostra barra degli strumenti"
 
 #: ../ui/main.glade:604
 msgid "Show Toolbars"
