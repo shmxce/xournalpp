@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-25 21:03+0000\n"
-"PO-Revision-Date: 2023-01-25 21:07\n"
+"PO-Revision-Date: 2023-01-27 16:17\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -2631,7 +2631,7 @@ msgstr "Calea fișierului modelului global"
 
 #: ../ui/settings.glade:3724
 msgid "Go Fullscreen"
-msgstr ""
+msgstr "Pe tot ecranul"
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
@@ -3197,7 +3197,7 @@ msgstr "Arată caseta cu instrumente mobilă"
 
 #: ../ui/settings.glade:3593 ../ui/settings.glade:3676
 msgid "Show Menubar"
-msgstr ""
+msgstr "Arată opțiunile"
 
 #: ../ui/settings.glade:2746
 msgid "Show Menubar on Startup"
@@ -3209,7 +3209,7 @@ msgstr "Arată bara laterală"
 
 #: ../ui/settings.glade:3609 ../ui/settings.glade:3692
 msgid "Show Toolbar"
-msgstr ""
+msgstr "Arată banda cu instrumente"
 
 #: ../ui/main.glade:604
 msgid "Show Toolbars"
