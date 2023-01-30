@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-25 21:03+0000\n"
-"PO-Revision-Date: 2023-01-25 21:07\n"
+"PO-Revision-Date: 2023-01-30 10:53\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -2632,7 +2632,7 @@ msgstr "مسار ملف القالب العام"
 
 #: ../ui/settings.glade:3724
 msgid "Go Fullscreen"
-msgstr ""
+msgstr "املأ الشاشة"
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
@@ -3198,7 +3198,7 @@ msgstr "إظهار صندوق الأدوات العائم"
 
 #: ../ui/settings.glade:3593 ../ui/settings.glade:3676
 msgid "Show Menubar"
-msgstr ""
+msgstr "إظهار شريط القوائم"
 
 #: ../ui/settings.glade:2746
 msgid "Show Menubar on Startup"
@@ -3210,7 +3210,7 @@ msgstr "إظهار الشريط الجانبي"
 
 #: ../ui/settings.glade:3609 ../ui/settings.glade:3692
 msgid "Show Toolbar"
-msgstr ""
+msgstr "إظهار شريط الأدوات"
 
 #: ../ui/main.glade:604
 msgid "Show Toolbars"
