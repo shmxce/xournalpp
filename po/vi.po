@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-25 21:03+0000\n"
-"PO-Revision-Date: 2023-01-25 21:07\n"
+"PO-Revision-Date: 2023-02-02 10:54\n"
 "Last-Translator: \n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
@@ -63,11 +63,11 @@ msgstr "<span foreground='red' size='x-large'>Thiếu tệp giao diện người
 
 #: ../src/core/gui/PageView.cpp:971
 msgid "Add missing page"
-msgstr ""
+msgstr "Thêm trang đang thiếu"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:484
 msgid "Add/Edit TeX"
-msgstr ""
+msgstr "Thêm/Chỉnh sửa TeX"
 
 #: ../src/core/control/XournalMain.cpp:668
 msgid "Advanced export options"
