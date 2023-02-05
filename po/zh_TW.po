@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-25 21:03+0000\n"
-"PO-Revision-Date: 2023-01-25 21:07\n"
+"POT-Creation-Date: 2023-02-05 17:15+0000\n"
+"PO-Revision-Date: 2023-02-05 17:19\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -2166,7 +2166,7 @@ msgstr "在忽略筆劃之前，必須滿足三個條件。\n"
 msgid "Always check LaTeX dependencies before running"
 msgstr "執行前總是检查 LaTeX 依賴關係"
 
-#: ../ui/main.glade:1252
+#: ../ui/main.glade:1253
 msgid "Append New PDF Pages"
 msgstr "添加新的 PDF 頁面"
 
@@ -2303,7 +2303,7 @@ msgstr "顏色"
 msgid "Command Output"
 msgstr "指令輸出"
 
-#: ../ui/main.glade:1262
+#: ../ui/main.glade:1263
 msgid "Configure Page Template"
 msgstr "設定頁面範本"
 
@@ -2319,7 +2319,7 @@ msgstr "複製當前頁面背景"
 msgid "Copy current page size instead"
 msgstr "複製當前頁面尺寸"
 
-#: ../ui/main.glade:2754
+#: ../ui/main.glade:2755
 msgid "Copy selected text"
 msgstr "複製已選取文字"
 
@@ -2379,7 +2379,7 @@ msgstr "預設名稱："
 msgid "Defaults"
 msgstr "預設"
 
-#: ../ui/main.glade:1300
+#: ../ui/main.glade:1301
 msgid "Delete Layer"
 msgstr "刪除層"
 
@@ -2455,11 +2455,11 @@ msgstr "在這裡和工具條之間可以來回拖動條目。"
 msgid "Drag: If the value is too small, unwanted oscillations may appear. If the value is too high, there will be no stabilization."
 msgstr "拖動：如果值太小，可能會出現不需要的振盪。 如果該值太高，則不會有穩定性。"
 
-#: ../ui/main.glade:1539
+#: ../ui/main.glade:1540
 msgid "Draw Coordinate System"
 msgstr "繪製坐標系統"
 
-#: ../ui/main.glade:1550
+#: ../ui/main.glade:1551
 msgid "Draw _Line"
 msgstr "繪製直線"
 
@@ -2475,15 +2475,15 @@ msgstr "繪圖區域"
 msgid "Drawing Tools - Set Modifiers by Draw Direction (Experimental)"
 msgstr "繪圖工具 - 按繪製方向設置修改器（實驗性）"
 
-#: ../ui/main.glade:2888 ../ui/main.glade:2925
+#: ../ui/main.glade:2889 ../ui/main.glade:2926
 msgid "Duplicate"
 msgstr "複製"
 
-#: ../ui/main.glade:1242
+#: ../ui/main.glade:1243
 msgid "Duplicate Page"
 msgstr ""
 
-#: ../ui/main.glade:2962
+#: ../ui/main.glade:2963
 msgid "Edit (not implemented yet)"
 msgstr "編輯(尚未執行)"
 
@@ -2543,7 +2543,7 @@ msgstr "啟用手勢縮放 (需要重新啟動)"
 msgid "Enter / edit LaTeX Text"
 msgstr "輸入/编辑 LaTeX 文本"
 
-#: ../ui/main.glade:1822
+#: ../ui/main.glade:1823
 msgid "Eraser Optio_ns"
 msgstr "橡皮選項(_n)"
 
@@ -2568,11 +2568,11 @@ msgstr "逐步導出圖層"
 msgid "Export the document without any background (None) or with PDF and image backgrounds only (No ruling) or with all background types (All)."
 msgstr "導出文件時不帶任何背景（無）或僅具有PDF和圖像背景（無規則）或全部背景類別。"
 
-#: ../ui/main.glade:1798 ../ui/main.glade:2003
+#: ../ui/main.glade:1799 ../ui/main.glade:2004
 msgid "Fi_ll"
 msgstr "填充"
 
-#: ../ui/main.glade:1808 ../ui/main.glade:2013
+#: ../ui/main.glade:1809 ../ui/main.glade:2014
 msgid "Fill opacity"
 msgstr "填充不透明度"
 
@@ -2580,11 +2580,11 @@ msgstr "填充不透明度"
 msgid "Finalize the stroke"
 msgstr "筆劃補全"
 
-#: ../ui/main.glade:2552
+#: ../ui/main.glade:2553
 msgid "Find next occurrence of the search string"
 msgstr "向下查找搜索字串"
 
-#: ../ui/main.glade:2530
+#: ../ui/main.glade:2531
 msgid "Find previous occurrence of the search string"
 msgstr "向上查找搜索字串"
 
@@ -2596,7 +2596,7 @@ msgstr "第一頁偏移 "
 msgid "Font: "
 msgstr "字型： "
 
-#: ../ui/main.glade:577 ../ui/settings.glade:3647
+#: ../ui/main.glade:578 ../ui/settings.glade:3647
 msgid "Fullscreen"
 msgstr "全屏"
 
@@ -2636,7 +2636,7 @@ msgstr "網格尺寸"
 msgid "Grid snapping tolerance"
 msgstr "網格捕捉範圍"
 
-#: ../ui/main.glade:1638
+#: ../ui/main.glade:1639
 msgid "H_and Tool"
 msgstr "手形工具(_a)"
 
@@ -2652,7 +2652,7 @@ msgstr "高度"
 msgid "Height:"
 msgstr "高度："
 
-#: ../ui/main.glade:996
+#: ../ui/main.glade:997
 msgid "Hide Menubar"
 msgstr "隱藏菜單條"
 
@@ -2668,11 +2668,11 @@ msgstr "隱藏垂直捲軸"
 msgid "Highlight cursor position"
 msgstr "高亮鼠標位置"
 
-#: ../ui/main.glade:2776
+#: ../ui/main.glade:2777
 msgid "Highlight selected text"
 msgstr "高亮選擇的文字"
 
-#: ../ui/main.glade:1931
+#: ../ui/main.glade:1932
 msgid "Highlighter Opti_ons"
 msgstr "螢光筆選項(_o)"
 
@@ -2756,11 +2756,11 @@ msgstr "抖動處理會在筆劃末端產生一個缺口。句選此像可以填
 msgid "Insert Latex"
 msgstr "插入LaTeX"
 
-#: ../ui/main.glade:2917
+#: ../ui/main.glade:2918
 msgid "Insert Page After"
 msgstr "在此後插入頁面"
 
-#: ../ui/main.glade:2909
+#: ../ui/main.glade:2910
 msgid "Insert Page Before"
 msgstr "在此前插入頁面"
 
@@ -2784,7 +2784,7 @@ msgstr "語言"
 msgid "Language Settings"
 msgstr "語言設定"
 
-#: ../ui/main.glade:620
+#: ../ui/main.glade:621
 msgid "Layout"
 msgstr "版面"
 
@@ -2836,11 +2836,11 @@ msgstr "最大長度 (mm)"
 msgid "Max multiplier"
 msgstr "最大倍率"
 
-#: ../ui/main.glade:2880
+#: ../ui/main.glade:2881
 msgid "Merge Down"
 msgstr "像下合併"
 
-#: ../ui/main.glade:1311
+#: ../ui/main.glade:1312
 msgid "Merge Layer Down"
 msgstr "向下合併圖層"
 
@@ -2874,7 +2874,7 @@ msgstr "滑鼠按鍵"
 msgid "Mouse+Keyboard Combo"
 msgstr "滑鼠+键盘结合"
 
-#: ../ui/main.glade:2872 ../ui/main.glade:2947
+#: ../ui/main.glade:2873 ../ui/main.glade:2948
 msgid "Move Down"
 msgstr "向下移動"
 
@@ -2886,7 +2886,7 @@ msgstr ""
 msgid "Move Selection Layer Up"
 msgstr ""
 
-#: ../ui/main.glade:2864 ../ui/main.glade:2939
+#: ../ui/main.glade:2865 ../ui/main.glade:2940
 msgid "Move Up"
 msgstr "向上移動"
 
@@ -2894,23 +2894,23 @@ msgstr "向上移動"
 msgid "Multiply the panning speed by up to this amount, based on how much of the selected element is out of view."
 msgstr "根據當前視野被選中元素將滾動數量翻倍，並以此數值為上限。"
 
-#: ../ui/main.glade:1174
+#: ../ui/main.glade:1175
 msgid "N_ext Annotated Page"
 msgstr "下一個標註頁(_e)"
 
-#: ../ui/main.glade:1221
+#: ../ui/main.glade:1222
 msgid "New Page _After"
 msgstr "新建後頁(_A)"
 
-#: ../ui/main.glade:1211
+#: ../ui/main.glade:1212
 msgid "New Page _Before"
 msgstr "新建前頁(_B)"
 
-#: ../ui/main.glade:1232
+#: ../ui/main.glade:1233
 msgid "New Page at _End"
 msgstr "新建尾頁(_E)"
 
-#: ../ui/main.glade:1289
+#: ../ui/main.glade:1290
 msgid "New _Layer"
 msgstr "新建圖層(_L)"
 
@@ -2952,7 +2952,7 @@ msgstr ""
 msgid "PDF Cache"
 msgstr "PDF 快取"
 
-#: ../ui/main.glade:1185
+#: ../ui/main.glade:1186
 msgid "P_revious Annotated Page"
 msgstr "上一個標註頁(_e)"
 
@@ -2964,7 +2964,7 @@ msgstr "頁碼："
 msgid "Paired Pages"
 msgstr "雙頁模式"
 
-#: ../ui/main.glade:1359
+#: ../ui/main.glade:1360
 msgid "Paper B_ackground"
 msgstr "紙張背景"
 
@@ -2972,11 +2972,11 @@ msgstr "紙張背景"
 msgid "Paper Format"
 msgstr "紙張樣式"
 
-#: ../ui/main.glade:1349
+#: ../ui/main.glade:1350
 msgid "Paper _Color"
 msgstr "紙張顏色(_C)"
 
-#: ../ui/main.glade:1339
+#: ../ui/main.glade:1340
 msgid "Paper _Format"
 msgstr "紙張樣式(_F)"
 
@@ -2990,11 +2990,11 @@ msgstr "部分基於 Xournal\n"
 msgid "Path: "
 msgstr "路徑: "
 
-#: ../ui/main.glade:2049
+#: ../ui/main.glade:2050
 msgid "Pause"
 msgstr "暫停"
 
-#: ../ui/main.glade:1676
+#: ../ui/main.glade:1677
 msgid "Pen _Options"
 msgstr "畫筆選項(_O)"
 
@@ -3014,7 +3014,7 @@ msgstr "播放設定"
 msgid "Plugin Manager"
 msgstr "外掛總管"
 
-#: ../ui/main.glade:2114
+#: ../ui/main.glade:2115
 msgid "Plugin _Manager"
 msgstr "外掛總管(_M)"
 
@@ -3070,7 +3070,7 @@ msgstr "重新渲染，當頁面縮放超過時 "
 msgid "Recent _Documents"
 msgstr "最近文檔(_D)"
 
-#: ../ui/main.glade:2039
+#: ../ui/main.glade:2040
 msgid "Record / Stop"
 msgstr "錄製 / 停止"
 
@@ -3078,7 +3078,7 @@ msgstr "錄製 / 停止"
 msgid "Recording Quality"
 msgstr "錄製品質"
 
-#: ../ui/main.glade:1322
+#: ../ui/main.glade:1323
 msgid "Rename Layer"
 msgstr "重新命名圖層"
 
@@ -3134,7 +3134,7 @@ msgstr "選擇資料夾"
 msgid "Select Image"
 msgstr "選擇圖片"
 
-#: ../ui/main.glade:1407
+#: ../ui/main.glade:1408
 msgid "Select Linear Text"
 msgstr "從 行中選擇文本"
 
@@ -3142,7 +3142,7 @@ msgstr "從 行中選擇文本"
 msgid "Select PDF Page"
 msgstr "選擇PDF頁面"
 
-#: ../ui/main.glade:1419
+#: ../ui/main.glade:1420
 msgid "Select Text In Rectangle"
 msgstr "在矩形中選擇文本"
 
@@ -3170,11 +3170,11 @@ msgstr "置於底層"
 msgid "Sensitivity Scale"
 msgstr "壓感設定"
 
-#: ../ui/main.glade:729
+#: ../ui/main.glade:730
 msgid "Set Columns"
 msgstr "設置列"
 
-#: ../ui/main.glade:834
+#: ../ui/main.glade:835
 msgid "Set Rows"
 msgstr "設置行"
 
@@ -3194,7 +3194,7 @@ msgstr ""
 msgid "Show Menubar on Startup"
 msgstr "在啟動時顯示選單列"
 
-#: ../ui/main.glade:588 ../ui/settings.glade:3625 ../ui/settings.glade:3708
+#: ../ui/main.glade:589 ../ui/settings.glade:3625 ../ui/settings.glade:3708
 msgid "Show Sidebar"
 msgstr "顯示側邊欄"
 
@@ -3202,7 +3202,7 @@ msgstr "顯示側邊欄"
 msgid "Show Toolbar"
 msgstr ""
 
-#: ../ui/main.glade:604
+#: ../ui/main.glade:605
 msgid "Show Toolbars"
 msgstr "顯示工具列"
 
@@ -3257,7 +3257,7 @@ msgstr "開始縮放的距離 "
 msgid "Storage Folder"
 msgstr "儲存資料夾位置"
 
-#: ../ui/main.glade:2816
+#: ../ui/main.glade:2817
 msgid "Strikethrough selected text"
 msgstr "為選中文字添加刪除線"
 
@@ -3286,7 +3286,7 @@ msgctxt "stylus cursor uses system cursor"
 msgid "System cursor"
 msgstr "系統游標"
 
-#: ../ui/main.glade:948
+#: ../ui/main.glade:949
 msgid "T_oolbars"
 msgstr "工具條(_o)"
 
@@ -3314,7 +3314,7 @@ msgstr "測試配置"
 msgid "Test if the current configuration is valid by running the LaTeX generation command on the global template file with a test formula."
 msgstr "通過使用測試公式對全局模板文件運行 LaTeX 生成命令來測試當前配置是否有效。"
 
-#: ../ui/main.glade:2027
+#: ../ui/main.glade:2028
 msgid "Text Font..."
 msgstr "文本字型..."
 
@@ -3346,7 +3346,7 @@ msgstr "這些設定將應用於新頁面"
 msgid "Timeout"
 msgstr "逾時"
 
-#: ../ui/main.glade:2836
+#: ../ui/main.glade:2837
 msgid "Toggle standard / region text selection"
 msgstr "切換標準/區域文本選擇"
 
@@ -3371,7 +3371,7 @@ msgstr "請先選擇物件"
 msgid "Try to select object first; if nothing selected then show floating toolbox if enabled."
 msgstr "嘗試先選擇對象； 如果未選擇任何內容，則如果啟用則顯示浮動工具箱。"
 
-#: ../ui/main.glade:2796
+#: ../ui/main.glade:2797
 msgid "Underline selected text"
 msgstr "將所選文字加上底線"
 
@@ -3467,67 +3467,67 @@ msgstr "縮放手勢"
 msgid "Zoom Speed"
 msgstr "縮放速度"
 
-#: ../ui/main.glade:741
+#: ../ui/main.glade:742
 msgid "_1 Column"
 msgstr "_1列"
 
-#: ../ui/main.glade:846
+#: ../ui/main.glade:847
 msgid "_1 Row"
 msgstr "_1行"
 
-#: ../ui/main.glade:752
+#: ../ui/main.glade:753
 msgid "_2 Columns"
 msgstr "_列"
 
-#: ../ui/main.glade:857
+#: ../ui/main.glade:858
 msgid "_2 Rows"
 msgstr "_2行"
 
-#: ../ui/main.glade:763
+#: ../ui/main.glade:764
 msgid "_3 Columns"
 msgstr "_3列"
 
-#: ../ui/main.glade:868
+#: ../ui/main.glade:869
 msgid "_3 Rows"
 msgstr "_3行"
 
-#: ../ui/main.glade:774
+#: ../ui/main.glade:775
 msgid "_4 Columns"
 msgstr "_4列"
 
-#: ../ui/main.glade:879
+#: ../ui/main.glade:880
 msgid "_4 Rows"
 msgstr "_4行"
 
-#: ../ui/main.glade:785
+#: ../ui/main.glade:786
 msgid "_5 Columns"
 msgstr "_5列"
 
-#: ../ui/main.glade:890
+#: ../ui/main.glade:891
 msgid "_5 Rows"
 msgstr "_5行"
 
-#: ../ui/main.glade:796
+#: ../ui/main.glade:797
 msgid "_6 Columns"
 msgstr "_6列"
 
-#: ../ui/main.glade:901
+#: ../ui/main.glade:902
 msgid "_6 Rows"
 msgstr "_6行"
 
-#: ../ui/main.glade:807
+#: ../ui/main.glade:808
 msgid "_7 Columns"
 msgstr "_7列"
 
-#: ../ui/main.glade:912
+#: ../ui/main.glade:913
 msgid "_7 Rows"
 msgstr "_7行"
 
-#: ../ui/main.glade:818
+#: ../ui/main.glade:819
 msgid "_8 Columns"
 msgstr "_8列"
 
-#: ../ui/main.glade:923
+#: ../ui/main.glade:924
 msgid "_8 Rows"
 msgstr "_8行"
 
@@ -3535,23 +3535,23 @@ msgstr "_8行"
 msgid "_Annotate PDF"
 msgstr "標註PDF(_A)"
 
-#: ../ui/main.glade:701
+#: ../ui/main.glade:702
 msgid "_Bottom to Top"
 msgstr "_從上到下"
 
-#: ../ui/main.glade:716
+#: ../ui/main.glade:717
 msgid "_Cols/Rows"
 msgstr "列/行(_C)"
 
-#: ../ui/main.glade:976
+#: ../ui/main.glade:977
 msgid "_Customize"
 msgstr "設置(_C)"
 
-#: ../ui/main.glade:1467
+#: ../ui/main.glade:1468
 msgid "_Default Tools"
 msgstr "默認工具(_D)"
 
-#: ../ui/main.glade:1272
+#: ../ui/main.glade:1273
 msgid "_Delete Page"
 msgstr "刪除頁面(_D)"
 
@@ -3559,7 +3559,7 @@ msgstr "刪除頁面(_D)"
 msgid "_Edit"
 msgstr "編輯(_E)"
 
-#: ../ui/main.glade:1395
+#: ../ui/main.glade:1396
 msgid "_Eraser"
 msgstr "橡皮(_E)"
 
@@ -3571,55 +3571,55 @@ msgstr "輸出為PDF(_E)"
 msgid "_File"
 msgstr "檔案(_F)"
 
-#: ../ui/main.glade:1075
+#: ../ui/main.glade:1076
 msgid "_First Page"
 msgstr "首頁(_F)"
 
-#: ../ui/main.glade:1097
+#: ../ui/main.glade:1098
 msgid "_Goto Page"
 msgstr "轉到頁面(_G)"
 
-#: ../ui/main.glade:2128
+#: ../ui/main.glade:2129
 msgid "_Help"
 msgstr "幫助(_H)"
 
-#: ../ui/main.glade:1431
+#: ../ui/main.glade:1432
 msgid "_Highlighter"
 msgstr "高亮(_H)"
 
-#: ../ui/main.glade:632
+#: ../ui/main.glade:633
 msgid "_Horizontal"
 msgstr "水平(_H)"
 
-#: ../ui/main.glade:1455
+#: ../ui/main.glade:1456
 msgid "_Image"
 msgstr "圖片(_I)"
 
-#: ../ui/main.glade:1200
+#: ../ui/main.glade:1201
 msgid "_Journal"
 msgstr "日誌(_J)"
 
-#: ../ui/main.glade:1119
+#: ../ui/main.glade:1120
 msgid "_Last Page"
 msgstr "末頁(_L)"
 
-#: ../ui/main.glade:661
+#: ../ui/main.glade:662
 msgid "_Left to Right"
 msgstr "從左到右(_L)"
 
-#: ../ui/main.glade:966
+#: ../ui/main.glade:967
 msgid "_Manage"
 msgstr "管理(_M)"
 
-#: ../ui/main.glade:1064
+#: ../ui/main.glade:1065
 msgid "_Navigation"
 msgstr "導航(_N)"
 
-#: ../ui/main.glade:1147
+#: ../ui/main.glade:1148
 msgid "_Next Layer"
 msgstr "下一層(_N)"
 
-#: ../ui/main.glade:1108
+#: ../ui/main.glade:1109
 msgid "_Next Page"
 msgstr "下一頁(_N)"
 
@@ -3627,11 +3627,11 @@ msgstr "下一頁(_N)"
 msgid "_Pair Pages"
 msgstr "雙頁模式(_P)"
 
-#: ../ui/main.glade:1383
+#: ../ui/main.glade:1384
 msgid "_Pen"
 msgstr "畫筆(_P)"
 
-#: ../ui/main.glade:2103
+#: ../ui/main.glade:2104
 msgid "_Plugin"
 msgstr "外掛(_P)"
 
@@ -3639,43 +3639,43 @@ msgstr "外掛(_P)"
 msgid "_Presentation Mode"
 msgstr "演講模式(_P)"
 
-#: ../ui/main.glade:1136
+#: ../ui/main.glade:1137
 msgid "_Previous Layer"
 msgstr "上一圖層(_P)"
 
-#: ../ui/main.glade:1086
+#: ../ui/main.glade:1087
 msgid "_Previous Page"
 msgstr "前一頁(_P)"
 
-#: ../ui/main.glade:672
+#: ../ui/main.glade:673
 msgid "_Right to Left"
 msgstr "從右到左(_R)"
 
-#: ../ui/main.glade:1484
+#: ../ui/main.glade:1485
 msgid "_Shape Recognizer"
 msgstr "形狀識別(_S)"
 
-#: ../ui/main.glade:1443
+#: ../ui/main.glade:1444
 msgid "_Text"
 msgstr "文本(_T)"
 
-#: ../ui/main.glade:1372
+#: ../ui/main.glade:1373
 msgid "_Tools"
 msgstr "工具(_T)"
 
-#: ../ui/main.glade:1158
+#: ../ui/main.glade:1159
 msgid "_Top Layer"
 msgstr "最上層(_T)"
 
-#: ../ui/main.glade:690
+#: ../ui/main.glade:691
 msgid "_Top to Bottom"
 msgstr "_從上到下"
 
-#: ../ui/main.glade:643
+#: ../ui/main.glade:644
 msgid "_Vertical"
 msgstr "垂直(_V)"
 
-#: ../ui/main.glade:1614
+#: ../ui/main.glade:1615
 msgid "_Vertical Space"
 msgstr "垂直間距(_V)"
 
@@ -3683,31 +3683,31 @@ msgstr "垂直間距(_V)"
 msgid "_View"
 msgstr "視圖(_V)"
 
-#: ../ui/main.glade:1916
+#: ../ui/main.glade:1917
 msgid "_delete strokes"
 msgstr "刪除筆劃(_d)"
 
-#: ../ui/main.glade:1698 ../ui/main.glade:1844 ../ui/main.glade:1953
+#: ../ui/main.glade:1699 ../ui/main.glade:1845 ../ui/main.glade:1954
 msgid "_fine"
 msgstr "細(_f)"
 
-#: ../ui/main.glade:1709 ../ui/main.glade:1855 ../ui/main.glade:1964
+#: ../ui/main.glade:1710 ../ui/main.glade:1856 ../ui/main.glade:1965
 msgid "_medium"
 msgstr "中(_m)"
 
-#: ../ui/main.glade:1894
+#: ../ui/main.glade:1895
 msgid "_standard"
 msgstr "標準(_s)"
 
-#: ../ui/main.glade:1720 ../ui/main.glade:1866 ../ui/main.glade:1975
+#: ../ui/main.glade:1721 ../ui/main.glade:1867 ../ui/main.glade:1976
 msgid "_thick"
 msgstr "粗(_t)"
 
-#: ../ui/main.glade:1687 ../ui/main.glade:1833 ../ui/main.glade:1942
+#: ../ui/main.glade:1688 ../ui/main.glade:1834 ../ui/main.glade:1943
 msgid "_very fine"
 msgstr "極細(_v)"
 
-#: ../ui/main.glade:1905
+#: ../ui/main.glade:1906
 msgid "_whiteout"
 msgstr "涂白(_w)"
 
@@ -3745,7 +3745,7 @@ msgstr "畫素"
 msgid "s <i>(after which the touchscreen will be reactivated again)</i>"
 msgstr "s <i>(在此之後觸控螢幕將被重新激活)</i>"
 
-#: ../ui/main.glade:1731 ../ui/main.glade:1877 ../ui/main.glade:1986
+#: ../ui/main.glade:1732 ../ui/main.glade:1878 ../ui/main.glade:1987
 msgid "ver_y thick"
 msgstr "極粗(_y)"
 
