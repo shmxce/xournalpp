@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-05 17:15+0000\n"
-"PO-Revision-Date: 2023-02-05 17:19\n"
+"PO-Revision-Date: 2023-02-07 16:55\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -1754,7 +1754,7 @@ msgstr "LaTeX"
 
 #: ../src/core/control/DeviceListHelper.cpp:95
 msgid "mouse"
-msgstr "maus"
+msgstr "șoricel"
 
 #: ../src/core/control/DeviceListHelper.cpp:97
 msgid "pen"
@@ -2034,7 +2034,7 @@ msgstr "<i>Modificările au efect numai asupra noilor înregistrări și redări
 
 #: ../ui/settings.glade:1333
 msgid "<i>Define which tools will be selected if you press a mouse button. After you release the button the previously selected tool will be selected.</i>"
-msgstr "<i>Stabilește ce instrument va fi ales dacă apeși un buton al mausului. După ce lași butonul, instrumentul ales anterior va fi selecționat.</i>"
+msgstr "<i>Stabilește ce instrument va fi ales dacă apeși un buton al șoricelului. După ce lași butonul, instrumentul ales anterior va fi selecționat.</i>"
 
 #: ../ui/settings.glade:2618
 msgid "<i>Disabling GTK's built-in touchscreen scrolling can work around scrolling bugs on some platforms. Consider changing this setting if you experience jumps/sudden changes in scroll position when attempting to scroll with a touchscreen.</i>"
@@ -2861,7 +2861,7 @@ msgstr "Unește evenimentele butoanelor cu cele ale vârfului creionului electro
 
 #: ../ui/settings.glade:1373
 msgid "Middle Mouse Button"
-msgstr "Butonul din mijloc al mausului"
+msgstr "Buton-mijloc al șoricelului"
 
 #: ../ui/settings.glade:1583
 msgid "Minimum Pressure:"
@@ -2873,15 +2873,15 @@ msgstr "Mărimea minimă a formei"
 
 #: ../ui/settings.glade:1460 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
-msgstr "Maus"
+msgstr "Șoricel"
 
 #: ../ui/settings.glade:1429
 msgid "Mouse Buttons"
-msgstr "Butoanele Mausului"
+msgstr "Butoanele șoricelului"
 
 #: ../ui/settingsDeviceClassConfig.glade:43
 msgid "Mouse+Keyboard Combo"
-msgstr "Maus+Tastatură împreună"
+msgstr "Șoricel+Tastatură împreună"
 
 #: ../ui/main.glade:2873 ../ui/main.glade:2948
 msgid "Move Down"
@@ -3105,7 +3105,7 @@ msgstr "Rezoluție"
 
 #: ../ui/settings.glade:1411
 msgid "Right Mouse Button"
-msgstr "Butonul din dreapta al mausului"
+msgstr "Buton-dreapta al șoricelului"
 
 #: ../ui/settings.glade:4785
 msgid "Rotation snapping tolerance"
@@ -3231,7 +3231,7 @@ msgstr "Arată bara verticală de răsfoire în stânga"
 msgid "Slower strokes are assigned a greater pressure than faster strokes, if pressure information is absent.\n\n"
 "<i>This feature may be useful for devices that lack pressure sensitivity. For example, a mouse or touchscreen.</i>"
 msgstr "Dacă nu există informații privind apăsarea, se atribuie o apăsare mai puternică mișcărilor mai lente decât mișcărilor mai rapide.\n\n"
-"<i>Această caracteristică poate fi utilă pentru dispozitivele care nu au sensibilitate la apăsare. De exemplu, un maus sau un ecran tactil.</i>"
+"<i>Această caracteristică poate fi utilă pentru dispozitivele care nu au sensibilitate la apăsare. De exemplu, un șoricel sau un ecran tactil.</i>"
 
 #: ../ui/settings.glade:3082
 msgctxt "stylus cursor uses a small dot"
