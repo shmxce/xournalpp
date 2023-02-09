@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-05 17:15+0000\n"
-"PO-Revision-Date: 2023-02-05 17:19\n"
+"PO-Revision-Date: 2023-02-09 07:23\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -2630,7 +2630,7 @@ msgstr "全局模板文件路径"
 
 #: ../ui/settings.glade:3724
 msgid "Go Fullscreen"
-msgstr ""
+msgstr "全屏显示"
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
@@ -3195,7 +3195,7 @@ msgstr "显示浮动工具箱"
 
 #: ../ui/settings.glade:3593 ../ui/settings.glade:3676
 msgid "Show Menubar"
-msgstr ""
+msgstr "显示菜单"
 
 #: ../ui/settings.glade:2746
 msgid "Show Menubar on Startup"
@@ -3207,7 +3207,7 @@ msgstr "显示侧边栏"
 
 #: ../ui/settings.glade:3609 ../ui/settings.glade:3692
 msgid "Show Toolbar"
-msgstr ""
+msgstr "显示工具栏"
 
 #: ../ui/main.glade:605
 msgid "Show Toolbars"
