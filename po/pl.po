@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-05 17:15+0000\n"
-"PO-Revision-Date: 2023-02-05 17:19\n"
+"POT-Creation-Date: 2023-02-10 07:20+0000\n"
+"PO-Revision-Date: 2023-02-10 07:34\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -29,7 +29,7 @@ msgid "\n"
 msgstr "\n"
 "Chcesz kontynuować?"
 
-#: ../src/core/control/Control.cpp:2335
+#: ../src/core/control/Control.cpp:2331
 msgid "\n"
 "Proposed replacement file: \"{1}\""
 msgstr "\n"
@@ -86,7 +86,7 @@ msgstr "Zastosuj do wszystkich stron"
 msgid "Apply to current page"
 msgstr "Zastosuj do bieżącej strony"
 
-#: ../src/core/control/tools/EditSelection.cpp:398
+#: ../src/core/control/tools/EditSelection.cpp:399
 msgid "Arrange"
 msgstr "Ułóż"
 
@@ -153,11 +153,11 @@ msgstr "Wstecz"
 msgid "Background"
 msgstr "Tło"
 
-#: ../src/core/control/tools/EditSelection.cpp:413
+#: ../src/core/control/tools/EditSelection.cpp:414
 msgid "Bring forward"
 msgstr "Przesuń warstwę wyżej"
 
-#: ../src/core/control/tools/EditSelection.cpp:403
+#: ../src/core/control/tools/EditSelection.cpp:404
 msgid "Bring to front"
 msgstr "Przenieś przed inne warstwy"
 
@@ -165,7 +165,7 @@ msgstr "Przenieś przed inne warstwy"
 msgid "Built on"
 msgstr "Zbudowane"
 
-#: ../src/core/control/Control.cpp:2347 ../src/core/control/Control.cpp:2824
+#: ../src/core/control/Control.cpp:2343 ../src/core/control/Control.cpp:2820
 #: ../src/core/control/XournalMain.cpp:176
 #: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
@@ -382,7 +382,7 @@ msgstr "Usuń tę warstwę"
 msgid "Delete this page"
 msgstr "Usuń stronę"
 
-#: ../src/core/control/Control.cpp:2821
+#: ../src/core/control/Control.cpp:2817
 msgid "Discard"
 msgstr "Odrzuć"
 
@@ -390,7 +390,7 @@ msgstr "Odrzuć"
 msgid "Display advanced export options"
 msgstr "Wyświetl zaawansowane opcje eksportu"
 
-#: ../src/core/control/Control.cpp:2260
+#: ../src/core/control/Control.cpp:2256
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
@@ -402,7 +402,7 @@ msgstr "Nie otwieraj plików autozapisu. Mogą one zostać nadpisane!\n"
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr "Nie nadpisuj pliku kanwy PDF! To może spowodować błędy!"
 
-#: ../src/core/control/Control.cpp:2815
+#: ../src/core/control/Control.cpp:2811
 msgid "Document file was removed."
 msgstr "Dokument został usunięty."
 
@@ -517,7 +517,7 @@ msgstr "Wymaż kreskę"
 msgid "Eraser"
 msgstr "Gumka"
 
-#: ../src/core/control/Control.cpp:2551
+#: ../src/core/control/Control.cpp:2547
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr "Błąd przy adnotowaniu pliku PDF \"{1}\"\n"
@@ -527,7 +527,7 @@ msgstr "Błąd przy adnotowaniu pliku PDF \"{1}\"\n"
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
 msgstr "Błąd przy otwieraniu pliku glade \"{1}\" (spróbuj załadować \"{2}\")"
 
-#: ../src/core/control/Control.cpp:2378
+#: ../src/core/control/Control.cpp:2374
 msgid "Error opening file \"{1}\""
 msgstr "Błąd przy otwieraniu pliku \"{1}\""
 
@@ -1095,7 +1095,7 @@ msgstr "Powtórz"
 msgid "Redo: "
 msgstr "Powtórz: "
 
-#: ../src/core/control/Control.cpp:2346
+#: ../src/core/control/Control.cpp:2342
 msgid "Remove PDF Background"
 msgstr "Usuń PDF w tle"
 
@@ -1147,16 +1147,16 @@ msgstr "Obraz SVG"
 msgid "Sample LaTeX file generated successfully."
 msgstr "Przykładowy plik LaTeX został wygenerowany pomyślnie."
 
-#: ../src/core/control/Control.cpp:2816 ../src/core/control/jobs/SaveJob.cpp:25
+#: ../src/core/control/Control.cpp:2812 ../src/core/control/jobs/SaveJob.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:384
 msgid "Save"
 msgstr "Zapisz"
 
-#: ../src/core/control/Control.cpp:2816
+#: ../src/core/control/Control.cpp:2812
 msgid "Save As..."
 msgstr "Zapisz jako..."
 
-#: ../src/core/control/Control.cpp:2650
+#: ../src/core/control/Control.cpp:2646
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:85
 msgid "Save File"
 msgstr "Zapisz plik"
@@ -1239,7 +1239,7 @@ msgstr "Wybierz obszar"
 msgid "Select Text from pdf"
 msgstr "Wybierz Tekst z PDF"
 
-#: ../src/core/control/Control.cpp:2345
+#: ../src/core/control/Control.cpp:2341
 msgid "Select another PDF"
 msgstr "Wybierz inny PDF"
 
@@ -1271,11 +1271,11 @@ msgstr "Kombinacja wyboru"
 msgid "Send Bugreport"
 msgstr "Wyślij raport błędu"
 
-#: ../src/core/control/tools/EditSelection.cpp:424
+#: ../src/core/control/tools/EditSelection.cpp:425
 msgid "Send backward"
 msgstr "Przenieś w tył"
 
-#: ../src/core/control/tools/EditSelection.cpp:432
+#: ../src/core/control/tools/EditSelection.cpp:433
 msgid "Send to back"
 msgstr "Przenieś na tył"
 
@@ -1417,11 +1417,11 @@ msgstr "Tekst nie został znaleziony, szukano na wszystkich stronach"
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
 msgstr "Konfiguracja paska narzędzi \"{1}\" jest predefiniowana. Czy stworzyć możliwą do edycji kopię?"
 
-#: ../src/core/control/Control.cpp:2322
+#: ../src/core/control/Control.cpp:2318
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2325
+#: ../src/core/control/Control.cpp:2321
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
 "It was last seen at: \"{2}\""
 msgstr ""
@@ -1430,7 +1430,7 @@ msgstr ""
 msgid "The check for overwriting the background failed with:\n"
 msgstr "Próba nadpisania tła wywołała błąd:\n"
 
-#: ../src/core/control/Control.cpp:2386
+#: ../src/core/control/Control.cpp:2382
 msgid "The file being loaded has a file format version newer than the one currently supported by this version of Xournal++, so it may not load properly. Open anyways?"
 msgstr "Załadowany plik ma nowszą wersję formatu niż ta obecnie obsługiwana przez tę wersję Xournal++, może to spowodować, że nie załaduje się prawidłowo. Otworzyć mimo to?"
 
@@ -1474,7 +1474,7 @@ msgstr "Błąd podczas wyświetlania pomocy: {1}"
 msgid "Thick"
 msgstr "Gruby"
 
-#: ../src/core/control/Control.cpp:2815
+#: ../src/core/control/Control.cpp:2811
 msgid "This document is not saved yet."
 msgstr "Dokument nie został jeszcze zapisany."
 
@@ -1559,7 +1559,7 @@ msgstr "Nieznany rodzaj kreski: \"{1}\", zakładam, że to chodziło o okrągł�
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr "Nieznany rodzaj kreski: \"{1}\", zakładam, że to pióro"
 
-#: ../src/core/control/Control.cpp:2707
+#: ../src/core/control/Control.cpp:2703
 msgid "Unsaved Document"
 msgstr "Niezapisany dokument"
 
@@ -1567,7 +1567,7 @@ msgstr "Niezapisany dokument"
 msgid "Unsupported graphics format: "
 msgstr "Nieobsługiwany format grafiki: "
 
-#: ../src/core/control/Control.cpp:2343
+#: ../src/core/control/Control.cpp:2339
 msgid "Use proposed PDF"
 msgstr "Użyj proponowanego pliku PDF"
 
@@ -1623,7 +1623,7 @@ msgstr "Pliki Xournala"
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr "Xournal++ przestał odpowiadać się ostatnim razem. Czy chcesz przywrócić ostatni edytowany plik?"
 
-#: ../src/core/control/Control.cpp:2656
+#: ../src/core/control/Control.cpp:2652
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal++ files"
 msgstr "Pliki Xournal++"
@@ -1671,7 +1671,7 @@ msgstr "Oddal"
 msgid "Zoom to 100%"
 msgstr "Powiększ do 100%"
 
-#: ../src/core/control/Control.cpp:2650
+#: ../src/core/control/Control.cpp:2646
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:15
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
@@ -1684,7 +1684,7 @@ msgstr "_Anuluj"
 msgid "_Open"
 msgstr "_Otwórz"
 
-#: ../src/core/control/Control.cpp:2651
+#: ../src/core/control/Control.cpp:2647
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:86
 msgid "_Save"
@@ -1730,7 +1730,7 @@ msgstr "elementy"
 msgid "eraser"
 msgstr "gumka"
 
-#: ../src/core/control/Control.cpp:2274
+#: ../src/core/control/Control.cpp:2270
 msgid "file: {1}"
 msgstr "plik: {1}"
 
