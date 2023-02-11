@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-10 07:20+0000\n"
-"PO-Revision-Date: 2023-02-10 07:34\n"
+"PO-Revision-Date: 2023-02-11 21:59\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -400,7 +400,7 @@ msgstr "Nu deschide fișierele salvate automat. Acestea pot fi suprascrise!\n"
 
 #: ../src/core/control/jobs/BaseExportJob.cpp:46
 msgid "Do not overwrite the background PDF! This will cause errors!"
-msgstr "Nu suprascrie fondul PDF! Acest lucru va provoca erori!"
+msgstr "Nu înlocui fondul PDF! Acest lucru va provoca erori!"
 
 #: ../src/core/control/Control.cpp:2811
 msgid "Document file was removed."
