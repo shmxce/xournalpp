@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-10 07:20+0000\n"
-"PO-Revision-Date: 2023-02-10 07:34\n"
+"POT-Creation-Date: 2023-02-18 14:22+0000\n"
+"PO-Revision-Date: 2023-02-18 14:25\n"
 "Last-Translator: \n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -61,7 +61,7 @@ msgstr "<span foreground='red' size='x-large'>Gerekli kullanıcı arayüzü dosy
 "  Çalışma Dizininde değil\n"
 "  {2} içinde değil"
 
-#: ../src/core/gui/PageView.cpp:971
+#: ../src/core/gui/PageView.cpp:977
 msgid "Add missing page"
 msgstr ""
 
@@ -866,7 +866,7 @@ msgstr "Katman {1}"
 msgid "Layerstack Preview"
 msgstr "Katman Birleşimi Önizlemesi"
 
-#: ../src/core/gui/PageView.cpp:906
+#: ../src/core/gui/PageView.cpp:912
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1169,7 +1169,7 @@ msgstr "Dosya kaydetme hatası: {1}"
 msgid "Scale"
 msgstr "Ölçek"
 
-#: ../src/core/gui/PageView.cpp:969
+#: ../src/core/gui/PageView.cpp:975
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1506,7 +1506,7 @@ msgstr "Acil durum mevcut belgeyi kaydetmeye çalışıyor…"
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr "{1} konumundaki genel şablon dosyası açılamıyor. Dosya mevcut mu?"
 
-#: ../src/core/gui/PageView.cpp:453
+#: ../src/core/gui/PageView.cpp:457
 msgid "Unable to play audio recording {1}"
 msgstr "Ses kaydı oynatılamıyor {1}"
 
