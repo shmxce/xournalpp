@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-10 07:20+0000\n"
-"PO-Revision-Date: 2023-02-10 07:34\n"
+"POT-Creation-Date: 2023-02-18 14:22+0000\n"
+"PO-Revision-Date: 2023-02-18 14:25\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -62,7 +62,7 @@ msgstr "<span foreground='red' size='x-large'>Brakuje wymaganego pliku UI:\n"
 "  Brak w Ścieżce Roboczej.\n"
 "  Brak w {2}"
 
-#: ../src/core/gui/PageView.cpp:971
+#: ../src/core/gui/PageView.cpp:977
 msgid "Add missing page"
 msgstr ""
 
@@ -866,7 +866,7 @@ msgstr "Warstwa {1}"
 msgid "Layerstack Preview"
 msgstr "Podgląd stosu warstwy"
 
-#: ../src/core/gui/PageView.cpp:906
+#: ../src/core/gui/PageView.cpp:912
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1170,7 +1170,7 @@ msgstr "Błąd zapisu pliku: {1}"
 msgid "Scale"
 msgstr "Skaluj"
 
-#: ../src/core/gui/PageView.cpp:969
+#: ../src/core/gui/PageView.cpp:975
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1506,7 +1506,7 @@ msgstr "Próba awaryjnego zapisu aktualnie otwartego dokumentu…"
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr "Nie można otworzyć pliku szablonu globalnego w {1}. Czy istnieje?"
 
-#: ../src/core/gui/PageView.cpp:453
+#: ../src/core/gui/PageView.cpp:457
 msgid "Unable to play audio recording {1}"
 msgstr "Nie można odtworzyć nagrania audio: {1}"
 
