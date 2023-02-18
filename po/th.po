@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-10 07:20+0000\n"
-"PO-Revision-Date: 2023-02-10 07:34\n"
+"POT-Creation-Date: 2023-02-18 14:22+0000\n"
+"PO-Revision-Date: 2023-02-18 14:26\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -55,7 +55,7 @@ msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
 "  Not in {2}"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:971
+#: ../src/core/gui/PageView.cpp:977
 msgid "Add missing page"
 msgstr ""
 
@@ -839,7 +839,7 @@ msgstr "เลเยอร์ {1}"
 msgid "Layerstack Preview"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:906
+#: ../src/core/gui/PageView.cpp:912
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1141,7 +1141,7 @@ msgstr ""
 msgid "Scale"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:969
+#: ../src/core/gui/PageView.cpp:975
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1470,7 +1470,7 @@ msgstr ""
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:453
+#: ../src/core/gui/PageView.cpp:457
 msgid "Unable to play audio recording {1}"
 msgstr ""
 
