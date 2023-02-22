@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-21 09:54+0000\n"
-"PO-Revision-Date: 2023-02-21 16:44\n"
+"PO-Revision-Date: 2023-02-22 17:08\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -3228,7 +3228,7 @@ msgstr "Arată opțiunile la pornire"
 
 #: ../ui/main.glade:589 ../ui/settings.glade:3625 ../ui/settings.glade:3708
 msgid "Show Sidebar"
-msgstr "Arată bara laterală"
+msgstr "Arată miniaturile"
 
 #: ../ui/settings.glade:3609 ../ui/settings.glade:3692
 msgid "Show Toolbar"
@@ -3244,7 +3244,7 @@ msgstr "Arată calea fișierului în titlu"
 
 #: ../ui/settings.glade:3360
 msgid "Show sidebar on the right side"
-msgstr "Arată bara laterală în dreaptă"
+msgstr "Arată miniaturile în dreaptă"
 
 #: ../ui/settings.glade:3376
 msgid "Show vertical scrollbar on the left side"
