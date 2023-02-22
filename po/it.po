@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-21 09:54+0000\n"
-"PO-Revision-Date: 2023-02-21 19:08\n"
+"PO-Revision-Date: 2023-02-22 18:16\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -3232,7 +3232,7 @@ msgstr "Mostra le opzioni all'avvio"
 
 #: ../ui/main.glade:589 ../ui/settings.glade:3625 ../ui/settings.glade:3708
 msgid "Show Sidebar"
-msgstr "Mostra barra laterale"
+msgstr "Mostra le miniature"
 
 #: ../ui/settings.glade:3609 ../ui/settings.glade:3692
 msgid "Show Toolbar"
