@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-21 09:54+0000\n"
-"PO-Revision-Date: 2023-02-21 10:09\n"
+"POT-Creation-Date: 2023-02-24 04:51+0000\n"
+"PO-Revision-Date: 2023-02-24 05:37\n"
 "Last-Translator: \n"
 "Language-Team: Esperanto\n"
 "Language: eo_UY\n"
@@ -29,7 +29,7 @@ msgid "\n"
 msgstr "\n"
 "Ĉu daŭrigi?"
 
-#: ../src/core/control/Control.cpp:2341
+#: ../src/core/control/Control.cpp:2345
 msgid "\n"
 "Proposed replacement file: \"{1}\""
 msgstr "\n"
@@ -62,15 +62,15 @@ msgstr "<span foreground='red' size='x-large'>Mankas la necesa fasada dosiero:\n
 "  Ne en «PATH»\n"
 "  Ne en {2}"
 
-#: ../src/core/gui/PageView.cpp:1001
+#: ../src/core/gui/PageView.cpp:1023
 msgid "Add missing page"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:484
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:506
 msgid "Add/Edit TeX"
 msgstr "Enmeti/modifi TeX"
 
-#: ../src/core/control/XournalMain.cpp:668
+#: ../src/core/control/XournalMain.cpp:669
 msgid "Advanced export options"
 msgstr "Altnivelaj opcioj pri elportado"
 
@@ -131,11 +131,11 @@ msgid "Audio folder not set or invalid! Recording won't work!\n"
 msgstr "La sondosierujo estas ne agordita aŭ ne valida! Registrado ne funkcios!\n"
 "Bonvolu agordi la sondosierujon ĉe «Agordoj > Sonregistrado»"
 
-#: ../src/core/control/Control.cpp:260
+#: ../src/core/control/Control.cpp:256
 msgid "Autosave failed with an error: {1}"
 msgstr "Aŭtomata konservado malsukcesis pro la jena eraro: {1}"
 
-#: ../src/core/control/Control.cpp:240
+#: ../src/core/control/Control.cpp:236
 msgid "Autosave renamed from {1} to {2}"
 msgstr "Nomo de aŭtomata konservaĵo estas ŝanĝita de {1} al {2}"
 
@@ -143,8 +143,8 @@ msgstr "Nomo de aŭtomata konservaĵo estas ŝanĝita de {1} al {2}"
 msgid "Autosaving to {1}"
 msgstr "Aŭtomate konservante al {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:439
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:527
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:461
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:549
 msgid "Back"
 msgstr "Reen"
 
@@ -165,7 +165,7 @@ msgstr "Porti malfonen"
 msgid "Built on"
 msgstr "Surbaze de"
 
-#: ../src/core/control/Control.cpp:2353 ../src/core/control/Control.cpp:2830
+#: ../src/core/control/Control.cpp:2357 ../src/core/control/Control.cpp:2834
 #: ../src/core/control/XournalMain.cpp:176
 #: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
@@ -191,7 +191,7 @@ msgstr "Ŝanĝi la plenigon de streko"
 msgid "Change stroke width"
 msgstr "Ŝanĝi la larĝon de streko"
 
-#: ../src/core/control/RecentManager.cpp:290
+#: ../src/core/gui/menus/menubar/RecentDocumentsSubmenu.cpp:65
 msgid "Clear list"
 msgstr ""
 
@@ -199,7 +199,7 @@ msgstr ""
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
 msgstr "La koloro «{1}» estas nekonata (ne difinita en la implicita listo de koloroj)!"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:412
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:434
 msgid "Compass"
 msgstr ""
 
@@ -207,7 +207,7 @@ msgstr ""
 msgid "Contents"
 msgstr "Enhavoj"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:400
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:422
 #: ../src/core/gui/toolbarMenubar/model/ToolbarModel.cpp:75
 #: ../src/core/gui/toolbarMenubar/model/ToolbarModel.cpp:81
 msgid "Copy"
@@ -264,13 +264,13 @@ msgstr "Malsukcesis malfermi alkroĉaĵon: {1}. Erarmesaĝo: {2}"
 msgid "Could not open file: \"{1}\""
 msgstr "Ne eblis malfermi dosieron: «{1}»"
 
-#: ../src/core/gui/MainWindow.cpp:102
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:74
 msgid "Could not parse custom toolbar.ini file: {1}\n"
 "Toolbars will not be available"
 msgstr "Ne eblas analizi la propran dosieron «toolbar.ini»: {1}\n"
 "Ilobretoj ne estos haveblaj"
 
-#: ../src/core/gui/MainWindow.cpp:93
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:65
 msgid "Could not parse general toolbar.ini file: {1}\n"
 "No Toolbars will be available"
 msgstr "Ne eblas analizi la ĝeneralan dosieron «toolbar.ini»: {1}\n"
@@ -300,7 +300,7 @@ msgstr "Malsukcesis forigi ilon el la ilobreto {1} ĉe la pozicio {2}"
 msgid "Could not remove tool item {1} from Toolbar {2} on position {3}"
 msgstr "Malsukcesis forigi la ilon {1} el la ilobreto {2} ĉe la pozicio {3}"
 
-#: ../src/core/control/Control.cpp:251
+#: ../src/core/control/Control.cpp:247
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
 msgstr "Ne eblas ŝanĝi la nomon de la aŭtomate konservita dosiero de «{1}» al «{2}»: {3}"
 
@@ -338,7 +338,7 @@ msgstr "Propra"
 msgid "Custom Export"
 msgstr "Adaptite elporti"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:426
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:448
 msgid "Customize Toolbars"
 msgstr "Adapti ilobretojn"
 
@@ -346,15 +346,15 @@ msgstr "Adapti ilobretojn"
 msgid "Customized"
 msgstr "Adaptita"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:399
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:421
 msgid "Cut"
 msgstr "Eltondi"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:486
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:508
 msgid "Default Tool"
 msgstr "Implicita ilo"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:405
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:427
 #: ../src/core/undo/DeleteUndoAction.cpp:64
 msgid "Delete"
 msgstr "Forviŝi"
@@ -363,7 +363,7 @@ msgstr "Forviŝi"
 msgid "Delete Logfile"
 msgstr "Forviŝi protokolon"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:460
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:482
 msgid "Delete current page"
 msgstr "Forviŝi aktualan paĝon"
 
@@ -383,15 +383,15 @@ msgstr "Forviŝi ĉi tiun tavolon"
 msgid "Delete this page"
 msgstr "Forviŝi ĉi tiun paĝon"
 
-#: ../src/core/control/Control.cpp:2827
+#: ../src/core/control/Control.cpp:2831
 msgid "Discard"
 msgstr "Forĵeti"
 
-#: ../src/core/control/XournalMain.cpp:669
+#: ../src/core/control/XournalMain.cpp:670
 msgid "Display advanced export options"
 msgstr "Montri komplikajn opciojn pri elportado"
 
-#: ../src/core/control/Control.cpp:2266
+#: ../src/core/control/Control.cpp:2270
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
@@ -403,7 +403,7 @@ msgstr "Ne malfermu aŭtomate konservitajn dosierojn. Ili estas superskribotaj!\
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr "Ne superskribu la fonan PDF! Tio kaŭzus erarojn!"
 
-#: ../src/core/control/Control.cpp:2821
+#: ../src/core/control/Control.cpp:2825
 msgid "Document file was removed."
 msgstr "Dokumenta dosiero estis forigita."
 
@@ -426,24 +426,24 @@ msgstr "Punktita"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:136
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:38
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:495
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:517
 msgid "Draw Arrow"
 msgstr "Desegni sagon"
 
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:39
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:497
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:519
 msgid "Draw Double Arrow"
 msgstr "Desegni duoblan sagon"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:134
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:36
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:494
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:516
 msgid "Draw Ellipse"
 msgstr "Desegni elipson"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:130
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:41
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:500
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:522
 msgid "Draw Line"
 msgstr "Desegni linion"
 
@@ -451,19 +451,19 @@ msgstr "Desegni linion"
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:34
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:100
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:103
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:493
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:515
 msgid "Draw Rectangle"
 msgstr "Desegni ortangulon"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:142
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:46
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:501
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:523
 msgid "Draw Spline"
 msgstr "Desegni interpolantan kurbon"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:138
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:42
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:499
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:521
 msgid "Draw coordinate system"
 msgstr "Desegni koordinataron"
 
@@ -514,11 +514,11 @@ msgid "Erase stroke"
 msgstr "Forskrapi strekon"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:89
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:291
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:313
 msgid "Eraser"
 msgstr "Skrapgumo"
 
-#: ../src/core/control/Control.cpp:2557
+#: ../src/core/control/Control.cpp:2561
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr "Eraro prinotante PDF-dosieron «{1}»\n"
@@ -528,7 +528,7 @@ msgstr "Eraro prinotante PDF-dosieron «{1}»\n"
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
 msgstr "Eraro ŝargante Glade-dosieron «{1}» (provante ŝargi «{2}»)"
 
-#: ../src/core/control/Control.cpp:2384
+#: ../src/core/control/Control.cpp:2388
 msgid "Error opening file \"{1}\""
 msgstr "Eraro malfermante la dosieron «{1}»"
 
@@ -583,11 +583,11 @@ msgid "Errorlog cannot be deleted. You have to do it manually.\n"
 msgstr "Erarprotokolo ne estas forviŝebla. Vi devas forviŝi ĝin permane.\n"
 "Protokoldosiero: {1}"
 
-#: ../src/core/control/XournalMain.cpp:622
+#: ../src/core/control/XournalMain.cpp:623
 msgid "Export FILE as PDF"
 msgstr "Elporti dosieron kiel PDF"
 
-#: ../src/core/control/XournalMain.cpp:624
+#: ../src/core/control/XournalMain.cpp:625
 msgid "Export FILE as image files (one per page)\n"
 "                                 Guess the output format from the extension of IMGFILE\n"
 "                                 Supported formats: .png, .svg"
@@ -599,11 +599,11 @@ msgstr "Elporti FILE kiel bildojn (po unu por ĉiu paĝo)\n"
 msgid "Export PDF"
 msgstr "Elporti kiel PDF"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:385
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:407
 msgid "Export as PDF"
 msgstr "Elporti kiel PDF"
 
-#: ../src/core/control/XournalMain.cpp:638
+#: ../src/core/control/XournalMain.cpp:639
 msgid "Export layers progressively\n"
 "                                 In PDF export, Render layers progressively one by one.\n"
 "                                 This results in N export pages per page with N layers,\n"
@@ -615,7 +615,7 @@ msgstr "Elporti tavolojn progrese\n"
 "                                 konstruante la tavolan stakon progrese.\n"
 "                                 La rezulta PDF-dosiero estas uzebla por prezento.\n"
 
-#: ../src/core/control/XournalMain.cpp:629
+#: ../src/core/control/XournalMain.cpp:630
 msgid "Export without background\n"
 "                                 The exported file has transparent or white background,\n"
 "                                 depending on what its format supports\n"
@@ -623,7 +623,7 @@ msgstr "Elporti sen fono\n"
 "                                 La elportota dosiero havos travideblan aŭ blankan fonon,\n"
 "                                 depende de la kapabloj de la dosierformo\n"
 
-#: ../src/core/control/XournalMain.cpp:634
+#: ../src/core/control/XournalMain.cpp:635
 msgid "Export without ruling\n"
 "                                 The exported file has no paper ruling\n"
 msgstr "Elporti sen linioj\n"
@@ -676,11 +676,11 @@ msgid "File couldn't be opened. You have to do it manually:\n"
 msgstr "La dosiero ne estis malfermebla. Vi malfermu ĝin permane:\n"
 "Adreso: {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:554
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:576
 msgid "Fill"
 msgstr "Plenigi"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:555
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:577
 msgid "Fill Opacity"
 msgstr ""
 
@@ -688,7 +688,7 @@ msgstr ""
 msgid "Filter input pressure. Multiply the pressure by the pressure multiplier. If less than the minimum, use the minimum pressure."
 msgstr "Filtri la enigan premon. Multipliki la premon per la premmultiplikanto. Se malpli ol la minimumo, uzi la minimuman premon."
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:574
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:596
 msgid "Fine"
 msgstr "Maldika"
 
@@ -700,7 +700,7 @@ msgstr "Flosanta ilobreto (eksperimenta)"
 msgid "Font"
 msgstr "Tiparo"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:524
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:546
 msgid "Forward"
 msgstr "Antaŭen"
 
@@ -712,7 +712,7 @@ msgstr "GNU GPL versio 2 aŭ pli nova"
 msgid "GTK Version"
 msgstr ""
 
-#: ../src/core/control/XournalMain.cpp:613
+#: ../src/core/control/XournalMain.cpp:614
 msgid "Get version of xournalpp"
 msgstr "Havigi version de xournalpp"
 
@@ -728,27 +728,27 @@ msgstr "Ĉiea ŝablona dosiero ne ekzistas. Bonvolu kontroli viajn agordojn."
 msgid "Global template file is not a regular file. Please check your settings. "
 msgstr "Ĉiea ŝablona dosiero ne estas ordinara dosiero. Bonvolu kontroli viajn agordojn. "
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:438
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:460
 msgid "Go to first page"
 msgstr "Iri al unua paĝo"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:442
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:464
 msgid "Go to last page"
 msgstr "Iri al lasta paĝo"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:445
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:467
 msgid "Go to next layer"
 msgstr "Iri al sekva tavolo"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:440
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:462
 msgid "Go to page"
 msgstr "Iri al paĝo"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:444
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:466
 msgid "Go to previous layer"
 msgstr "Iri al antaŭa tavolo"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:446
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:468
 msgid "Go to top layer"
 msgstr "Iri al supra tavolo"
 
@@ -756,7 +756,7 @@ msgstr "Iri al supra tavolo"
 msgid "Graph"
 msgstr "Grafa"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:410
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:432
 msgid "Grid Snapping"
 msgstr "Alkradigado"
 
@@ -765,7 +765,7 @@ msgid "GtkSourceView was disabled when building Xournal++! Some options will not
 msgstr "GtkSourceView estis malŝaltita dum tradukado de Xournal++! Kelkaj opcioj ne disponeblas."
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:98
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:510
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:532
 msgid "Hand"
 msgstr "Mano"
 
@@ -774,12 +774,12 @@ msgid "Hide all"
 msgstr "Kaŝi ĉion"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:90
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:481
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:503
 msgid "Highlighter"
 msgstr "Emfazilo"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:33
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:485
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:507
 msgid "Image"
 msgstr "Bildo"
 
@@ -824,7 +824,7 @@ msgstr "Enmeti LaTeX"
 msgid "Insert layer"
 msgstr "Enmeti tavolon"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:456
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:478
 msgid "Insert page"
 msgstr "Enmeti paĝon"
 
@@ -836,7 +836,7 @@ msgstr "Izometre punktita"
 msgid "Isometric Graph"
 msgstr "Izometre grafa"
 
-#: ../src/core/control/XournalMain.cpp:609
+#: ../src/core/control/XournalMain.cpp:610
 msgid "Jump to Page (first Page: 1)"
 msgstr "Salti al paĝo (unua paĝo: 1)"
 
@@ -868,17 +868,17 @@ msgstr "Tavolo {1}"
 msgid "Layerstack Preview"
 msgstr "Antaŭrigardo de tavolaro"
 
-#: ../src/core/gui/PageView.cpp:936
+#: ../src/core/gui/PageView.cpp:958
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
 msgstr "Ŝargante..."
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:425
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:447
 msgid "Manage Toolbars"
 msgstr "Administri ilobretojn"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:575
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:597
 msgid "Medium"
 msgstr "Meza"
 
@@ -906,15 +906,15 @@ msgstr "Movi paĝon supren"
 msgid "New"
 msgstr "Nova"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:382
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:404
 msgid "New Xournal"
 msgstr "Nova Xournal"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:441
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:463
 msgid "Next"
 msgstr "Sekva"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:449
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:471
 msgid "Next annotated page"
 msgstr "Sekva prinotita paĝo"
 
@@ -927,11 +927,11 @@ msgstr "Neniu aparato"
 msgid "No pages to export!"
 msgstr "Neniu elportota paĝo!"
 
-#: ../src/core/control/Control.cpp:1485
+#: ../src/core/control/Control.cpp:1486
 msgid "No pdf pages available to append. You may need to reopen the document first."
 msgstr "Neniu postgluebla PDF-paĝo. Eble necesas remalfermi la dokumenton."
 
-#: ../src/core/control/RecentManager.cpp:250
+#: ../src/core/gui/menus/menubar/RecentDocumentsSubmenu.cpp:56
 msgid "No recent files"
 msgstr ""
 
@@ -940,17 +940,17 @@ msgid "Normal drawing"
 msgstr "Ordinara desegnado"
 
 #: ../src/core/gui/toolbarMenubar/model/ColorPalette.cpp:184
-#: ../src/core/plugin/Plugin.cpp:229 ../src/core/plugin/Plugin.cpp:252
+#: ../src/core/plugin/Plugin.cpp:238 ../src/core/plugin/Plugin.cpp:261
 msgid "OK"
 msgstr "Bone"
 
-#: ../src/core/control/XournalMain.cpp:649
+#: ../src/core/control/XournalMain.cpp:650
 msgid "On export, only export the layers specified by RANGE (e.g. \"2-3,5,7-\")\n"
 "                                 No effect without -p/--create-pdf or -i/--create-img"
 msgstr "Dum elportado, nur elporti la tavolojn specifitajn de RANGE (ekz. «2-3,5,7-»)\n"
 "                                 Senefika sen «-p»/«--create-pdf» aŭ «-i»/«--create-img»"
 
-#: ../src/core/control/XournalMain.cpp:645
+#: ../src/core/control/XournalMain.cpp:646
 msgid "Only export the pages specified by RANGE (e.g. \"2-3,5,7-\")\n"
 "                                 No effect without -p/--create-pdf or -i/--create-img"
 msgstr "Nur elporti la paĝojn specifitajn de RANGE (ekz. «2-3,5,7-»)\n"
@@ -969,14 +969,9 @@ msgid "Open Logfile directory"
 msgstr "Malfermi protokolujon"
 
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:383
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:405
 msgid "Open file"
 msgstr "Malfermi dosieron"
-
-#: ../src/core/control/RecentManager.cpp:211
-msgctxt "{1} is a URI"
-msgid "Open {1}"
-msgstr "Malfermi {1}"
 
 #: ../src/core/control/jobs/PdfExportJob.cpp:15
 msgid "PDF Export"
@@ -1036,21 +1031,21 @@ msgstr "Numero de paĝo"
 msgid "Page type format is PageTypeFormat::Copy - converted to PageTypeFormat::Plain to avoid corrupted file"
 msgstr "Paĝa formo estas PageTypeFormat::Copy – konvertita al PageTypeFormat::Plain por averti difektiĝon de dosiero"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:420
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:442
 msgid "Paired pages"
 msgstr "Parigitaj paĝoj"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:401
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:423
 #: ../src/core/undo/AddUndoAction.cpp:66
 msgid "Paste"
 msgstr "Alglui"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:518
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:540
 msgid "Pause / Play"
 msgstr "Paŭzigi / ludi"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:88
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:272
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:294
 msgid "Pen"
 msgstr "Plumo"
 
@@ -1058,7 +1053,7 @@ msgstr "Plumo"
 msgid "Plain"
 msgstr "Ordinara"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:509
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:531
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:27
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:94
 msgid "Play Object"
@@ -1068,7 +1063,7 @@ msgstr "Ludi objekton"
 msgid "Predefined"
 msgstr "Antaŭdifinita"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:422
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:444
 msgid "Presentation mode"
 msgstr "Prezentoreĝimo"
 
@@ -1076,19 +1071,19 @@ msgstr "Prezentoreĝimo"
 msgid "Previously selected language not available anymore!"
 msgstr "Antaŭe elektita lingvo estas ne plu disponebla!"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:386
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:408
 msgid "Print"
 msgstr "Presi"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:516
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:538
 msgid "Record Audio / Stop Recording"
 msgstr "Ekregistri sonon / ĉesigi registradon"
 
-#: ../src/core/control/Control.cpp:1015
+#: ../src/core/control/Control.cpp:1008
 msgid "Recorder could not be started."
 msgstr "Malsukcesis ekfunkciigi la registrilon."
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:395
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:417
 #: ../src/core/undo/UndoRedoHandler.cpp:220
 msgid "Redo"
 msgstr "Refari"
@@ -1097,7 +1092,7 @@ msgstr "Refari"
 msgid "Redo: "
 msgstr "Refari: "
 
-#: ../src/core/control/Control.cpp:2352
+#: ../src/core/control/Control.cpp:2356
 msgid "Remove PDF Background"
 msgstr "Forviŝi PDF-fonon"
 
@@ -1129,7 +1124,7 @@ msgstr "Restaŭri dosieron"
 msgid "Rotation"
 msgstr "Turnado"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:408
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:430
 msgid "Rotation Snapping"
 msgstr "Rotacia kaptado"
 
@@ -1149,16 +1144,16 @@ msgstr "SVG-bildoj"
 msgid "Sample LaTeX file generated successfully."
 msgstr "Ekzempla LaTeX-dosiero estis farita sukcese."
 
-#: ../src/core/control/Control.cpp:2822 ../src/core/control/jobs/SaveJob.cpp:25
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:384
+#: ../src/core/control/Control.cpp:2826 ../src/core/control/jobs/SaveJob.cpp:25
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:406
 msgid "Save"
 msgstr "Konservi"
 
-#: ../src/core/control/Control.cpp:2822
+#: ../src/core/control/Control.cpp:2826
 msgid "Save As..."
 msgstr "Konservi kiel..."
 
-#: ../src/core/control/Control.cpp:2656
+#: ../src/core/control/Control.cpp:2660
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:85
 msgid "Save File"
 msgstr "Konservi dosieron"
@@ -1172,11 +1167,11 @@ msgstr "Eraro konservante dosieron: {1}"
 msgid "Scale"
 msgstr "Skalo"
 
-#: ../src/core/gui/PageView.cpp:999
+#: ../src/core/gui/PageView.cpp:1021
 msgid "Scroll to page {1}"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:403
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:425
 msgid "Search"
 msgstr "Serĉi"
 
@@ -1188,17 +1183,17 @@ msgstr "Vidi la plenan liston de kontribuintoj"
 msgid "Select Area Text from pdf"
 msgstr "Elekti arean tekston el PDF"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:512
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:534
 msgid "Select Font"
 msgstr "Elekti tiparon"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:490
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:512
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:19
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:22
 msgid "Select Linear PDF Text"
 msgstr "Elekti linian PDF-tekston"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:506
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:528
 msgid "Select Multi-Layer Rect"
 msgstr ""
 
@@ -1207,13 +1202,13 @@ msgstr ""
 msgid "Select Multi-Layer Rectangle"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:505
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:527
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:82
 msgid "Select Multi-Layer Region"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:507
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:529
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:26
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:88
 msgid "Select Object"
@@ -1231,7 +1226,7 @@ msgstr "Elekti PDF-tekston"
 msgid "Select PDF Text In Rectangle"
 msgstr "Elekti PDF-tekston en ortangulo"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:492
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:514
 msgid "Select PDF Text in Rectangle"
 msgstr "Elekti PDF-tekston en ortangulo"
 
@@ -1239,14 +1234,14 @@ msgstr "Elekti PDF-tekston en ortangulo"
 msgid "Select Pdf Text"
 msgstr "Elekti PDF-tekston"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:504
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:526
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:22
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:64
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:109
 msgid "Select Rectangle"
 msgstr "Elekti ortangulon"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:503
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:525
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:23
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:70
 msgid "Select Region"
@@ -1256,7 +1251,7 @@ msgstr "Elekti regionon"
 msgid "Select Text from pdf"
 msgstr "Elekti tekston el PDF"
 
-#: ../src/core/control/Control.cpp:2351
+#: ../src/core/control/Control.cpp:2355
 msgid "Select another PDF"
 msgstr "Elekti alian PDF"
 
@@ -1308,13 +1303,13 @@ msgstr "Porti fonen"
 msgid "Separator"
 msgstr "Apartigilo"
 
-#: ../src/core/control/XournalMain.cpp:653
+#: ../src/core/control/XournalMain.cpp:654
 msgid "Set DPI for PNG exports. Default is 300\n"
 "                                 No effect without -i/--create-img=foo.png"
 msgstr "Agordi la bilderdenson (bilderojn en colo) por elporti kiel PNG-bildon. Implicite 300\n"
 "                                 Senefika sen «-i»/«--create-img=foo.png»"
 
-#: ../src/core/control/XournalMain.cpp:663
+#: ../src/core/control/XournalMain.cpp:664
 msgid "Set page height for PNG exports\n"
 "                                 No effect without -i/--create-img=foo.png\n"
 "                                 Ignored if --export-png-dpi or --export-png-width is used"
@@ -1322,7 +1317,7 @@ msgstr "Agordi la alton de bildo por elporti kiel PNG-bildon\n"
 "                                 Senefika sen «-i»/«--create-img=foo.png»\n"
 "                                 Ignorota se «--export-png-dpi» aŭ «--export-png-width» estas uzata"
 
-#: ../src/core/control/XournalMain.cpp:657
+#: ../src/core/control/XournalMain.cpp:658
 msgid "Set page width for PNG exports\n"
 "                                 No effect without -i/--create-img=foo.png\n"
 "                                 Ignored if --export-png-dpi is used"
@@ -1330,11 +1325,11 @@ msgstr "Agordi la larĝon de bildo por elporti kiel PNG-bildon\n"
 "                                 Senefika sen «-i»/«--create-img=foo.png»\n"
 "                                 Ignorota se «--export-png-dpi» estas uzata"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:411
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:433
 msgid "Setsquare"
 msgstr "Angulilo"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:488
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:510
 msgid "Shape Recognizer"
 msgstr "Formo-rekonilo"
 
@@ -1350,13 +1345,13 @@ msgstr "Montri nur neuzitajn paĝojn (unu neuzitan paĝon)"
 msgid "Show only not used pages ({1} unused pages)"
 msgstr "Montri nur neuzitajn paĝojn ({1} neuzitajn paĝojn)"
 
-#: ../src/core/control/XournalMain.cpp:481
+#: ../src/core/control/XournalMain.cpp:482
 msgid "Sorry, Xournal++ can only open one file at once.\n"
 "Others are ignored."
 msgstr "Bedaŭrinde, Xournal++ povas malfermi nur unu dosieron samtempe.\n"
 "Aliaj estas ignorataj."
 
-#: ../src/core/control/XournalMain.cpp:496
+#: ../src/core/control/XournalMain.cpp:497
 msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
 msgstr "Bedaŭrinde, Xournal++ ankoraŭ ne povas malfermi foran dosieron.\n"
@@ -1366,7 +1361,7 @@ msgstr "Bedaŭrinde, Xournal++ ankoraŭ ne povas malfermi foran dosieron.\n"
 msgid "Staves"
 msgstr "Muzika liniaro"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:521
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:543
 msgid "Stop"
 msgstr "Ĉesigi"
 
@@ -1405,7 +1400,7 @@ msgid "System Default"
 msgstr "Sistema implicito"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:91
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:483
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:505
 msgid "Text"
 msgstr "Teksto"
 
@@ -1438,15 +1433,15 @@ msgstr "Teksto ne troviĝis"
 msgid "Text not found, searched on all pages"
 msgstr "Teksto ne troviĝis sur ajna paĝo"
 
-#: ../src/core/control/Control.cpp:1259
+#: ../src/core/control/Control.cpp:1252
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
 msgstr "La ilobreta agordo «{1}» estas antaŭdifinita; ĉu krei kopion modifotan?"
 
-#: ../src/core/control/Control.cpp:2328
+#: ../src/core/control/Control.cpp:2332
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2331
+#: ../src/core/control/Control.cpp:2335
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
 "It was last seen at: \"{2}\""
 msgstr ""
@@ -1455,7 +1450,7 @@ msgstr ""
 msgid "The check for overwriting the background failed with:\n"
 msgstr "La kontrolo por superskribi la fonon malsukcesis pro la jeno:\n"
 
-#: ../src/core/control/Control.cpp:2392
+#: ../src/core/control/Control.cpp:2396
 msgid "The file being loaded has a file format version newer than the one currently supported by this version of Xournal++, so it may not load properly. Open anyways?"
 msgstr "La versio de la ŝargata dosiero estas pli nova ol tiuj, kiuj estas subtenataj de ĉi tiu versio de Xournal++; tial, la dosiero eble misŝargiĝos. Ĉu malfermi malgraŭ tio?"
 
@@ -1495,11 +1490,11 @@ msgstr "Ekzistas erarprotokolo de Xournal++. Bonvolu sendi raporton pri la cimo,
 msgid "There was an error displaying help: {1}"
 msgstr "Okazis eraro montrante helpon: {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:576
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:598
 msgid "Thick"
 msgstr "Dika"
 
-#: ../src/core/control/Control.cpp:2821
+#: ../src/core/control/Control.cpp:2825
 msgid "This document is not saved yet."
 msgstr "Ĉi tiu dokumento estas ankoraŭ ne konservita."
 
@@ -1507,7 +1502,7 @@ msgstr "Ĉi tiu dokumento estas ankoraŭ ne konservita."
 msgid "This image could not be loaded. Error message: {1}"
 msgstr "Ĉi tiu bildo ne estas ŝargebla. Erarmesaĝo: {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:423
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:445
 msgid "Toggle fullscreen"
 msgstr "Baskuligi plenekranan reĝimon"
 
@@ -1531,15 +1526,15 @@ msgstr "Provante krize konservi la aktualan malfermitan dokumenton…"
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr "Ne eblas malfermi la ĉiean ŝablonan dosieron ĉe {1}. Ĉu ĝi ekzistas?"
 
-#: ../src/core/gui/PageView.cpp:478
+#: ../src/core/gui/PageView.cpp:490
 msgid "Unable to play audio recording {1}"
 msgstr "Ne eblas ludi sonregistraĵon {1}"
 
-#: ../src/core/control/Control.cpp:1499
+#: ../src/core/control/Control.cpp:1500
 msgid "Unable to retrieve pdf page."
 msgstr "Ne eblas akiri PDF-paĝon."
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:394
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:416
 #: ../src/core/undo/UndoRedoHandler.cpp:208
 msgid "Undo"
 msgstr "Malfari"
@@ -1584,7 +1579,7 @@ msgstr "Nekonata strekopinta tipo: «{1}», supozante «ronda»"
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr "Nekonata tipo de streko: «{1}», supozante plumon"
 
-#: ../src/core/control/Control.cpp:2713
+#: ../src/core/control/Control.cpp:2717
 msgid "Unsaved Document"
 msgstr "Nekonservita dokumento"
 
@@ -1592,7 +1587,7 @@ msgstr "Nekonservita dokumento"
 msgid "Unsupported graphics format: "
 msgstr "Nesubtenata grafika dosierformo: "
 
-#: ../src/core/control/Control.cpp:2349
+#: ../src/core/control/Control.cpp:2353
 msgid "Use proposed PDF"
 msgstr "Uzi proponitan PDF"
 
@@ -1600,7 +1595,7 @@ msgstr "Uzi proponitan PDF"
 msgid "Version"
 msgstr "Versio"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:508
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:530
 msgid "Vertical Space"
 msgstr "Vertikala spaco"
 
@@ -1608,11 +1603,11 @@ msgstr "Vertikala spaco"
 msgid "Vertical space"
 msgstr "Vertikala spaco"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:573
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:595
 msgid "Very Fine"
 msgstr "Maldikega"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:577
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:599
 msgid "Very Thick"
 msgstr "Dikega"
 
@@ -1648,7 +1643,7 @@ msgstr "Xournal-dosieroj"
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr "Xournal++ kolapsis lastatempe. Ĉu restaŭri la laste redaktitan dosieron?"
 
-#: ../src/core/control/Control.cpp:2662
+#: ../src/core/control/Control.cpp:2666
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal++ files"
 msgstr "Xournal++-dosieroj"
@@ -1680,23 +1675,23 @@ msgstr "En via aktuala dokumento mankas la PDF-paĝo n-ro {1}.\n"
 msgid "Zoom Slider"
 msgstr "Zombreto"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:430
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:452
 msgid "Zoom fit to screen"
 msgstr "Adapti zomon al ekrano"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:429
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:451
 msgid "Zoom in"
 msgstr "Pligrandigi"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:428
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:450
 msgid "Zoom out"
 msgstr "Malpligrandigi"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:431
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:453
 msgid "Zoom to 100%"
 msgstr "Ŝanĝi zomon al 100%"
 
-#: ../src/core/control/Control.cpp:2656
+#: ../src/core/control/Control.cpp:2660
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:15
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
@@ -1709,7 +1704,7 @@ msgstr "_Nuligi"
 msgid "_Open"
 msgstr "_Malfermi"
 
-#: ../src/core/control/Control.cpp:2657
+#: ../src/core/control/Control.cpp:2661
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:86
 msgid "_Save"
@@ -1719,13 +1714,13 @@ msgstr "Kon_servi"
 msgid "cursor"
 msgstr "Kursoro"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:280
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:475
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:302
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:497
 msgid "dash-/ dotted"
 msgstr "streketita / punktita"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:277
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:473
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:299
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:495
 msgid "dashed"
 msgstr "streketita"
 
@@ -1737,12 +1732,12 @@ msgstr "Implicite malŝaltita"
 msgid "default enabled"
 msgstr "Implicite ŝaltita"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:295
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:317
 msgid "delete stroke"
 msgstr "forviŝi strekon"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:283
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:476
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:305
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:498
 msgid "dotted"
 msgstr "punktita"
 
@@ -1755,7 +1750,7 @@ msgstr "elementoj"
 msgid "eraser"
 msgstr "skrapgumo"
 
-#: ../src/core/control/Control.cpp:2280
+#: ../src/core/control/Control.cpp:2284
 msgid "file: {1}"
 msgstr "dosiero: {1}"
 
@@ -1785,9 +1780,9 @@ msgstr "plumo"
 msgid "show"
 msgstr "montri"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:274
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:293
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:472
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:296
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:315
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:494
 msgid "standard"
 msgstr "norma"
 
@@ -1817,7 +1812,7 @@ msgstr "tuŝekrano"
 msgid "trackpoint"
 msgstr "stirstangeto"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:294
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:316
 msgid "whiteout"
 msgstr "blanka korektilo"
 
