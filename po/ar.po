@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-21 09:54+0000\n"
-"PO-Revision-Date: 2023-02-21 10:09\n"
+"POT-Creation-Date: 2023-02-24 04:51+0000\n"
+"PO-Revision-Date: 2023-02-24 05:36\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -29,7 +29,7 @@ msgid "\n"
 msgstr "\n"
 "هل تريد المتابعة؟"
 
-#: ../src/core/control/Control.cpp:2341
+#: ../src/core/control/Control.cpp:2345
 msgid "\n"
 "Proposed replacement file: \"{1}\""
 msgstr "\n"
@@ -62,15 +62,15 @@ msgstr "<span foreground='red' size='x-large'>لم يتم العثور على م
 "  ليس في مسار العمل\n"
 "  ليس في {2}"
 
-#: ../src/core/gui/PageView.cpp:1001
+#: ../src/core/gui/PageView.cpp:1023
 msgid "Add missing page"
 msgstr "ضافة الصفحة المفقودة"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:484
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:506
 msgid "Add/Edit TeX"
 msgstr "إدخال / تحرير LaTeX"
 
-#: ../src/core/control/XournalMain.cpp:668
+#: ../src/core/control/XournalMain.cpp:669
 msgid "Advanced export options"
 msgstr "خيارات التصدير المتقدمة"
 
@@ -131,11 +131,11 @@ msgid "Audio folder not set or invalid! Recording won't work!\n"
 msgstr "مجلد الصوتيات غير معين أو غير صالح! لا يمكن التسجيل!\n"
 "برجاء تعيين مجلد التسجيل في «التفضيلات > تسجيل الصوتيات»"
 
-#: ../src/core/control/Control.cpp:260
+#: ../src/core/control/Control.cpp:256
 msgid "Autosave failed with an error: {1}"
 msgstr "فشل الحفظ التلقائي بخطأ مفاده: {1}"
 
-#: ../src/core/control/Control.cpp:240
+#: ../src/core/control/Control.cpp:236
 msgid "Autosave renamed from {1} to {2}"
 msgstr "تم تغيير اسم الملف المحفوظ تلقائيًّا من {1} إلى {2}"
 
@@ -143,8 +143,8 @@ msgstr "تم تغيير اسم الملف المحفوظ تلقائيًّا من
 msgid "Autosaving to {1}"
 msgstr "حفظ تلقائي إلى {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:439
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:527
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:461
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:549
 msgid "Back"
 msgstr "تأخير"
 
@@ -165,7 +165,7 @@ msgstr "اجلب للمقدمة"
 msgid "Built on"
 msgstr "وقت البناء"
 
-#: ../src/core/control/Control.cpp:2353 ../src/core/control/Control.cpp:2830
+#: ../src/core/control/Control.cpp:2357 ../src/core/control/Control.cpp:2834
 #: ../src/core/control/XournalMain.cpp:176
 #: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
@@ -191,7 +191,7 @@ msgstr "تغيير عرض الخط"
 msgid "Change stroke width"
 msgstr "تغيير عرض الخط"
 
-#: ../src/core/control/RecentManager.cpp:290
+#: ../src/core/gui/menus/menubar/RecentDocumentsSubmenu.cpp:65
 msgid "Clear list"
 msgstr "مسح القائمة"
 
@@ -199,7 +199,7 @@ msgstr "مسح القائمة"
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
 msgstr "اللون \"{1}\" غير معروف (غير معرّف في قائمة الألوان الافتراضية)!"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:412
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:434
 msgid "Compass"
 msgstr "بوصلة"
 
@@ -207,7 +207,7 @@ msgstr "بوصلة"
 msgid "Contents"
 msgstr "المحتويات"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:400
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:422
 #: ../src/core/gui/toolbarMenubar/model/ToolbarModel.cpp:75
 #: ../src/core/gui/toolbarMenubar/model/ToolbarModel.cpp:81
 msgid "Copy"
@@ -264,13 +264,13 @@ msgstr "تعذر فتح المرفق: {1}. رسالة خطأ: {2}"
 msgid "Could not open file: \"{1}\""
 msgstr "تعذر فتح الملف: \"{1}\""
 
-#: ../src/core/gui/MainWindow.cpp:102
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:74
 msgid "Could not parse custom toolbar.ini file: {1}\n"
 "Toolbars will not be available"
 msgstr "لا يمكن تحليل ملف toolbar.ini المعدّل: {1}\n"
 "لن تكون أشرطة الأدوات متاحة"
 
-#: ../src/core/gui/MainWindow.cpp:93
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:65
 msgid "Could not parse general toolbar.ini file: {1}\n"
 "No Toolbars will be available"
 msgstr "تعذر تحليل ملف toolbar.ini العام: {1}\n"
@@ -299,7 +299,7 @@ msgstr "تعذرت إزالة عنصر الأداة من شريط الأدوات
 msgid "Could not remove tool item {1} from Toolbar {2} on position {3}"
 msgstr "تعذرت إزالة عنصر الأداة {1} من شريط الأدوات {2} في الموضع {3}"
 
-#: ../src/core/control/Control.cpp:251
+#: ../src/core/control/Control.cpp:247
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
 msgstr "تعذرت إعادة تسمية الملف المحفوظ تلقائيًّا من \"{1}\" إلى \"{2}\": {3}"
 
@@ -337,7 +337,7 @@ msgstr "مخصص"
 msgid "Custom Export"
 msgstr "تصدير مخصص"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:426
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:448
 msgid "Customize Toolbars"
 msgstr "تخصيص أشرطة الأدوات"
 
@@ -345,15 +345,15 @@ msgstr "تخصيص أشرطة الأدوات"
 msgid "Customized"
 msgstr "مخصص"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:399
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:421
 msgid "Cut"
 msgstr "قص"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:486
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:508
 msgid "Default Tool"
 msgstr "الأداة المبدئية"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:405
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:427
 #: ../src/core/undo/DeleteUndoAction.cpp:64
 msgid "Delete"
 msgstr "حذف"
@@ -362,7 +362,7 @@ msgstr "حذف"
 msgid "Delete Logfile"
 msgstr "حذف ملف السجل"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:460
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:482
 msgid "Delete current page"
 msgstr "حذف الصفحة الحالية"
 
@@ -382,15 +382,15 @@ msgstr "حذف هذه الطبقة"
 msgid "Delete this page"
 msgstr "حذف هذه الصفحة"
 
-#: ../src/core/control/Control.cpp:2827
+#: ../src/core/control/Control.cpp:2831
 msgid "Discard"
 msgstr "إغلاق بدون حفظ"
 
-#: ../src/core/control/XournalMain.cpp:669
+#: ../src/core/control/XournalMain.cpp:670
 msgid "Display advanced export options"
 msgstr "إظهار خيارات التصدير المتقدمة"
 
-#: ../src/core/control/Control.cpp:2266
+#: ../src/core/control/Control.cpp:2270
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
@@ -402,7 +402,7 @@ msgstr "لا تفتح الملفات المحفوظة تلقائيا؛ قد يت
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr "لا تستبدل خلفية الـPDF؛ سيتسبب هذا في أخطاء!"
 
-#: ../src/core/control/Control.cpp:2821
+#: ../src/core/control/Control.cpp:2825
 msgid "Document file was removed."
 msgstr "تمت إزالة ملف المستند."
 
@@ -425,24 +425,24 @@ msgstr "منقط"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:136
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:38
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:495
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:517
 msgid "Draw Arrow"
 msgstr "رسم سهم"
 
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:39
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:497
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:519
 msgid "Draw Double Arrow"
 msgstr "رسم سهم مزدوج"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:134
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:36
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:494
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:516
 msgid "Draw Ellipse"
 msgstr "رسم شكل بيضاوي"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:130
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:41
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:500
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:522
 msgid "Draw Line"
 msgstr "رسم خط"
 
@@ -450,19 +450,19 @@ msgstr "رسم خط"
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:34
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:100
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:103
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:493
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:515
 msgid "Draw Rectangle"
 msgstr "رسم مستطيل"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:142
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:46
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:501
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:523
 msgid "Draw Spline"
 msgstr "رسم منحنى"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:138
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:42
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:499
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:521
 msgid "Draw coordinate system"
 msgstr "رسم نظام إحداثيات"
 
@@ -513,11 +513,11 @@ msgid "Erase stroke"
 msgstr "محو خط أو شكل"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:89
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:291
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:313
 msgid "Eraser"
 msgstr "ممحاة"
 
-#: ../src/core/control/Control.cpp:2557
+#: ../src/core/control/Control.cpp:2561
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr "خطأ في التعليق على ملف الـPDF المسمى «{1}»\n"
@@ -527,7 +527,7 @@ msgstr "خطأ في التعليق على ملف الـPDF المسمى «{1}»\
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
 msgstr "تعذر تحميل ملف glade المسمى «{1}» (حاول تحميل «{2}»)"
 
-#: ../src/core/control/Control.cpp:2384
+#: ../src/core/control/Control.cpp:2388
 msgid "Error opening file \"{1}\""
 msgstr "خطأ في فتح الملف \"{1}\""
 
@@ -582,11 +582,11 @@ msgid "Errorlog cannot be deleted. You have to do it manually.\n"
 msgstr "تعذر حذف سجل الأخطاء. عليك فعل ذلك يدويا.\n"
 "ملف السجل: {1}"
 
-#: ../src/core/control/XournalMain.cpp:622
+#: ../src/core/control/XournalMain.cpp:623
 msgid "Export FILE as PDF"
 msgstr "تصدير «ملف» كـPDF"
 
-#: ../src/core/control/XournalMain.cpp:624
+#: ../src/core/control/XournalMain.cpp:625
 msgid "Export FILE as image files (one per page)\n"
 "                                 Guess the output format from the extension of IMGFILE\n"
 "                                 Supported formats: .png, .svg"
@@ -598,11 +598,11 @@ msgstr "تصدير الملف كملفات صور (صورة واحدة لكل ص
 msgid "Export PDF"
 msgstr "تصدير PDF"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:385
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:407
 msgid "Export as PDF"
 msgstr "تصدير كـPDF"
 
-#: ../src/core/control/XournalMain.cpp:638
+#: ../src/core/control/XournalMain.cpp:639
 msgid "Export layers progressively\n"
 "                                 In PDF export, Render layers progressively one by one.\n"
 "                                 This results in N export pages per page with N layers,\n"
@@ -614,7 +614,7 @@ msgstr "تصدير الطبقات تدريجيا\n"
 "                                  عدد ن من الطبقات، فيبني كومة الطبقات تدريجيا.\n"
 "                                 يمكن استخدام ملف الـPDF الناتج كعرض تقديمي.\n"
 
-#: ../src/core/control/XournalMain.cpp:629
+#: ../src/core/control/XournalMain.cpp:630
 msgid "Export without background\n"
 "                                 The exported file has transparent or white background,\n"
 "                                 depending on what its format supports\n"
@@ -622,7 +622,7 @@ msgstr "تصدير بدون خلفية\n"
 "                                 ستكون خلفية الملف المصدَّر شفافة أو بيضاء،\n"
 "                                 اعتمادا على ما تدعمه الصيغة\n"
 
-#: ../src/core/control/XournalMain.cpp:634
+#: ../src/core/control/XournalMain.cpp:635
 msgid "Export without ruling\n"
 "                                 The exported file has no paper ruling\n"
 msgstr "تصدير بدون تسطير\n"
@@ -677,11 +677,11 @@ msgid "File couldn't be opened. You have to do it manually:\n"
 msgstr "تعذر فتح الملف. عليك فعل ذلك يدويا:\n"
 "الرابط: {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:554
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:576
 msgid "Fill"
 msgstr "تعبئة"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:555
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:577
 msgid "Fill Opacity"
 msgstr "عتامة التعبئة"
 
@@ -689,7 +689,7 @@ msgstr "عتامة التعبئة"
 msgid "Filter input pressure. Multiply the pressure by the pressure multiplier. If less than the minimum, use the minimum pressure."
 msgstr "ترشيح ضغط الإدخال. اضرب الضغط في قيمة «مضاعف الضغط». وإذا كان أقل من الحد الأدنى، استخدم «الحد الأدنى للضغط»."
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:574
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:596
 msgid "Fine"
 msgstr "رفيع"
 
@@ -701,7 +701,7 @@ msgstr "صندوق أدوات عائم (تجريبي)"
 msgid "Font"
 msgstr "خط"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:524
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:546
 msgid "Forward"
 msgstr "تقديم"
 
@@ -713,7 +713,7 @@ msgstr "رخصة جنو العمومية، الإصدارة الثانية أو 
 msgid "GTK Version"
 msgstr "إصدار GTK"
 
-#: ../src/core/control/XournalMain.cpp:613
+#: ../src/core/control/XournalMain.cpp:614
 msgid "Get version of xournalpp"
 msgstr "الحصول على نسخة xournalpp"
 
@@ -729,27 +729,27 @@ msgstr "ملف القالب العام غير موجود. الرجاء مراج�
 msgid "Global template file is not a regular file. Please check your settings. "
 msgstr "ملف القالب العام ليس ملفا عاديا. الرجاء مراجعة الإعدادات. "
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:438
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:460
 msgid "Go to first page"
 msgstr "انتقال إلى الصفحة الأولى"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:442
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:464
 msgid "Go to last page"
 msgstr "انتقال إلى الصفحة الأخيرة"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:445
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:467
 msgid "Go to next layer"
 msgstr "انتقال إلى الطبقة التالية"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:440
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:462
 msgid "Go to page"
 msgstr "انتقال إلى صفحة"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:444
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:466
 msgid "Go to previous layer"
 msgstr "انتقال إلى الطبقة السابقة"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:446
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:468
 msgid "Go to top layer"
 msgstr "انتقال إلى الطبقة العليا"
 
@@ -757,7 +757,7 @@ msgstr "انتقال إلى الطبقة العليا"
 msgid "Graph"
 msgstr "رسم بياني"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:410
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:432
 msgid "Grid Snapping"
 msgstr "اجتذاب الشبكة"
 
@@ -766,7 +766,7 @@ msgid "GtkSourceView was disabled when building Xournal++! Some options will not
 msgstr "تم تعطيل GtkSourceView عندما تم بناء Xournal++‎؛ لن تتوفر بعض الخيارات."
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:98
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:510
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:532
 msgid "Hand"
 msgstr "يد"
 
@@ -775,12 +775,12 @@ msgid "Hide all"
 msgstr "إخفاء الكل"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:90
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:481
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:503
 msgid "Highlighter"
 msgstr "قلم تظليل"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:33
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:485
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:507
 msgid "Image"
 msgstr "صورة"
 
@@ -825,7 +825,7 @@ msgstr "إدراج LaTeX"
 msgid "Insert layer"
 msgstr "إدراج طبقة"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:456
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:478
 msgid "Insert page"
 msgstr "إدراج صفحة"
 
@@ -837,7 +837,7 @@ msgstr "أيزومتري منقط"
 msgid "Isometric Graph"
 msgstr "رسم بياني أيزومتري"
 
-#: ../src/core/control/XournalMain.cpp:609
+#: ../src/core/control/XournalMain.cpp:610
 msgid "Jump to Page (first Page: 1)"
 msgstr "انتقال إلى الصفحة (الصفحة الأولى: 1)"
 
@@ -869,17 +869,17 @@ msgstr "الطبقة {1}"
 msgid "Layerstack Preview"
 msgstr "معاينة كومة الطبقات"
 
-#: ../src/core/gui/PageView.cpp:936
+#: ../src/core/gui/PageView.cpp:958
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
 msgstr "يجري التحميل..."
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:425
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:447
 msgid "Manage Toolbars"
 msgstr "إدارة أشرطة الأدوات"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:575
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:597
 msgid "Medium"
 msgstr "متوسط"
 
@@ -907,15 +907,15 @@ msgstr "تحريك صفحة لأعلى"
 msgid "New"
 msgstr "جديد"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:382
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:404
 msgid "New Xournal"
 msgstr "جورنال جديد"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:441
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:463
 msgid "Next"
 msgstr "التالي"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:449
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:471
 msgid "Next annotated page"
 msgstr "الصفحة المعلّق عليها التالية"
 
@@ -928,11 +928,11 @@ msgstr "لا يوجد جهاز"
 msgid "No pages to export!"
 msgstr "لا توجد صفحات للتصدير!"
 
-#: ../src/core/control/Control.cpp:1485
+#: ../src/core/control/Control.cpp:1486
 msgid "No pdf pages available to append. You may need to reopen the document first."
 msgstr "لا توجد صفحات PDF متاحة لإضافتها. قد تحتاج إلى إعادة فتح المسند أولا."
 
-#: ../src/core/control/RecentManager.cpp:250
+#: ../src/core/gui/menus/menubar/RecentDocumentsSubmenu.cpp:56
 msgid "No recent files"
 msgstr "لا توجد ملفات حديثة"
 
@@ -941,17 +941,17 @@ msgid "Normal drawing"
 msgstr "رسم عادي"
 
 #: ../src/core/gui/toolbarMenubar/model/ColorPalette.cpp:184
-#: ../src/core/plugin/Plugin.cpp:229 ../src/core/plugin/Plugin.cpp:252
+#: ../src/core/plugin/Plugin.cpp:238 ../src/core/plugin/Plugin.cpp:261
 msgid "OK"
 msgstr "موافق"
 
-#: ../src/core/control/XournalMain.cpp:649
+#: ../src/core/control/XournalMain.cpp:650
 msgid "On export, only export the layers specified by RANGE (e.g. \"2-3,5,7-\")\n"
 "                                 No effect without -p/--create-pdf or -i/--create-img"
 msgstr "عند التصدير، قم بتصدير الطبقات التي يحددها «المدى» فقط (مثال: «‪2-3,5,7-‬»)\n"
 "                                 لا تأثير بغير ‪-p/--create-pdf‬ أو ‪-i/--create-img‬"
 
-#: ../src/core/control/XournalMain.cpp:645
+#: ../src/core/control/XournalMain.cpp:646
 msgid "Only export the pages specified by RANGE (e.g. \"2-3,5,7-\")\n"
 "                                 No effect without -p/--create-pdf or -i/--create-img"
 msgstr "تصدير الصفحات التي يحددها «المدى» فقط (مثال: «‪2-3,5,7-‬»)\n"
@@ -970,14 +970,9 @@ msgid "Open Logfile directory"
 msgstr "فتح مجلد ملف السجل"
 
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:383
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:405
 msgid "Open file"
 msgstr "فتح ملف"
-
-#: ../src/core/control/RecentManager.cpp:211
-msgctxt "{1} is a URI"
-msgid "Open {1}"
-msgstr "فتح {1}"
 
 #: ../src/core/control/jobs/PdfExportJob.cpp:15
 msgid "PDF Export"
@@ -1037,21 +1032,21 @@ msgstr "رقم الصفحة"
 msgid "Page type format is PageTypeFormat::Copy - converted to PageTypeFormat::Plain to avoid corrupted file"
 msgstr "صيغة نوع الصفحة هو PageTypeFormat::Copy («نسخة») - تم تحويلها إلى PageTypeFormat::Plain («مجرد») لتجنب إتلاف الملف"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:420
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:442
 msgid "Paired pages"
 msgstr "صفحات مزدوجة"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:401
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:423
 #: ../src/core/undo/AddUndoAction.cpp:66
 msgid "Paste"
 msgstr "لصق"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:518
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:540
 msgid "Pause / Play"
 msgstr "إيقاف مؤقت / تشغيل"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:88
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:272
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:294
 msgid "Pen"
 msgstr "قلم"
 
@@ -1059,7 +1054,7 @@ msgstr "قلم"
 msgid "Plain"
 msgstr "فارغ"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:509
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:531
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:27
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:94
 msgid "Play Object"
@@ -1069,7 +1064,7 @@ msgstr "تشغيل كائن"
 msgid "Predefined"
 msgstr "مسبق التعريف"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:422
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:444
 msgid "Presentation mode"
 msgstr "وضع العرض التقديمي"
 
@@ -1077,19 +1072,19 @@ msgstr "وضع العرض التقديمي"
 msgid "Previously selected language not available anymore!"
 msgstr "اللغة المختارة سابقا لم تعد متاحة!"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:386
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:408
 msgid "Print"
 msgstr "طباعة"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:516
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:538
 msgid "Record Audio / Stop Recording"
 msgstr "تسجيل صوت / إيقاف التسجيل"
 
-#: ../src/core/control/Control.cpp:1015
+#: ../src/core/control/Control.cpp:1008
 msgid "Recorder could not be started."
 msgstr "تعذر بدء التسجيل."
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:395
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:417
 #: ../src/core/undo/UndoRedoHandler.cpp:220
 msgid "Redo"
 msgstr "إعادة"
@@ -1098,7 +1093,7 @@ msgstr "إعادة"
 msgid "Redo: "
 msgstr "إعادة: "
 
-#: ../src/core/control/Control.cpp:2352
+#: ../src/core/control/Control.cpp:2356
 msgid "Remove PDF Background"
 msgstr "إزالة خلفية PDF"
 
@@ -1130,7 +1125,7 @@ msgstr "استعادة ملف"
 msgid "Rotation"
 msgstr "تدوير"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:408
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:430
 msgid "Rotation Snapping"
 msgstr "اجتذاب التدوير"
 
@@ -1150,16 +1145,16 @@ msgstr "رسومات SVG"
 msgid "Sample LaTeX file generated successfully."
 msgstr "تم توليد ملف عينة LaTeX بنجاح."
 
-#: ../src/core/control/Control.cpp:2822 ../src/core/control/jobs/SaveJob.cpp:25
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:384
+#: ../src/core/control/Control.cpp:2826 ../src/core/control/jobs/SaveJob.cpp:25
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:406
 msgid "Save"
 msgstr "حفظ"
 
-#: ../src/core/control/Control.cpp:2822
+#: ../src/core/control/Control.cpp:2826
 msgid "Save As..."
 msgstr "حفظ كـ..."
 
-#: ../src/core/control/Control.cpp:2656
+#: ../src/core/control/Control.cpp:2660
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:85
 msgid "Save File"
 msgstr "حفظ الملف"
@@ -1173,11 +1168,11 @@ msgstr "خطأ في حفظ الملف: {1}"
 msgid "Scale"
 msgstr "تحجيم"
 
-#: ../src/core/gui/PageView.cpp:999
+#: ../src/core/gui/PageView.cpp:1021
 msgid "Scroll to page {1}"
 msgstr "مرر إلى الصفحة {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:403
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:425
 msgid "Search"
 msgstr "بحث"
 
@@ -1189,17 +1184,17 @@ msgstr "انظر القائمة الكاملة للمساهمين"
 msgid "Select Area Text from pdf"
 msgstr "تحديد منطقة نص من PDF"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:512
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:534
 msgid "Select Font"
 msgstr "تحديد الخط"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:490
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:512
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:19
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:22
 msgid "Select Linear PDF Text"
 msgstr "تحديد نص PDF خطيًّا"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:506
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:528
 msgid "Select Multi-Layer Rect"
 msgstr ""
 
@@ -1208,13 +1203,13 @@ msgstr ""
 msgid "Select Multi-Layer Rectangle"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:505
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:527
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:82
 msgid "Select Multi-Layer Region"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:507
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:529
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:26
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:88
 msgid "Select Object"
@@ -1232,7 +1227,7 @@ msgstr "تحديد نص PDF"
 msgid "Select PDF Text In Rectangle"
 msgstr "تحديد نص PDF في المستطيل"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:492
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:514
 msgid "Select PDF Text in Rectangle"
 msgstr "تحديد نص PDF في المستطيل"
 
@@ -1240,14 +1235,14 @@ msgstr "تحديد نص PDF في المستطيل"
 msgid "Select Pdf Text"
 msgstr "تحديد نص PDF"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:504
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:526
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:22
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:64
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:109
 msgid "Select Rectangle"
 msgstr "تحديد مستطيل"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:503
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:525
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:23
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:70
 msgid "Select Region"
@@ -1257,7 +1252,7 @@ msgstr "تحديد منطقة"
 msgid "Select Text from pdf"
 msgstr "تحديد نص من PDF"
 
-#: ../src/core/control/Control.cpp:2351
+#: ../src/core/control/Control.cpp:2355
 msgid "Select another PDF"
 msgstr "اختيار ملف PDF آخر"
 
@@ -1309,13 +1304,13 @@ msgstr "إرسال إلى المؤخرة"
 msgid "Separator"
 msgstr "فاصل"
 
-#: ../src/core/control/XournalMain.cpp:653
+#: ../src/core/control/XournalMain.cpp:654
 msgid "Set DPI for PNG exports. Default is 300\n"
 "                                 No effect without -i/--create-img=foo.png"
 msgstr "تعيين دقة (DPI) التصدير إلى PNG. الدقة المبدئية هي 300\n"
 "                                 لا تأثير بدون ‪-i/--create-img=foo.png‬"
 
-#: ../src/core/control/XournalMain.cpp:663
+#: ../src/core/control/XournalMain.cpp:664
 msgid "Set page height for PNG exports\n"
 "                                 No effect without -i/--create-img=foo.png\n"
 "                                 Ignored if --export-png-dpi or --export-png-width is used"
@@ -1323,7 +1318,7 @@ msgstr "تعيين ارتفاع الصفحة عند التصدير إلى PNG\n"
 "                                 لا تأثير بدون ‪-i/--create-img=foo.png‬\n"
 "                                 يتم إهماله عند استخدام ‪--export-png-dpi‬ أو ‪--export-png-width‬"
 
-#: ../src/core/control/XournalMain.cpp:657
+#: ../src/core/control/XournalMain.cpp:658
 msgid "Set page width for PNG exports\n"
 "                                 No effect without -i/--create-img=foo.png\n"
 "                                 Ignored if --export-png-dpi is used"
@@ -1331,11 +1326,11 @@ msgstr "تعيين عرض الصفحة عند التصدير إلى PNG\n"
 "                                 لا تأثير بدون ‪-i/--create-img=foo.png‬\n"
 "                                 يتم إهماله عند استخدام ‪--export-png-dpi‬"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:411
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:433
 msgid "Setsquare"
 msgstr "مثلث أرسطو"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:488
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:510
 msgid "Shape Recognizer"
 msgstr "متعرف الأشكال"
 
@@ -1351,13 +1346,13 @@ msgstr "إظهار الصفحات غير المستخدمة فقط (صفحة و�
 msgid "Show only not used pages ({1} unused pages)"
 msgstr "إظهار الصفحات غير المستخدمة فقط ({1} صفحات غير مستخدمة)"
 
-#: ../src/core/control/XournalMain.cpp:481
+#: ../src/core/control/XournalMain.cpp:482
 msgid "Sorry, Xournal++ can only open one file at once.\n"
 "Others are ignored."
 msgstr "عذرا، يستطيع Xournal++‎ فتح ملف واحد فقط في المرة الواحدة.\n"
 "تم تجاهل الملفات الأخرى."
 
-#: ../src/core/control/XournalMain.cpp:496
+#: ../src/core/control/XournalMain.cpp:497
 msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
 msgstr "عذرا، لا يستطيع Xournal++‎ فتح الملفات البعيدة حاليا.\n"
@@ -1367,7 +1362,7 @@ msgstr "عذرا، لا يستطيع Xournal++‎ فتح الملفات البع
 msgid "Staves"
 msgstr "مخطط موسيقى"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:521
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:543
 msgid "Stop"
 msgstr "إيقاف"
 
@@ -1406,7 +1401,7 @@ msgid "System Default"
 msgstr "لغة النظام"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:91
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:483
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:505
 msgid "Text"
 msgstr "نص"
 
@@ -1439,15 +1434,15 @@ msgstr "لم يتم العثور على النص"
 msgid "Text not found, searched on all pages"
 msgstr "لم يتم العثور على النص، تم البحث عنه في جميع الصفحات"
 
-#: ../src/core/control/Control.cpp:1259
+#: ../src/core/control/Control.cpp:1252
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
 msgstr "مجموعة أشرطة الأدوات «{1}» هي مسبقة التعريف، هل تحب إنشاء نسخة للتعديل؟"
 
-#: ../src/core/control/Control.cpp:2328
+#: ../src/core/control/Control.cpp:2332
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
 msgstr "تعذر العثور على ملف الخلفية المرفق. ربما تم نقله أو إعادة تسميته أو حذفه."
 
-#: ../src/core/control/Control.cpp:2331
+#: ../src/core/control/Control.cpp:2335
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
 "It was last seen at: \"{2}\""
 msgstr "تعذر العثور على ملف الخلفية \"{1}\". ربما تم نقله أو إعادة تسميته أو حذفه.\n"
@@ -1457,7 +1452,7 @@ msgstr "تعذر العثور على ملف الخلفية \"{1}\". ربما ت�
 msgid "The check for overwriting the background failed with:\n"
 msgstr "فشل فحص استبدال الخلفية بالخطأ:\n"
 
-#: ../src/core/control/Control.cpp:2392
+#: ../src/core/control/Control.cpp:2396
 msgid "The file being loaded has a file format version newer than the one currently supported by this version of Xournal++, so it may not load properly. Open anyways?"
 msgstr "الملف الذي يتم تحميله يستخدم نسخة صيغة ملفات أحدث من التي يدعمها هذا الإصدار من Xournal++‎، لذلك قد لا يتم تحميله بشكل صحيح. فتح على أيّة حال؟"
 
@@ -1497,11 +1492,11 @@ msgstr "هناك ملف سجل أخطاء من Xournal++‎. الرجاء إرس
 msgid "There was an error displaying help: {1}"
 msgstr "خطأ في عرض المساعدة: {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:576
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:598
 msgid "Thick"
 msgstr "عريض"
 
-#: ../src/core/control/Control.cpp:2821
+#: ../src/core/control/Control.cpp:2825
 msgid "This document is not saved yet."
 msgstr "لم يتم حفظ هذا المستند بعد."
 
@@ -1509,7 +1504,7 @@ msgstr "لم يتم حفظ هذا المستند بعد."
 msgid "This image could not be loaded. Error message: {1}"
 msgstr "تعذر تحميل هذه الصورة. رسالة الخطأ: {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:423
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:445
 msgid "Toggle fullscreen"
 msgstr "تبديل وضع ملء الشاشة"
 
@@ -1533,15 +1528,15 @@ msgstr "جارِ محاولة الحفظ الاضطراري للمستند ال�
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr "تعذر فتح ملف القالب العام في {1}. هل هو موجود؟"
 
-#: ../src/core/gui/PageView.cpp:478
+#: ../src/core/gui/PageView.cpp:490
 msgid "Unable to play audio recording {1}"
 msgstr "تعذر تشغيل التسجيل الصوتي {1}"
 
-#: ../src/core/control/Control.cpp:1499
+#: ../src/core/control/Control.cpp:1500
 msgid "Unable to retrieve pdf page."
 msgstr "تعذر الحصول على صفحة الـPDF."
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:394
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:416
 #: ../src/core/undo/UndoRedoHandler.cpp:208
 msgid "Undo"
 msgstr "تراجع"
@@ -1586,7 +1581,7 @@ msgstr "نوع نهاية خط مجهول: «{1}»، سأفترض أنه مدو�
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr "نوع خط رسم مجهول: «{1}»، سأفترض أنه قلم"
 
-#: ../src/core/control/Control.cpp:2713
+#: ../src/core/control/Control.cpp:2717
 msgid "Unsaved Document"
 msgstr "مستند غير محفوظ"
 
@@ -1594,7 +1589,7 @@ msgstr "مستند غير محفوظ"
 msgid "Unsupported graphics format: "
 msgstr "صيغة رسوميات غير مدعومة: "
 
-#: ../src/core/control/Control.cpp:2349
+#: ../src/core/control/Control.cpp:2353
 msgid "Use proposed PDF"
 msgstr "استخدم ملف PDF المقترح"
 
@@ -1602,7 +1597,7 @@ msgstr "استخدم ملف PDF المقترح"
 msgid "Version"
 msgstr "إصدار"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:508
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:530
 msgid "Vertical Space"
 msgstr "مسافة رأسية"
 
@@ -1610,11 +1605,11 @@ msgstr "مسافة رأسية"
 msgid "Vertical space"
 msgstr "مسافة رأسية"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:573
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:595
 msgid "Very Fine"
 msgstr "رفيع جدا"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:577
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:599
 msgid "Very Thick"
 msgstr "عريض جدا"
 
@@ -1650,7 +1645,7 @@ msgstr "ملفات Xournal"
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr "لقد انهار Xournal++‎ المرة السابقة. هل تريد استعادة الملف المحرر أخيرا؟"
 
-#: ../src/core/control/Control.cpp:2662
+#: ../src/core/control/Control.cpp:2666
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal++ files"
 msgstr "ملفات Xournal++‎"
@@ -1682,23 +1677,23 @@ msgstr "المستند الحالي لا يحتوي على صفحة PDF رقم {
 msgid "Zoom Slider"
 msgstr "شريط التكبير"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:430
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:452
 msgid "Zoom fit to screen"
 msgstr "عرض بحجم الشاشة"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:429
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:451
 msgid "Zoom in"
 msgstr "تكبير"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:428
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:450
 msgid "Zoom out"
 msgstr "تصغير"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:431
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:453
 msgid "Zoom to 100%"
 msgstr "عرض بالحجم الأصلي"
 
-#: ../src/core/control/Control.cpp:2656
+#: ../src/core/control/Control.cpp:2660
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:15
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
@@ -1711,7 +1706,7 @@ msgstr "إل_غاء"
 msgid "_Open"
 msgstr "_فتح"
 
-#: ../src/core/control/Control.cpp:2657
+#: ../src/core/control/Control.cpp:2661
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:86
 msgid "_Save"
@@ -1721,13 +1716,13 @@ msgstr "_حفظ"
 msgid "cursor"
 msgstr "مؤشر"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:280
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:475
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:302
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:497
 msgid "dash-/ dotted"
 msgstr "متقطع/منقط"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:277
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:473
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:299
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:495
 msgid "dashed"
 msgstr "متقطع"
 
@@ -1739,12 +1734,12 @@ msgstr "مبدئيا معطل"
 msgid "default enabled"
 msgstr "مبدئيا مفعل"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:295
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:317
 msgid "delete stroke"
 msgstr "حذف خط أو شكل"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:283
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:476
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:305
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:498
 msgid "dotted"
 msgstr "منقط"
 
@@ -1757,7 +1752,7 @@ msgstr "عناصر"
 msgid "eraser"
 msgstr "ممحاة"
 
-#: ../src/core/control/Control.cpp:2280
+#: ../src/core/control/Control.cpp:2284
 msgid "file: {1}"
 msgstr "ملف: {1}"
 
@@ -1787,9 +1782,9 @@ msgstr "قلم"
 msgid "show"
 msgstr "إظهار"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:274
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:293
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:472
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:296
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:315
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:494
 msgid "standard"
 msgstr "عادي"
 
@@ -1819,7 +1814,7 @@ msgstr "شاشة لمس"
 msgid "trackpoint"
 msgstr "تراك بوينت"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:294
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:316
 msgid "whiteout"
 msgstr "تبييض"
 
