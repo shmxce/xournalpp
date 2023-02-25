@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-24 04:51+0000\n"
-"PO-Revision-Date: 2023-02-24 05:37\n"
+"POT-Creation-Date: 2023-02-25 09:05+0000\n"
+"PO-Revision-Date: 2023-02-25 09:07\n"
 "Last-Translator: \n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
@@ -65,7 +65,7 @@ msgstr "<span foreground='red' size='x-large'>ui  की एक महेत्�
 msgid "Add missing page"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:506
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:504
 msgid "Add/Edit TeX"
 msgstr ""
 
@@ -141,7 +141,7 @@ msgstr "ऑटोसेव का नाम {1} से {2} तक रखा ग�
 msgid "Autosaving to {1}"
 msgstr "{1} को autosave हो रहा है"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:461
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:459
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:549
 msgid "Back"
 msgstr "पीछे"
@@ -197,7 +197,7 @@ msgstr ""
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
 msgstr "रंग {1} अज्ञात (रंग सूची में परिभाषित नहीं है!)"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:434
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:532
 msgid "Compass"
 msgstr ""
 
@@ -334,7 +334,7 @@ msgstr "निजीकृत"
 msgid "Custom Export"
 msgstr "कस्टम निर्यात"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:448
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:446
 msgid "Customize Toolbars"
 msgstr "टूलबार को अनुकूलित करें"
 
@@ -346,7 +346,7 @@ msgstr "अनुकूलित"
 msgid "Cut"
 msgstr "कट"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:508
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:506
 msgid "Default Tool"
 msgstr "साधारण उपकरण:"
 
@@ -359,7 +359,7 @@ msgstr "मिटाए"
 msgid "Delete Logfile"
 msgstr "Log फ़ाइल हटाएँ"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:482
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:480
 msgid "Delete current page"
 msgstr "वर्तमान पृष्ठ हटाएँ"
 
@@ -422,24 +422,24 @@ msgstr "बिंदुकित"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:136
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:38
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:517
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:515
 msgid "Draw Arrow"
 msgstr "तीर का चिन्ह बनाए"
 
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:39
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:519
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:517
 msgid "Draw Double Arrow"
 msgstr ""
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:134
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:36
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:516
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:514
 msgid "Draw Ellipse"
 msgstr "दीर्घवृत्त बनाए"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:130
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:41
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:522
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:520
 msgid "Draw Line"
 msgstr "रेखा खींचें"
 
@@ -447,19 +447,19 @@ msgstr "रेखा खींचें"
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:34
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:100
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:103
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:515
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:513
 msgid "Draw Rectangle"
 msgstr "आयत बनाएं"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:142
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:46
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:523
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:521
 msgid "Draw Spline"
 msgstr ""
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:138
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:42
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:521
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:519
 msgid "Draw coordinate system"
 msgstr "निर्देश तंत्र बनाए"
 
@@ -711,27 +711,27 @@ msgstr "ग्लोबल टेम्पलेट फ़ाइल मौजू
 msgid "Global template file is not a regular file. Please check your settings. "
 msgstr "ग्लोबल टेम्पलेट फ़ाइल एक नियमित फ़ाइल नहीं है। कृपया अपनी सेटिंग्स को चेक करें। "
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:460
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:458
 msgid "Go to first page"
 msgstr "प्रथम पृष्ठ पर जाएँ"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:464
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:462
 msgid "Go to last page"
 msgstr "अंतिम पृष्ठ पर जाएँ"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:467
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:465
 msgid "Go to next layer"
 msgstr "अगले परत पर जाएँ"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:462
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:460
 msgid "Go to page"
 msgstr "पेज में जाओ"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:466
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:464
 msgid "Go to previous layer"
 msgstr "पिछले परत पर जाएँ"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:468
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:466
 msgid "Go to top layer"
 msgstr "ऊपरी परत पर जाएँ"
 
@@ -748,7 +748,7 @@ msgid "GtkSourceView was disabled when building Xournal++! Some options will not
 msgstr ""
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:98
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:532
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:530
 msgid "Hand"
 msgstr "हाथ"
 
@@ -757,12 +757,12 @@ msgid "Hide all"
 msgstr "सभी छुपाएँ"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:90
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:503
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:501
 msgid "Highlighter"
 msgstr "हाइलाइट"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:33
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:507
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:505
 msgid "Image"
 msgstr "चित्र"
 
@@ -807,7 +807,7 @@ msgstr "Latex डालें"
 msgid "Insert layer"
 msgstr "परत जोड़ें"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:478
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:476
 msgid "Insert page"
 msgstr "पृष्ठ जोड़ें"
 
@@ -857,7 +857,7 @@ msgstr "परतदार पूर्वावलोकन"
 msgid "Loading..."
 msgstr "लोड हो रहा है..."
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:447
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:445
 msgid "Manage Toolbars"
 msgstr "टूलबार प्रबंधित करें"
 
@@ -893,11 +893,11 @@ msgstr "नया"
 msgid "New Xournal"
 msgstr "न्यू ज़ौरनल"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:463
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:461
 msgid "Next"
 msgstr "अगला"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:471
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:469
 msgid "Next annotated page"
 msgstr "अगला टिप्पणी पृष्ठ"
 
@@ -1012,7 +1012,7 @@ msgstr ""
 msgid "Page type format is PageTypeFormat::Copy - converted to PageTypeFormat::Plain to avoid corrupted file"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:442
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:440
 msgid "Paired pages"
 msgstr ""
 
@@ -1034,7 +1034,7 @@ msgstr "कलम"
 msgid "Plain"
 msgstr "सादा"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:531
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:529
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:27
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:94
 msgid "Play Object"
@@ -1044,7 +1044,7 @@ msgstr ""
 msgid "Predefined"
 msgstr "पूर्व-निर्धारित"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:444
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:442
 msgid "Presentation mode"
 msgstr ""
 
@@ -1168,13 +1168,13 @@ msgstr ""
 msgid "Select Font"
 msgstr "फॉन्ट चुनें"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:512
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:510
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:19
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:22
 msgid "Select Linear PDF Text"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:528
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:526
 msgid "Select Multi-Layer Rect"
 msgstr ""
 
@@ -1183,13 +1183,13 @@ msgstr ""
 msgid "Select Multi-Layer Rectangle"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:527
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:525
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:82
 msgid "Select Multi-Layer Region"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:529
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:527
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:26
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:88
 msgid "Select Object"
@@ -1207,7 +1207,7 @@ msgstr ""
 msgid "Select PDF Text In Rectangle"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:514
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:512
 msgid "Select PDF Text in Rectangle"
 msgstr ""
 
@@ -1215,14 +1215,14 @@ msgstr ""
 msgid "Select Pdf Text"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:526
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:524
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:22
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:64
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:109
 msgid "Select Rectangle"
 msgstr "आयत चुनें"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:525
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:523
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:23
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:70
 msgid "Select Region"
@@ -1306,11 +1306,11 @@ msgstr "PNG निर्यात के लिए पृष्ठ चौड़�
 "                                 --i/--create-img=foo.png के बिना कोई प्रभाव नहीं\n"
 "                                 यदि --export-png-dpi या --export-png-width का उपयोग किया जाता है, तो ज्ञात है"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:433
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:531
 msgid "Setsquare"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:510
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:508
 msgid "Shape Recognizer"
 msgstr "आकार Recognizer"
 
@@ -1381,7 +1381,7 @@ msgid "System Default"
 msgstr "सिस्टम निर्धारित"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:91
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:505
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:503
 msgid "Text"
 msgstr "शब्द"
 
@@ -1483,7 +1483,7 @@ msgstr ""
 msgid "This image could not be loaded. Error message: {1}"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:445
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:443
 msgid "Toggle fullscreen"
 msgstr ""
 
@@ -1576,7 +1576,7 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:530
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:528
 msgid "Vertical Space"
 msgstr ""
 
@@ -1656,19 +1656,19 @@ msgstr "आपके वर्तमान दस्तावेज़ में
 msgid "Zoom Slider"
 msgstr "ज़ूम स्लाइडर"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:452
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:450
 msgid "Zoom fit to screen"
 msgstr "स्क्रीन पर ज़ूम करें"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:451
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:449
 msgid "Zoom in"
 msgstr "बड़ा करें"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:450
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:448
 msgid "Zoom out"
 msgstr "छोटा करें"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:453
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:451
 msgid "Zoom to 100%"
 msgstr "जूम 100%"
 
@@ -1696,12 +1696,12 @@ msgid "cursor"
 msgstr "कर्सर"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:302
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:497
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:495
 msgid "dash-/ dotted"
 msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:299
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:495
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:493
 msgid "dashed"
 msgstr ""
 
@@ -1718,7 +1718,7 @@ msgid "delete stroke"
 msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:305
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:498
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:496
 msgid "dotted"
 msgstr ""
 
@@ -1763,7 +1763,7 @@ msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:296
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:315
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:494
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:492
 msgid "standard"
 msgstr ""
 
