@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-25 09:05+0000\n"
-"PO-Revision-Date: 2023-02-25 09:07\n"
+"POT-Creation-Date: 2023-02-26 15:15+0000\n"
+"PO-Revision-Date: 2023-02-26 15:21\n"
 "Last-Translator: \n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
@@ -237,28 +237,28 @@ msgstr "Không thể nạp tệp LaTeX PDF: {1}"
 msgid "Could not load pagetemplates.ini file"
 msgstr "Không thể nạp tệp pagetemplates.ini"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:840
+#: ../src/core/control/xojfile/LoadHandler.cpp:845
 msgid "Could not open attachment: {1}. Error message: Could not read file"
 msgstr "Không thể mở tập tin được gắn: {1} Thông báo lỗi: không thể đọc được tập tin"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:850
+#: ../src/core/control/xojfile/LoadHandler.cpp:855
 msgid "Could not open attachment: {1}. Error message: Could not write file"
 msgstr "Không thể mở tập tin được gắn: {1} Thông báo lỗi: không thể ghi được tập tin"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:820
-#: ../src/core/control/xojfile/LoadHandler.cpp:1150
-#: ../src/core/control/xojfile/LoadHandler.cpp:1168
+#: ../src/core/control/xojfile/LoadHandler.cpp:825
+#: ../src/core/control/xojfile/LoadHandler.cpp:1155
+#: ../src/core/control/xojfile/LoadHandler.cpp:1173
 msgid "Could not open attachment: {1}. Error message: No valid file size provided"
 msgstr "Không thể mở tệp đính kèm: {1}. Thông báo lỗi: Không có kích thước tệp hợp lệ đã được cung cấp"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:811
-#: ../src/core/control/xojfile/LoadHandler.cpp:827
-#: ../src/core/control/xojfile/LoadHandler.cpp:1143
-#: ../src/core/control/xojfile/LoadHandler.cpp:1157
+#: ../src/core/control/xojfile/LoadHandler.cpp:816
+#: ../src/core/control/xojfile/LoadHandler.cpp:832
+#: ../src/core/control/xojfile/LoadHandler.cpp:1148
+#: ../src/core/control/xojfile/LoadHandler.cpp:1162
 msgid "Could not open attachment: {1}. Error message: {2}"
 msgstr "Không thể mở tệp đính kèm: {1} Thông báo lỗi: {2}"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:181
+#: ../src/core/control/xojfile/LoadHandler.cpp:186
 msgid "Could not open file: \"{1}\""
 msgstr "Không thể mở tệp: \"{1}\""
 
@@ -274,12 +274,12 @@ msgid "Could not parse general toolbar.ini file: {1}\n"
 msgstr "Không thể phân tích được tệp toolbar.ini chung: {1}\n"
 "Không Thanh công cụ nào sẽ được có sẵn"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:397
-#: ../src/core/control/xojfile/LoadHandler.cpp:420
+#: ../src/core/control/xojfile/LoadHandler.cpp:402
+#: ../src/core/control/xojfile/LoadHandler.cpp:425
 msgid "Could not read image: {1}. Error message: {2}"
 msgstr "Không thể đọc được hình ảnh: {1}. Thông báo lỗi: {2}"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:430
+#: ../src/core/control/xojfile/LoadHandler.cpp:435
 msgid "Could not read page number for cloned background image: {1}."
 msgstr "Không thể đọc được số trang cho bản sao hình nền: {1}."
 
@@ -404,11 +404,11 @@ msgstr "Không ghi đè lên tệp tin PDF nền! Việc này sẽ gây lỗi!"
 msgid "Document file was removed."
 msgstr "Tập tin tài liệu đã bị gỡ."
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:265
+#: ../src/core/control/xojfile/LoadHandler.cpp:270
 msgid "Document is corrupted (no pages found in file)"
 msgstr "Tài liệu đã bị sửa đổi lại (không tìm thấy trang nào trong tệp tin)"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:261
+#: ../src/core/control/xojfile/LoadHandler.cpp:266
 msgid "Document is not complete (maybe the end is cut off?)"
 msgstr "Tài liệu chưa hoàn chỉnh (có thể phần cuối bị cắt?)"
 
@@ -533,12 +533,12 @@ msgstr "Lỗi khi mở tập tin \"{1}\""
 msgid "Error opening file: \"{1}\""
 msgstr "Lỗi khi mở tập tin: \"{1}\""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:483
-#: ../src/core/control/xojfile/LoadHandler.cpp:503
+#: ../src/core/control/xojfile/LoadHandler.cpp:488
+#: ../src/core/control/xojfile/LoadHandler.cpp:508
 msgid "Error reading PDF: {1}"
 msgstr "Lỗi khi đọc PDF: {1}"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:558
+#: ../src/core/control/xojfile/LoadHandler.cpp:563
 msgid "Error reading width of a stroke: {1}"
 msgstr "Lỗi khi đọc chiều rộng của một nét: {1}"
 
@@ -645,7 +645,7 @@ msgstr "Không thể khởi chạy bề mặt PDF Cairo"
 msgid "Failed to load image, could not determine image size!"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:173
+#: ../src/core/control/xojfile/LoadHandler.cpp:178
 msgid "Failed to open content.xml in zip archive: \"{1}\""
 msgstr ""
 
@@ -1108,7 +1108,7 @@ msgstr "Đổi tên lớp"
 msgid "Replace"
 msgstr "Thay thế"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1187
+#: ../src/core/control/xojfile/LoadHandler.cpp:1192
 msgid "Requested temporary file was not found for attachment {1}"
 msgstr "Không tìm thấy tệp tạm thời đã yêu cầu để đính kèm {1}"
 
@@ -1444,19 +1444,19 @@ msgstr ""
 msgid "The file being loaded has a file format version newer than the one currently supported by this version of Xournal++, so it may not load properly. Open anyways?"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:134
+#: ../src/core/control/xojfile/LoadHandler.cpp:139
 msgid "The file is no valid .xopp file (Mimetype missing): \"{1}\""
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:142
+#: ../src/core/control/xojfile/LoadHandler.cpp:147
 msgid "The file is no valid .xopp file (Mimetype wrong): \"{1}\""
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:151
+#: ../src/core/control/xojfile/LoadHandler.cpp:156
 msgid "The file is no valid .xopp file (Version missing): \"{1}\""
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:164
+#: ../src/core/control/xojfile/LoadHandler.cpp:169
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr ""
 
@@ -1533,15 +1533,15 @@ msgstr "Hoàn tác"
 msgid "Undo: "
 msgstr "Hoàn tác: "
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:310
+#: ../src/core/control/xojfile/LoadHandler.cpp:315
 msgid "Unexpected root tag: {1}"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:331
+#: ../src/core/control/xojfile/LoadHandler.cpp:336
 msgid "Unexpected tag in document: \"{1}\""
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:534
+#: ../src/core/control/xojfile/LoadHandler.cpp:539
 msgid "Unknown background type: {1}"
 msgstr ""
 
@@ -1549,23 +1549,23 @@ msgstr ""
 msgid "Unknown color value \"{1}\""
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:490
+#: ../src/core/control/xojfile/LoadHandler.cpp:495
 msgid "Unknown domain type: {1}"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:250
+#: ../src/core/control/xojfile/LoadHandler.cpp:255
 msgid "Unknown parser error"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:438
+#: ../src/core/control/xojfile/LoadHandler.cpp:443
 msgid "Unknown pixmap::domain type: {1}"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:626
+#: ../src/core/control/xojfile/LoadHandler.cpp:631
 msgid "Unknown stroke cap type: \"{1}\", assuming round"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:644
+#: ../src/core/control/xojfile/LoadHandler.cpp:649
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr ""
 
@@ -1609,15 +1609,15 @@ msgstr ""
 msgid "Write text"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1037
+#: ../src/core/control/xojfile/LoadHandler.cpp:1042
 msgid "Wrong count of points ({1})"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1054
+#: ../src/core/control/xojfile/LoadHandler.cpp:1059
 msgid "Wrong number of pressure values, got {1}, expected {2}"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:247
+#: ../src/core/control/xojfile/LoadHandler.cpp:252
 msgid "XML Parser error: {1}"
 msgstr ""
 
@@ -1803,7 +1803,7 @@ msgstr ""
 msgid "whiteout"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1053
+#: ../src/core/control/xojfile/LoadHandler.cpp:1058
 msgid "xoj-File: {1}"
 msgstr ""
 
