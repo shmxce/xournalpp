@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-27 18:27+0000\n"
-"PO-Revision-Date: 2023-02-27 18:36\n"
+"POT-Creation-Date: 2023-02-28 04:57+0000\n"
+"PO-Revision-Date: 2023-02-28 05:06\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -40,7 +40,7 @@ msgctxt "Page {pagenumber} \"of {pagecount}\""
 msgid " of {1}"
 msgstr " из {1}"
 
-#: ../src/core/control/settings/Settings.cpp:146
+#: ../src/core/control/settings/Settings.cpp:141
 msgid "%F-Note-%H-%M"
 msgstr "%F-Заметка-%H-%M"
 
@@ -62,7 +62,7 @@ msgstr "<span foreground='red' size='x-large'>Отсутствует необх�
 "  Не в рабочей директории\n"
 "  Не в {2}"
 
-#: ../src/core/gui/PageView.cpp:1023
+#: ../src/core/gui/PageView.cpp:1043
 msgid "Add missing page"
 msgstr "Добавить пропущенную страницу"
 
@@ -869,7 +869,7 @@ msgstr "Слой {1}"
 msgid "Layerstack Preview"
 msgstr "Предпросмотр стопки слоёв"
 
-#: ../src/core/gui/PageView.cpp:958
+#: ../src/core/gui/PageView.cpp:978
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -990,7 +990,7 @@ msgid "PDF file successfully created"
 msgstr "PDF файл успешно создан"
 
 #: ../src/core/control/jobs/CustomExportJob.cpp:26
-#: ../src/core/control/jobs/PdfExportJob.cpp:19
+#: ../src/core/control/jobs/PdfExportJob.cpp:20
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:47
 msgid "PDF files"
 msgstr "PDF файлы"
@@ -1158,7 +1158,7 @@ msgstr "Сохранить как..."
 msgid "Save File"
 msgstr "Сохранить файл"
 
-#: ../src/core/control/jobs/CustomExportJob.cpp:127
+#: ../src/core/control/jobs/CustomExportJob.cpp:125
 #: ../src/core/control/jobs/SaveJob.cpp:127
 msgid "Save file error: {1}"
 msgstr "Ошибка сохранения файла: {1}"
@@ -1167,7 +1167,7 @@ msgstr "Ошибка сохранения файла: {1}"
 msgid "Scale"
 msgstr "Маштабирование"
 
-#: ../src/core/gui/PageView.cpp:1021
+#: ../src/core/gui/PageView.cpp:1041
 msgid "Scroll to page {1}"
 msgstr ""
 
