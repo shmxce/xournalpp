@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-27 18:27+0000\n"
-"PO-Revision-Date: 2023-02-27 18:37\n"
+"POT-Creation-Date: 2023-02-28 04:57+0000\n"
+"PO-Revision-Date: 2023-02-28 05:07\n"
 "Last-Translator: \n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
@@ -39,7 +39,7 @@ msgctxt "Page {pagenumber} \"of {pagecount}\""
 msgid " of {1}"
 msgstr " {1} का"
 
-#: ../src/core/control/settings/Settings.cpp:146
+#: ../src/core/control/settings/Settings.cpp:141
 msgid "%F-Note-%H-%M"
 msgstr "लेख"
 
@@ -61,7 +61,7 @@ msgstr "<span foreground='red' size='x-large'>ui  की एक महेत्�
 "वर्किंग पाठ मेइन नहीं \n"
 "{2} मैं नहीं"
 
-#: ../src/core/gui/PageView.cpp:1023
+#: ../src/core/gui/PageView.cpp:1043
 msgid "Add missing page"
 msgstr ""
 
@@ -851,7 +851,7 @@ msgstr "परत {1}"
 msgid "Layerstack Preview"
 msgstr "परतदार पूर्वावलोकन"
 
-#: ../src/core/gui/PageView.cpp:958
+#: ../src/core/gui/PageView.cpp:978
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -971,7 +971,7 @@ msgid "PDF file successfully created"
 msgstr ""
 
 #: ../src/core/control/jobs/CustomExportJob.cpp:26
-#: ../src/core/control/jobs/PdfExportJob.cpp:19
+#: ../src/core/control/jobs/PdfExportJob.cpp:20
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:47
 msgid "PDF files"
 msgstr ""
@@ -1139,7 +1139,7 @@ msgstr "के रूप में सहेजें..."
 msgid "Save File"
 msgstr "फ़ाइल सेव करें"
 
-#: ../src/core/control/jobs/CustomExportJob.cpp:127
+#: ../src/core/control/jobs/CustomExportJob.cpp:125
 #: ../src/core/control/jobs/SaveJob.cpp:127
 msgid "Save file error: {1}"
 msgstr "फ़ाइल त्रुटि सहेजें: {1}"
@@ -1148,7 +1148,7 @@ msgstr "फ़ाइल त्रुटि सहेजें: {1}"
 msgid "Scale"
 msgstr "पैमाना"
 
-#: ../src/core/gui/PageView.cpp:1021
+#: ../src/core/gui/PageView.cpp:1041
 msgid "Scroll to page {1}"
 msgstr ""
 
