@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-27 18:27+0000\n"
-"PO-Revision-Date: 2023-02-27 18:36\n"
+"POT-Creation-Date: 2023-02-28 04:57+0000\n"
+"PO-Revision-Date: 2023-02-28 05:06\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -40,7 +40,7 @@ msgctxt "Page {pagenumber} \"of {pagecount}\""
 msgid " of {1}"
 msgstr " di {1}"
 
-#: ../src/core/control/settings/Settings.cpp:146
+#: ../src/core/control/settings/Settings.cpp:141
 msgid "%F-Note-%H-%M"
 msgstr "%F-Nota-%H-%M"
 
@@ -62,7 +62,7 @@ msgstr "<span foreground='red' size='x-large'>Manca il file UI necessario:\n"
 "  Non nel percorso di lavoro attuale\n"
 "  Non in {2}"
 
-#: ../src/core/gui/PageView.cpp:1023
+#: ../src/core/gui/PageView.cpp:1043
 msgid "Add missing page"
 msgstr "Aggiungi pagina mancante"
 
@@ -869,7 +869,7 @@ msgstr "Livello {1}"
 msgid "Layerstack Preview"
 msgstr "Anteprima dei livelli"
 
-#: ../src/core/gui/PageView.cpp:958
+#: ../src/core/gui/PageView.cpp:978
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -991,7 +991,7 @@ msgid "PDF file successfully created"
 msgstr "PDF creato con successo"
 
 #: ../src/core/control/jobs/CustomExportJob.cpp:26
-#: ../src/core/control/jobs/PdfExportJob.cpp:19
+#: ../src/core/control/jobs/PdfExportJob.cpp:20
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:47
 msgid "PDF files"
 msgstr "Files PDF"
@@ -1159,7 +1159,7 @@ msgstr "Salva come..."
 msgid "Save File"
 msgstr "Salva File"
 
-#: ../src/core/control/jobs/CustomExportJob.cpp:127
+#: ../src/core/control/jobs/CustomExportJob.cpp:125
 #: ../src/core/control/jobs/SaveJob.cpp:127
 msgid "Save file error: {1}"
 msgstr "Errore salvataggio file: {1}"
@@ -1168,7 +1168,7 @@ msgstr "Errore salvataggio file: {1}"
 msgid "Scale"
 msgstr "Scala"
 
-#: ../src/core/gui/PageView.cpp:1021
+#: ../src/core/gui/PageView.cpp:1041
 msgid "Scroll to page {1}"
 msgstr "Scorri alla pagina {1}"
 
