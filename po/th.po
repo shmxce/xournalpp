@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-02-28 04:57+0000\n"
-"PO-Revision-Date: 2023-02-28 05:07\n"
+"POT-Creation-Date: 2023-03-01 07:48+0000\n"
+"PO-Revision-Date: 2023-03-01 07:52\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -40,6 +40,10 @@ msgstr " จาก {1}"
 
 #: ../src/core/control/settings/Settings.cpp:141
 msgid "%F-Note-%H-%M"
+msgstr ""
+
+#: ../src/core/control/settings/Settings.cpp:143
+msgid "%{name}_annotated"
 msgstr ""
 
 #: ../src/core/gui/dialog/SettingsDialog.cpp:166
