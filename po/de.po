@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-01 07:48+0000\n"
-"PO-Revision-Date: 2023-03-02 16:38\n"
+"PO-Revision-Date: 2023-03-02 17:42\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -46,7 +46,7 @@ msgstr "%F-Notiz-%H-%M"
 
 #: ../src/core/control/settings/Settings.cpp:143
 msgid "%{name}_annotated"
-msgstr ""
+msgstr "%{name}_kommentiert"
 
 #: ../src/core/gui/dialog/SettingsDialog.cpp:166
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
@@ -1200,18 +1200,18 @@ msgstr "Text aus Zeile in PDF auswählen"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:526
 msgid "Select Multi-Layer Rect"
-msgstr ""
+msgstr "Multi-Layer-Rechteck auswählen"
 
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:24
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:76
 msgid "Select Multi-Layer Rectangle"
-msgstr ""
+msgstr "Multi-Layer-Rechteck auswählen"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:525
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:82
 msgid "Select Multi-Layer Region"
-msgstr ""
+msgstr "Multi-Layer-Region auswählen"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:527
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:26
