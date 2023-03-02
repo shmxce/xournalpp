@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-01 07:48+0000\n"
-"PO-Revision-Date: 2023-03-01 07:51\n"
+"PO-Revision-Date: 2023-03-02 16:38\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1274,11 +1274,11 @@ msgstr "Farbe auswählen"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:97
 msgid "Select multi layer rect"
-msgstr ""
+msgstr "Multi-Layer-Rechteck auswählen"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:96
 msgid "Select multi layer region"
-msgstr ""
+msgstr "Multi-Layer-Region auswählen"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:95
 msgid "Select rectangle"
@@ -1448,7 +1448,7 @@ msgstr "Die angehängte Hintergrunddatei konnte nicht gefunden werden. Sie wurde
 
 #: ../src/core/control/XournalMain.cpp:244
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted."
-msgstr ""
+msgstr "Die Hintergrunddatei \"{1}\" konnte nicht gefunden werden. Sie wurde möglicherweise verschoben, umbenannt oder gelöscht."
 
 #: ../src/core/control/Control.cpp:2338
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
