@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-01 07:48+0000\n"
-"PO-Revision-Date: 2023-03-04 04:54\n"
+"POT-Creation-Date: 2023-03-04 22:36+0000\n"
+"PO-Revision-Date: 2023-03-04 23:32\n"
 "Last-Translator: \n"
 "Language-Team: Basque\n"
 "Language: eu_ES\n"
@@ -418,8 +418,8 @@ msgstr "Dokumentua hondatuta dago (fitxategian ez da orririk aurkitu)"
 msgid "Document is not complete (maybe the end is cut off?)"
 msgstr "Dokumentua ez dago osatuta (akaso bukaera ebakita dago?)"
 
-#: ../src/core/model/Document.cpp:298 ../src/core/model/Document.cpp:307
-#: ../src/core/model/Document.cpp:310
+#: ../src/core/model/Document.cpp:303 ../src/core/model/Document.cpp:312
+#: ../src/core/model/Document.cpp:315
 msgid "Document not loaded! ({1}), {2}"
 msgstr "Dokumentua ez da kargatu! ({1}), {2}"
 
