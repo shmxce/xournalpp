@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-01 07:48+0000\n"
-"PO-Revision-Date: 2023-03-01 07:52\n"
+"POT-Creation-Date: 2023-03-04 22:36+0000\n"
+"PO-Revision-Date: 2023-03-04 23:32\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -414,8 +414,8 @@ msgstr "O documentos está corrupto (non se atoparon páxinas no ficheiro)"
 msgid "Document is not complete (maybe the end is cut off?)"
 msgstr "O documento non está completo (pode ser que o final estea cortado?)"
 
-#: ../src/core/model/Document.cpp:298 ../src/core/model/Document.cpp:307
-#: ../src/core/model/Document.cpp:310
+#: ../src/core/model/Document.cpp:303 ../src/core/model/Document.cpp:312
+#: ../src/core/model/Document.cpp:315
 msgid "Document not loaded! ({1}), {2}"
 msgstr "Non se cargou o documento! ({1}), {2}"
 
