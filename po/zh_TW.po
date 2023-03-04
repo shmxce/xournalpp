@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-01 07:48+0000\n"
-"PO-Revision-Date: 2023-03-01 07:52\n"
+"POT-Creation-Date: 2023-03-04 22:36+0000\n"
+"PO-Revision-Date: 2023-03-04 23:32\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -415,8 +415,8 @@ msgstr "檔案損毀 (檔案中找不到頁面)"
 msgid "Document is not complete (maybe the end is cut off?)"
 msgstr "文檔檔案不完整"
 
-#: ../src/core/model/Document.cpp:298 ../src/core/model/Document.cpp:307
-#: ../src/core/model/Document.cpp:310
+#: ../src/core/model/Document.cpp:303 ../src/core/model/Document.cpp:312
+#: ../src/core/model/Document.cpp:315
 msgid "Document not loaded! ({1}), {2}"
 msgstr "文檔未加載！({1}), {2}"
 
