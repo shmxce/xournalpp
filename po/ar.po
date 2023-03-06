@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-05 15:32+0000\n"
-"PO-Revision-Date: 2023-03-05 15:35\n"
+"PO-Revision-Date: 2023-03-06 21:19\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -2201,7 +2201,7 @@ msgstr "يجب استيفاء الشروط الثلاثة لتجاهل الرس�
 #: ../ui/settings.glade:1998
 msgctxt "eraser is always visible"
 msgid "Always"
-msgstr ""
+msgstr "دائماً"
 
 #: ../ui/latexSettings.glade:45
 msgid "Always check LaTeX dependencies before running"
@@ -2946,7 +2946,7 @@ msgstr "الصفحة المعلّق عليها ال_تالية"
 #: ../ui/settings.glade:1997
 msgctxt "eraser is never visible"
 msgid "Never"
-msgstr ""
+msgstr "أبداً"
 
 #: ../ui/main.glade:1222
 msgid "New Page _After"
