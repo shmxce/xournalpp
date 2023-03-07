@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-05 15:32+0000\n"
-"PO-Revision-Date: 2023-03-07 17:05\n"
+"PO-Revision-Date: 2023-03-07 18:21\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -3328,7 +3328,7 @@ msgstr "Pulsanti della penna"
 
 #: ../ui/settings.glade:1981
 msgid "Stylus-based eraser is visible"
-msgstr ""
+msgstr "La gomma della penna è visibile"
 
 #: ../ui/settings.glade:5172
 msgid "Successive (ms)"
@@ -3485,12 +3485,12 @@ msgstr "Quando si disegna con il tocco, i gesti a due dita destinati a muovere l
 #: ../ui/settings.glade:1999
 msgctxt "eraser is only visible when floating"
 msgid "When floating"
-msgstr ""
+msgstr "Quando è vicina"
 
 #: ../ui/settings.glade:2000
 msgctxt "eraser is only visible when touching the screen"
 msgid "When touching"
-msgstr ""
+msgstr "Quando tocca"
 
 #: ../ui/settings.glade:5312
 msgid "When zoomed in on a high-resolution PDF, each re-render can take a long time. Setting this to a large value causes these re-renders to happen less often.\n\n"
