@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-05 15:32+0000\n"
-"PO-Revision-Date: 2023-03-07 15:58\n"
+"PO-Revision-Date: 2023-03-07 17:05\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -2593,7 +2593,7 @@ msgstr "Tip de gumă - nu schimba"
 
 #: ../ui/settings.glade:2024
 msgid "Eraser visibility"
-msgstr ""
+msgstr "Vizibilitatea gumei de șters"
 
 #: ../ui/exportSettings.glade:56
 msgid "Export"
@@ -2945,7 +2945,7 @@ msgstr "Pagina următoar_e cu însemnări"
 #: ../ui/settings.glade:1997
 msgctxt "eraser is never visible"
 msgid "Never"
-msgstr ""
+msgstr "Niciodată"
 
 #: ../ui/main.glade:1222
 msgid "New Page _After"
@@ -3324,7 +3324,7 @@ msgstr "Butoanele creionului electronic"
 
 #: ../ui/settings.glade:1981
 msgid "Stylus-based eraser is visible"
-msgstr ""
+msgstr "Guma creionului este vizibilă"
 
 #: ../ui/settings.glade:5172
 msgid "Successive (ms)"
@@ -3481,12 +3481,12 @@ msgstr "Când desenezi cu ajutorul atingerii, gesturile cu două degete menite s
 #: ../ui/settings.glade:1999
 msgctxt "eraser is only visible when floating"
 msgid "When floating"
-msgstr ""
+msgstr "La apropiere"
 
 #: ../ui/settings.glade:2000
 msgctxt "eraser is only visible when touching the screen"
 msgid "When touching"
-msgstr ""
+msgstr "La atingere"
 
 #: ../ui/settings.glade:5312
 msgid "When zoomed in on a high-resolution PDF, each re-render can take a long time. Setting this to a large value causes these re-renders to happen less often.\n\n"
