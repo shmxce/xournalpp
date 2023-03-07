@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-05 15:32+0000\n"
-"PO-Revision-Date: 2023-03-05 15:35\n"
+"PO-Revision-Date: 2023-03-07 15:58\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -2200,7 +2200,7 @@ msgstr "Toate cele trei condiții trebuie îndeplinite înainte ca linia să fie
 #: ../ui/settings.glade:1998
 msgctxt "eraser is always visible"
 msgid "Always"
-msgstr ""
+msgstr "Mereu"
 
 #: ../ui/latexSettings.glade:45
 msgid "Always check LaTeX dependencies before running"
