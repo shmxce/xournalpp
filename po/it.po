@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-05 15:32+0000\n"
-"PO-Revision-Date: 2023-03-05 15:36\n"
+"PO-Revision-Date: 2023-03-07 17:05\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -2204,7 +2204,7 @@ msgstr "Tutte e tre le condizioni devono essere soddisfatte prima che il tratto 
 #: ../ui/settings.glade:1998
 msgctxt "eraser is always visible"
 msgid "Always"
-msgstr ""
+msgstr "Sempre"
 
 #: ../ui/latexSettings.glade:45
 msgid "Always check LaTeX dependencies before running"
@@ -2597,7 +2597,7 @@ msgstr "Tipo di Gomma - non cambiare"
 
 #: ../ui/settings.glade:2024
 msgid "Eraser visibility"
-msgstr ""
+msgstr "Visibilità della gomma"
 
 #: ../ui/exportSettings.glade:56
 msgid "Export"
@@ -2949,7 +2949,7 @@ msgstr "P_rossima pagina annotata"
 #: ../ui/settings.glade:1997
 msgctxt "eraser is never visible"
 msgid "Never"
-msgstr ""
+msgstr "Mai"
 
 #: ../ui/main.glade:1222
 msgid "New Page _After"
