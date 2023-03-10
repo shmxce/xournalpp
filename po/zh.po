@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-05 15:32+0000\n"
-"PO-Revision-Date: 2023-03-05 15:35\n"
+"POT-Creation-Date: 2023-03-10 05:50+0000\n"
+"PO-Revision-Date: 2023-03-10 05:54\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -552,7 +552,7 @@ msgstr "读入笔划粗细出错：{1}"
 msgid "Error save image #1"
 msgstr "保存图像 #1 时出错"
 
-#: ../src/core/control/jobs/ImageExport.cpp:195
+#: ../src/core/control/jobs/ImageExport.cpp:197
 msgid "Error save image #2"
 msgstr "保存图像 #2 时出错"
 
