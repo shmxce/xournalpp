@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-05 15:32+0000\n"
-"PO-Revision-Date: 2023-03-05 15:36\n"
+"POT-Creation-Date: 2023-03-10 05:50+0000\n"
+"PO-Revision-Date: 2023-03-10 05:55\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -552,7 +552,7 @@ msgstr "Erro ao ler a largura de um traço: {1}"
 msgid "Error save image #1"
 msgstr "Erro ao salvar a imagem #1"
 
-#: ../src/core/control/jobs/ImageExport.cpp:195
+#: ../src/core/control/jobs/ImageExport.cpp:197
 msgid "Error save image #2"
 msgstr "Erro ao salvar a imagem #2"
 
