@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-05 15:32+0000\n"
-"PO-Revision-Date: 2023-03-05 15:36\n"
+"POT-Creation-Date: 2023-03-10 05:50+0000\n"
+"PO-Revision-Date: 2023-03-10 05:55\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -551,7 +551,7 @@ msgstr "Kesalahan saat membaca lebar goresan: {1}"
 msgid "Error save image #1"
 msgstr "Kesalahan saat menyimpan gambar #1"
 
-#: ../src/core/control/jobs/ImageExport.cpp:195
+#: ../src/core/control/jobs/ImageExport.cpp:197
 msgid "Error save image #2"
 msgstr "Kesalahan saat menyimpan gambar #2"
 
