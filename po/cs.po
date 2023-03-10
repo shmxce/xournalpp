@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-05 15:32+0000\n"
-"PO-Revision-Date: 2023-03-05 15:36\n"
+"POT-Creation-Date: 2023-03-10 05:50+0000\n"
+"PO-Revision-Date: 2023-03-10 05:54\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -551,7 +551,7 @@ msgstr "Chyba čtení šířky čáry: {1}"
 msgid "Error save image #1"
 msgstr "Chyba při ukládání obrázku #1"
 
-#: ../src/core/control/jobs/ImageExport.cpp:195
+#: ../src/core/control/jobs/ImageExport.cpp:197
 msgid "Error save image #2"
 msgstr "Chyba při ukládání obrázku #2"
 
