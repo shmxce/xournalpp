@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-05 15:32+0000\n"
-"PO-Revision-Date: 2023-03-05 15:35\n"
+"POT-Creation-Date: 2023-03-10 05:50+0000\n"
+"PO-Revision-Date: 2023-03-10 05:54\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -552,7 +552,7 @@ msgstr "Ошибка чтения ширины черты: {1}"
 msgid "Error save image #1"
 msgstr "Ошибка сохранения изображения #1"
 
-#: ../src/core/control/jobs/ImageExport.cpp:195
+#: ../src/core/control/jobs/ImageExport.cpp:197
 msgid "Error save image #2"
 msgstr "Ошибка сохранения изображения #2"
 
