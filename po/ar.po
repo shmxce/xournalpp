@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-10 05:50+0000\n"
-"PO-Revision-Date: 2023-03-11 21:15\n"
+"PO-Revision-Date: 2023-03-11 22:29\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -1448,7 +1448,7 @@ msgstr "تعذر العثور على ملف الخلفية المرفق. ربم�
 
 #: ../src/core/control/XournalMain.cpp:244
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted."
-msgstr ""
+msgstr "تعذر العثور على ملف الخلفية \"{1}\". ربما تم نقله أو إعادة تسميته أو حذفه."
 
 #: ../src/core/control/Control.cpp:2338
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
@@ -2594,7 +2594,7 @@ msgstr "نوع الممحاة - لا تغيير"
 
 #: ../ui/settings.glade:2024
 msgid "Eraser visibility"
-msgstr ""
+msgstr "وضوح الممحاة"
 
 #: ../ui/exportSettings.glade:56
 msgid "Export"
