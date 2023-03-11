@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-10 05:50+0000\n"
-"PO-Revision-Date: 2023-03-10 05:55\n"
+"PO-Revision-Date: 2023-03-11 16:27\n"
 "Last-Translator: \n"
 "Language-Team: Basque\n"
 "Language: eu_ES\n"
@@ -2199,7 +2199,7 @@ msgstr "Hiru baldintzak bete behar dira trazua ahazteko.\n"
 #: ../ui/settings.glade:1998
 msgctxt "eraser is always visible"
 msgid "Always"
-msgstr ""
+msgstr "Beti"
 
 #: ../ui/latexSettings.glade:45
 msgid "Always check LaTeX dependencies before running"
@@ -2592,7 +2592,7 @@ msgstr "Borragoma mota - ez aldatu"
 
 #: ../ui/settings.glade:2024
 msgid "Eraser visibility"
-msgstr ""
+msgstr "Borragomaren ikusgarritasuna"
 
 #: ../ui/exportSettings.glade:56
 msgid "Export"
@@ -2944,7 +2944,7 @@ msgstr "Hurrengo ohar-orria"
 #: ../ui/settings.glade:1997
 msgctxt "eraser is never visible"
 msgid "Never"
-msgstr ""
+msgstr "Inoiz ez"
 
 #: ../ui/main.glade:1222
 msgid "New Page _After"
@@ -3323,7 +3323,7 @@ msgstr "Stylus-aren botoiak"
 
 #: ../ui/settings.glade:1981
 msgid "Stylus-based eraser is visible"
-msgstr ""
+msgstr "Boligrafoaren borragoma ikusgai dago"
 
 #: ../ui/settings.glade:5172
 msgid "Successive (ms)"
@@ -3480,12 +3480,12 @@ msgstr "Ukituarekin marraztean, korritze panoramikoa egiteko bi hatzetako keinue
 #: ../ui/settings.glade:1999
 msgctxt "eraser is only visible when floating"
 msgid "When floating"
-msgstr ""
+msgstr "Flotatzean"
 
 #: ../ui/settings.glade:2000
 msgctxt "eraser is only visible when touching the screen"
 msgid "When touching"
-msgstr ""
+msgstr "Ukitzean"
 
 #: ../ui/settings.glade:5312
 msgid "When zoomed in on a high-resolution PDF, each re-render can take a long time. Setting this to a large value causes these re-renders to happen less often.\n\n"
