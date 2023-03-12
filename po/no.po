@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-10 05:50+0000\n"
-"PO-Revision-Date: 2023-03-10 05:55\n"
+"POT-Creation-Date: 2023-03-12 06:25+0000\n"
+"PO-Revision-Date: 2023-03-12 06:26\n"
 "Last-Translator: \n"
 "Language-Team: Norwegian\n"
 "Language: no_NO\n"
@@ -1278,7 +1278,7 @@ msgstr "Send bakover"
 msgid "Send to back"
 msgstr "Send bakerst"
 
-#: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:72
+#: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:57
 msgid "Separator"
 msgstr "Skillelinje"
 
@@ -1327,6 +1327,10 @@ msgstr ""
 #: ../src/core/control/XournalMain.cpp:513
 msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
+msgstr ""
+
+#: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:58
+msgid "Spacer"
 msgstr ""
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:23
@@ -1980,7 +1984,7 @@ msgid "<b>Pagesize</b>"
 msgstr ""
 
 #: ../ui/toolbarCustomizeDialog.glade:196
-msgid "<b>Separator</b>"
+msgid "<b>Separators</b>"
 msgstr ""
 
 #: ../ui/settings.glade:783
