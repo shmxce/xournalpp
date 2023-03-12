@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-10 05:50+0000\n"
-"PO-Revision-Date: 2023-03-10 05:55\n"
+"POT-Creation-Date: 2023-03-12 06:25+0000\n"
+"PO-Revision-Date: 2023-03-12 06:26\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -1302,7 +1302,7 @@ msgstr "Enviar para trás"
 msgid "Send to back"
 msgstr "Enviar para o fundo"
 
-#: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:72
+#: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:57
 msgid "Separator"
 msgstr "Separador"
 
@@ -1359,6 +1359,10 @@ msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
 msgstr "Desculpa, o Xournal++ não consegue abrir arquivos remotos por enquanto.\n"
 "Copie o arquivo para um diretório local."
+
+#: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:58
+msgid "Spacer"
+msgstr ""
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:23
 msgid "Staves"
@@ -2040,8 +2044,8 @@ msgid "<b>Pagesize</b>"
 msgstr "<b>Tamanho da página</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:196
-msgid "<b>Separator</b>"
-msgstr "<b>Separador</b>"
+msgid "<b>Separators</b>"
+msgstr ""
 
 #: ../ui/settings.glade:783
 msgid "<i>Assign device classes to each input device of your system. Only change these values if your devices are not correctly matched. (e.g. your pen shows up as touchscreen)</i>"
