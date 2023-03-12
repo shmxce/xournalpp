@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-10 05:50+0000\n"
-"PO-Revision-Date: 2023-03-10 05:54\n"
+"POT-Creation-Date: 2023-03-12 06:25+0000\n"
+"PO-Revision-Date: 2023-03-12 06:26\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1304,7 +1304,7 @@ msgstr "下移一层"
 msgid "Send to back"
 msgstr "置于底层"
 
-#: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:72
+#: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:57
 msgid "Separator"
 msgstr "分割线"
 
@@ -1361,6 +1361,10 @@ msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
 msgstr "对不起，Xournal++ 目前无法打开远程目录里的文件。\n"
 "您必须复制文件至本地目录。"
+
+#: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:58
+msgid "Spacer"
+msgstr ""
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:23
 msgid "Staves"
@@ -2043,8 +2047,8 @@ msgid "<b>Pagesize</b>"
 msgstr "<b>页面尺寸</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:196
-msgid "<b>Separator</b>"
-msgstr "<b>分割线</b>"
+msgid "<b>Separators</b>"
+msgstr ""
 
 #: ../ui/settings.glade:783
 msgid "<i>Assign device classes to each input device of your system. Only change these values if your devices are not correctly matched. (e.g. your pen shows up as touchscreen)</i>"
