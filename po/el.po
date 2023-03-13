@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-12 06:25+0000\n"
-"PO-Revision-Date: 2023-03-12 06:26\n"
+"POT-Creation-Date: 2023-03-13 05:52+0000\n"
+"PO-Revision-Date: 2023-03-13 05:55\n"
 "Last-Translator: \n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -932,7 +932,7 @@ msgid "Normal drawing"
 msgstr "Κανονικός σχεδιασμός"
 
 #: ../src/core/gui/toolbarMenubar/model/ColorPalette.cpp:184
-#: ../src/core/plugin/Plugin.cpp:238 ../src/core/plugin/Plugin.cpp:261
+#: ../src/core/plugin/Plugin.cpp:240 ../src/core/plugin/Plugin.cpp:263
 msgid "OK"
 msgstr "ΟΚ"
 
