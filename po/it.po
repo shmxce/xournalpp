@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-13 17:05+0000\n"
-"PO-Revision-Date: 2023-03-13 17:09\n"
+"PO-Revision-Date: 2023-03-13 19:48\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -1165,7 +1165,7 @@ msgstr "Salva File"
 
 #: ../src/core/control/jobs/SaveJob.cpp:117
 msgid "Save file error, can't backup: {1}"
-msgstr ""
+msgstr "Errore di salvataggio del file, impossibile eseguire il backup: {1}"
 
 #: ../src/core/control/jobs/CustomExportJob.cpp:125
 #: ../src/core/control/jobs/SaveJob.cpp:131
@@ -1368,7 +1368,7 @@ msgstr "Ci dispiace, Xournal++ non può aprire files in remoto al momento.\n"
 
 #: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:58
 msgid "Spacer"
-msgstr ""
+msgstr "Spaziatore"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:23
 msgid "Staves"
@@ -2052,7 +2052,7 @@ msgstr "<b>Dimensione Pagina</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:196
 msgid "<b>Separators</b>"
-msgstr ""
+msgstr "<b>Separatori</b>"
 
 #: ../ui/settings.glade:783
 msgid "<i>Assign device classes to each input device of your system. Only change these values if your devices are not correctly matched. (e.g. your pen shows up as touchscreen)</i>"
