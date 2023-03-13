@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-13 06:22+0000\n"
-"PO-Revision-Date: 2023-03-13 07:13\n"
+"POT-Creation-Date: 2023-03-13 17:05+0000\n"
+"PO-Revision-Date: 2023-03-13 17:09\n"
 "Last-Translator: \n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
@@ -1144,8 +1144,12 @@ msgstr "שמירה בשם..."
 msgid "Save File"
 msgstr "שמור קובץ"
 
+#: ../src/core/control/jobs/SaveJob.cpp:117
+msgid "Save file error, can't backup: {1}"
+msgstr ""
+
 #: ../src/core/control/jobs/CustomExportJob.cpp:125
-#: ../src/core/control/jobs/SaveJob.cpp:127
+#: ../src/core/control/jobs/SaveJob.cpp:131
 msgid "Save file error: {1}"
 msgstr "שגיאה בשמירת קובץ: {1}"
 
