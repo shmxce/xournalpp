@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-13 17:05+0000\n"
-"PO-Revision-Date: 2023-03-13 17:08\n"
+"PO-Revision-Date: 2023-03-16 01:44\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -2952,7 +2952,7 @@ msgstr "下一个标注页(_e)"
 #: ../ui/settings.glade:1997
 msgctxt "eraser is never visible"
 msgid "Never"
-msgstr ""
+msgstr "从不"
 
 #: ../ui/main.glade:1222
 msgid "New Page _After"
