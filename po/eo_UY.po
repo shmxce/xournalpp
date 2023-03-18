@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-13 17:05+0000\n"
-"PO-Revision-Date: 2023-03-13 17:09\n"
+"POT-Creation-Date: 2023-03-18 12:42+0000\n"
+"PO-Revision-Date: 2023-03-18 12:45\n"
 "Last-Translator: \n"
 "Language-Team: Esperanto\n"
 "Language: eo_UY\n"
@@ -66,7 +66,7 @@ msgstr "<span foreground='red' size='x-large'>Mankas la necesa fasada dosiero:\n
 "  Ne en «PATH»\n"
 "  Ne en {2}"
 
-#: ../src/core/gui/PageView.cpp:1043
+#: ../src/core/gui/PageView.cpp:1025
 msgid "Add missing page"
 msgstr ""
 
@@ -872,7 +872,7 @@ msgstr "Tavolo {1}"
 msgid "Layerstack Preview"
 msgstr "Antaŭrigardo de tavolaro"
 
-#: ../src/core/gui/PageView.cpp:978
+#: ../src/core/gui/PageView.cpp:960
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -985,7 +985,7 @@ msgstr "Elporto kiel PDF"
 msgid "PDF Page {1}"
 msgstr "PDF-paĝo {1}"
 
-#: ../src/core/control/PdfCache.cpp:154
+#: ../src/core/control/PdfCache.cpp:125
 msgid "PDF background missing"
 msgstr "PDF-fono mankas"
 
@@ -1088,11 +1088,11 @@ msgid "Recorder could not be started."
 msgstr "Malsukcesis ekfunkciigi la registrilon."
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:424
-#: ../src/core/undo/UndoRedoHandler.cpp:220
+#: ../src/core/undo/UndoRedoHandler.cpp:205
 msgid "Redo"
 msgstr "Refari"
 
-#: ../src/core/undo/UndoRedoHandler.cpp:215
+#: ../src/core/undo/UndoRedoHandler.cpp:200
 msgid "Redo: "
 msgstr "Refari: "
 
@@ -1175,7 +1175,7 @@ msgstr "Eraro konservante dosieron: {1}"
 msgid "Scale"
 msgstr "Skalo"
 
-#: ../src/core/gui/PageView.cpp:1041
+#: ../src/core/gui/PageView.cpp:1023
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1421,10 +1421,6 @@ msgstr "Teksto"
 msgid "Text %zu times found on this page"
 msgstr ""
 
-#: ../src/core/undo/TextUndoAction.cpp:35
-msgid "Text changes"
-msgstr "Tekstaj ŝanĝoj"
-
 #: ../src/core/gui/SearchBar.cpp:73
 msgid "Text found on this page"
 msgstr "Teksto trovita sur ĉi tiu paĝo"
@@ -1542,7 +1538,7 @@ msgstr "Provante krize konservi la aktualan malfermitan dokumenton…"
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr "Ne eblas malfermi la ĉiean ŝablonan dosieron ĉe {1}. Ĉu ĝi ekzistas?"
 
-#: ../src/core/gui/PageView.cpp:490
+#: ../src/core/gui/PageView.cpp:473
 msgid "Unable to play audio recording {1}"
 msgstr "Ne eblas ludi sonregistraĵon {1}"
 
@@ -1551,11 +1547,11 @@ msgid "Unable to retrieve pdf page."
 msgstr "Ne eblas akiri PDF-paĝon."
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:423
-#: ../src/core/undo/UndoRedoHandler.cpp:208
+#: ../src/core/undo/UndoRedoHandler.cpp:193
 msgid "Undo"
 msgstr "Malfari"
 
-#: ../src/core/undo/UndoRedoHandler.cpp:203
+#: ../src/core/undo/UndoRedoHandler.cpp:188
 msgid "Undo: "
 msgstr "Malfari: "
 
