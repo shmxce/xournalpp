@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-13 17:05+0000\n"
-"PO-Revision-Date: 2023-03-13 17:09\n"
+"POT-Creation-Date: 2023-03-18 12:42+0000\n"
+"PO-Revision-Date: 2023-03-18 12:44\n"
 "Last-Translator: \n"
 "Language-Team: Finnish\n"
 "Language: fi_FI\n"
@@ -60,7 +60,7 @@ msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
 "  Not in {2}"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:1043
+#: ../src/core/gui/PageView.cpp:1025
 msgid "Add missing page"
 msgstr ""
 
@@ -844,7 +844,7 @@ msgstr "Taso {1}"
 msgid "Layerstack Preview"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:978
+#: ../src/core/gui/PageView.cpp:960
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -955,7 +955,7 @@ msgstr ""
 msgid "PDF Page {1}"
 msgstr "PDF-sivu {1}"
 
-#: ../src/core/control/PdfCache.cpp:154
+#: ../src/core/control/PdfCache.cpp:125
 msgid "PDF background missing"
 msgstr ""
 
@@ -1058,11 +1058,11 @@ msgid "Recorder could not be started."
 msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:424
-#: ../src/core/undo/UndoRedoHandler.cpp:220
+#: ../src/core/undo/UndoRedoHandler.cpp:205
 msgid "Redo"
 msgstr "Tee uudelleen"
 
-#: ../src/core/undo/UndoRedoHandler.cpp:215
+#: ../src/core/undo/UndoRedoHandler.cpp:200
 msgid "Redo: "
 msgstr "Tee uudelleen: "
 
@@ -1145,7 +1145,7 @@ msgstr "Virhe tallennettaessa tiedostoa: {1}"
 msgid "Scale"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:1041
+#: ../src/core/gui/PageView.cpp:1023
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1384,10 +1384,6 @@ msgstr "Teksti"
 msgid "Text %zu times found on this page"
 msgstr ""
 
-#: ../src/core/undo/TextUndoAction.cpp:35
-msgid "Text changes"
-msgstr ""
-
 #: ../src/core/gui/SearchBar.cpp:73
 msgid "Text found on this page"
 msgstr ""
@@ -1505,7 +1501,7 @@ msgstr ""
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:490
+#: ../src/core/gui/PageView.cpp:473
 msgid "Unable to play audio recording {1}"
 msgstr ""
 
@@ -1514,11 +1510,11 @@ msgid "Unable to retrieve pdf page."
 msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:423
-#: ../src/core/undo/UndoRedoHandler.cpp:208
+#: ../src/core/undo/UndoRedoHandler.cpp:193
 msgid "Undo"
 msgstr "Kumoa"
 
-#: ../src/core/undo/UndoRedoHandler.cpp:203
+#: ../src/core/undo/UndoRedoHandler.cpp:188
 msgid "Undo: "
 msgstr "Kumoa: "
 
