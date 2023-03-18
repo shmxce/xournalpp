@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-13 17:05+0000\n"
-"PO-Revision-Date: 2023-03-13 17:09\n"
+"POT-Creation-Date: 2023-03-18 12:42+0000\n"
+"PO-Revision-Date: 2023-03-18 12:44\n"
 "Last-Translator: \n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
@@ -66,7 +66,7 @@ msgstr "<span foreground='red' size='x-large'> </span>קובץ ה-UI הבא לא
 "בנתיב העבודה. \n"
 "לא ב{2}"
 
-#: ../src/core/gui/PageView.cpp:1043
+#: ../src/core/gui/PageView.cpp:1025
 msgid "Add missing page"
 msgstr "הוספת עמוד חסר"
 
@@ -856,7 +856,7 @@ msgstr "שכבה {1}"
 msgid "Layerstack Preview"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:978
+#: ../src/core/gui/PageView.cpp:960
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -967,7 +967,7 @@ msgstr "ייצוא PDF"
 msgid "PDF Page {1}"
 msgstr "דף PDF {1}"
 
-#: ../src/core/control/PdfCache.cpp:154
+#: ../src/core/control/PdfCache.cpp:125
 msgid "PDF background missing"
 msgstr "רקע PDF לא נמצא"
 
@@ -1070,11 +1070,11 @@ msgid "Recorder could not be started."
 msgstr "לא ניתן להתחיל הקלטה."
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:424
-#: ../src/core/undo/UndoRedoHandler.cpp:220
+#: ../src/core/undo/UndoRedoHandler.cpp:205
 msgid "Redo"
 msgstr "בצע מחדש"
 
-#: ../src/core/undo/UndoRedoHandler.cpp:215
+#: ../src/core/undo/UndoRedoHandler.cpp:200
 msgid "Redo: "
 msgstr "בצע מחדש: "
 
@@ -1157,7 +1157,7 @@ msgstr "שגיאה בשמירת קובץ: {1}"
 msgid "Scale"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:1041
+#: ../src/core/gui/PageView.cpp:1023
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1396,10 +1396,6 @@ msgstr "טקסט"
 msgid "Text %zu times found on this page"
 msgstr ""
 
-#: ../src/core/undo/TextUndoAction.cpp:35
-msgid "Text changes"
-msgstr "שינויים בטקסט"
-
 #: ../src/core/gui/SearchBar.cpp:73
 msgid "Text found on this page"
 msgstr "טקסט שנמצא בדף זה"
@@ -1517,7 +1513,7 @@ msgstr "מנסה לשמור בחירום את המסמך הפתוח הנוכחי
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:490
+#: ../src/core/gui/PageView.cpp:473
 msgid "Unable to play audio recording {1}"
 msgstr "לא ניתן לנגן את הקלטת השמע {1}"
 
@@ -1526,11 +1522,11 @@ msgid "Unable to retrieve pdf page."
 msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:423
-#: ../src/core/undo/UndoRedoHandler.cpp:208
+#: ../src/core/undo/UndoRedoHandler.cpp:193
 msgid "Undo"
 msgstr "בטל"
 
-#: ../src/core/undo/UndoRedoHandler.cpp:203
+#: ../src/core/undo/UndoRedoHandler.cpp:188
 msgid "Undo: "
 msgstr "בטל: "
 
