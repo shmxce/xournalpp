@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-13 17:05+0000\n"
-"PO-Revision-Date: 2023-03-13 17:08\n"
+"POT-Creation-Date: 2023-03-18 12:42+0000\n"
+"PO-Revision-Date: 2023-03-18 12:44\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -66,7 +66,7 @@ msgstr "<span foreground='red' size='x-large'>لم يتم العثور على م
 "  ليس في مسار العمل\n"
 "  ليس في {2}"
 
-#: ../src/core/gui/PageView.cpp:1043
+#: ../src/core/gui/PageView.cpp:1025
 msgid "Add missing page"
 msgstr "ضافة الصفحة المفقودة"
 
@@ -873,7 +873,7 @@ msgstr "الطبقة {1}"
 msgid "Layerstack Preview"
 msgstr "معاينة كومة الطبقات"
 
-#: ../src/core/gui/PageView.cpp:978
+#: ../src/core/gui/PageView.cpp:960
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -986,7 +986,7 @@ msgstr "تصدير PDF"
 msgid "PDF Page {1}"
 msgstr "صفحة PDF رقم {1}"
 
-#: ../src/core/control/PdfCache.cpp:154
+#: ../src/core/control/PdfCache.cpp:125
 msgid "PDF background missing"
 msgstr "خلفية PDF مفقودة"
 
@@ -1089,11 +1089,11 @@ msgid "Recorder could not be started."
 msgstr "تعذر بدء التسجيل."
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:424
-#: ../src/core/undo/UndoRedoHandler.cpp:220
+#: ../src/core/undo/UndoRedoHandler.cpp:205
 msgid "Redo"
 msgstr "إعادة"
 
-#: ../src/core/undo/UndoRedoHandler.cpp:215
+#: ../src/core/undo/UndoRedoHandler.cpp:200
 msgid "Redo: "
 msgstr "إعادة: "
 
@@ -1176,7 +1176,7 @@ msgstr "خطأ في حفظ الملف: {1}"
 msgid "Scale"
 msgstr "تحجيم"
 
-#: ../src/core/gui/PageView.cpp:1041
+#: ../src/core/gui/PageView.cpp:1023
 msgid "Scroll to page {1}"
 msgstr "مرر إلى الصفحة {1}"
 
@@ -1422,10 +1422,6 @@ msgstr "نص"
 msgid "Text %zu times found on this page"
 msgstr "تم العثور على النص %zu مرة في هذه الصفحة"
 
-#: ../src/core/undo/TextUndoAction.cpp:35
-msgid "Text changes"
-msgstr "تغييرات نص"
-
 #: ../src/core/gui/SearchBar.cpp:73
 msgid "Text found on this page"
 msgstr "تم العثور على النص في هذه الصفحة"
@@ -1544,7 +1540,7 @@ msgstr "جارِ محاولة الحفظ الاضطراري للمستند ال�
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr "تعذر فتح ملف القالب العام في {1}. هل هو موجود؟"
 
-#: ../src/core/gui/PageView.cpp:490
+#: ../src/core/gui/PageView.cpp:473
 msgid "Unable to play audio recording {1}"
 msgstr "تعذر تشغيل التسجيل الصوتي {1}"
 
@@ -1553,11 +1549,11 @@ msgid "Unable to retrieve pdf page."
 msgstr "تعذر الحصول على صفحة الـPDF."
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:423
-#: ../src/core/undo/UndoRedoHandler.cpp:208
+#: ../src/core/undo/UndoRedoHandler.cpp:193
 msgid "Undo"
 msgstr "تراجع"
 
-#: ../src/core/undo/UndoRedoHandler.cpp:203
+#: ../src/core/undo/UndoRedoHandler.cpp:188
 msgid "Undo: "
 msgstr "تراجع: "
 
