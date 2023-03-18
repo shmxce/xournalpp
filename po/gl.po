@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-13 17:05+0000\n"
-"PO-Revision-Date: 2023-03-13 17:09\n"
+"POT-Creation-Date: 2023-03-18 12:42+0000\n"
+"PO-Revision-Date: 2023-03-18 12:45\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -65,7 +65,7 @@ msgstr "<span foreground='red' size='x-large'>Falta un ficheiro imprescindíbel 
 "  Nen no directorio de traballo\n"
 "  Nen en {2}"
 
-#: ../src/core/gui/PageView.cpp:1043
+#: ../src/core/gui/PageView.cpp:1025
 msgid "Add missing page"
 msgstr ""
 
@@ -867,7 +867,7 @@ msgstr "Capa {1}"
 msgid "Layerstack Preview"
 msgstr "Visualización da capa"
 
-#: ../src/core/gui/PageView.cpp:978
+#: ../src/core/gui/PageView.cpp:960
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -979,7 +979,7 @@ msgstr "Exportar como PDF"
 msgid "PDF Page {1}"
 msgstr "Páxina de PDF {1}"
 
-#: ../src/core/control/PdfCache.cpp:154
+#: ../src/core/control/PdfCache.cpp:125
 msgid "PDF background missing"
 msgstr "Falta o fondo do PDF"
 
@@ -1082,11 +1082,11 @@ msgid "Recorder could not be started."
 msgstr "A gravadora non puido arrincar."
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:424
-#: ../src/core/undo/UndoRedoHandler.cpp:220
+#: ../src/core/undo/UndoRedoHandler.cpp:205
 msgid "Redo"
 msgstr "Refacer"
 
-#: ../src/core/undo/UndoRedoHandler.cpp:215
+#: ../src/core/undo/UndoRedoHandler.cpp:200
 msgid "Redo: "
 msgstr "Refacer: "
 
@@ -1169,7 +1169,7 @@ msgstr "Gardar o ficheiro de erro: {1}"
 msgid "Scale"
 msgstr "Escalar"
 
-#: ../src/core/gui/PageView.cpp:1041
+#: ../src/core/gui/PageView.cpp:1023
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1415,10 +1415,6 @@ msgstr "Texto"
 msgid "Text %zu times found on this page"
 msgstr ""
 
-#: ../src/core/undo/TextUndoAction.cpp:35
-msgid "Text changes"
-msgstr "Cambios de texto"
-
 #: ../src/core/gui/SearchBar.cpp:73
 msgid "Text found on this page"
 msgstr "Texto atopado nesta páxina"
@@ -1536,7 +1532,7 @@ msgstr "Tentando un gardado de emerxencia do actualmente aberto documento…"
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr "Non se puido abrir o ficheiro modelo global en {1}. Existe?"
 
-#: ../src/core/gui/PageView.cpp:490
+#: ../src/core/gui/PageView.cpp:473
 msgid "Unable to play audio recording {1}"
 msgstr "Non se puido reproducir a gravación de son {1}"
 
@@ -1545,11 +1541,11 @@ msgid "Unable to retrieve pdf page."
 msgstr "Non se puido recuperar a páxina pdf."
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:423
-#: ../src/core/undo/UndoRedoHandler.cpp:208
+#: ../src/core/undo/UndoRedoHandler.cpp:193
 msgid "Undo"
 msgstr "Desfacer"
 
-#: ../src/core/undo/UndoRedoHandler.cpp:203
+#: ../src/core/undo/UndoRedoHandler.cpp:188
 msgid "Undo: "
 msgstr "Desfacer: "
 
