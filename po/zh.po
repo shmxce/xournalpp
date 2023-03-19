@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-18 12:42+0000\n"
-"PO-Revision-Date: 2023-03-18 12:44\n"
+"POT-Creation-Date: 2023-03-19 14:48+0000\n"
+"PO-Revision-Date: 2023-03-19 15:59\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -70,7 +70,7 @@ msgstr "<span foreground='red' size='x-large'>缺失必要的用户界面文件�
 msgid "Add missing page"
 msgstr "添加缺失页面"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:511
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:513
 msgid "Add/Edit TeX"
 msgstr "插入/编辑TeX"
 
@@ -147,8 +147,8 @@ msgstr "自动保存时已由 {1} 重命名为 {2}"
 msgid "Autosaving to {1}"
 msgstr "正在自动保存为 {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:466
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:556
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:468
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:558
 msgid "Back"
 msgstr "后退"
 
@@ -203,7 +203,7 @@ msgstr "清除列表"
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
 msgstr "色彩\"{1}\"未定义！"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:539
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:541
 msgid "Compass"
 msgstr "指南针"
 
@@ -211,7 +211,7 @@ msgstr "指南针"
 msgid "Contents"
 msgstr "内容"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:429
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:431
 #: ../src/core/gui/toolbarMenubar/model/ToolbarModel.cpp:75
 #: ../src/core/gui/toolbarMenubar/model/ToolbarModel.cpp:81
 msgid "Copy"
@@ -341,7 +341,7 @@ msgstr "设置"
 msgid "Custom Export"
 msgstr "自定义导出"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:453
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:455
 msgid "Customize Toolbars"
 msgstr "自定义工具栏"
 
@@ -349,15 +349,15 @@ msgstr "自定义工具栏"
 msgid "Customized"
 msgstr "设置过"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:428
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:430
 msgid "Cut"
 msgstr "剪切"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:513
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:515
 msgid "Default Tool"
 msgstr "缺省工具"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:434
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:436
 #: ../src/core/undo/DeleteUndoAction.cpp:64
 msgid "Delete"
 msgstr "删除"
@@ -366,7 +366,7 @@ msgstr "删除"
 msgid "Delete Logfile"
 msgstr "删除日志文件"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:487
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:489
 msgid "Delete current page"
 msgstr "删除当前页"
 
@@ -429,24 +429,24 @@ msgstr "点虚线"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:136
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:38
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:522
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:524
 msgid "Draw Arrow"
 msgstr "绘制箭头"
 
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:39
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:524
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:526
 msgid "Draw Double Arrow"
 msgstr "绘制双箭头"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:134
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:36
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:521
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:523
 msgid "Draw Ellipse"
 msgstr "绘制椭圆"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:130
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:41
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:527
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:529
 msgid "Draw Line"
 msgstr "绘制直线"
 
@@ -454,19 +454,19 @@ msgstr "绘制直线"
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:34
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:100
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:103
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:520
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:522
 msgid "Draw Rectangle"
 msgstr "绘制矩形"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:142
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:46
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:528
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:530
 msgid "Draw Spline"
 msgstr "绘制样条曲线"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:138
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:42
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:526
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:528
 msgid "Draw coordinate system"
 msgstr "绘制坐标系统"
 
@@ -602,7 +602,7 @@ msgstr "导出文件为图像文件(每页一个)\n"
 msgid "Export PDF"
 msgstr "输出为PDF"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:414
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:416
 msgid "Export as PDF"
 msgstr "导出为 PDF"
 
@@ -681,11 +681,11 @@ msgid "File couldn't be opened. You have to do it manually:\n"
 msgstr "未能打开文件，请手动操作：\n"
 "URL: {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:583
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:585
 msgid "Fill"
 msgstr "填充"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:584
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:586
 msgid "Fill Opacity"
 msgstr "填充不透明度"
 
@@ -693,7 +693,7 @@ msgstr "填充不透明度"
 msgid "Filter input pressure. Multiply the pressure by the pressure multiplier. If less than the minimum, use the minimum pressure."
 msgstr "过滤输入压力，压力乘以压力乘数，如果小于最小压力，则使用最小压力。"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:603
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:605
 msgid "Fine"
 msgstr "精细"
 
@@ -705,7 +705,7 @@ msgstr "浮动工具箱(实验)"
 msgid "Font"
 msgstr "字体"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:553
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:555
 msgid "Forward"
 msgstr "下一步"
 
@@ -733,27 +733,27 @@ msgstr "缺少全局模板文件，请检查你的设置。"
 msgid "Global template file is not a regular file. Please check your settings. "
 msgstr "全局模板文件格式不正确，请检查你的设置。 "
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:465
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:467
 msgid "Go to first page"
 msgstr "首页"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:469
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:471
 msgid "Go to last page"
 msgstr "末页"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:472
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:474
 msgid "Go to next layer"
 msgstr "跳至下一层"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:467
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:469
 msgid "Go to page"
 msgstr "跳转到页面"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:471
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:473
 msgid "Go to previous layer"
 msgstr "跳至上一层"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:473
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:475
 msgid "Go to top layer"
 msgstr "跳至顶部层"
 
@@ -761,7 +761,7 @@ msgstr "跳至顶部层"
 msgid "Graph"
 msgstr "图形"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:439
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:441
 msgid "Grid Snapping"
 msgstr "网格吸附"
 
@@ -770,7 +770,7 @@ msgid "GtkSourceView was disabled when building Xournal++! Some options will not
 msgstr "在构建 Xournal++ 时禁用了 GtkSourceView！一些选项将不可用。"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:98
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:537
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:539
 msgid "Hand"
 msgstr "手形工具"
 
@@ -779,12 +779,12 @@ msgid "Hide all"
 msgstr "隐藏所有"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:90
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:508
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:510
 msgid "Highlighter"
 msgstr "高亮"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:33
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:512
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:514
 msgid "Image"
 msgstr "图片"
 
@@ -829,7 +829,7 @@ msgstr "插入LaTeX"
 msgid "Insert layer"
 msgstr "插入层"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:483
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:485
 msgid "Insert page"
 msgstr "插入页面"
 
@@ -879,11 +879,11 @@ msgstr "图层堆叠浏览"
 msgid "Loading..."
 msgstr "加载中..."
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:452
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:454
 msgid "Manage Toolbars"
 msgstr "管理工具栏"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:604
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:606
 msgid "Medium"
 msgstr "中"
 
@@ -911,15 +911,15 @@ msgstr "向前移动页面"
 msgid "New"
 msgstr "新建"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:411
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:413
 msgid "New Xournal"
 msgstr "新建日记"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:468
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:470
 msgid "Next"
 msgstr "下一个"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:476
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:478
 msgid "Next annotated page"
 msgstr "下一个标注页面"
 
@@ -974,7 +974,7 @@ msgid "Open Logfile directory"
 msgstr "打开日志文件目录"
 
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:412
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:414
 msgid "Open file"
 msgstr "打开文件"
 
@@ -1036,16 +1036,16 @@ msgstr "页码"
 msgid "Page type format is PageTypeFormat::Copy - converted to PageTypeFormat::Plain to avoid corrupted file"
 msgstr "页面类型格式是 PageTypeFormat::Copy - 转换为 PageTypeFormat::Plain 以避免文件损坏。"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:447
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:449
 msgid "Paired pages"
 msgstr "双页模式"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:430
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:432
 #: ../src/core/undo/AddUndoAction.cpp:66
 msgid "Paste"
 msgstr "粘贴"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:547
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:549
 msgid "Pause / Play"
 msgstr "暂停/播放"
 
@@ -1058,7 +1058,7 @@ msgstr "画笔"
 msgid "Plain"
 msgstr "空白"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:536
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:538
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:27
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:94
 msgid "Play Object"
@@ -1068,7 +1068,7 @@ msgstr "播放对象"
 msgid "Predefined"
 msgstr "预定"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:449
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:451
 msgid "Presentation mode"
 msgstr "演讲模式"
 
@@ -1076,11 +1076,11 @@ msgstr "演讲模式"
 msgid "Previously selected language not available anymore!"
 msgstr "已选择的语言不再可用！"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:415
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:417
 msgid "Print"
 msgstr "打印"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:545
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:547
 msgid "Record Audio / Stop Recording"
 msgstr "录制音频/停止录制"
 
@@ -1088,7 +1088,7 @@ msgstr "录制音频/停止录制"
 msgid "Recorder could not be started."
 msgstr "无法启动录音器。"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:424
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:426
 #: ../src/core/undo/UndoRedoHandler.cpp:205
 msgid "Redo"
 msgstr "重复"
@@ -1129,7 +1129,7 @@ msgstr "还原文件"
 msgid "Rotation"
 msgstr "旋转"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:437
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:439
 msgid "Rotation Snapping"
 msgstr "旋转吸附"
 
@@ -1150,7 +1150,7 @@ msgid "Sample LaTeX file generated successfully."
 msgstr "已成功生成示例 LaTeX 文件。"
 
 #: ../src/core/control/Control.cpp:2829 ../src/core/control/jobs/SaveJob.cpp:25
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:413
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:415
 msgid "Save"
 msgstr "保存"
 
@@ -1180,7 +1180,7 @@ msgstr "缩放"
 msgid "Scroll to page {1}"
 msgstr "滚动到页面 {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:432
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:434
 msgid "Search"
 msgstr "搜索"
 
@@ -1192,17 +1192,17 @@ msgstr "查看贡献者的完整列表"
 msgid "Select Area Text from pdf"
 msgstr "从 PDF 中选择区域文本"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:541
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:543
 msgid "Select Font"
 msgstr "选择字体"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:517
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:519
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:19
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:22
 msgid "Select Linear PDF Text"
 msgstr "选择线性 PDF 文本"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:533
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:535
 msgid "Select Multi-Layer Rect"
 msgstr ""
 
@@ -1211,13 +1211,13 @@ msgstr ""
 msgid "Select Multi-Layer Rectangle"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:532
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:534
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:82
 msgid "Select Multi-Layer Region"
 msgstr ""
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:534
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:536
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:26
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:88
 msgid "Select Object"
@@ -1235,7 +1235,7 @@ msgstr "选择 PDF 文本"
 msgid "Select PDF Text In Rectangle"
 msgstr "在矩形中选择 PDF 文本"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:519
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:521
 msgid "Select PDF Text in Rectangle"
 msgstr "在矩形中选择 PDF 文本"
 
@@ -1243,14 +1243,14 @@ msgstr "在矩形中选择 PDF 文本"
 msgid "Select Pdf Text"
 msgstr "选择 PDF 文本"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:531
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:533
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:22
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:64
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:109
 msgid "Select Rectangle"
 msgstr "选择矩形"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:530
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:532
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:23
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:70
 msgid "Select Region"
@@ -1334,11 +1334,11 @@ msgstr "设置PNG导出页面的宽度\n"
 "                                 No effect without -i/--create-img=foo.png\n"
 "                                 Ignored if --export-png-dpi is used"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:538
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:540
 msgid "Setsquare"
 msgstr "三角板"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:515
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:517
 msgid "Shape Recognizer"
 msgstr "识别形状"
 
@@ -1374,7 +1374,7 @@ msgstr ""
 msgid "Staves"
 msgstr "五线谱纸"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:550
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:552
 msgid "Stop"
 msgstr "停止"
 
@@ -1413,7 +1413,7 @@ msgid "System Default"
 msgstr "系统默认"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:91
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:510
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:512
 msgid "Text"
 msgstr "文本"
 
@@ -1504,7 +1504,7 @@ msgstr "发现Xournal++的错误日志文件，请发送一个错误报告，将
 msgid "There was an error displaying help: {1}"
 msgstr "显示帮助时出错: {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:605
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:607
 msgid "Thick"
 msgstr "粗"
 
@@ -1516,7 +1516,7 @@ msgstr "此文档尚未保存。"
 msgid "This image could not be loaded. Error message: {1}"
 msgstr "无法加载此图像。错误消息: {1}"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:450
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:452
 msgid "Toggle fullscreen"
 msgstr "全屏"
 
@@ -1548,7 +1548,7 @@ msgstr "无法播放音频录音 {1}"
 msgid "Unable to retrieve pdf page."
 msgstr "无法获取 pdf 页面。"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:423
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:425
 #: ../src/core/undo/UndoRedoHandler.cpp:193
 msgid "Undo"
 msgstr "撤销"
@@ -1609,7 +1609,7 @@ msgstr "使用拟议的 PDF"
 msgid "Version"
 msgstr "版本"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:535
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:537
 msgid "Vertical Space"
 msgstr "垂直间距"
 
@@ -1617,11 +1617,11 @@ msgstr "垂直间距"
 msgid "Vertical space"
 msgstr "垂直间距"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:602
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:604
 msgid "Very Fine"
 msgstr "非常精细"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:606
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:608
 msgid "Very Thick"
 msgstr "非常粗"
 
@@ -1689,19 +1689,19 @@ msgstr "您当前的文档不包含 PDF 页面号码 {1}\n"
 msgid "Zoom Slider"
 msgstr "缩放游标"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:457
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:459
 msgid "Zoom fit to screen"
 msgstr "适合屏幕"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:456
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:458
 msgid "Zoom in"
 msgstr "放大"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:455
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:457
 msgid "Zoom out"
 msgstr "缩小"
 
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:458
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:460
 msgid "Zoom to 100%"
 msgstr "原始尺寸"
 
@@ -1729,12 +1729,12 @@ msgid "cursor"
 msgstr "光标"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:304
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:502
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:504
 msgid "dash-/ dotted"
 msgstr "点划线"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:301
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:500
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:502
 msgid "dashed"
 msgstr "横虚线"
 
@@ -1751,7 +1751,7 @@ msgid "delete stroke"
 msgstr "删除笔划"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:307
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:503
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:505
 msgid "dotted"
 msgstr "点虚线"
 
@@ -1796,7 +1796,7 @@ msgstr "显示"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:298
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:317
-#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:499
+#: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:501
 msgid "standard"
 msgstr "标准"
 
