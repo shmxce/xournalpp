@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-19 14:48+0000\n"
-"PO-Revision-Date: 2023-03-19 15:59\n"
+"POT-Creation-Date: 2023-03-20 12:56+0000\n"
+"PO-Revision-Date: 2023-03-20 12:57\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -506,7 +506,7 @@ msgstr "ElementRange::parse(): interval de elemente incorect."
 msgid "Emergency saved document"
 msgstr "Document salvat de urgență"
 
-#: ../src/core/gui/dialog/SettingsDialog.cpp:298
+#: ../src/core/gui/dialog/SettingsDialog.cpp:285
 msgid "Enable pressure sensitivity or pressure inference to change this setting!"
 msgstr "Activează sensibilitatea la apăsare sau estimarea forței de apăsare pentru a schimba această reglare!"
 
@@ -689,7 +689,7 @@ msgstr "Umplere"
 msgid "Fill Opacity"
 msgstr "Opacitatea umplerii"
 
-#: ../src/core/gui/dialog/SettingsDialog.cpp:302
+#: ../src/core/gui/dialog/SettingsDialog.cpp:289
 msgid "Filter input pressure. Multiply the pressure by the pressure multiplier. If less than the minimum, use the minimum pressure."
 msgstr "Filtrează forța de apăsare. Înmulțește forța de apăsare cu multiplicatorul forței de apăsare. Dacă este mai mică decât valoarea minimă, se folosește apăsarea minimă."
 
