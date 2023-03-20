@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-20 14:29+0000\n"
-"PO-Revision-Date: 2023-03-20 15:01\n"
+"POT-Creation-Date: 2023-03-20 18:35+0000\n"
+"PO-Revision-Date: 2023-03-20 18:41\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -29,7 +29,7 @@ msgid "\n"
 msgstr "\n"
 " 계속하시겠습니까?"
 
-#: ../src/core/control/Control.cpp:2348
+#: ../src/core/control/Control.cpp:2349
 msgid "\n"
 "Proposed replacement file: \"{1}\""
 msgstr ""
@@ -65,7 +65,7 @@ msgstr "<span foreground='red' size='x-large'>다음 필수 UI 파일이 존재�
 "  현재 주소에 없음\n"
 "  {2} 에 없음"
 
-#: ../src/core/gui/PageView.cpp:1025
+#: ../src/core/gui/PageView.cpp:939
 msgid "Add missing page"
 msgstr ""
 
@@ -167,7 +167,7 @@ msgstr "맨 앞으로 보내기"
 msgid "Built on"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2360 ../src/core/control/Control.cpp:2837
+#: ../src/core/control/Control.cpp:2361 ../src/core/control/Control.cpp:2838
 #: ../src/core/control/XournalMain.cpp:176
 #: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
@@ -381,7 +381,7 @@ msgstr "이 레이어 삭제"
 msgid "Delete this page"
 msgstr "이 페이지 삭제"
 
-#: ../src/core/control/Control.cpp:2834
+#: ../src/core/control/Control.cpp:2835
 msgid "Discard"
 msgstr "버리기"
 
@@ -389,7 +389,7 @@ msgstr "버리기"
 msgid "Display advanced export options"
 msgstr "고급 내보내기 옵션 표시"
 
-#: ../src/core/control/Control.cpp:2273
+#: ../src/core/control/Control.cpp:2274
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
@@ -399,7 +399,7 @@ msgstr ""
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr "백그라운드 PDF를 덮어쓰지 마세요! 에러를 발생시킬 것입니다!"
 
-#: ../src/core/control/Control.cpp:2828
+#: ../src/core/control/Control.cpp:2829
 msgid "Document file was removed."
 msgstr "문서 파일 삭제됨."
 
@@ -514,7 +514,7 @@ msgstr ""
 msgid "Eraser"
 msgstr "지우개"
 
-#: ../src/core/control/Control.cpp:2564
+#: ../src/core/control/Control.cpp:2565
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr ""
@@ -523,7 +523,7 @@ msgstr ""
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2391
+#: ../src/core/control/Control.cpp:2392
 msgid "Error opening file \"{1}\""
 msgstr ""
 
@@ -851,7 +851,7 @@ msgstr ""
 msgid "Layerstack Preview"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:960
+#: ../src/core/gui/PageView.cpp:874
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1073,7 +1073,7 @@ msgstr "다시 실행"
 msgid "Redo: "
 msgstr "다시 실행: "
 
-#: ../src/core/control/Control.cpp:2359
+#: ../src/core/control/Control.cpp:2360
 msgid "Remove PDF Background"
 msgstr "PDF 백그라운드 제거"
 
@@ -1125,16 +1125,16 @@ msgstr ""
 msgid "Sample LaTeX file generated successfully."
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2829 ../src/core/control/jobs/SaveJob.cpp:25
+#: ../src/core/control/Control.cpp:2830 ../src/core/control/jobs/SaveJob.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:415
 msgid "Save"
 msgstr "저장"
 
-#: ../src/core/control/Control.cpp:2829
+#: ../src/core/control/Control.cpp:2830
 msgid "Save As..."
 msgstr "다른 이름으로 저장..."
 
-#: ../src/core/control/Control.cpp:2663
+#: ../src/core/control/Control.cpp:2664
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:85
 msgid "Save File"
 msgstr "파일 저장"
@@ -1152,7 +1152,7 @@ msgstr ""
 msgid "Scale"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:1023
+#: ../src/core/gui/PageView.cpp:937
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1236,7 +1236,7 @@ msgstr "영역 선택"
 msgid "Select Text from pdf"
 msgstr "PDF에서 텍스트 선택"
 
-#: ../src/core/control/Control.cpp:2358
+#: ../src/core/control/Control.cpp:2359
 msgid "Select another PDF"
 msgstr "다른 PDF 선택"
 
@@ -1415,7 +1415,7 @@ msgstr ""
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2335
+#: ../src/core/control/Control.cpp:2336
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
 msgstr ""
 
@@ -1423,7 +1423,7 @@ msgstr ""
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted."
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2338
+#: ../src/core/control/Control.cpp:2339
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
 "It was last seen at: \"{2}\""
 msgstr ""
@@ -1432,7 +1432,7 @@ msgstr ""
 msgid "The check for overwriting the background failed with:\n"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2399
+#: ../src/core/control/Control.cpp:2400
 msgid "The file being loaded has a file format version newer than the one currently supported by this version of Xournal++, so it may not load properly. Open anyways?"
 msgstr ""
 
@@ -1476,7 +1476,7 @@ msgstr ""
 msgid "Thick"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2828
+#: ../src/core/control/Control.cpp:2829
 msgid "This document is not saved yet."
 msgstr ""
 
@@ -1508,7 +1508,7 @@ msgstr ""
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:473
+#: ../src/core/gui/PageView.cpp:381
 msgid "Unable to play audio recording {1}"
 msgstr ""
 
@@ -1561,7 +1561,7 @@ msgstr ""
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2720
+#: ../src/core/control/Control.cpp:2721
 msgid "Unsaved Document"
 msgstr ""
 
@@ -1569,7 +1569,7 @@ msgstr ""
 msgid "Unsupported graphics format: "
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2356
+#: ../src/core/control/Control.cpp:2357
 msgid "Use proposed PDF"
 msgstr ""
 
@@ -1625,7 +1625,7 @@ msgstr ""
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2669
+#: ../src/core/control/Control.cpp:2670
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal++ files"
 msgstr ""
@@ -1670,7 +1670,7 @@ msgstr "축소"
 msgid "Zoom to 100%"
 msgstr "확대／축소 100%"
 
-#: ../src/core/control/Control.cpp:2663
+#: ../src/core/control/Control.cpp:2664
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:15
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
@@ -1683,7 +1683,7 @@ msgstr ""
 msgid "_Open"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2664
+#: ../src/core/control/Control.cpp:2665
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:86
 msgid "_Save"
@@ -1729,7 +1729,7 @@ msgstr ""
 msgid "eraser"
 msgstr "지우개"
 
-#: ../src/core/control/Control.cpp:2287
+#: ../src/core/control/Control.cpp:2288
 msgid "file: {1}"
 msgstr "파일: {1}"
 
