@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-19 14:48+0000\n"
-"PO-Revision-Date: 2023-03-19 15:59\n"
+"POT-Creation-Date: 2023-03-20 12:56+0000\n"
+"PO-Revision-Date: 2023-03-20 12:58\n"
 "Last-Translator: \n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
@@ -504,7 +504,7 @@ msgstr ""
 msgid "Emergency saved document"
 msgstr "Opgeslagen document voor noodgevallen"
 
-#: ../src/core/gui/dialog/SettingsDialog.cpp:298
+#: ../src/core/gui/dialog/SettingsDialog.cpp:285
 msgid "Enable pressure sensitivity or pressure inference to change this setting!"
 msgstr "Schakel drukgevoeligheid of drukgevolg in om deze instelling te wijzigen!"
 
@@ -685,7 +685,7 @@ msgstr "Opvullen"
 msgid "Fill Opacity"
 msgstr ""
 
-#: ../src/core/gui/dialog/SettingsDialog.cpp:302
+#: ../src/core/gui/dialog/SettingsDialog.cpp:289
 msgid "Filter input pressure. Multiply the pressure by the pressure multiplier. If less than the minimum, use the minimum pressure."
 msgstr "Filter invoerdruk. Vermenigvuldig de druk met de drukvermenigvuldiger. Gebruik de minimale druk als deze kleiner is dan het minimum."
 
