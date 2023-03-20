@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-19 14:48+0000\n"
-"PO-Revision-Date: 2023-03-19 15:59\n"
+"POT-Creation-Date: 2023-03-20 12:56+0000\n"
+"PO-Revision-Date: 2023-03-20 12:58\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -506,7 +506,7 @@ msgstr "ElementRange::parse(): érvénytelen elemtartomány."
 msgid "Emergency saved document"
 msgstr "Biztonsági mentett dokumentum"
 
-#: ../src/core/gui/dialog/SettingsDialog.cpp:298
+#: ../src/core/gui/dialog/SettingsDialog.cpp:285
 msgid "Enable pressure sensitivity or pressure inference to change this setting!"
 msgstr "A beállítás módosításához engedélyezd a nyomásérzékelést vagy a nyomáskövetkeztetést!"
 
@@ -688,7 +688,7 @@ msgstr "Kitöltés"
 msgid "Fill Opacity"
 msgstr "Kitöltési átlátszatlanság"
 
-#: ../src/core/gui/dialog/SettingsDialog.cpp:302
+#: ../src/core/gui/dialog/SettingsDialog.cpp:289
 msgid "Filter input pressure. Multiply the pressure by the pressure multiplier. If less than the minimum, use the minimum pressure."
 msgstr "Nyomásszűrés. A nyomást a nyomási szorzóval szorozza. Ha az eredmény kevesebb a minimális értéknél, akkor a minimális nyomást alkalmazza."
 
