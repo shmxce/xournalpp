@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-21 19:23+0000\n"
-"PO-Revision-Date: 2023-03-21 19:25\n"
+"POT-Creation-Date: 2023-03-21 19:26+0000\n"
+"PO-Revision-Date: 2023-03-21 20:45\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -90,7 +90,7 @@ msgstr "Auf alle Seiten anwenden"
 msgid "Apply to current page"
 msgstr "Auf aktuelle Seite anwenden"
 
-#: ../src/core/control/tools/EditSelection.cpp:399
+#: ../src/core/control/tools/EditSelection.cpp:400
 msgid "Arrange"
 msgstr "Anordnen"
 
@@ -157,11 +157,11 @@ msgstr "Zurück"
 msgid "Background"
 msgstr "Hintergrund"
 
-#: ../src/core/control/tools/EditSelection.cpp:414
+#: ../src/core/control/tools/EditSelection.cpp:415
 msgid "Bring forward"
 msgstr "Eine Ebene nach vorne"
 
-#: ../src/core/control/tools/EditSelection.cpp:404
+#: ../src/core/control/tools/EditSelection.cpp:405
 msgid "Bring to front"
 msgstr "In den Vordergrund"
 
@@ -564,7 +564,7 @@ msgstr "Fehler bei der Autospeicherung: {1}"
 msgid "Error while exporting the pdf background: I cannot find the pdf page number "
 msgstr "Fehler beim Exportieren des PDF-Hintergrunds: Die PDF-Seitenzahl kann nicht gefunden werden "
 
-#: ../src/util/Util.cpp:78
+#: ../src/util/Util.cpp:83
 msgid "Error {1} executing system command: {2}"
 msgstr "Fehler {1} bei der Ausführung des Systembefehls: {2}"
 
@@ -1300,11 +1300,11 @@ msgstr "Auswahl-Combo"
 msgid "Send Bugreport"
 msgstr "Fehlerbericht senden"
 
-#: ../src/core/control/tools/EditSelection.cpp:425
+#: ../src/core/control/tools/EditSelection.cpp:426
 msgid "Send backward"
 msgstr "Eine Ebene nach hinten"
 
-#: ../src/core/control/tools/EditSelection.cpp:433
+#: ../src/core/control/tools/EditSelection.cpp:434
 msgid "Send to back"
 msgstr "In den Hintergrund"
 
