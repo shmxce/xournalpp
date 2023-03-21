@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-21 19:23+0000\n"
-"PO-Revision-Date: 2023-03-21 19:25\n"
+"POT-Creation-Date: 2023-03-21 19:26+0000\n"
+"PO-Revision-Date: 2023-03-21 20:45\n"
 "Last-Translator: \n"
 "Language-Team: Afrikaans\n"
 "Language: af_ZA\n"
@@ -88,7 +88,7 @@ msgstr "Pas toe op alle blaaie"
 msgid "Apply to current page"
 msgstr "Pas toe op huidige bladsy"
 
-#: ../src/core/control/tools/EditSelection.cpp:399
+#: ../src/core/control/tools/EditSelection.cpp:400
 msgid "Arrange"
 msgstr "Rangskik"
 
@@ -155,11 +155,11 @@ msgstr "Terug"
 msgid "Background"
 msgstr "Agtergrond"
 
-#: ../src/core/control/tools/EditSelection.cpp:414
+#: ../src/core/control/tools/EditSelection.cpp:415
 msgid "Bring forward"
 msgstr "Bring vorentoe"
 
-#: ../src/core/control/tools/EditSelection.cpp:404
+#: ../src/core/control/tools/EditSelection.cpp:405
 msgid "Bring to front"
 msgstr "Bring na vore"
 
@@ -562,7 +562,7 @@ msgstr "Fout tydens autosave: {1}"
 msgid "Error while exporting the pdf background: I cannot find the pdf page number "
 msgstr "Fout met die uitvoering van die pdf agtergrond: Ek kan nie die pdf bladsy nommer vind nie "
 
-#: ../src/util/Util.cpp:78
+#: ../src/util/Util.cpp:83
 msgid "Error {1} executing system command: {2}"
 msgstr "Fout {1} met uitvoer van sisteem opdrag: {2}"
 
@@ -1295,11 +1295,11 @@ msgstr "Keuse Kombinasie"
 msgid "Send Bugreport"
 msgstr "Stuur foutverslag"
 
-#: ../src/core/control/tools/EditSelection.cpp:425
+#: ../src/core/control/tools/EditSelection.cpp:426
 msgid "Send backward"
 msgstr "Stuur agtertoe"
 
-#: ../src/core/control/tools/EditSelection.cpp:433
+#: ../src/core/control/tools/EditSelection.cpp:434
 msgid "Send to back"
 msgstr "Stuur na agter"
 
