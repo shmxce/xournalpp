@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-21 19:23+0000\n"
-"PO-Revision-Date: 2023-03-21 19:25\n"
+"POT-Creation-Date: 2023-03-21 19:26+0000\n"
+"PO-Revision-Date: 2023-03-21 20:45\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -90,7 +90,7 @@ msgstr "Aplică la toate paginile"
 msgid "Apply to current page"
 msgstr "Aplică la pagina actuală"
 
-#: ../src/core/control/tools/EditSelection.cpp:399
+#: ../src/core/control/tools/EditSelection.cpp:400
 msgid "Arrange"
 msgstr "Aranjare"
 
@@ -157,11 +157,11 @@ msgstr "Înapoi"
 msgid "Background"
 msgstr "Fond"
 
-#: ../src/core/control/tools/EditSelection.cpp:414
+#: ../src/core/control/tools/EditSelection.cpp:415
 msgid "Bring forward"
 msgstr "Adu mai aproape"
 
-#: ../src/core/control/tools/EditSelection.cpp:404
+#: ../src/core/control/tools/EditSelection.cpp:405
 msgid "Bring to front"
 msgstr "Adu în prim-plan"
 
@@ -564,7 +564,7 @@ msgstr "Eroare la salvarea automată: {1}"
 msgid "Error while exporting the pdf background: I cannot find the pdf page number "
 msgstr "Eroare la exportarea fondului PDF: Nu pot găsi numărul paginii PDF "
 
-#: ../src/util/Util.cpp:78
+#: ../src/util/Util.cpp:83
 msgid "Error {1} executing system command: {2}"
 msgstr "Eroare {1} la executarea comenzii de sistem: {2}"
 
@@ -1300,11 +1300,11 @@ msgstr "Selecție combinată"
 msgid "Send Bugreport"
 msgstr "Trimite eroarea"
 
-#: ../src/core/control/tools/EditSelection.cpp:425
+#: ../src/core/control/tools/EditSelection.cpp:426
 msgid "Send backward"
 msgstr "Trimite în plan secundar"
 
-#: ../src/core/control/tools/EditSelection.cpp:433
+#: ../src/core/control/tools/EditSelection.cpp:434
 msgid "Send to back"
 msgstr "Trimite în ultimul plan"
 
