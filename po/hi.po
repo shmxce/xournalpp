@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-21 19:23+0000\n"
-"PO-Revision-Date: 2023-03-21 19:25\n"
+"POT-Creation-Date: 2023-03-21 19:26+0000\n"
+"PO-Revision-Date: 2023-03-21 20:46\n"
 "Last-Translator: \n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
@@ -89,7 +89,7 @@ msgstr "सभी उत्पादों के लिए लागू कर�
 msgid "Apply to current page"
 msgstr "इस पूष्ठ में जौडें"
 
-#: ../src/core/control/tools/EditSelection.cpp:399
+#: ../src/core/control/tools/EditSelection.cpp:400
 msgid "Arrange"
 msgstr "व्यवस्थित करें"
 
@@ -155,11 +155,11 @@ msgstr "पीछे"
 msgid "Background"
 msgstr "पृष्ठभूमि"
 
-#: ../src/core/control/tools/EditSelection.cpp:414
+#: ../src/core/control/tools/EditSelection.cpp:415
 msgid "Bring forward"
 msgstr "सामने लाएं"
 
-#: ../src/core/control/tools/EditSelection.cpp:404
+#: ../src/core/control/tools/EditSelection.cpp:405
 msgid "Bring to front"
 msgstr "सबके सामने लाएँ"
 
@@ -560,7 +560,7 @@ msgstr "स्वत: सहेजते समय त्रुटि"
 msgid "Error while exporting the pdf background: I cannot find the pdf page number "
 msgstr ""
 
-#: ../src/util/Util.cpp:78
+#: ../src/util/Util.cpp:83
 msgid "Error {1} executing system command: {2}"
 msgstr "सिस्टम कमांड निष्पादित करने में त्रुटि:"
 
@@ -1280,11 +1280,11 @@ msgstr "चयन कॉम्बो"
 msgid "Send Bugreport"
 msgstr "Bugreport भेजें"
 
-#: ../src/core/control/tools/EditSelection.cpp:425
+#: ../src/core/control/tools/EditSelection.cpp:426
 msgid "Send backward"
 msgstr "पीचे भीजे"
 
-#: ../src/core/control/tools/EditSelection.cpp:433
+#: ../src/core/control/tools/EditSelection.cpp:434
 msgid "Send to back"
 msgstr "पीछे भेजें"
 
