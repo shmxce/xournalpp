@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-21 19:23+0000\n"
-"PO-Revision-Date: 2023-03-21 19:25\n"
+"POT-Creation-Date: 2023-03-21 19:26+0000\n"
+"PO-Revision-Date: 2023-03-21 20:45\n"
 "Last-Translator: \n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -89,7 +89,7 @@ msgstr "Εφαρμογή σε όλες τις σελίδες"
 msgid "Apply to current page"
 msgstr "Εφαρμογή στην τρέχουσα σελίδα"
 
-#: ../src/core/control/tools/EditSelection.cpp:399
+#: ../src/core/control/tools/EditSelection.cpp:400
 msgid "Arrange"
 msgstr "Τακτοποίηση"
 
@@ -156,11 +156,11 @@ msgstr "Πίσω"
 msgid "Background"
 msgstr "Φόντο"
 
-#: ../src/core/control/tools/EditSelection.cpp:414
+#: ../src/core/control/tools/EditSelection.cpp:415
 msgid "Bring forward"
 msgstr "Στο προσκήνιο"
 
-#: ../src/core/control/tools/EditSelection.cpp:404
+#: ../src/core/control/tools/EditSelection.cpp:405
 msgid "Bring to front"
 msgstr "Φέρτε μπροστά"
 
@@ -563,7 +563,7 @@ msgstr "Σφάλμα κατά την αυτόματη αποθήκευση: {1}"
 msgid "Error while exporting the pdf background: I cannot find the pdf page number "
 msgstr ""
 
-#: ../src/util/Util.cpp:78
+#: ../src/util/Util.cpp:83
 msgid "Error {1} executing system command: {2}"
 msgstr "Σφάλμα {1} κατά την εκτέλεση εντολής συστήματος: {2}"
 
@@ -1285,11 +1285,11 @@ msgstr ""
 msgid "Send Bugreport"
 msgstr "Στείλε Αναφορά Σφάλματος"
 
-#: ../src/core/control/tools/EditSelection.cpp:425
+#: ../src/core/control/tools/EditSelection.cpp:426
 msgid "Send backward"
 msgstr "Αποστολή στο παρασκήνιο"
 
-#: ../src/core/control/tools/EditSelection.cpp:433
+#: ../src/core/control/tools/EditSelection.cpp:434
 msgid "Send to back"
 msgstr "Αποστολή πίσω"
 
