@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-21 19:23+0000\n"
-"PO-Revision-Date: 2023-03-21 19:25\n"
+"POT-Creation-Date: 2023-03-21 19:26+0000\n"
+"PO-Revision-Date: 2023-03-21 20:45\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -89,7 +89,7 @@ msgstr "套用到所有頁面"
 msgid "Apply to current page"
 msgstr "套用到目前的頁面"
 
-#: ../src/core/control/tools/EditSelection.cpp:399
+#: ../src/core/control/tools/EditSelection.cpp:400
 msgid "Arrange"
 msgstr "排序"
 
@@ -155,11 +155,11 @@ msgstr "後退"
 msgid "Background"
 msgstr "背景"
 
-#: ../src/core/control/tools/EditSelection.cpp:414
+#: ../src/core/control/tools/EditSelection.cpp:415
 msgid "Bring forward"
 msgstr "往前移動"
 
-#: ../src/core/control/tools/EditSelection.cpp:404
+#: ../src/core/control/tools/EditSelection.cpp:405
 msgid "Bring to front"
 msgstr "移到上層"
 
@@ -561,7 +561,7 @@ msgstr "自動儲存時發生錯誤：{1}"
 msgid "Error while exporting the pdf background: I cannot find the pdf page number "
 msgstr "PDF 背景匯出錯誤：找不到頁碼 "
 
-#: ../src/util/Util.cpp:78
+#: ../src/util/Util.cpp:83
 msgid "Error {1} executing system command: {2}"
 msgstr "指令 {1} 執行錯誤: {2}"
 
@@ -1293,11 +1293,11 @@ msgstr "選擇工具組"
 msgid "Send Bugreport"
 msgstr "選擇錯誤報告"
 
-#: ../src/core/control/tools/EditSelection.cpp:425
+#: ../src/core/control/tools/EditSelection.cpp:426
 msgid "Send backward"
 msgstr "下移一層"
 
-#: ../src/core/control/tools/EditSelection.cpp:433
+#: ../src/core/control/tools/EditSelection.cpp:434
 msgid "Send to back"
 msgstr "置於底層"
 
