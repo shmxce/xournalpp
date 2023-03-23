@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-23 08:10+0000\n"
-"PO-Revision-Date: 2023-03-23 08:14\n"
+"PO-Revision-Date: 2023-03-23 20:05\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -1165,7 +1165,7 @@ msgstr "حفظ الملف"
 
 #: ../src/core/control/jobs/SaveJob.cpp:117
 msgid "Save file error, can't backup: {1}"
-msgstr ""
+msgstr "خطأ في حفظ الملف، لا يمكن عمل نسخة احتياطية: {1}"
 
 #: ../src/core/control/jobs/CustomExportJob.cpp:125
 #: ../src/core/control/jobs/SaveJob.cpp:131
@@ -1368,7 +1368,7 @@ msgstr "عذرا، لا يستطيع Xournal++‎ فتح الملفات البع
 
 #: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:58
 msgid "Spacer"
-msgstr ""
+msgstr "فاصل"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:23
 msgid "Staves"
@@ -2012,7 +2012,7 @@ msgstr "<b>الخلفية</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:141
 msgid "<b>Color</b>"
-msgstr "<b>ألوان</b>"
+msgstr "<b>الألوان</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:86
 msgid "<b>Default Tools</b>"
@@ -2050,7 +2050,7 @@ msgstr "<b>حجم الصفحة</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:196
 msgid "<b>Separators</b>"
-msgstr ""
+msgstr "<b>الفواصل</b>"
 
 #: ../ui/settings.glade:783
 msgid "<i>Assign device classes to each input device of your system. Only change these values if your devices are not correctly matched. (e.g. your pen shows up as touchscreen)</i>"
@@ -3329,7 +3329,7 @@ msgstr "أزرار القلم الرقمي"
 
 #: ../ui/settings.glade:1981
 msgid "Stylus-based eraser is visible"
-msgstr ""
+msgstr "ممحاة القلم مرئية"
 
 #: ../ui/settings.glade:5172
 msgid "Successive (ms)"
