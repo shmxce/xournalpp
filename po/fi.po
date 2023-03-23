@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-21 19:26+0000\n"
-"PO-Revision-Date: 2023-03-21 20:45\n"
+"POT-Creation-Date: 2023-03-22 23:59+0000\n"
+"PO-Revision-Date: 2023-03-23 00:05\n"
 "Last-Translator: \n"
 "Language-Team: Finnish\n"
 "Language: fi_FI\n"
@@ -29,7 +29,7 @@ msgid "\n"
 msgstr "\n"
 "Haluatko jatkaa?"
 
-#: ../src/core/control/Control.cpp:2351
+#: ../src/core/control/Control.cpp:2349
 msgid "\n"
 "Proposed replacement file: \"{1}\""
 msgstr ""
@@ -162,7 +162,7 @@ msgstr ""
 msgid "Built on"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2363 ../src/core/control/Control.cpp:2840
+#: ../src/core/control/Control.cpp:2361 ../src/core/control/Control.cpp:2838
 #: ../src/core/control/XournalMain.cpp:176
 #: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
@@ -374,7 +374,7 @@ msgstr ""
 msgid "Delete this page"
 msgstr "Poista tämä sivu"
 
-#: ../src/core/control/Control.cpp:2837
+#: ../src/core/control/Control.cpp:2835
 msgid "Discard"
 msgstr "Hylkää"
 
@@ -382,7 +382,7 @@ msgstr "Hylkää"
 msgid "Display advanced export options"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2276
+#: ../src/core/control/Control.cpp:2274
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
@@ -392,7 +392,7 @@ msgstr ""
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2831
+#: ../src/core/control/Control.cpp:2829
 msgid "Document file was removed."
 msgstr ""
 
@@ -507,7 +507,7 @@ msgstr ""
 msgid "Eraser"
 msgstr "Pyyhekumi"
 
-#: ../src/core/control/Control.cpp:2567
+#: ../src/core/control/Control.cpp:2565
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr ""
@@ -516,7 +516,7 @@ msgstr ""
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2394
+#: ../src/core/control/Control.cpp:2392
 msgid "Error opening file \"{1}\""
 msgstr "Virhe tiedoston avaamisessa \"{1}\""
 
@@ -1058,15 +1058,15 @@ msgid "Recorder could not be started."
 msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:426
-#: ../src/core/undo/UndoRedoHandler.cpp:205
+#: ../src/core/undo/UndoRedoHandler.cpp:193
 msgid "Redo"
 msgstr "Tee uudelleen"
 
-#: ../src/core/undo/UndoRedoHandler.cpp:200
+#: ../src/core/undo/UndoRedoHandler.cpp:188
 msgid "Redo: "
 msgstr "Tee uudelleen: "
 
-#: ../src/core/control/Control.cpp:2362
+#: ../src/core/control/Control.cpp:2360
 msgid "Remove PDF Background"
 msgstr ""
 
@@ -1118,16 +1118,16 @@ msgstr ""
 msgid "Sample LaTeX file generated successfully."
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2832 ../src/core/control/jobs/SaveJob.cpp:25
+#: ../src/core/control/Control.cpp:2830 ../src/core/control/jobs/SaveJob.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:415
 msgid "Save"
 msgstr "Tallenna"
 
-#: ../src/core/control/Control.cpp:2832
+#: ../src/core/control/Control.cpp:2830
 msgid "Save As..."
 msgstr "Tallenna nimellä..."
 
-#: ../src/core/control/Control.cpp:2666
+#: ../src/core/control/Control.cpp:2664
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:85
 msgid "Save File"
 msgstr "Tallenna tiedosto"
@@ -1229,7 +1229,7 @@ msgstr ""
 msgid "Select Text from pdf"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2361
+#: ../src/core/control/Control.cpp:2359
 msgid "Select another PDF"
 msgstr "Valitse toinen PDF"
 
@@ -1408,7 +1408,7 @@ msgstr ""
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2338
+#: ../src/core/control/Control.cpp:2336
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
 msgstr ""
 
@@ -1416,7 +1416,7 @@ msgstr ""
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted."
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2341
+#: ../src/core/control/Control.cpp:2339
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
 "It was last seen at: \"{2}\""
 msgstr ""
@@ -1425,7 +1425,7 @@ msgstr ""
 msgid "The check for overwriting the background failed with:\n"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2402
+#: ../src/core/control/Control.cpp:2400
 msgid "The file being loaded has a file format version newer than the one currently supported by this version of Xournal++, so it may not load properly. Open anyways?"
 msgstr ""
 
@@ -1469,7 +1469,7 @@ msgstr ""
 msgid "Thick"
 msgstr "Paksu"
 
-#: ../src/core/control/Control.cpp:2831
+#: ../src/core/control/Control.cpp:2829
 msgid "This document is not saved yet."
 msgstr ""
 
@@ -1510,11 +1510,11 @@ msgid "Unable to retrieve pdf page."
 msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:425
-#: ../src/core/undo/UndoRedoHandler.cpp:193
+#: ../src/core/undo/UndoRedoHandler.cpp:181
 msgid "Undo"
 msgstr "Kumoa"
 
-#: ../src/core/undo/UndoRedoHandler.cpp:188
+#: ../src/core/undo/UndoRedoHandler.cpp:176
 msgid "Undo: "
 msgstr "Kumoa: "
 
@@ -1554,7 +1554,7 @@ msgstr ""
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2723
+#: ../src/core/control/Control.cpp:2721
 msgid "Unsaved Document"
 msgstr "Tallentamaton asiakirja"
 
@@ -1562,7 +1562,7 @@ msgstr "Tallentamaton asiakirja"
 msgid "Unsupported graphics format: "
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2359
+#: ../src/core/control/Control.cpp:2357
 msgid "Use proposed PDF"
 msgstr ""
 
@@ -1618,7 +1618,7 @@ msgstr "Xournal-tiedostot"
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2672
+#: ../src/core/control/Control.cpp:2670
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal++ files"
 msgstr "Xournal++-tiedostot"
@@ -1663,7 +1663,7 @@ msgstr "Loitonna"
 msgid "Zoom to 100%"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2666
+#: ../src/core/control/Control.cpp:2664
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:15
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
@@ -1676,7 +1676,7 @@ msgstr "_Peruuta"
 msgid "_Open"
 msgstr "_Avaa"
 
-#: ../src/core/control/Control.cpp:2667
+#: ../src/core/control/Control.cpp:2665
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:86
 msgid "_Save"
@@ -1722,7 +1722,7 @@ msgstr ""
 msgid "eraser"
 msgstr "pyyhekumi"
 
-#: ../src/core/control/Control.cpp:2290
+#: ../src/core/control/Control.cpp:2288
 msgid "file: {1}"
 msgstr "tiedosto: {1}"
 
