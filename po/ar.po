@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-23 08:10+0000\n"
-"PO-Revision-Date: 2023-03-23 20:05\n"
+"POT-Creation-Date: 2023-03-24 16:05+0000\n"
+"PO-Revision-Date: 2023-03-24 16:10\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -564,7 +564,7 @@ msgstr "خطأ أثناء الحفظ التلقائي: {1}"
 msgid "Error while exporting the pdf background: I cannot find the pdf page number "
 msgstr "حدث خطأ أثناء تصدير خلفية PDF: تعذر إيجاد صفحة PDF التي رقمها "
 
-#: ../src/util/Util.cpp:83
+#: ../src/util/Util.cpp:93
 msgid "Error {1} executing system command: {2}"
 msgstr "خطأ {1} في تنفيذ أمر النظام: {2}"
 
@@ -1113,7 +1113,7 @@ msgstr "تمت إزالة عنصر الأداة {1} من شريط الأدوات
 msgid "Rename layer"
 msgstr "إعادة تسمية طبقة"
 
-#: ../src/util/XojMsgBox.cpp:82
+#: ../src/util/XojMsgBox.cpp:86
 msgid "Replace"
 msgstr "استبدال"
 
@@ -1264,7 +1264,7 @@ msgstr "تحديد نص من PDF"
 msgid "Select another PDF"
 msgstr "اختيار ملف PDF آخر"
 
-#: ../src/util/XojMsgBox.cpp:81
+#: ../src/util/XojMsgBox.cpp:85
 msgid "Select another name"
 msgstr "اختيار اسم آخر"
 
@@ -1500,7 +1500,7 @@ msgstr "هناك ملفات سجل أخطاء من Xournal++‎. الرجاء إ
 msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
 msgstr "هناك ملف سجل أخطاء من Xournal++‎. الرجاء إرسال تقرير خطأ، حتى يتم إصلاحها."
 
-#: ../src/util/XojMsgBox.cpp:100
+#: ../src/util/XojMsgBox.cpp:104
 msgid "There was an error displaying help: {1}"
 msgstr "خطأ في عرض المساعدة: {1}"
 
