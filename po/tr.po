@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-23 08:10+0000\n"
-"PO-Revision-Date: 2023-03-23 08:14\n"
+"POT-Creation-Date: 2023-03-24 16:05+0000\n"
+"PO-Revision-Date: 2023-03-24 16:11\n"
 "Last-Translator: \n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -563,7 +563,7 @@ msgstr "Otomatik kaydetme hatası: {1}"
 msgid "Error while exporting the pdf background: I cannot find the pdf page number "
 msgstr ""
 
-#: ../src/util/Util.cpp:83
+#: ../src/util/Util.cpp:93
 msgid "Error {1} executing system command: {2}"
 msgstr "Sistem komutu yürütülürken {1} hatası: {2}"
 
@@ -1109,7 +1109,7 @@ msgstr "{1} araç öğesi {2} Araç Çubuğundan kaldırıldı ID {3}"
 msgid "Rename layer"
 msgstr "Katmanı yeniden adlandır"
 
-#: ../src/util/XojMsgBox.cpp:82
+#: ../src/util/XojMsgBox.cpp:86
 msgid "Replace"
 msgstr "Değiştir"
 
@@ -1260,7 +1260,7 @@ msgstr "PDF'den metin seç"
 msgid "Select another PDF"
 msgstr "Başka bir PDF seç"
 
-#: ../src/util/XojMsgBox.cpp:81
+#: ../src/util/XojMsgBox.cpp:85
 msgid "Select another name"
 msgstr "Başka bir ad seçin"
 
@@ -1496,7 +1496,7 @@ msgstr "Xournal++'dan hata günlüğü dosyaları var. Lütfen bir Hata Raporu g
 msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
 msgstr "Xournal++ 'dan bir hata günlüğü dosyası var. Lütfen bir Hata Raporu gönderin, böylece hata düzeltilebilir."
 
-#: ../src/util/XojMsgBox.cpp:100
+#: ../src/util/XojMsgBox.cpp:104
 msgid "There was an error displaying help: {1}"
 msgstr "Yardım görüntülenirken bir hata oluştu: {1}"
 
