@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-23 08:10+0000\n"
-"PO-Revision-Date: 2023-03-23 08:14\n"
+"POT-Creation-Date: 2023-03-24 16:05+0000\n"
+"PO-Revision-Date: 2023-03-24 16:10\n"
 "Last-Translator: \n"
 "Language-Team: Afrikaans\n"
 "Language: af_ZA\n"
@@ -562,7 +562,7 @@ msgstr "Fout tydens autosave: {1}"
 msgid "Error while exporting the pdf background: I cannot find the pdf page number "
 msgstr "Fout met die uitvoering van die pdf agtergrond: Ek kan nie die pdf bladsy nommer vind nie "
 
-#: ../src/util/Util.cpp:83
+#: ../src/util/Util.cpp:93
 msgid "Error {1} executing system command: {2}"
 msgstr "Fout {1} met uitvoer van sisteem opdrag: {2}"
 
@@ -1108,7 +1108,7 @@ msgstr "Hulpmiddel item {1} verwyder van Taakbalk {2} ID {3}"
 msgid "Rename layer"
 msgstr "Hernoem laag"
 
-#: ../src/util/XojMsgBox.cpp:82
+#: ../src/util/XojMsgBox.cpp:86
 msgid "Replace"
 msgstr "Vervang"
 
@@ -1259,7 +1259,7 @@ msgstr "Kies Teks van pdf"
 msgid "Select another PDF"
 msgstr "Kies 'n ander PDF"
 
-#: ../src/util/XojMsgBox.cpp:81
+#: ../src/util/XojMsgBox.cpp:85
 msgid "Select another name"
 msgstr "Kies 'n ander naam"
 
@@ -1494,7 +1494,7 @@ msgstr "Daar is foutloglêers van Xournal++. Stuur asb 'n foutverslag, so dat di
 msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
 msgstr "Daar is foutloglêers van Xournal++. Stuur asb 'n foutverslag, so dat die fout reggemaak dan word."
 
-#: ../src/util/XojMsgBox.cpp:100
+#: ../src/util/XojMsgBox.cpp:104
 msgid "There was an error displaying help: {1}"
 msgstr "Daar was 'n fout met die vertoning van hulp: {1}"
 
