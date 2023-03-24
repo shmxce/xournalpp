@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-23 08:10+0000\n"
-"PO-Revision-Date: 2023-03-23 08:14\n"
+"POT-Creation-Date: 2023-03-24 16:05+0000\n"
+"PO-Revision-Date: 2023-03-24 16:10\n"
 "Last-Translator: \n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -563,7 +563,7 @@ msgstr "Σφάλμα κατά την αυτόματη αποθήκευση: {1}"
 msgid "Error while exporting the pdf background: I cannot find the pdf page number "
 msgstr ""
 
-#: ../src/util/Util.cpp:83
+#: ../src/util/Util.cpp:93
 msgid "Error {1} executing system command: {2}"
 msgstr "Σφάλμα {1} κατά την εκτέλεση εντολής συστήματος: {2}"
 
@@ -1098,7 +1098,7 @@ msgstr "Αφαιρέθηκε το εργαλείο {1} από την γραμμ�
 msgid "Rename layer"
 msgstr "Μετονομασία επιπέδου"
 
-#: ../src/util/XojMsgBox.cpp:82
+#: ../src/util/XojMsgBox.cpp:86
 msgid "Replace"
 msgstr "Αντικατάσταση"
 
@@ -1249,7 +1249,7 @@ msgstr ""
 msgid "Select another PDF"
 msgstr "Επιλέξτε άλλο PDF"
 
-#: ../src/util/XojMsgBox.cpp:81
+#: ../src/util/XojMsgBox.cpp:85
 msgid "Select another name"
 msgstr "Επιλέξτε άλλο όνομα"
 
@@ -1479,7 +1479,7 @@ msgstr "Υπάρχουν αρχεία σφαλμάτων από το Xournal++. 
 msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
 msgstr "Υπάρχουν ένα αρχείο σφαλμάτων από το Xournal++. Παρακαλώ στείλτε μια αναφορά σφάλματος έτσι ώστε να διορθωθεί το πρόβλημα."
 
-#: ../src/util/XojMsgBox.cpp:100
+#: ../src/util/XojMsgBox.cpp:104
 msgid "There was an error displaying help: {1}"
 msgstr "Παρουσιάστηκε σφάλμα κατά την προβολή της βοήθειας: {1}"
 
