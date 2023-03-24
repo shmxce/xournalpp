@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-23 08:10+0000\n"
-"PO-Revision-Date: 2023-03-23 08:14\n"
+"POT-Creation-Date: 2023-03-24 16:05+0000\n"
+"PO-Revision-Date: 2023-03-24 16:11\n"
 "Last-Translator: \n"
 "Language-Team: Esperanto\n"
 "Language: eo_UY\n"
@@ -565,7 +565,7 @@ msgstr "Eraro dum aŭtomata konservado: {1}"
 msgid "Error while exporting the pdf background: I cannot find the pdf page number "
 msgstr "Eraro dum elportado de la PDF-fono: ne eblas trovi la PDF-paĝnumeron "
 
-#: ../src/util/Util.cpp:83
+#: ../src/util/Util.cpp:93
 msgid "Error {1} executing system command: {2}"
 msgstr "Eraro {1} rulante sisteman komandon: {2}"
 
@@ -1112,7 +1112,7 @@ msgstr "Forigis ilon {1} el Ilobreto {2} numero {3}"
 msgid "Rename layer"
 msgstr "Ŝanĝi nomon de tavolo"
 
-#: ../src/util/XojMsgBox.cpp:82
+#: ../src/util/XojMsgBox.cpp:86
 msgid "Replace"
 msgstr "Anstataŭigi"
 
@@ -1263,7 +1263,7 @@ msgstr "Elekti tekston el PDF"
 msgid "Select another PDF"
 msgstr "Elekti alian PDF"
 
-#: ../src/util/XojMsgBox.cpp:81
+#: ../src/util/XojMsgBox.cpp:85
 msgid "Select another name"
 msgstr "Elekti alian nomon"
 
@@ -1498,7 +1498,7 @@ msgstr "Ekzistas erarprotokoloj de Xournal++. Bonvolu sendi raporton pri la cimo
 msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
 msgstr "Ekzistas erarprotokolo de Xournal++. Bonvolu sendi raporton pri la cimo, por ke la cimo estos riparita."
 
-#: ../src/util/XojMsgBox.cpp:100
+#: ../src/util/XojMsgBox.cpp:104
 msgid "There was an error displaying help: {1}"
 msgstr "Okazis eraro montrante helpon: {1}"
 
