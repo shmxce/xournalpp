@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-23 08:10+0000\n"
-"PO-Revision-Date: 2023-03-23 08:14\n"
+"POT-Creation-Date: 2023-03-24 16:05+0000\n"
+"PO-Revision-Date: 2023-03-24 16:11\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -563,7 +563,7 @@ msgstr "Kesalahan saat menyimpan otomatis: {1}"
 msgid "Error while exporting the pdf background: I cannot find the pdf page number "
 msgstr ""
 
-#: ../src/util/Util.cpp:83
+#: ../src/util/Util.cpp:93
 msgid "Error {1} executing system command: {2}"
 msgstr "Kesalahan {1} mengeksekusi perintah sistem: {2}"
 
@@ -1107,7 +1107,7 @@ msgstr "Item alat {1} dibuang dari Bilah Alat {2} ID {3}"
 msgid "Rename layer"
 msgstr "Ganti nama layer"
 
-#: ../src/util/XojMsgBox.cpp:82
+#: ../src/util/XojMsgBox.cpp:86
 msgid "Replace"
 msgstr "Ganti"
 
@@ -1258,7 +1258,7 @@ msgstr ""
 msgid "Select another PDF"
 msgstr "Pilih PDF lain"
 
-#: ../src/util/XojMsgBox.cpp:81
+#: ../src/util/XojMsgBox.cpp:85
 msgid "Select another name"
 msgstr "Pilih nama lain"
 
@@ -1488,7 +1488,7 @@ msgstr "Terdapat berkas log kesalahan dari Xournal++. Silakan mengirim laporan k
 msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
 msgstr "Terdapat berkas log kesalahan dari Xournal++. Silakan mengirim laporan kutu, agar kami dapat memperbaikinya."
 
-#: ../src/util/XojMsgBox.cpp:100
+#: ../src/util/XojMsgBox.cpp:104
 msgid "There was an error displaying help: {1}"
 msgstr "Terjadi kesalahan saat menampilkan bantuan: {1}"
 
