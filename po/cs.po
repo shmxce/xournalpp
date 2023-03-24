@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-23 08:10+0000\n"
-"PO-Revision-Date: 2023-03-23 08:14\n"
+"POT-Creation-Date: 2023-03-24 16:05+0000\n"
+"PO-Revision-Date: 2023-03-24 16:10\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -563,7 +563,7 @@ msgstr "Chyba při automatickém ukládání: {1}"
 msgid "Error while exporting the pdf background: I cannot find the pdf page number "
 msgstr "Chyba při exportu pozadí PDF: Nemohu najít číslo PDF stránky "
 
-#: ../src/util/Util.cpp:83
+#: ../src/util/Util.cpp:93
 msgid "Error {1} executing system command: {2}"
 msgstr "Chyba {1} při provádění systémového příkazu: {2}"
 
@@ -1112,7 +1112,7 @@ msgstr "Nástroj {1} byl odstraněn z panelu nástrojů {2} ID {3}"
 msgid "Rename layer"
 msgstr "Přejmenovat vrstvu"
 
-#: ../src/util/XojMsgBox.cpp:82
+#: ../src/util/XojMsgBox.cpp:86
 msgid "Replace"
 msgstr "Nahradit"
 
@@ -1263,7 +1263,7 @@ msgstr "Vybrat text z PDF"
 msgid "Select another PDF"
 msgstr "Vybrat jiné PDF"
 
-#: ../src/util/XojMsgBox.cpp:81
+#: ../src/util/XojMsgBox.cpp:85
 msgid "Select another name"
 msgstr "Vyberte jiný název"
 
@@ -1499,7 +1499,7 @@ msgstr "Xournal++ vytvořil soubory se záznamy o chybách. Zašlete prosím hl�
 msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
 msgstr "Xournal++ vytvořil soubor se záznamy o chybách. Zašlete prosím hlášení o chybě, abychom ji mohli opravit."
 
-#: ../src/util/XojMsgBox.cpp:100
+#: ../src/util/XojMsgBox.cpp:104
 msgid "There was an error displaying help: {1}"
 msgstr "Při zobrazování nápovědy došlo k chybě: {1}"
 
