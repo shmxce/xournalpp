@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-23 08:10+0000\n"
-"PO-Revision-Date: 2023-03-23 08:14\n"
+"POT-Creation-Date: 2023-03-24 16:05+0000\n"
+"PO-Revision-Date: 2023-03-24 16:10\n"
 "Last-Translator: \n"
 "Language-Team: Basque\n"
 "Language: eu_ES\n"
@@ -564,7 +564,7 @@ msgstr "Errorea automatikoki gordetzean: {1}"
 msgid "Error while exporting the pdf background: I cannot find the pdf page number "
 msgstr "Errore bat gertatu da pdf-aren atzeko planoa esportatzean: ezin dut aurkitu pdf orrialdearen zenbakia "
 
-#: ../src/util/Util.cpp:83
+#: ../src/util/Util.cpp:93
 msgid "Error {1} executing system command: {2}"
 msgstr "{1} errorea sistemaren komandoa exekutatzean: {2}"
 
@@ -1113,7 +1113,7 @@ msgstr "{1} tresna elementua kendu da tresna barratik {2} ID {3}"
 msgid "Rename layer"
 msgstr "Berrizendatu geruza"
 
-#: ../src/util/XojMsgBox.cpp:82
+#: ../src/util/XojMsgBox.cpp:86
 msgid "Replace"
 msgstr "Ordeztu"
 
@@ -1264,7 +1264,7 @@ msgstr "Hautatu testua pdf-an"
 msgid "Select another PDF"
 msgstr "Hautatu beste PDF"
 
-#: ../src/util/XojMsgBox.cpp:81
+#: ../src/util/XojMsgBox.cpp:85
 msgid "Select another name"
 msgstr "Hautatu beste izena"
 
@@ -1500,7 +1500,7 @@ msgstr "Xournal++-ek erroreko erregistro fitxategiak sortu ditu. Bidali akats tx
 msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
 msgstr "Xournal++-ek erroreko erregistro fitxategia sortu du. Bidali akats txostena errorea konpondu ahal izateko."
 
-#: ../src/util/XojMsgBox.cpp:100
+#: ../src/util/XojMsgBox.cpp:104
 msgid "There was an error displaying help: {1}"
 msgstr "Laguntza erakusteak huts egin du: {1}"
 
