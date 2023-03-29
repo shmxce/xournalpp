@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-24 16:05+0000\n"
-"PO-Revision-Date: 2023-03-24 16:11\n"
+"PO-Revision-Date: 2023-03-29 02:34\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -2661,7 +2661,7 @@ msgstr "全域範本檔案路徑"
 
 #: ../ui/settings.glade:3803
 msgid "Go Fullscreen"
-msgstr ""
+msgstr "切換為全螢幕"
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
@@ -3048,7 +3048,7 @@ msgstr "效能"
 
 #: ../ui/latexSettings.glade:564
 msgid "Pick the Editor's Font"
-msgstr ""
+msgstr "選擇編輯器字體"
 
 #: ../ui/settings.glade:6016
 msgid "Playback Settings"
@@ -3232,7 +3232,7 @@ msgstr "顯示浮動工具箱"
 
 #: ../ui/settings.glade:3672 ../ui/settings.glade:3755
 msgid "Show Menubar"
-msgstr ""
+msgstr "顯示選單列"
 
 #: ../ui/settings.glade:2825
 msgid "Show Menubar on Startup"
@@ -3244,7 +3244,7 @@ msgstr "顯示側邊欄"
 
 #: ../ui/settings.glade:3688 ../ui/settings.glade:3771
 msgid "Show Toolbar"
-msgstr ""
+msgstr "顯示工具列"
 
 #: ../ui/main.glade:605
 msgid "Show Toolbars"
@@ -3307,7 +3307,7 @@ msgstr "為選中文字添加刪除線"
 
 #: ../ui/settings.glade:5061
 msgid "Stroke Recognizer"
-msgstr ""
+msgstr "筆劃識別"
 
 #: ../ui/settings.glade:2055
 msgid "Stylus"
