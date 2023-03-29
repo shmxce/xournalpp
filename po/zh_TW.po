@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-24 16:05+0000\n"
-"PO-Revision-Date: 2023-03-29 02:34\n"
+"PO-Revision-Date: 2023-03-29 03:51\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -67,7 +67,7 @@ msgstr "<span foreground='red' size='x-large'>遺失必須的使用者界面檔�
 
 #: ../src/core/gui/PageView.cpp:939
 msgid "Add missing page"
-msgstr ""
+msgstr "新增遺失的頁面"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:513
 msgid "Add/Edit TeX"
@@ -195,7 +195,7 @@ msgstr "改變筆劃粗細"
 
 #: ../src/core/gui/menus/menubar/RecentDocumentsSubmenu.cpp:65
 msgid "Clear list"
-msgstr ""
+msgstr "清空列表"
 
 #: ../src/core/control/xojfile/LoadHandlerHelper.cpp:96
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
@@ -485,19 +485,19 @@ msgstr "編輯文本"
 
 #: ../src/util/ElementRange.cpp:101
 msgid "ElementRange::parse(): element indices start with 1"
-msgstr ""
+msgstr "ElementRange::parse(): 元素索引從 1 開始"
 
 #: ../src/util/ElementRange.cpp:95
 msgid "ElementRange::parse(): given element index is larger than maximum count."
-msgstr ""
+msgstr "PageRange::parse(): 指定頁碼已超出最大頁碼。"
 
 #: ../src/util/ElementRange.cpp:98
 msgid "ElementRange::parse(): interval bounds must be in increasing order."
-msgstr ""
+msgstr "PageRange::parse(): 區段間隔必須使用遞增形式。"
 
 #: ../src/util/ElementRange.cpp:91
 msgid "ElementRange::parse(): invalid element range."
-msgstr ""
+msgstr "PageRange::parse(): 無效的頁面範圍"
 
 #: ../src/core/undo/EmergencySaveRestore.cpp:22
 msgid "Emergency saved document"
@@ -658,7 +658,7 @@ msgstr "無法剖析 LaTeX 產生器指令: {1}"
 
 #: ../src/core/control/latex/LatexGenerator.cpp:60
 msgid "Failed to parse LaTeX generator path: {1}"
-msgstr ""
+msgstr "無法剖析 LaTeX 產生器路徑: {1}"
 
 #: ../src/core/control/LatexController.cpp:81
 msgid "Failed to read global template file. Please check your settings."
@@ -681,7 +681,7 @@ msgstr "填色"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:586
 msgid "Fill Opacity"
-msgstr ""
+msgstr "填充不透明度"
 
 #: ../src/core/gui/dialog/SettingsDialog.cpp:289
 msgid "Filter input pressure. Multiply the pressure by the pressure multiplier. If less than the minimum, use the minimum pressure."
@@ -709,7 +709,7 @@ msgstr "GNU 公用授權條款第 2 版或較後版本"
 
 #: ../src/core/gui/dialog/AboutDialog.cpp:39
 msgid "GTK Version"
-msgstr ""
+msgstr "GTK 版本"
 
 #: ../src/core/control/XournalMain.cpp:629
 msgid "Get version of xournalpp"
@@ -800,11 +800,11 @@ msgstr "於目前頁面下方加入複製頁面"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:95
 msgid "Insert after current page"
-msgstr ""
+msgstr "在目前頁面後插入"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:96
 msgid "Insert at end"
-msgstr ""
+msgstr "在結尾插入"
 
 #: ../src/core/undo/InsertUndoAction.cpp:82
 msgid "Insert elements"
@@ -932,7 +932,7 @@ msgstr "沒有可以添加的PDF頁面。您可能需要重新開啟文件檔。
 
 #: ../src/core/gui/menus/menubar/RecentDocumentsSubmenu.cpp:56
 msgid "No recent files"
-msgstr ""
+msgstr "沒有最近的檔案"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:128
 msgid "Normal drawing"
@@ -2516,7 +2516,7 @@ msgstr "複製"
 
 #: ../ui/main.glade:1243
 msgid "Duplicate Page"
-msgstr ""
+msgstr "複製頁面"
 
 #: ../ui/main.glade:2985
 msgid "Edit (not implemented yet)"
@@ -2899,7 +2899,7 @@ msgstr "最小壓力"
 
 #: ../ui/settings.glade:5020
 msgid "Minimum Stroke Size"
-msgstr ""
+msgstr "最小筆刷尺寸"
 
 #: ../ui/settings.glade:1460 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
@@ -2919,11 +2919,11 @@ msgstr "向下移動"
 
 #: ../ui/main.glade:490
 msgid "Move Selection Layer Down"
-msgstr ""
+msgstr "下移選取的圖層"
 
 #: ../ui/main.glade:480
 msgid "Move Selection Layer Up"
-msgstr ""
+msgstr "上移選取的圖層"
 
 #: ../ui/main.glade:2887 ../ui/main.glade:2962
 msgid "Move Up"
