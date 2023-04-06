@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-24 16:05+0000\n"
-"PO-Revision-Date: 2023-03-24 16:11\n"
+"PO-Revision-Date: 2023-04-06 03:36\n"
 "Last-Translator: \n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -3236,7 +3236,7 @@ msgstr "Kayan Araç Kutusunu Göster"
 
 #: ../ui/settings.glade:3672 ../ui/settings.glade:3755
 msgid "Show Menubar"
-msgstr ""
+msgstr "Menü Çubuğunu Göster"
 
 #: ../ui/settings.glade:2825
 msgid "Show Menubar on Startup"
@@ -3248,7 +3248,7 @@ msgstr "Kenar çubuğunu göster"
 
 #: ../ui/settings.glade:3688 ../ui/settings.glade:3771
 msgid "Show Toolbar"
-msgstr ""
+msgstr "Araç Çubuğunu Göster"
 
 #: ../ui/main.glade:605
 msgid "Show Toolbars"
@@ -3775,7 +3775,7 @@ msgstr "_Ağartarak"
 
 #: ../ui/settings.glade:4627
 msgid "disabled"
-msgstr ""
+msgstr "devre dışı"
 
 #: ../ui/exportSettings.glade:310
 msgid "dpi"
