@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-24 16:05+0000\n"
-"PO-Revision-Date: 2023-04-06 03:36\n"
+"PO-Revision-Date: 2023-04-06 04:55\n"
 "Last-Translator: \n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -67,7 +67,7 @@ msgstr "<span foreground='red' size='x-large'>Gerekli kullanıcı arayüzü dosy
 
 #: ../src/core/gui/PageView.cpp:939
 msgid "Add missing page"
-msgstr ""
+msgstr "Eksik sayfa ekle"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:513
 msgid "Add/Edit TeX"
@@ -162,7 +162,7 @@ msgstr "Öne getir"
 
 #: ../src/core/control/tools/EditSelection.cpp:405
 msgid "Bring to front"
-msgstr "En öne getir"
+msgstr "En Öne Getir"
 
 #: ../src/core/gui/dialog/AboutDialog.cpp:36
 msgid "Built on"
@@ -204,7 +204,7 @@ msgstr "Renk \"{1}\" bilinmiyor (varsayılan renk listesinde tanımlanmamış)!"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:541
 msgid "Compass"
-msgstr ""
+msgstr "Pusula"
 
 #: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:169
 msgid "Contents"
@@ -461,13 +461,13 @@ msgstr "Dikdörtgen Çiz"
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:46
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:530
 msgid "Draw Spline"
-msgstr "Oluk Çiz"
+msgstr "Eğri Çiz"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:138
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:42
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:528
 msgid "Draw coordinate system"
-msgstr "Koordinat sistemi çiz"
+msgstr "Koordinat Sistemi Çiz"
 
 #: ../src/core/undo/InsertUndoAction.cpp:33
 msgid "Draw stroke"
@@ -587,7 +587,7 @@ msgstr "Hata günlüğü silinemez. Elle yapmalısınız.\n"
 
 #: ../src/core/control/XournalMain.cpp:638
 msgid "Export FILE as PDF"
-msgstr "PDF olarak dışa aktar"
+msgstr "Dosyayı PDF Olarak Dışa Aktar"
 
 #: ../src/core/control/XournalMain.cpp:640
 msgid "Export FILE as image files (one per page)\n"
@@ -603,7 +603,7 @@ msgstr "PDF olarak dışa aktar"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:416
 msgid "Export as PDF"
-msgstr "PDF olarak dışa aktar"
+msgstr "PDF Olarak Dışa Aktar"
 
 #: ../src/core/control/XournalMain.cpp:654
 msgid "Export layers progressively\n"
@@ -692,7 +692,7 @@ msgstr "Basınç girişini filitrele. Basıncı, basınç çarpanıyla çarp. E�
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:605
 msgid "Fine"
-msgstr "İyi"
+msgstr "İnce"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:99
 msgid "Floating Toolbox (experimental)"
@@ -712,7 +712,7 @@ msgstr "GNU GPLv2 veya üstü"
 
 #: ../src/core/gui/dialog/AboutDialog.cpp:39
 msgid "GTK Version"
-msgstr ""
+msgstr "GTK Sürümü"
 
 #: ../src/core/control/XournalMain.cpp:629
 msgid "Get version of xournalpp"
@@ -807,7 +807,7 @@ msgstr ""
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:96
 msgid "Insert at end"
-msgstr ""
+msgstr "Sona ekle"
 
 #: ../src/core/undo/InsertUndoAction.cpp:82
 msgid "Insert elements"
@@ -918,7 +918,7 @@ msgstr "Sonraki"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:478
 msgid "Next annotated page"
-msgstr "Sonraki açıklamalı sayfa"
+msgstr "Sonraki Açıklamalı Sayfa"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:68
 msgid "No device"
@@ -1066,7 +1066,7 @@ msgstr "Önceden tanımlanmış"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:451
 msgid "Presentation mode"
-msgstr "Sunum modu"
+msgstr "Sunum kipi"
 
 #: ../src/core/gui/dialog/LanguageConfigGui.cpp:64
 msgid "Previously selected language not available anymore!"
@@ -1278,7 +1278,7 @@ msgstr ""
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:96
 msgid "Select multi layer region"
-msgstr ""
+msgstr "Çok katmanlı bölge seç"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:95
 msgid "Select rectangle"
@@ -1364,7 +1364,7 @@ msgstr "Üzgünüz, Xournal++ şu anda uzak dosyaları açamıyor.\n"
 
 #: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:58
 msgid "Spacer"
-msgstr ""
+msgstr "Ayırıcı"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:23
 msgid "Staves"
@@ -1599,7 +1599,7 @@ msgstr "Desteklenmeyen grafik biçimi: "
 
 #: ../src/core/control/Control.cpp:2351
 msgid "Use proposed PDF"
-msgstr "önerilen PDF'yi kullan"
+msgstr "Önerilen PDF'yi kullan"
 
 #: ../src/core/gui/dialog/AboutDialog.cpp:33
 msgid "Version"
@@ -1615,7 +1615,7 @@ msgstr "Dikey boşluk"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:604
 msgid "Very Fine"
-msgstr "Çok İyi"
+msgstr "Çok İnce"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:608
 msgid "Very Thick"
@@ -1824,7 +1824,7 @@ msgstr "parça noktası"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:318
 msgid "whiteout"
-msgstr "olmadan"
+msgstr "Beyazlat"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:1059
 msgid "xoj-File: {1}"
@@ -2044,7 +2044,7 @@ msgstr "<b>Sayfa boyutu</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:196
 msgid "<b>Separators</b>"
-msgstr ""
+msgstr "<b>Ayırıcılar</b>"
 
 #: ../ui/settings.glade:783
 msgid "<i>Assign device classes to each input device of your system. Only change these values if your devices are not correctly matched. (e.g. your pen shows up as touchscreen)</i>"
@@ -2199,7 +2199,7 @@ msgstr "Vuruş yok sayılmadan önce her üç koşul da yerine getirilmelidir.\n
 #: ../ui/settings.glade:1998
 msgctxt "eraser is always visible"
 msgid "Always"
-msgstr ""
+msgstr "Her zaman"
 
 #: ../ui/latexSettings.glade:45
 msgid "Always check LaTeX dependencies before running"
@@ -2223,7 +2223,7 @@ msgstr "Ses Aygıtları"
 
 #: ../ui/settings.glade:6062
 msgid "Audio Recording"
-msgstr "Ses Kaydediliyor"
+msgstr "Ses Kaydı"
 
 #: ../ui/pluginEntry.glade:57
 msgid "Author: "
@@ -2243,7 +2243,7 @@ msgstr "Otomatik algılama"
 
 #: ../ui/settings.glade:705
 msgid "Autoloading"
-msgstr "Otomatik Yükleniyor"
+msgstr "Otomatik Yükleme"
 
 #: ../ui/settings.glade:4647
 msgid "Automatically Add Empty Last Page (excluding PDFs)"
@@ -2251,7 +2251,7 @@ msgstr ""
 
 #: ../ui/settings.glade:462
 msgid "Autosaving"
-msgstr "Otomatik kayıt"
+msgstr "Otomatik Kayıt"
 
 #: ../ui/settings.glade:610
 msgid "Available Placeholders"
@@ -2280,7 +2280,7 @@ msgstr "Kenar Rengi"
 
 #: ../ui/settings.glade:3328
 msgid "Border Width"
-msgstr "Kenar Kalınlığı"
+msgstr "Kenar Genişliği"
 
 #: ../ui/settings.glade:2921
 msgid "Border color"
@@ -2292,11 +2292,11 @@ msgstr "Geçerli sayfa ve diğer seçimler için kenarlık rengi"
 
 #: ../ui/main.glade:321
 msgid "Bring Forward"
-msgstr "Bir öne getir"
+msgstr "Öne Getir"
 
 #: ../ui/main.glade:312
 msgid "Bring to Front"
-msgstr "En öne getir"
+msgstr "En Öne Getir"
 
 #: ../ui/settings.glade:1023
 msgid "Buffersize"
@@ -2496,7 +2496,7 @@ msgstr "Sürüklenme: Bu değer çok küçükse istenmeyen titremeler görünebi
 
 #: ../ui/main.glade:1540
 msgid "Draw Coordinate System"
-msgstr "Koordinat sistemi çiz"
+msgstr "Koordinat Sistemi Çiz"
 
 #: ../ui/main.glade:1551
 msgid "Draw _Line"
@@ -2592,7 +2592,7 @@ msgstr "Silgi Türü - değiştirmeyin"
 
 #: ../ui/settings.glade:2024
 msgid "Eraser visibility"
-msgstr ""
+msgstr "Silgi görünürlüğü"
 
 #: ../ui/exportSettings.glade:56
 msgid "Export"
@@ -2600,7 +2600,7 @@ msgstr "Dışa aktar"
 
 #: ../ui/main.glade:247
 msgid "Export as..."
-msgstr "Dışa farklı aktar..."
+msgstr "Dışa Farklı Aktar..."
 
 #: ../ui/exportSettings.glade:367
 msgid "Export layers progressively"
@@ -2621,7 +2621,7 @@ msgstr "Dolgu Opaklığı"
 
 #: ../ui/settings.glade:1228
 msgid "Finalize the stroke"
-msgstr "Vuruşları tamamla"
+msgstr "Konturları tamamla"
 
 #: ../ui/main.glade:2575
 msgid "Find next occurrence of the search string"
@@ -2653,7 +2653,7 @@ msgstr "Gauss parametresi: ne kadar yüksekse, o kadar stabil ve imleciniz ile b
 
 #: ../ui/latexSettings.glade:87
 msgid "General LaTeX tool settings"
-msgstr "Genel LaTeX ayarları"
+msgstr "Genel LaTeX Aracı Ayarları"
 
 #: ../ui/settings.glade:3107
 msgid "Global"
@@ -2665,7 +2665,7 @@ msgstr "Genel şablon dosyası yolu"
 
 #: ../ui/settings.glade:3803
 msgid "Go Fullscreen"
-msgstr ""
+msgstr "Tam Ekran Kipine Geç"
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
@@ -2813,7 +2813,7 @@ msgstr "LaTeX"
 
 #: ../ui/latexSettings.glade:354
 msgid "LaTeX executable settings"
-msgstr "LaTeX oluşturma ayarları"
+msgstr "LaTeX Çalıştırılabilir Ayarları"
 
 #: ../ui/latexSettings.glade:297
 msgid "LaTeX generation command"
@@ -2939,12 +2939,12 @@ msgstr "Seçilen öğenin ne kadarının görüş alanı dışında olduğuna ba
 
 #: ../ui/main.glade:1175
 msgid "N_ext Annotated Page"
-msgstr "_Sonraki açıklamalı sayfa"
+msgstr "_Sonraki Açıklamalı Sayfa"
 
 #: ../ui/settings.glade:1997
 msgctxt "eraser is never visible"
 msgid "Never"
-msgstr ""
+msgstr "Asla"
 
 #: ../ui/main.glade:1222
 msgid "New Page _After"
@@ -3002,7 +3002,7 @@ msgstr "PDF Önbellek"
 
 #: ../ui/main.glade:1186
 msgid "P_revious Annotated Page"
-msgstr "_Önceki açıklamalı Sayfa"
+msgstr "_Önceki Açıklamalı Sayfa"
 
 #: ../ui/exportSettings.glade:206
 msgid "Pages:"
@@ -3014,7 +3014,7 @@ msgstr "Eşlenmiş Sayfalar"
 
 #: ../ui/main.glade:1360
 msgid "Paper B_ackground"
-msgstr "Kağıt Ark_a planı"
+msgstr "Kağıt Ark_a Planı"
 
 #: ../ui/pagesize.glade:18
 msgid "Paper Format"
@@ -3088,7 +3088,7 @@ msgstr "Önişlemci"
 
 #: ../ui/settings.glade:3859
 msgid "Presentation Mode"
-msgstr "Sunum Modu"
+msgstr "Sunum Kipi"
 
 #: ../ui/settings.glade:4777
 msgid "Preserve line width"
@@ -3100,7 +3100,7 @@ msgstr "Basınç Çarpanı: "
 
 #: ../ui/settings.glade:1673
 msgid "Pressure Sensitivity"
-msgstr "Basınç hassasiyeti"
+msgstr "Basınç Hassasiyeti"
 
 #: ../ui/settings.glade:3276
 msgid "Radius"
@@ -3136,7 +3136,7 @@ msgstr "Seçili katmanı yeniden adlandır"
 
 #: ../ui/settings.glade:4824
 msgid "Resizing"
-msgstr "Yeniden boyutlandır"
+msgstr "Yeniden Boyutlandırma"
 
 #: ../ui/exportSettings.glade:26
 msgid "Resolution"
@@ -3216,7 +3216,7 @@ msgstr "En alta gönder"
 
 #: ../ui/settings.glade:1655
 msgid "Sensitivity Scale"
-msgstr "Hassaslık derecesi"
+msgstr "Hassasiyet Ölçeği"
 
 #: ../ui/main.glade:730
 msgid "Set Columns"
@@ -3244,7 +3244,7 @@ msgstr "Menü Çubuğunu Başlangıçta Göster"
 
 #: ../ui/main.glade:589 ../ui/settings.glade:3704 ../ui/settings.glade:3787
 msgid "Show Sidebar"
-msgstr "Kenar çubuğunu göster"
+msgstr "Kenar Çubuğunu Göster"
 
 #: ../ui/settings.glade:3688 ../ui/settings.glade:3771
 msgid "Show Toolbar"
@@ -3348,7 +3348,7 @@ msgstr "TeX Kaynağı"
 
 #: ../ui/latexSettings.glade:265
 msgid "Template file settings"
-msgstr "Şablon dosya ayarları"
+msgstr "Şablon Dosya Ayarları"
 
 #: ../ui/pagesize.glade:101
 msgid "Template:"
@@ -3404,7 +3404,7 @@ msgstr "Standart / bölge metin seçimini değiştir"
 
 #: ../ui/settings.glade:2666
 msgid "Touch Drawing"
-msgstr "Dokunarak çizme"
+msgstr "Dokunarak Çizme"
 
 #: ../ui/settings.glade:2734
 msgid "Touch Scrolling"
@@ -3413,7 +3413,7 @@ msgstr "Dokunarak Kaydır"
 #: ../ui/settings.glade:2141 ../ui/settings.glade:2765
 #: ../ui/settingsDeviceClassConfig.glade:46
 msgid "Touchscreen"
-msgstr "Dokunmatik ekran"
+msgstr "Dokunmatik Ekran"
 
 #: ../ui/settings.glade:5201
 msgid "Try to select object first."
@@ -3495,7 +3495,7 @@ msgstr "Yüksek çözünürlüklü bir PDF'e yakınlaştırıldığında, her ye
 
 #: ../ui/settingsButtonConfig.glade:131
 msgid "Whiteout"
-msgstr "Olmadan"
+msgstr "Beyazlat"
 
 #: ../ui/exportSettings.glade:29
 msgid "Width"
@@ -3595,7 +3595,7 @@ msgstr "_8 Satır"
 
 #: ../ui/main.glade:196
 msgid "_Annotate PDF"
-msgstr "PDF'ye _Açıklama ekleyin"
+msgstr "PDF'ye _Açıklama Ekle"
 
 #: ../ui/main.glade:702
 msgid "_Bottom to Top"
@@ -3627,7 +3627,7 @@ msgstr "_Silgi"
 
 #: ../ui/main.glade:237
 msgid "_Export as PDF"
-msgstr "PDF olarak dışa _aktar"
+msgstr "PDF Olarak Dışa _Aktar"
 
 #: ../ui/main.glade:152
 msgid "_File"
@@ -3699,7 +3699,7 @@ msgstr "E_klenti"
 
 #: ../ui/main.glade:567
 msgid "_Presentation Mode"
-msgstr "_Sunum Modu"
+msgstr "_Sunum Kipi"
 
 #: ../ui/main.glade:1137
 msgid "_Previous Layer"
@@ -3747,7 +3747,7 @@ msgstr "_Görünüm"
 
 #: ../ui/main.glade:1939
 msgid "_delete strokes"
-msgstr "_Çizgiyi sil"
+msgstr "_konturları sil"
 
 #: ../ui/main.glade:1721 ../ui/main.glade:1867 ../ui/main.glade:1976
 msgid "_fine"
@@ -3771,7 +3771,7 @@ msgstr "_Çok ince"
 
 #: ../ui/main.glade:1928
 msgid "_whiteout"
-msgstr "_Ağartarak"
+msgstr "_Beyazlat"
 
 #: ../ui/settings.glade:4627
 msgid "disabled"
@@ -3809,7 +3809,7 @@ msgstr "s <i>(bundan sonra dokunmatik ekran tekrar etkinleştirilecek)</i>"
 
 #: ../ui/main.glade:1754 ../ui/main.glade:1900 ../ui/main.glade:2009
 msgid "ver_y thick"
-msgstr "_çok kalın"
+msgstr "_Çok Kalın"
 
 #: ../ui/settings.glade:4612
 msgid "when drawing on last page"
