@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-24 16:05+0000\n"
-"PO-Revision-Date: 2023-03-24 16:10\n"
+"PO-Revision-Date: 2023-04-09 16:25\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -46,7 +46,7 @@ msgstr "%F-Note-%H-%M"
 
 #: ../src/core/control/settings/Settings.cpp:144
 msgid "%{name}_annotated"
-msgstr ""
+msgstr "%{name}_annoté"
 
 #: ../src/core/gui/dialog/SettingsDialog.cpp:166
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
@@ -1165,7 +1165,7 @@ msgstr "Enregistrer le fichier"
 
 #: ../src/core/control/jobs/SaveJob.cpp:117
 msgid "Save file error, can't backup: {1}"
-msgstr ""
+msgstr "Erreur lors de l'enregistrement du fichier, impossible de sauvegarder : {1}"
 
 #: ../src/core/control/jobs/CustomExportJob.cpp:125
 #: ../src/core/control/jobs/SaveJob.cpp:131
@@ -1204,18 +1204,18 @@ msgstr "Sélectionner des lignes de texte PDF"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:535
 msgid "Select Multi-Layer Rect"
-msgstr ""
+msgstr "Sélectionner Rect Multi-Layer"
 
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:24
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:76
 msgid "Select Multi-Layer Rectangle"
-msgstr ""
+msgstr "Sélectionner le Rectangle Multi-Couche"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:534
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:82
 msgid "Select Multi-Layer Region"
-msgstr ""
+msgstr "Sélectionnez la région Multi-Layer"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:536
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:26
@@ -1278,11 +1278,11 @@ msgstr "Choisir la couleur"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:97
 msgid "Select multi layer rect"
-msgstr ""
+msgstr "Sélectionner le rectangle multi-couches"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:96
 msgid "Select multi layer region"
-msgstr ""
+msgstr "Sélectionner la région multi-couches"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:95
 msgid "Select rectangle"
@@ -1368,7 +1368,7 @@ msgstr "Désolé, Xournal++ ne peut pas ouvrir des fichiers distants pour le mom
 
 #: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:58
 msgid "Spacer"
-msgstr ""
+msgstr "Espaceur"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:23
 msgid "Staves"
@@ -1452,7 +1452,7 @@ msgstr "Le fichier d'arrière-plan attaché est introuvable. Il a peut-être ét
 
 #: ../src/core/control/XournalMain.cpp:244
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted."
-msgstr ""
+msgstr "Le fichier d'arrière-plan \"{1}\" n'a pas pu être trouvé. Il a peut-être été déplacé, renommé ou supprimé."
 
 #: ../src/core/control/Control.cpp:2333
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
@@ -2048,7 +2048,7 @@ msgstr "<b>Taille de page</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:196
 msgid "<b>Separators</b>"
-msgstr ""
+msgstr "<b>Séparateurs</b>"
 
 #: ../ui/settings.glade:783
 msgid "<i>Assign device classes to each input device of your system. Only change these values if your devices are not correctly matched. (e.g. your pen shows up as touchscreen)</i>"
@@ -2203,7 +2203,7 @@ msgstr "Toutes les trois conditions doivent être remplies avant que le trait ne
 #: ../ui/settings.glade:1998
 msgctxt "eraser is always visible"
 msgid "Always"
-msgstr ""
+msgstr "Toujours"
 
 #: ../ui/latexSettings.glade:45
 msgid "Always check LaTeX dependencies before running"
@@ -2596,7 +2596,7 @@ msgstr "Type d’effaceur - ne pas changer"
 
 #: ../ui/settings.glade:2024
 msgid "Eraser visibility"
-msgstr ""
+msgstr "Visibilité de la gomme"
 
 #: ../ui/exportSettings.glade:56
 msgid "Export"
@@ -2948,7 +2948,7 @@ msgstr "Page annotée suivante"
 #: ../ui/settings.glade:1997
 msgctxt "eraser is never visible"
 msgid "Never"
-msgstr ""
+msgstr "Jamais"
 
 #: ../ui/main.glade:1222
 msgid "New Page _After"
@@ -3489,7 +3489,7 @@ msgstr ""
 #: ../ui/settings.glade:2000
 msgctxt "eraser is only visible when touching the screen"
 msgid "When touching"
-msgstr ""
+msgstr "Lorsque vous touchez"
 
 #: ../ui/settings.glade:5312
 msgid "When zoomed in on a high-resolution PDF, each re-render can take a long time. Setting this to a large value causes these re-renders to happen less often.\n\n"
