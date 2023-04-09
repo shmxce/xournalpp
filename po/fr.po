@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-24 16:05+0000\n"
-"PO-Revision-Date: 2023-04-09 16:25\n"
+"PO-Revision-Date: 2023-04-09 17:22\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -3327,7 +3327,7 @@ msgstr "Boutons du stylet"
 
 #: ../ui/settings.glade:1981
 msgid "Stylus-based eraser is visible"
-msgstr ""
+msgstr "La gomme de stylet est visible"
 
 #: ../ui/settings.glade:5172
 msgid "Successive (ms)"
@@ -3484,7 +3484,7 @@ msgstr "Lorsque vous dessinez au toucher, les gestes de deux doigts destinés à
 #: ../ui/settings.glade:1999
 msgctxt "eraser is only visible when floating"
 msgid "When floating"
-msgstr ""
+msgstr "En flottant"
 
 #: ../ui/settings.glade:2000
 msgctxt "eraser is only visible when touching the screen"
