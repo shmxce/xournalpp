@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-24 16:05+0000\n"
-"PO-Revision-Date: 2023-03-24 16:10\n"
+"POT-Creation-Date: 2023-04-10 11:35+0000\n"
+"PO-Revision-Date: 2023-04-10 11:39\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -247,20 +247,20 @@ msgstr "Nu s-a putut încărca fișierul pagetemplates.ini"
 msgid "Could not open attachment: {1}. Error message: Could not read file"
 msgstr "Fișierul atașat nu a putut fi deschis: {1}. Mesaj de eroare: Nu s-a putut citi fișierul"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:856
+#: ../src/core/control/xojfile/LoadHandler.cpp:855
 msgid "Could not open attachment: {1}. Error message: Could not write file"
 msgstr "Fișierul atașat nu a putut fi deschis: {1}. Mesaj de eroare: Nu s-a putut scrie fișierul"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:826
-#: ../src/core/control/xojfile/LoadHandler.cpp:1156
-#: ../src/core/control/xojfile/LoadHandler.cpp:1174
+#: ../src/core/control/xojfile/LoadHandler.cpp:827
+#: ../src/core/control/xojfile/LoadHandler.cpp:1155
+#: ../src/core/control/xojfile/LoadHandler.cpp:1173
 msgid "Could not open attachment: {1}. Error message: No valid file size provided"
 msgstr "Fișierul atașat nu a putut fi deschis: {1}. Mesaj de eroare: Nicio dimensiune validă a fișierului furnizată"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:817
-#: ../src/core/control/xojfile/LoadHandler.cpp:833
-#: ../src/core/control/xojfile/LoadHandler.cpp:1149
-#: ../src/core/control/xojfile/LoadHandler.cpp:1163
+#: ../src/core/control/xojfile/LoadHandler.cpp:818
+#: ../src/core/control/xojfile/LoadHandler.cpp:834
+#: ../src/core/control/xojfile/LoadHandler.cpp:1148
+#: ../src/core/control/xojfile/LoadHandler.cpp:1162
 msgid "Could not open attachment: {1}. Error message: {2}"
 msgstr "Fișierul atașat nu a putut fi deschis: {1}. Mesaj de eroare: {2}"
 
@@ -307,7 +307,7 @@ msgstr "Nu s-a putut elimina instrumentul {1} din banda cu instrumente {2} pozi�
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
 msgstr "Nu s-a putut redenumi fișierul salvat automat din „{1}” în „{2}”: {3}"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:90
+#: ../src/core/control/latex/LatexGenerator.cpp:91
 msgid "Could not save .tex file: {1}"
 msgstr "Nu s-a putut salva fișierul .tex: {1}"
 
@@ -418,8 +418,8 @@ msgstr "Documentul este deteriorat (nu s-au găsit pagini în fișier)"
 msgid "Document is not complete (maybe the end is cut off?)"
 msgstr "Documentul nu este complet (poate finalul este tăiat)"
 
-#: ../src/core/model/Document.cpp:303 ../src/core/model/Document.cpp:312
-#: ../src/core/model/Document.cpp:315
+#: ../src/core/model/Document.cpp:305 ../src/core/model/Document.cpp:314
+#: ../src/core/model/Document.cpp:317
 msgid "Document not loaded! ({1}), {2}"
 msgstr "Documentul nu a fost încărcat! ({1}), {2}"
 
@@ -632,11 +632,11 @@ msgid "Export without ruling\n"
 msgstr "Exportă fără liniere\n"
 "                                 Fișierul exportat nu are hârtia liniată\n"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:82
+#: ../src/core/control/latex/LatexGenerator.cpp:83
 msgid "Failed to find LaTeX generator program in PATH: {1}"
 msgstr "Nu s-a putut găsi programul de generare LaTeX cu calea: {1}"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:77
+#: ../src/core/control/latex/LatexGenerator.cpp:78
 msgid "Failed to find LaTeX generator program in PATH: {1}\n\n"
 "Since installation is detected within Flatpak, you need to install the Flatpak freedesktop Tex Live extension. For example, by running:\n\n"
 "$ flatpak install flathub org.freedesktop.Sdk.Extension.texlive"
@@ -657,11 +657,11 @@ msgstr "Nu s-a putut încărca imaginea, nu s-a putut stabili mărimea imaginii!
 msgid "Failed to open content.xml in zip archive: \"{1}\""
 msgstr "Nu s-a putut deschide content.xml în arhiva zip: „{1}”"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:71
+#: ../src/core/control/latex/LatexGenerator.cpp:72
 msgid "Failed to parse LaTeX generator command: {1}"
 msgstr "Nu s-a reușit analizarea comenzii de generare LaTeX: {1}"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:60
+#: ../src/core/control/latex/LatexGenerator.cpp:61
 msgid "Failed to parse LaTeX generator path: {1}"
 msgstr "Nu s-a reușit analizarea căii generatorului LaTeX: {1}"
 
@@ -990,7 +990,7 @@ msgstr "Pagina PDF {1}"
 msgid "PDF background missing"
 msgstr "Fond PDF lipsă"
 
-#: ../src/core/control/ExportHelper.cpp:121
+#: ../src/core/control/ExportHelper.cpp:120
 msgid "PDF file successfully created"
 msgstr "Fişierul PDF a fost creat cu succes"
 
@@ -1117,7 +1117,7 @@ msgstr "Redenumește stratul"
 msgid "Replace"
 msgstr "Înlocuiește"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1193
+#: ../src/core/control/xojfile/LoadHandler.cpp:1192
 msgid "Requested temporary file was not found for attachment {1}"
 msgstr "Fișierul temporar solicitat nu a fost găsit pentru atașamentul {1}"
 
@@ -1633,11 +1633,11 @@ msgstr "Cu fond PDF"
 msgid "Write text"
 msgstr "Scrie text"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1043
+#: ../src/core/control/xojfile/LoadHandler.cpp:1042
 msgid "Wrong count of points ({1})"
 msgstr "Număr greșit de puncte ({1})"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1060
+#: ../src/core/control/xojfile/LoadHandler.cpp:1059
 msgid "Wrong number of pressure values, got {1}, expected {2}"
 msgstr "Numărul de valori ale presiunii este greșit; date {1}, așteptate {2}"
 
@@ -1830,7 +1830,7 @@ msgstr "trackpoint"
 msgid "whiteout"
 msgstr "albește"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1059
+#: ../src/core/control/xojfile/LoadHandler.cpp:1058
 msgid "xoj-File: {1}"
 msgstr "xoj-Fișier: {1}"
 
