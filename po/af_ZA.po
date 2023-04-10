@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-24 16:05+0000\n"
-"PO-Revision-Date: 2023-03-24 16:10\n"
+"POT-Creation-Date: 2023-04-10 11:35+0000\n"
+"PO-Revision-Date: 2023-04-10 11:39\n"
 "Last-Translator: \n"
 "Language-Team: Afrikaans\n"
 "Language: af_ZA\n"
@@ -245,20 +245,20 @@ msgstr "Kon nie pagetemplates.ini lêer laai nie"
 msgid "Could not open attachment: {1}. Error message: Could not read file"
 msgstr "Kon nie aangehegde oop maak nie: {1}. Foutboodskap: Kon nie lêer lees nie"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:856
+#: ../src/core/control/xojfile/LoadHandler.cpp:855
 msgid "Could not open attachment: {1}. Error message: Could not write file"
 msgstr "Kon nie aangehegde oop maak nie: {1}. Foutboodskap: Kon nie lêer skryf nie"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:826
-#: ../src/core/control/xojfile/LoadHandler.cpp:1156
-#: ../src/core/control/xojfile/LoadHandler.cpp:1174
+#: ../src/core/control/xojfile/LoadHandler.cpp:827
+#: ../src/core/control/xojfile/LoadHandler.cpp:1155
+#: ../src/core/control/xojfile/LoadHandler.cpp:1173
 msgid "Could not open attachment: {1}. Error message: No valid file size provided"
 msgstr "Kon nie aangehegde oop maak nie: {1}. Foutboodskap: Geen geldige lêer grote gegee nie"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:817
-#: ../src/core/control/xojfile/LoadHandler.cpp:833
-#: ../src/core/control/xojfile/LoadHandler.cpp:1149
-#: ../src/core/control/xojfile/LoadHandler.cpp:1163
+#: ../src/core/control/xojfile/LoadHandler.cpp:818
+#: ../src/core/control/xojfile/LoadHandler.cpp:834
+#: ../src/core/control/xojfile/LoadHandler.cpp:1148
+#: ../src/core/control/xojfile/LoadHandler.cpp:1162
 msgid "Could not open attachment: {1}. Error message: {2}"
 msgstr "Kon nie aangehegde oop maak nie: {1}. Foutboodskap: {2}"
 
@@ -305,7 +305,7 @@ msgstr "Kon nie werktuig item {1} van Taakbalk {2} op posisie {3} verwyder nie"
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
 msgstr "Kon nie autosave lêer vernoem van \"{1}\" na \"{2}\": {3}"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:90
+#: ../src/core/control/latex/LatexGenerator.cpp:91
 msgid "Could not save .tex file: {1}"
 msgstr "Kon nie .tex lêer save nie: {1}"
 
@@ -416,8 +416,8 @@ msgstr "Dokument is beskadig (geen blaaie gevind in die lêer nie)"
 msgid "Document is not complete (maybe the end is cut off?)"
 msgstr "Dokument is onvoltooi (dalk is die einde afgesny?)"
 
-#: ../src/core/model/Document.cpp:303 ../src/core/model/Document.cpp:312
-#: ../src/core/model/Document.cpp:315
+#: ../src/core/model/Document.cpp:305 ../src/core/model/Document.cpp:314
+#: ../src/core/model/Document.cpp:317
 msgid "Document not loaded! ({1}), {2}"
 msgstr "Dokument is nie gelaai nie! ({1}), {2}"
 
@@ -630,11 +630,11 @@ msgid "Export without ruling\n"
 msgstr "Voer uit sonder lyne\n"
 "                                 Die uitgevoerde lêer het nie papier lyne nie\n"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:82
+#: ../src/core/control/latex/LatexGenerator.cpp:83
 msgid "Failed to find LaTeX generator program in PATH: {1}"
 msgstr "Kon nie LaTeX generator program in PATH vind nie: {1}"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:77
+#: ../src/core/control/latex/LatexGenerator.cpp:78
 msgid "Failed to find LaTeX generator program in PATH: {1}\n\n"
 "Since installation is detected within Flatpak, you need to install the Flatpak freedesktop Tex Live extension. For example, by running:\n\n"
 "$ flatpak install flathub org.freedesktop.Sdk.Extension.texlive"
@@ -653,11 +653,11 @@ msgstr "Beeld laai misluk, kon nie die beeld grootte bepaal nie!"
 msgid "Failed to open content.xml in zip archive: \"{1}\""
 msgstr "Misluk om content.xml in zip argief oop te maak: \"{1}\""
 
-#: ../src/core/control/latex/LatexGenerator.cpp:71
+#: ../src/core/control/latex/LatexGenerator.cpp:72
 msgid "Failed to parse LaTeX generator command: {1}"
 msgstr "Kon nie LaTeX generator bevel ontleed nie: {1}"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:60
+#: ../src/core/control/latex/LatexGenerator.cpp:61
 msgid "Failed to parse LaTeX generator path: {1}"
 msgstr "Misluk om LaTeX genereerder pad te ontleed: {1}"
 
@@ -985,7 +985,7 @@ msgstr "PDF Bladsy {1}"
 msgid "PDF background missing"
 msgstr "PDF agtergrond nie beskikbaar nie"
 
-#: ../src/core/control/ExportHelper.cpp:121
+#: ../src/core/control/ExportHelper.cpp:120
 msgid "PDF file successfully created"
 msgstr "PDF lêer suksesvol geskep"
 
@@ -1112,7 +1112,7 @@ msgstr "Hernoem laag"
 msgid "Replace"
 msgstr "Vervang"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1193
+#: ../src/core/control/xojfile/LoadHandler.cpp:1192
 msgid "Requested temporary file was not found for attachment {1}"
 msgstr "Aangevraagde tydelike lêer was nie gevind vir aanhegting {1} nie"
 
@@ -1627,11 +1627,11 @@ msgstr "Met PDF agtergrond"
 msgid "Write text"
 msgstr "Skryf teks"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1043
+#: ../src/core/control/xojfile/LoadHandler.cpp:1042
 msgid "Wrong count of points ({1})"
 msgstr "Verkeerde tel van punte ({1})"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1060
+#: ../src/core/control/xojfile/LoadHandler.cpp:1059
 msgid "Wrong number of pressure values, got {1}, expected {2}"
 msgstr ""
 
@@ -1821,7 +1821,7 @@ msgstr ""
 msgid "whiteout"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1059
+#: ../src/core/control/xojfile/LoadHandler.cpp:1058
 msgid "xoj-File: {1}"
 msgstr ""
 
