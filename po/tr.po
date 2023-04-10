@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-24 16:05+0000\n"
-"PO-Revision-Date: 2023-04-06 04:55\n"
+"PO-Revision-Date: 2023-04-10 02:08\n"
 "Last-Translator: \n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -648,7 +648,7 @@ msgstr "PDF Cairo eklentisi başlatılırken hata meydana geldi"
 
 #: ../src/core/control/tools/ImageHandler.cpp:71
 msgid "Failed to load image, could not determine image size!"
-msgstr ""
+msgstr "Resim yüklenemedi, resim boyutu belirlenemedi!"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:179
 msgid "Failed to open content.xml in zip archive: \"{1}\""
@@ -803,7 +803,7 @@ msgstr "Geçerli sayfanın bir kopyasını aşağıya ekle"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:95
 msgid "Insert after current page"
-msgstr ""
+msgstr "Geçerli sayfadan sonra ekle"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:96
 msgid "Insert at end"
