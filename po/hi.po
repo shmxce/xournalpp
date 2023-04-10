@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-24 16:05+0000\n"
-"PO-Revision-Date: 2023-03-24 16:11\n"
+"POT-Creation-Date: 2023-04-10 11:35+0000\n"
+"PO-Revision-Date: 2023-04-10 11:39\n"
 "Last-Translator: \n"
 "Language-Team: Hindi\n"
 "Language: hi_IN\n"
@@ -245,20 +245,20 @@ msgstr "pagetemplates.ini फ़ाइल लोड नहीं कर सक�
 msgid "Could not open attachment: {1}. Error message: Could not read file"
 msgstr "{1} नहीं खुल सकता। त्रुटि संदेश: फ़ाइल को नहीं पढ़ सकता"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:856
+#: ../src/core/control/xojfile/LoadHandler.cpp:855
 msgid "Could not open attachment: {1}. Error message: Could not write file"
 msgstr "नहीं खुल सकता: {1}। त्रुटि संदेश: फ़ाइल नहीं लिख सकता"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:826
-#: ../src/core/control/xojfile/LoadHandler.cpp:1156
-#: ../src/core/control/xojfile/LoadHandler.cpp:1174
+#: ../src/core/control/xojfile/LoadHandler.cpp:827
+#: ../src/core/control/xojfile/LoadHandler.cpp:1155
+#: ../src/core/control/xojfile/LoadHandler.cpp:1173
 msgid "Could not open attachment: {1}. Error message: No valid file size provided"
 msgstr "नहीं खुल सकता: {1}। त्रुटि संदेश: उपलब्ध नहीं है"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:817
-#: ../src/core/control/xojfile/LoadHandler.cpp:833
-#: ../src/core/control/xojfile/LoadHandler.cpp:1149
-#: ../src/core/control/xojfile/LoadHandler.cpp:1163
+#: ../src/core/control/xojfile/LoadHandler.cpp:818
+#: ../src/core/control/xojfile/LoadHandler.cpp:834
+#: ../src/core/control/xojfile/LoadHandler.cpp:1148
+#: ../src/core/control/xojfile/LoadHandler.cpp:1162
 msgid "Could not open attachment: {1}. Error message: {2}"
 msgstr "Could not open attachment: {1}. Error message: {2}"
 
@@ -305,7 +305,7 @@ msgstr "टूलबार {2} से टूल आइटम {1} को पो�
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
 msgstr "{1} से {2} तक ऑटोसेव फ़ाइल का नाम बदल नहीं सकता: {3}"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:90
+#: ../src/core/control/latex/LatexGenerator.cpp:91
 msgid "Could not save .tex file: {1}"
 msgstr ".tex फ़ाइल को नहीं सहेज सकता: {1}"
 
@@ -415,8 +415,8 @@ msgstr "दस्तावेज अपमिश्रित (दस्ताव
 msgid "Document is not complete (maybe the end is cut off?)"
 msgstr ""
 
-#: ../src/core/model/Document.cpp:303 ../src/core/model/Document.cpp:312
-#: ../src/core/model/Document.cpp:315
+#: ../src/core/model/Document.cpp:305 ../src/core/model/Document.cpp:314
+#: ../src/core/model/Document.cpp:317
 msgid "Document not loaded! ({1}), {2}"
 msgstr ""
 
@@ -618,11 +618,11 @@ msgid "Export without ruling\n"
 "                                 The exported file has no paper ruling\n"
 msgstr ""
 
-#: ../src/core/control/latex/LatexGenerator.cpp:82
+#: ../src/core/control/latex/LatexGenerator.cpp:83
 msgid "Failed to find LaTeX generator program in PATH: {1}"
 msgstr ""
 
-#: ../src/core/control/latex/LatexGenerator.cpp:77
+#: ../src/core/control/latex/LatexGenerator.cpp:78
 msgid "Failed to find LaTeX generator program in PATH: {1}\n\n"
 "Since installation is detected within Flatpak, you need to install the Flatpak freedesktop Tex Live extension. For example, by running:\n\n"
 "$ flatpak install flathub org.freedesktop.Sdk.Extension.texlive"
@@ -641,11 +641,11 @@ msgstr ""
 msgid "Failed to open content.xml in zip archive: \"{1}\""
 msgstr ""
 
-#: ../src/core/control/latex/LatexGenerator.cpp:71
+#: ../src/core/control/latex/LatexGenerator.cpp:72
 msgid "Failed to parse LaTeX generator command: {1}"
 msgstr ""
 
-#: ../src/core/control/latex/LatexGenerator.cpp:60
+#: ../src/core/control/latex/LatexGenerator.cpp:61
 msgid "Failed to parse LaTeX generator path: {1}"
 msgstr ""
 
@@ -970,7 +970,7 @@ msgstr ""
 msgid "PDF background missing"
 msgstr ""
 
-#: ../src/core/control/ExportHelper.cpp:121
+#: ../src/core/control/ExportHelper.cpp:120
 msgid "PDF file successfully created"
 msgstr ""
 
@@ -1097,7 +1097,7 @@ msgstr ""
 msgid "Replace"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1193
+#: ../src/core/control/xojfile/LoadHandler.cpp:1192
 msgid "Requested temporary file was not found for attachment {1}"
 msgstr "अनुरोधित अस्थायी फ़ाइल संलग्नक के लिए नहीं मिली थी {1}"
 
@@ -1612,11 +1612,11 @@ msgstr ""
 msgid "Write text"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1043
+#: ../src/core/control/xojfile/LoadHandler.cpp:1042
 msgid "Wrong count of points ({1})"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1060
+#: ../src/core/control/xojfile/LoadHandler.cpp:1059
 msgid "Wrong number of pressure values, got {1}, expected {2}"
 msgstr ""
 
@@ -1809,7 +1809,7 @@ msgstr ""
 msgid "whiteout"
 msgstr ""
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1059
+#: ../src/core/control/xojfile/LoadHandler.cpp:1058
 msgid "xoj-File: {1}"
 msgstr ""
 
