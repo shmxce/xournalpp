@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-03-24 16:05+0000\n"
-"PO-Revision-Date: 2023-03-24 16:10\n"
+"POT-Creation-Date: 2023-04-10 11:35+0000\n"
+"PO-Revision-Date: 2023-04-10 11:39\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -247,20 +247,20 @@ msgstr "Не удалось загрузить файл pagetemplates.ini"
 msgid "Could not open attachment: {1}. Error message: Could not read file"
 msgstr "Не удалось открыть вложение: {1}. Сообщение об ошибке: Не удалось прочитать файл"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:856
+#: ../src/core/control/xojfile/LoadHandler.cpp:855
 msgid "Could not open attachment: {1}. Error message: Could not write file"
 msgstr "Не удалось открыть вложение: {1}. Сообщение об ошибке: Не удалось записать файл"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:826
-#: ../src/core/control/xojfile/LoadHandler.cpp:1156
-#: ../src/core/control/xojfile/LoadHandler.cpp:1174
+#: ../src/core/control/xojfile/LoadHandler.cpp:827
+#: ../src/core/control/xojfile/LoadHandler.cpp:1155
+#: ../src/core/control/xojfile/LoadHandler.cpp:1173
 msgid "Could not open attachment: {1}. Error message: No valid file size provided"
 msgstr "Не удалось открыть вложение: {1}. Сообщение об ошибке: недопустимый размер файла"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:817
-#: ../src/core/control/xojfile/LoadHandler.cpp:833
-#: ../src/core/control/xojfile/LoadHandler.cpp:1149
-#: ../src/core/control/xojfile/LoadHandler.cpp:1163
+#: ../src/core/control/xojfile/LoadHandler.cpp:818
+#: ../src/core/control/xojfile/LoadHandler.cpp:834
+#: ../src/core/control/xojfile/LoadHandler.cpp:1148
+#: ../src/core/control/xojfile/LoadHandler.cpp:1162
 msgid "Could not open attachment: {1}. Error message: {2}"
 msgstr "Не удалось открыть вложение: {1}. Сообщение об ошибке: {2}"
 
@@ -307,7 +307,7 @@ msgstr "Не удалось удалить элемент инструмента
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
 msgstr "Не удалось переименовать файл автосохранения из «{1}» в «{2}»: {3}"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:90
+#: ../src/core/control/latex/LatexGenerator.cpp:91
 msgid "Could not save .tex file: {1}"
 msgstr "Не удалось сохранить .tex файл: {1}"
 
@@ -418,8 +418,8 @@ msgstr "Документ повреждён (в файле не найдено �
 msgid "Document is not complete (maybe the end is cut off?)"
 msgstr "Документ не завершён (его конец, вероятно, обрезан)"
 
-#: ../src/core/model/Document.cpp:303 ../src/core/model/Document.cpp:312
-#: ../src/core/model/Document.cpp:315
+#: ../src/core/model/Document.cpp:305 ../src/core/model/Document.cpp:314
+#: ../src/core/model/Document.cpp:317
 msgid "Document not loaded! ({1}), {2}"
 msgstr "Документ не загружен! ({1}), {2}"
 
@@ -632,11 +632,11 @@ msgid "Export without ruling\n"
 msgstr "Экспорт без линования\n"
 "                                 Экспортированный файл не разлинован\n"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:82
+#: ../src/core/control/latex/LatexGenerator.cpp:83
 msgid "Failed to find LaTeX generator program in PATH: {1}"
 msgstr "Не удалось найти программу генератора LaTeX в PATH: {1}"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:77
+#: ../src/core/control/latex/LatexGenerator.cpp:78
 msgid "Failed to find LaTeX generator program in PATH: {1}\n\n"
 "Since installation is detected within Flatpak, you need to install the Flatpak freedesktop Tex Live extension. For example, by running:\n\n"
 "$ flatpak install flathub org.freedesktop.Sdk.Extension.texlive"
@@ -657,11 +657,11 @@ msgstr "Не удалось загрузить изображение, нево�
 msgid "Failed to open content.xml in zip archive: \"{1}\""
 msgstr "Не удалось открыть content.xml в zip-архиве: \"{1}\""
 
-#: ../src/core/control/latex/LatexGenerator.cpp:71
+#: ../src/core/control/latex/LatexGenerator.cpp:72
 msgid "Failed to parse LaTeX generator command: {1}"
 msgstr "Не удалось интерпретировать команду генератора LaTeX: {1}"
 
-#: ../src/core/control/latex/LatexGenerator.cpp:60
+#: ../src/core/control/latex/LatexGenerator.cpp:61
 msgid "Failed to parse LaTeX generator path: {1}"
 msgstr "Не удалось проанализировать путь генератора LaTeX: {1}"
 
@@ -989,7 +989,7 @@ msgstr "PDF страница {1}"
 msgid "PDF background missing"
 msgstr "Отсутствует PDF фон"
 
-#: ../src/core/control/ExportHelper.cpp:121
+#: ../src/core/control/ExportHelper.cpp:120
 msgid "PDF file successfully created"
 msgstr "PDF файл успешно создан"
 
@@ -1116,7 +1116,7 @@ msgstr "Переименовать слой"
 msgid "Replace"
 msgstr "Заменить"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1193
+#: ../src/core/control/xojfile/LoadHandler.cpp:1192
 msgid "Requested temporary file was not found for attachment {1}"
 msgstr "Запрошенный временный файл не найден для вложения {1}"
 
@@ -1631,11 +1631,11 @@ msgstr "С PDF фоном"
 msgid "Write text"
 msgstr "Написать текст"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1043
+#: ../src/core/control/xojfile/LoadHandler.cpp:1042
 msgid "Wrong count of points ({1})"
 msgstr "Неправильное количество точек ({1})"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1060
+#: ../src/core/control/xojfile/LoadHandler.cpp:1059
 msgid "Wrong number of pressure values, got {1}, expected {2}"
 msgstr ""
 
@@ -1828,7 +1828,7 @@ msgstr "trackpoint"
 msgid "whiteout"
 msgstr "забеливание"
 
-#: ../src/core/control/xojfile/LoadHandler.cpp:1059
+#: ../src/core/control/xojfile/LoadHandler.cpp:1058
 msgid "xoj-File: {1}"
 msgstr "Файл xoj: {1}"
 
