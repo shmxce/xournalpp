@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-03-24 16:05+0000\n"
-"PO-Revision-Date: 2023-03-24 16:10\n"
+"PO-Revision-Date: 2023-04-10 07:19\n"
 "Last-Translator: \n"
 "Language-Team: Basque\n"
 "Language: eu_ES\n"
@@ -1165,7 +1165,7 @@ msgstr "Gorde fitxategia"
 
 #: ../src/core/control/jobs/SaveJob.cpp:117
 msgid "Save file error, can't backup: {1}"
-msgstr ""
+msgstr "Fitxategiaren gordetze errorea, ezin da babeskopia egin: {1}"
 
 #: ../src/core/control/jobs/CustomExportJob.cpp:125
 #: ../src/core/control/jobs/SaveJob.cpp:131
@@ -1368,7 +1368,7 @@ msgstr "Xournal++-ek ezin du urruneko fitxategirik ireki momentuz.\n"
 
 #: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:58
 msgid "Spacer"
-msgstr ""
+msgstr "Bereizlea"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:23
 msgid "Staves"
