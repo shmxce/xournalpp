@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-10 11:35+0000\n"
-"PO-Revision-Date: 2023-04-10 11:39\n"
+"POT-Creation-Date: 2023-04-11 19:31+0000\n"
+"PO-Revision-Date: 2023-04-11 19:37\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional, Hong Kong\n"
 "Language: zh_HK\n"
@@ -29,7 +29,7 @@ msgid "\n"
 msgstr "\n"
 "是否繼續?"
 
-#: ../src/core/control/Control.cpp:2343
+#: ../src/core/control/Control.cpp:2319
 msgid "\n"
 "Proposed replacement file: \"{1}\""
 msgstr ""
@@ -65,7 +65,7 @@ msgstr "<span foreground='red' size='x-large'>遺失必須的使用者界面檔�
 "  不在工作目錄\n"
 "  不在 {2}"
 
-#: ../src/core/gui/PageView.cpp:939
+#: ../src/core/gui/PageView.cpp:938
 msgid "Add missing page"
 msgstr ""
 
@@ -168,7 +168,7 @@ msgstr ""
 msgid "Built on"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2355 ../src/core/control/Control.cpp:2832
+#: ../src/core/control/Control.cpp:2331 ../src/core/control/Control.cpp:2808
 #: ../src/core/control/XournalMain.cpp:176
 #: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
@@ -384,7 +384,7 @@ msgstr "刪除此層"
 msgid "Delete this page"
 msgstr "刪除此頁"
 
-#: ../src/core/control/Control.cpp:2829
+#: ../src/core/control/Control.cpp:2805
 msgid "Discard"
 msgstr "丟棄"
 
@@ -392,7 +392,7 @@ msgstr "丟棄"
 msgid "Display advanced export options"
 msgstr "展示進階輸出選項"
 
-#: ../src/core/control/Control.cpp:2268
+#: ../src/core/control/Control.cpp:2244
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
@@ -404,7 +404,7 @@ msgstr "不要打開自動儲存檔案。它們有機會被覆寫！\n"
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr "不要覆寫背景 PDF！這樣會導致錯誤！"
 
-#: ../src/core/control/Control.cpp:2823
+#: ../src/core/control/Control.cpp:2799
 msgid "Document file was removed."
 msgstr "文檔已刪除。"
 
@@ -519,7 +519,7 @@ msgstr "擦除筆劃"
 msgid "Eraser"
 msgstr "橡皮"
 
-#: ../src/core/control/Control.cpp:2559
+#: ../src/core/control/Control.cpp:2535
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr "PDF檔案\"{1}\"標註出錯\n"
@@ -529,7 +529,7 @@ msgstr "PDF檔案\"{1}\"標註出錯\n"
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
 msgstr "加載glade檔案\"{1}\"出錯(嘗試加載\"{2}\")"
 
-#: ../src/core/control/Control.cpp:2386
+#: ../src/core/control/Control.cpp:2362
 msgid "Error opening file \"{1}\""
 msgstr "打開檔案\"{1}\"出錯"
 
@@ -859,7 +859,7 @@ msgstr "{1}圖層"
 msgid "Layerstack Preview"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:874
+#: ../src/core/gui/PageView.cpp:873
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -918,7 +918,7 @@ msgstr "沒有設備"
 msgid "No pages to export!"
 msgstr "沒有可匯出的頁面！"
 
-#: ../src/core/control/Control.cpp:1491
+#: ../src/core/control/Control.cpp:1467
 msgid "No pdf pages available to append. You may need to reopen the document first."
 msgstr ""
 
@@ -970,7 +970,7 @@ msgstr "輸出為PDF"
 msgid "PDF Page {1}"
 msgstr "PDF頁碼{1}"
 
-#: ../src/core/control/PdfCache.cpp:125
+#: ../src/core/control/PdfCache.cpp:123
 msgid "PDF background missing"
 msgstr "PDF背景丟失"
 
@@ -1081,7 +1081,7 @@ msgstr "重複"
 msgid "Redo: "
 msgstr "重複："
 
-#: ../src/core/control/Control.cpp:2354
+#: ../src/core/control/Control.cpp:2330
 msgid "Remove PDF Background"
 msgstr "去掉PDF背景"
 
@@ -1133,16 +1133,16 @@ msgstr "SVG 圖片"
 msgid "Sample LaTeX file generated successfully."
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2824 ../src/core/control/jobs/SaveJob.cpp:25
+#: ../src/core/control/Control.cpp:2800 ../src/core/control/jobs/SaveJob.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:415
 msgid "Save"
 msgstr "保存"
 
-#: ../src/core/control/Control.cpp:2824
+#: ../src/core/control/Control.cpp:2800
 msgid "Save As..."
 msgstr "另存新檔..."
 
-#: ../src/core/control/Control.cpp:2658
+#: ../src/core/control/Control.cpp:2634
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:85
 msgid "Save File"
 msgstr "保存檔案"
@@ -1160,7 +1160,7 @@ msgstr ""
 msgid "Scale"
 msgstr "縮放"
 
-#: ../src/core/gui/PageView.cpp:937
+#: ../src/core/gui/PageView.cpp:936
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1244,7 +1244,7 @@ msgstr "選擇區域"
 msgid "Select Text from pdf"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2353
+#: ../src/core/control/Control.cpp:2329
 msgid "Select another PDF"
 msgstr "選擇其他PDF"
 
@@ -1425,7 +1425,7 @@ msgstr "找遍所有頁面未找到文本"
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
 msgstr "工具條配置\"{1}\"是預置的，要產生一個拷貝到編輯?"
 
-#: ../src/core/control/Control.cpp:2330
+#: ../src/core/control/Control.cpp:2306
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
 msgstr ""
 
@@ -1433,7 +1433,7 @@ msgstr ""
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted."
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2333
+#: ../src/core/control/Control.cpp:2309
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
 "It was last seen at: \"{2}\""
 msgstr ""
@@ -1442,7 +1442,7 @@ msgstr ""
 msgid "The check for overwriting the background failed with:\n"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2394
+#: ../src/core/control/Control.cpp:2370
 msgid "The file being loaded has a file format version newer than the one currently supported by this version of Xournal++, so it may not load properly. Open anyways?"
 msgstr ""
 
@@ -1486,7 +1486,7 @@ msgstr ""
 msgid "Thick"
 msgstr "粗"
 
-#: ../src/core/control/Control.cpp:2823
+#: ../src/core/control/Control.cpp:2799
 msgid "This document is not saved yet."
 msgstr ""
 
@@ -1518,11 +1518,11 @@ msgstr ""
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:381
+#: ../src/core/gui/PageView.cpp:382
 msgid "Unable to play audio recording {1}"
 msgstr "無法播放錄音{1}"
 
-#: ../src/core/control/Control.cpp:1505
+#: ../src/core/control/Control.cpp:1481
 msgid "Unable to retrieve pdf page."
 msgstr "無法獲取PDF頁面。"
 
@@ -1571,7 +1571,7 @@ msgstr ""
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr "未知的筆畫類別： \"{1}\"，假設爲畫筆"
 
-#: ../src/core/control/Control.cpp:2715
+#: ../src/core/control/Control.cpp:2691
 msgid "Unsaved Document"
 msgstr "未保存文檔"
 
@@ -1579,7 +1579,7 @@ msgstr "未保存文檔"
 msgid "Unsupported graphics format: "
 msgstr "不支持的圖片格式: "
 
-#: ../src/core/control/Control.cpp:2351
+#: ../src/core/control/Control.cpp:2327
 msgid "Use proposed PDF"
 msgstr "使用建議的PDF"
 
@@ -1635,7 +1635,7 @@ msgstr "Xournal檔案"
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr ""
 
-#: ../src/core/control/Control.cpp:2664
+#: ../src/core/control/Control.cpp:2640
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:62
 msgid "Xournal++ files"
 msgstr "Xournal++檔案"
@@ -1680,7 +1680,7 @@ msgstr "縮小"
 msgid "Zoom to 100%"
 msgstr "原始尺寸"
 
-#: ../src/core/control/Control.cpp:2658
+#: ../src/core/control/Control.cpp:2634
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/control/stockdlg/ImageOpenDlg.cpp:15
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:16
@@ -1693,7 +1693,7 @@ msgstr "_取消"
 msgid "_Open"
 msgstr "開啟 (_O)"
 
-#: ../src/core/control/Control.cpp:2659
+#: ../src/core/control/Control.cpp:2635
 #: ../src/core/control/jobs/BaseExportJob.cpp:24
 #: ../src/core/gui/dialog/PageTemplateDialog.cpp:86
 msgid "_Save"
@@ -1739,7 +1739,7 @@ msgstr "元素"
 msgid "eraser"
 msgstr "橡皮"
 
-#: ../src/core/control/Control.cpp:2282
+#: ../src/core/control/Control.cpp:2258
 msgid "file: {1}"
 msgstr "檔案: {1}"
 
