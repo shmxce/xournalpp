@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-11 19:31+0000\n"
-"PO-Revision-Date: 2023-04-11 19:37\n"
+"POT-Creation-Date: 2023-04-13 17:15+0000\n"
+"PO-Revision-Date: 2023-04-13 18:23\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -66,7 +66,7 @@ msgstr "<span foreground='red' size='x-large'>Faltando o arquivo necessário da 
 "  Nem no Diretório de Trabalho\n"
 "  Nem em {2}"
 
-#: ../src/core/gui/PageView.cpp:938
+#: ../src/core/gui/PageView.cpp:918
 msgid "Add missing page"
 msgstr ""
 
@@ -231,11 +231,11 @@ msgid "Could not create folder: {1}\n"
 msgstr "Não foi possível criar a pasta: {1}\n"
 "Falhou com o erro: {2}"
 
-#: ../src/core/control/LatexController.cpp:340
+#: ../src/core/control/LatexController.cpp:341
 msgid "Could not load LaTeX PDF file"
 msgstr "Não foi possível carregar o arquivo PDF do LaTeX"
 
-#: ../src/core/control/LatexController.cpp:334
+#: ../src/core/control/LatexController.cpp:335
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "Não foi possível carregar o arquivo PDF do LaTeX: {1}"
 
@@ -847,7 +847,7 @@ msgstr "Ir para página (primeira página: 1)"
 msgid "LaTeX editor theme:"
 msgstr "Tema do editor LaTeX:"
 
-#: ../src/core/control/LatexController.cpp:243
+#: ../src/core/control/LatexController.cpp:244
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr "pdflatex encontrou um erro: {1} (Código de Saída: {2})"
 
@@ -871,7 +871,7 @@ msgstr "Camada {1}"
 msgid "Layerstack Preview"
 msgstr "Pré-visualização da pilha de camadas"
 
-#: ../src/core/gui/PageView.cpp:873
+#: ../src/core/gui/PageView.cpp:853
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1174,7 +1174,7 @@ msgstr "Erro ao salvar arquivo: {1}"
 msgid "Scale"
 msgstr "Escala"
 
-#: ../src/core/gui/PageView.cpp:936
+#: ../src/core/gui/PageView.cpp:916
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1481,7 +1481,7 @@ msgstr "O arquivo .xopp não é válido (Versão ausente): \"{1}\""
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr "O arquivo .xopp não é válido (Versão com cadeia de caracteres corrompida): \"{1}\""
 
-#: ../src/core/control/LatexController.cpp:302
+#: ../src/core/control/LatexController.cpp:303
 msgid "The formula is empty when rendered or invalid."
 msgstr "A fórmula está vazia quando renderizada ou inválida."
 
@@ -1537,7 +1537,7 @@ msgstr "Tentando realizar o salvamento de emergência para o atual documento…"
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr "Não é possível abrir o arquivo de modelo global em {1}. O arquivo existe?"
 
-#: ../src/core/gui/PageView.cpp:382
+#: ../src/core/gui/PageView.cpp:371
 msgid "Unable to play audio recording {1}"
 msgstr "Não é possível reproduzir a gravação de áudio {1}"
 
