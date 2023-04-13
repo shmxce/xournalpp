@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-11 19:31+0000\n"
-"PO-Revision-Date: 2023-04-11 19:37\n"
+"POT-Creation-Date: 2023-04-13 17:15+0000\n"
+"PO-Revision-Date: 2023-04-13 18:23\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -65,7 +65,7 @@ msgstr "<span foreground='red' size='x-large'>Berkas UI yang diperlukan tidak di
 "  Tidak ada di Directori Kerja\n"
 "  Tidak ada di {2}"
 
-#: ../src/core/gui/PageView.cpp:938
+#: ../src/core/gui/PageView.cpp:918
 msgid "Add missing page"
 msgstr ""
 
@@ -230,11 +230,11 @@ msgid "Could not create folder: {1}\n"
 msgstr "Tidak dapat membuat folder: {1}\n"
 "Gagal dengan kesalahan: {2}"
 
-#: ../src/core/control/LatexController.cpp:340
+#: ../src/core/control/LatexController.cpp:341
 msgid "Could not load LaTeX PDF file"
 msgstr "Tidak dapat memuat berkas LaTeX PDF"
 
-#: ../src/core/control/LatexController.cpp:334
+#: ../src/core/control/LatexController.cpp:335
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "Tidak dapat memuat berkas LaTeX PDF: {1}"
 
@@ -844,7 +844,7 @@ msgstr "Lompat ke Halaman (halaman pertama: 1)"
 msgid "LaTeX editor theme:"
 msgstr ""
 
-#: ../src/core/control/LatexController.cpp:243
+#: ../src/core/control/LatexController.cpp:244
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr ""
 
@@ -868,7 +868,7 @@ msgstr "Lapisan {1}"
 msgid "Layerstack Preview"
 msgstr "Pratinjau Lapisan"
 
-#: ../src/core/gui/PageView.cpp:873
+#: ../src/core/gui/PageView.cpp:853
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1170,7 +1170,7 @@ msgstr "Kesalahan saat menyimpan berkas: {1}"
 msgid "Scale"
 msgstr "Skala"
 
-#: ../src/core/gui/PageView.cpp:936
+#: ../src/core/gui/PageView.cpp:916
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1472,7 +1472,7 @@ msgstr "Bukan berkas .xopp yang valid (Versi tidak ada): \"{1}\""
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr "Bukan berkas .xopp yang valid (String versi rusak): \"{1}\""
 
-#: ../src/core/control/LatexController.cpp:302
+#: ../src/core/control/LatexController.cpp:303
 msgid "The formula is empty when rendered or invalid."
 msgstr "Rumus kosong saat dirender atau tidak valid."
 
@@ -1528,7 +1528,7 @@ msgstr "Mencoba menyimpan darurat dokumen yang sedang dibuka…"
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:382
+#: ../src/core/gui/PageView.cpp:371
 msgid "Unable to play audio recording {1}"
 msgstr ""
 
