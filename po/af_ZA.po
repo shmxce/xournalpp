@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-11 19:31+0000\n"
-"PO-Revision-Date: 2023-04-11 19:36\n"
+"POT-Creation-Date: 2023-04-13 17:15+0000\n"
+"PO-Revision-Date: 2023-04-13 18:22\n"
 "Last-Translator: \n"
 "Language-Team: Afrikaans\n"
 "Language: af_ZA\n"
@@ -64,7 +64,7 @@ msgstr "<span foreground='red' size='x-large'>Vermis die nodige verbruikers kopp
 "  Nie in die werkende-pad nie\n"
 "  Nie in {2}"
 
-#: ../src/core/gui/PageView.cpp:938
+#: ../src/core/gui/PageView.cpp:918
 msgid "Add missing page"
 msgstr ""
 
@@ -229,11 +229,11 @@ msgid "Could not create folder: {1}\n"
 msgstr "Kon die lêer skep nie: {1}\n"
 "Misluk met fout: {2}"
 
-#: ../src/core/control/LatexController.cpp:340
+#: ../src/core/control/LatexController.cpp:341
 msgid "Could not load LaTeX PDF file"
 msgstr "Kon nie LaTeX PDF lêer laai nie"
 
-#: ../src/core/control/LatexController.cpp:334
+#: ../src/core/control/LatexController.cpp:335
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "Kon nie LaTeX PDF lêer laai nie: {1}"
 
@@ -845,7 +845,7 @@ msgstr "Spring na bladsy (eerste Bladsy: 1)"
 msgid "LaTeX editor theme:"
 msgstr ""
 
-#: ../src/core/control/LatexController.cpp:243
+#: ../src/core/control/LatexController.cpp:244
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr "Latex generator het 'n fout tee gekom: {1} (uitgangkode: {2})"
 
@@ -869,7 +869,7 @@ msgstr "Laag {1}"
 msgid "Layerstack Preview"
 msgstr "Laag-stapel Voorskou"
 
-#: ../src/core/gui/PageView.cpp:873
+#: ../src/core/gui/PageView.cpp:853
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1171,7 +1171,7 @@ msgstr "Save lêer fout: {1}"
 msgid "Scale"
 msgstr "Skaal"
 
-#: ../src/core/gui/PageView.cpp:936
+#: ../src/core/gui/PageView.cpp:916
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1478,7 +1478,7 @@ msgstr "Die lêer is nie 'n geldige .xopp lêer nie (Version missing): \"{1}\""
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr "Die lêer is nie 'n geldige .xopp lêer nie (Version string corrputed): \"{1}\""
 
-#: ../src/core/control/LatexController.cpp:302
+#: ../src/core/control/LatexController.cpp:303
 msgid "The formula is empty when rendered or invalid."
 msgstr "Die formule is leeg wanneer gelewer word of is ongeldig."
 
@@ -1534,7 +1534,7 @@ msgstr "Probeer nood om die huidige oop dokument te stoor…"
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr "Kan nie globale templaat by {1} oop maak nie. Bestaan dit?"
 
-#: ../src/core/gui/PageView.cpp:382
+#: ../src/core/gui/PageView.cpp:371
 msgid "Unable to play audio recording {1}"
 msgstr "Kan nie oudio opname speel nie {1}"
 
