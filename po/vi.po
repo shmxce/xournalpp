@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-11 19:31+0000\n"
-"PO-Revision-Date: 2023-04-11 19:37\n"
+"POT-Creation-Date: 2023-04-13 17:15+0000\n"
+"PO-Revision-Date: 2023-04-13 18:22\n"
 "Last-Translator: \n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
@@ -65,7 +65,7 @@ msgstr "<span foreground='red' size='x-large'>Thiếu tệp giao diện người
 "  Không có trong Lộ trình làm việc\n"
 "  Không có trong {2}"
 
-#: ../src/core/gui/PageView.cpp:938
+#: ../src/core/gui/PageView.cpp:918
 msgid "Add missing page"
 msgstr "Thêm trang đang thiếu"
 
@@ -229,11 +229,11 @@ msgid "Could not create folder: {1}\n"
 msgstr "Không thể tạo thư mục: {1}\n"
 "Đã thất bại với lỗi: {2}"
 
-#: ../src/core/control/LatexController.cpp:340
+#: ../src/core/control/LatexController.cpp:341
 msgid "Could not load LaTeX PDF file"
 msgstr "Không thể nạp tệp LaTeX PDF"
 
-#: ../src/core/control/LatexController.cpp:334
+#: ../src/core/control/LatexController.cpp:335
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "Không thể nạp tệp LaTeX PDF: {1}"
 
@@ -845,7 +845,7 @@ msgstr "Nhảy đến Trang (Trang đầu tiên: 1)"
 msgid "LaTeX editor theme:"
 msgstr ""
 
-#: ../src/core/control/LatexController.cpp:243
+#: ../src/core/control/LatexController.cpp:244
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr "Việc tạo latex gặp lỗi: {1} (mã lỗi: {2})"
 
@@ -869,7 +869,7 @@ msgstr "Lớp {1}"
 msgid "Layerstack Preview"
 msgstr "Xem trước Chồng lớp"
 
-#: ../src/core/gui/PageView.cpp:873
+#: ../src/core/gui/PageView.cpp:853
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1171,7 +1171,7 @@ msgstr "Lỗi lưu tệp tin: {1}"
 msgid "Scale"
 msgstr "Tỷ lệ"
 
-#: ../src/core/gui/PageView.cpp:936
+#: ../src/core/gui/PageView.cpp:916
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1472,7 +1472,7 @@ msgstr ""
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr ""
 
-#: ../src/core/control/LatexController.cpp:302
+#: ../src/core/control/LatexController.cpp:303
 msgid "The formula is empty when rendered or invalid."
 msgstr ""
 
@@ -1528,7 +1528,7 @@ msgstr "Thử lưu khẩn cấp tập tin đang mở…"
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr ""
 
-#: ../src/core/gui/PageView.cpp:382
+#: ../src/core/gui/PageView.cpp:371
 msgid "Unable to play audio recording {1}"
 msgstr ""
 
