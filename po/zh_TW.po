@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-11 19:31+0000\n"
-"PO-Revision-Date: 2023-04-11 19:36\n"
+"POT-Creation-Date: 2023-04-13 17:15+0000\n"
+"PO-Revision-Date: 2023-04-13 18:22\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -65,7 +65,7 @@ msgstr "<span foreground='red' size='x-large'>遺失必須的使用者界面檔�
 "  不在工作目錄\n"
 "  不在 {2}"
 
-#: ../src/core/gui/PageView.cpp:938
+#: ../src/core/gui/PageView.cpp:918
 msgid "Add missing page"
 msgstr "新增遺失的頁面"
 
@@ -228,11 +228,11 @@ msgid "Could not create folder: {1}\n"
 "Failed with error: {2}"
 msgstr "無法新增目錄:{1} 錯誤:{2}"
 
-#: ../src/core/control/LatexController.cpp:340
+#: ../src/core/control/LatexController.cpp:341
 msgid "Could not load LaTeX PDF file"
 msgstr "無法加載LaTeX PDF文檔"
 
-#: ../src/core/control/LatexController.cpp:334
+#: ../src/core/control/LatexController.cpp:335
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "無法加載LaTeX PDF文檔: {1}"
 
@@ -843,7 +843,7 @@ msgstr "跳到頁面(第一頁:1)"
 msgid "LaTeX editor theme:"
 msgstr "LaTeX 編輯器主題："
 
-#: ../src/core/control/LatexController.cpp:243
+#: ../src/core/control/LatexController.cpp:244
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr "LaTeX 產生遇到錯誤: {1} (退出代碼: {2})"
 
@@ -867,7 +867,7 @@ msgstr "{1}圖層"
 msgid "Layerstack Preview"
 msgstr "圖層疊預覽"
 
-#: ../src/core/gui/PageView.cpp:873
+#: ../src/core/gui/PageView.cpp:853
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1169,7 +1169,7 @@ msgstr "保存文件錯誤: {1}"
 msgid "Scale"
 msgstr "縮放"
 
-#: ../src/core/gui/PageView.cpp:936
+#: ../src/core/gui/PageView.cpp:916
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1476,7 +1476,7 @@ msgstr "文件不是有效的 .xopp 文件 (Version missing): \"{1}\""
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr "文件不是有效的 .xopp 文件 (Version string corrupted): \"{1}\""
 
-#: ../src/core/control/LatexController.cpp:302
+#: ../src/core/control/LatexController.cpp:303
 msgid "The formula is empty when rendered or invalid."
 msgstr "公式渲染後為空值或無效。"
 
@@ -1532,7 +1532,7 @@ msgstr "嘗試緊急儲存當下打開的文件…"
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr "無法打開全域模板檔案{1}。它存在嘛？"
 
-#: ../src/core/gui/PageView.cpp:382
+#: ../src/core/gui/PageView.cpp:371
 msgid "Unable to play audio recording {1}"
 msgstr "無法播放錄音{1}"
 
