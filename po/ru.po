@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-11 19:31+0000\n"
-"PO-Revision-Date: 2023-04-11 19:37\n"
+"POT-Creation-Date: 2023-04-13 17:15+0000\n"
+"PO-Revision-Date: 2023-04-13 18:22\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -66,7 +66,7 @@ msgstr "<span foreground='red' size='x-large'>Отсутствует необх�
 "  Не в рабочей директории\n"
 "  Не в {2}"
 
-#: ../src/core/gui/PageView.cpp:938
+#: ../src/core/gui/PageView.cpp:918
 msgid "Add missing page"
 msgstr "Добавить пропущенную страницу"
 
@@ -231,11 +231,11 @@ msgid "Could not create folder: {1}\n"
 msgstr "Не удалось создать папку: {1}\n"
 "Ошибка при попытке: {2}"
 
-#: ../src/core/control/LatexController.cpp:340
+#: ../src/core/control/LatexController.cpp:341
 msgid "Could not load LaTeX PDF file"
 msgstr "Не удалось загрузить LaTeX PDF файл"
 
-#: ../src/core/control/LatexController.cpp:334
+#: ../src/core/control/LatexController.cpp:335
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "Не удалось загрузить LaTeX PDF файл: {1}"
 
@@ -849,7 +849,7 @@ msgstr "Перейти на страницу (первая страница: 1)"
 msgid "LaTeX editor theme:"
 msgstr "Тема редактора LaTeX:"
 
-#: ../src/core/control/LatexController.cpp:243
+#: ../src/core/control/LatexController.cpp:244
 msgid "Latex generation encountered an error: {1} (exit code: {2})"
 msgstr "Ошибка генерации LaTeX: {1} (код выхода: {2})"
 
@@ -873,7 +873,7 @@ msgstr "Слой {1}"
 msgid "Layerstack Preview"
 msgstr "Предпросмотр стопки слоёв"
 
-#: ../src/core/gui/PageView.cpp:873
+#: ../src/core/gui/PageView.cpp:853
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1175,7 +1175,7 @@ msgstr "Ошибка сохранения файла: {1}"
 msgid "Scale"
 msgstr "Маштабирование"
 
-#: ../src/core/gui/PageView.cpp:936
+#: ../src/core/gui/PageView.cpp:916
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1482,7 +1482,7 @@ msgstr "Файл не является допустимым .xopp-файлом (
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr "Файл не является допустимым .xopp-файлом (строка версии недействительна): «{1}»"
 
-#: ../src/core/control/LatexController.cpp:302
+#: ../src/core/control/LatexController.cpp:303
 msgid "The formula is empty when rendered or invalid."
 msgstr "Формула пуста при визуализации или неверна."
 
@@ -1538,7 +1538,7 @@ msgstr "Попытка аварийного сохранения текущег�
 msgid "Unable to open global template file at {1}. Does it exist?"
 msgstr "Не удается открыть глобальный файл шаблона из {1}. Существует ли он?"
 
-#: ../src/core/gui/PageView.cpp:382
+#: ../src/core/gui/PageView.cpp:371
 msgid "Unable to play audio recording {1}"
 msgstr "Не удалось воспроизвести аудиозапись {1}"
 
