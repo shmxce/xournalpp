@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-13 17:15+0000\n"
-"PO-Revision-Date: 2023-04-13 18:22\n"
+"POT-Creation-Date: 2023-04-17 15:41+0000\n"
+"PO-Revision-Date: 2023-04-17 15:43\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -66,7 +66,7 @@ msgstr "<span foreground='red' size='x-large'>لم يتم العثور على م
 "  ليس في مسار العمل\n"
 "  ليس في {2}"
 
-#: ../src/core/gui/PageView.cpp:918
+#: ../src/core/gui/PageView.cpp:914
 msgid "Add missing page"
 msgstr "ضافة الصفحة المفقودة"
 
@@ -873,7 +873,7 @@ msgstr "الطبقة {1}"
 msgid "Layerstack Preview"
 msgstr "معاينة كومة الطبقات"
 
-#: ../src/core/gui/PageView.cpp:853
+#: ../src/core/gui/PageView.cpp:849
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1176,7 +1176,7 @@ msgstr "خطأ في حفظ الملف: {1}"
 msgid "Scale"
 msgstr "تحجيم"
 
-#: ../src/core/gui/PageView.cpp:916
+#: ../src/core/gui/PageView.cpp:912
 msgid "Scroll to page {1}"
 msgstr "مرر إلى الصفحة {1}"
 
@@ -1417,28 +1417,28 @@ msgstr "لغة النظام"
 msgid "Text"
 msgstr "نص"
 
-#: ../src/core/gui/SearchBar.cpp:75
+#: ../src/core/gui/SearchBar.cpp:79
 #, c-format
 msgid "Text %zu times found on this page"
 msgstr "تم العثور على النص %zu مرة في هذه الصفحة"
 
-#: ../src/core/gui/SearchBar.cpp:73
+#: ../src/core/gui/SearchBar.cpp:77
 msgid "Text found on this page"
 msgstr "تم العثور على النص في هذه الصفحة"
 
-#: ../src/core/gui/SearchBar.cpp:129
+#: ../src/core/gui/SearchBar.cpp:133
 msgid "Text found once on page {1}"
 msgstr "تم العثور على النص مرة واحدة في الصفحة {1}"
 
-#: ../src/core/gui/SearchBar.cpp:130
+#: ../src/core/gui/SearchBar.cpp:134
 msgid "Text found {1} times on page {2}"
 msgstr "تم العثور على النص {1} مرات في الصفحة {2}"
 
-#: ../src/core/gui/SearchBar.cpp:80
+#: ../src/core/gui/SearchBar.cpp:84
 msgid "Text not found"
 msgstr "لم يتم العثور على النص"
 
-#: ../src/core/gui/SearchBar.cpp:135
+#: ../src/core/gui/SearchBar.cpp:139
 msgid "Text not found, searched on all pages"
 msgstr "لم يتم العثور على النص، تم البحث عنه في جميع الصفحات"
 
