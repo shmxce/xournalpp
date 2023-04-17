@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-13 17:15+0000\n"
-"PO-Revision-Date: 2023-04-13 18:22\n"
+"POT-Creation-Date: 2023-04-17 15:41+0000\n"
+"PO-Revision-Date: 2023-04-17 15:43\n"
 "Last-Translator: \n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -65,7 +65,7 @@ msgstr "<span foreground='red' size='x-large'>Gerekli kullanıcı arayüzü dosy
 "  Çalışma Dizininde değil\n"
 "  {2} içinde değil"
 
-#: ../src/core/gui/PageView.cpp:918
+#: ../src/core/gui/PageView.cpp:914
 msgid "Add missing page"
 msgstr "Eksik sayfa ekle"
 
@@ -870,7 +870,7 @@ msgstr "Katman {1}"
 msgid "Layerstack Preview"
 msgstr "Katman Birleşimi Önizlemesi"
 
-#: ../src/core/gui/PageView.cpp:853
+#: ../src/core/gui/PageView.cpp:849
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1172,7 +1172,7 @@ msgstr "Dosya kaydetme hatası: {1}"
 msgid "Scale"
 msgstr "Ölçek"
 
-#: ../src/core/gui/PageView.cpp:916
+#: ../src/core/gui/PageView.cpp:912
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1413,28 +1413,28 @@ msgstr "Sistem Varsayılanı"
 msgid "Text"
 msgstr "Metin"
 
-#: ../src/core/gui/SearchBar.cpp:75
+#: ../src/core/gui/SearchBar.cpp:79
 #, c-format
 msgid "Text %zu times found on this page"
 msgstr "Bu sayfada %zu kez metin bulundu"
 
-#: ../src/core/gui/SearchBar.cpp:73
+#: ../src/core/gui/SearchBar.cpp:77
 msgid "Text found on this page"
 msgstr "Bu sayfada metin bulundu"
 
-#: ../src/core/gui/SearchBar.cpp:129
+#: ../src/core/gui/SearchBar.cpp:133
 msgid "Text found once on page {1}"
 msgstr "Sayfa {1} üzerinde bir kez metin bulundu"
 
-#: ../src/core/gui/SearchBar.cpp:130
+#: ../src/core/gui/SearchBar.cpp:134
 msgid "Text found {1} times on page {2}"
 msgstr "Sayfa {1} üzerinde {2} kez metin bulundu"
 
-#: ../src/core/gui/SearchBar.cpp:80
+#: ../src/core/gui/SearchBar.cpp:84
 msgid "Text not found"
 msgstr "Metin bulunumadı"
 
-#: ../src/core/gui/SearchBar.cpp:135
+#: ../src/core/gui/SearchBar.cpp:139
 msgid "Text not found, searched on all pages"
 msgstr "Metin bulunamadı, tüm sayfalarda arandı"
 
