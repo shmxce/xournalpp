@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-13 17:15+0000\n"
-"PO-Revision-Date: 2023-04-16 05:21\n"
+"POT-Creation-Date: 2023-04-17 15:41+0000\n"
+"PO-Revision-Date: 2023-04-17 15:43\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -66,7 +66,7 @@ msgstr "<span foreground='red' size='x-large'>Chybí požadovaný soubor uživat
 "  Nebyl nalezen v Pracovní Cestě\n"
 "  Nebyl nalezen v {2}"
 
-#: ../src/core/gui/PageView.cpp:918
+#: ../src/core/gui/PageView.cpp:914
 msgid "Add missing page"
 msgstr "Přidat chybějící stránku"
 
@@ -872,7 +872,7 @@ msgstr "Vrstva {1}"
 msgid "Layerstack Preview"
 msgstr "Náhled balíčku vrstev"
 
-#: ../src/core/gui/PageView.cpp:853
+#: ../src/core/gui/PageView.cpp:849
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1175,7 +1175,7 @@ msgstr "Chyba ukládání souboru: {1}"
 msgid "Scale"
 msgstr "Škálovat"
 
-#: ../src/core/gui/PageView.cpp:916
+#: ../src/core/gui/PageView.cpp:912
 msgid "Scroll to page {1}"
 msgstr "Přejít na stránku {1}"
 
@@ -1416,28 +1416,28 @@ msgstr "Výchozí nastavení systému"
 msgid "Text"
 msgstr "Text"
 
-#: ../src/core/gui/SearchBar.cpp:75
+#: ../src/core/gui/SearchBar.cpp:79
 #, c-format
 msgid "Text %zu times found on this page"
 msgstr "Text byl nalezen %zukrát na této stránce"
 
-#: ../src/core/gui/SearchBar.cpp:73
+#: ../src/core/gui/SearchBar.cpp:77
 msgid "Text found on this page"
 msgstr "Text nalezen na této stránce"
 
-#: ../src/core/gui/SearchBar.cpp:129
+#: ../src/core/gui/SearchBar.cpp:133
 msgid "Text found once on page {1}"
 msgstr "Text nalezen jednou na stránce {1}"
 
-#: ../src/core/gui/SearchBar.cpp:130
+#: ../src/core/gui/SearchBar.cpp:134
 msgid "Text found {1} times on page {2}"
 msgstr "Text nalezen {1}krát na stránce {2}"
 
-#: ../src/core/gui/SearchBar.cpp:80
+#: ../src/core/gui/SearchBar.cpp:84
 msgid "Text not found"
 msgstr "Text nenalezen"
 
-#: ../src/core/gui/SearchBar.cpp:135
+#: ../src/core/gui/SearchBar.cpp:139
 msgid "Text not found, searched on all pages"
 msgstr "Text nenalezen, prohledány byly všechny stránky"
 
