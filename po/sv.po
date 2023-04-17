@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-13 17:15+0000\n"
-"PO-Revision-Date: 2023-04-13 18:22\n"
+"POT-Creation-Date: 2023-04-17 15:41+0000\n"
+"PO-Revision-Date: 2023-04-17 15:43\n"
 "Last-Translator: \n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
@@ -65,7 +65,7 @@ msgstr "<span foreground='red' size='x-large'>Saknar den nödvändiga användarg
 "  Inte i arbetssökvägen\n"
 "  Inte i {2}"
 
-#: ../src/core/gui/PageView.cpp:918
+#: ../src/core/gui/PageView.cpp:914
 msgid "Add missing page"
 msgstr ""
 
@@ -853,7 +853,7 @@ msgstr "Lager {1}"
 msgid "Layerstack Preview"
 msgstr "Förhandsgranska lagerstacken"
 
-#: ../src/core/gui/PageView.cpp:853
+#: ../src/core/gui/PageView.cpp:849
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:29
 msgid "Loading..."
@@ -1154,7 +1154,7 @@ msgstr "Fel vid sparande av fil: {1}"
 msgid "Scale"
 msgstr "Skala"
 
-#: ../src/core/gui/PageView.cpp:916
+#: ../src/core/gui/PageView.cpp:912
 msgid "Scroll to page {1}"
 msgstr ""
 
@@ -1390,28 +1390,28 @@ msgstr "Systemstandard"
 msgid "Text"
 msgstr "Text"
 
-#: ../src/core/gui/SearchBar.cpp:75
+#: ../src/core/gui/SearchBar.cpp:79
 #, c-format
 msgid "Text %zu times found on this page"
 msgstr ""
 
-#: ../src/core/gui/SearchBar.cpp:73
+#: ../src/core/gui/SearchBar.cpp:77
 msgid "Text found on this page"
 msgstr "Text hittades på denna sida"
 
-#: ../src/core/gui/SearchBar.cpp:129
+#: ../src/core/gui/SearchBar.cpp:133
 msgid "Text found once on page {1}"
 msgstr "Texten hittades en gång på sidan {1}"
 
-#: ../src/core/gui/SearchBar.cpp:130
+#: ../src/core/gui/SearchBar.cpp:134
 msgid "Text found {1} times on page {2}"
 msgstr "Texten hittades {1} gånger på sidan {2}"
 
-#: ../src/core/gui/SearchBar.cpp:80
+#: ../src/core/gui/SearchBar.cpp:84
 msgid "Text not found"
 msgstr "Text hittades inte"
 
-#: ../src/core/gui/SearchBar.cpp:135
+#: ../src/core/gui/SearchBar.cpp:139
 msgid "Text not found, searched on all pages"
 msgstr "Text hittades inte, sökte på alla sidor"
 
