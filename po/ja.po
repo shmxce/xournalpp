@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-17 15:41+0000\n"
-"PO-Revision-Date: 2023-04-17 15:43\n"
+"PO-Revision-Date: 2023-04-19 00:44\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -1571,7 +1571,7 @@ msgstr ""
 
 #: ../src/core/control/Control.cpp:2691
 msgid "Unsaved Document"
-msgstr ""
+msgstr "保存されていないドキュメント"
 
 #: ../src/core/control/jobs/ImageExport.cpp:108
 msgid "Unsupported graphics format: "
@@ -2173,7 +2173,7 @@ msgstr ""
 
 #: ../ui/pluginEntry.glade:57
 msgid "Author: "
-msgstr ""
+msgstr "管理者: "
 
 #: ../ui/about.glade:363
 msgid "Authors"
@@ -2972,7 +2972,7 @@ msgstr ""
 
 #: ../ui/pluginEntry.glade:94
 msgid "Path: "
-msgstr ""
+msgstr "パス: "
 
 #: ../ui/main.glade:2072
 msgid "Pause"
@@ -2996,11 +2996,11 @@ msgstr ""
 
 #: ../ui/plugin.glade:14
 msgid "Plugin Manager"
-msgstr ""
+msgstr "プラグインマネージャー"
 
 #: ../ui/main.glade:2137
 msgid "Plugin _Manager"
-msgstr ""
+msgstr "プラグインマネージャー(_M)"
 
 #: ../ui/plugin.glade:121
 msgid "Plugin changes are only applied after Xournal++ is restarted"
@@ -3392,7 +3392,7 @@ msgstr ""
 
 #: ../ui/pluginEntry.glade:131
 msgid "Version: "
-msgstr ""
+msgstr "バージョン: "
 
 #: ../ui/settings.glade:3999
 msgid "View"
@@ -3552,7 +3552,7 @@ msgstr ""
 
 #: ../ui/main.glade:292
 msgid "_Edit"
-msgstr ""
+msgstr "編集(_E)"
 
 #: ../ui/main.glade:1396
 msgid "_Eraser"
@@ -3564,7 +3564,7 @@ msgstr ""
 
 #: ../ui/main.glade:152
 msgid "_File"
-msgstr ""
+msgstr "ファイル(_F)"
 
 #: ../ui/main.glade:1076
 msgid "_First Page"
@@ -3608,7 +3608,7 @@ msgstr ""
 
 #: ../ui/main.glade:1065
 msgid "_Navigation"
-msgstr ""
+msgstr "ナビゲーション(_N)"
 
 #: ../ui/main.glade:1148
 msgid "_Next Layer"
@@ -3628,7 +3628,7 @@ msgstr ""
 
 #: ../ui/main.glade:2126
 msgid "_Plugin"
-msgstr ""
+msgstr "プラグイン(_P)"
 
 #: ../ui/main.glade:567
 msgid "_Presentation Mode"
@@ -3656,7 +3656,7 @@ msgstr ""
 
 #: ../ui/main.glade:1373
 msgid "_Tools"
-msgstr ""
+msgstr "ツール(_T)"
 
 #: ../ui/main.glade:1159
 msgid "_Top Layer"
@@ -3676,7 +3676,7 @@ msgstr ""
 
 #: ../ui/main.glade:546
 msgid "_View"
-msgstr ""
+msgstr "表示(_V)"
 
 #: ../ui/main.glade:1939
 msgid "_delete strokes"
