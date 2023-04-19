@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-17 15:41+0000\n"
-"PO-Revision-Date: 2023-04-19 07:53\n"
+"PO-Revision-Date: 2023-04-19 09:07\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -1168,7 +1168,7 @@ msgstr "検索"
 
 #: ../src/core/gui/dialog/AboutDialog.cpp:65
 msgid "See the full list of contributors"
-msgstr ""
+msgstr "すべての貢献者のリストを見る"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:101
 msgid "Select Area Text from pdf"
@@ -1345,7 +1345,7 @@ msgstr "申し訳ありません、Xournal++は現在リモートファイルを
 
 #: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:58
 msgid "Spacer"
-msgstr ""
+msgstr "間隔"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:23
 msgid "Staves"
@@ -1387,7 +1387,7 @@ msgstr ""
 
 #: ../src/core/gui/dialog/LanguageConfigGui.cpp:48
 msgid "System Default"
-msgstr ""
+msgstr "システムのデフォルト"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:91
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:512
@@ -1413,7 +1413,7 @@ msgstr ""
 
 #: ../src/core/gui/SearchBar.cpp:84
 msgid "Text not found"
-msgstr ""
+msgstr "テキストが見つかりません"
 
 #: ../src/core/gui/SearchBar.cpp:139
 msgid "Text not found, searched on all pages"
@@ -1494,7 +1494,7 @@ msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:452
 msgid "Toggle fullscreen"
-msgstr ""
+msgstr "全画面表示の切り替え"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:87
 msgid "Tool - don't change"
@@ -1660,7 +1660,7 @@ msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolZoomSlider.cpp:136
 msgid "Zoom Slider"
-msgstr ""
+msgstr "ズームスライダー"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:459
 msgid "Zoom fit to screen"
@@ -1713,11 +1713,11 @@ msgstr ""
 
 #: ../src/core/gui/dialog/PluginDialogEntry.cpp:30
 msgid "default disabled"
-msgstr ""
+msgstr "デフォルトは無効"
 
 #: ../src/core/gui/dialog/PluginDialogEntry.cpp:30
 msgid "default enabled"
-msgstr ""
+msgstr "デフォルトは有効"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:319
 msgid "delete stroke"
@@ -1904,47 +1904,47 @@ msgstr ""
 
 #: ../ui/settings.glade:1096
 msgid "0,4"
-msgstr ""
+msgstr "0,4"
 
 #: ../ui/settings.glade:1148
 msgid "0,50"
-msgstr ""
+msgstr "0,50"
 
 #: ../ui/settings.glade:5328
 msgid "0.00"
-msgstr ""
+msgstr "0.00"
 
 #: ../ui/settings.glade:5033
 msgid "0.20"
-msgstr ""
+msgstr "0.20"
 
 #: ../ui/settings.glade:1741
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../ui/settings.glade:5975
 msgid "1,00"
-msgstr ""
+msgstr "1,00"
 
 #: ../ui/settings.glade:1064
 msgid "1,30"
-msgstr ""
+msgstr "1,30"
 
 #: ../ui/settings.glade:2543
 msgid "1.0"
-msgstr ""
+msgstr "1.0"
 
 #: ../ui/settings.glade:1035
 msgid "20"
-msgstr ""
+msgstr "20"
 
 #: ../ui/settings.glade:3312
 msgid "30"
-msgstr ""
+msgstr "30"
 
 #: ../ui/settings.glade:1128
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../ui/images.glade:88
 msgid "<b>... or select already used Image:</b>"
@@ -2131,11 +2131,11 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:49
 msgid "All"
-msgstr ""
+msgstr "すべて"
 
 #: ../ui/exportSettings.glade:174
 msgid "All pages"
-msgstr ""
+msgstr "すべてのページ"
 
 #: ../ui/settings.glade:5221
 msgid "All three conditions must be met before stroke is ignored.\n"
@@ -2145,7 +2145,7 @@ msgstr ""
 #: ../ui/settings.glade:1998
 msgctxt "eraser is always visible"
 msgid "Always"
-msgstr ""
+msgstr "常時"
 
 #: ../ui/latexSettings.glade:45
 msgid "Always check LaTeX dependencies before running"
@@ -2165,7 +2165,7 @@ msgstr ""
 
 #: ../ui/settings.glade:5819
 msgid "Audio Devices"
-msgstr ""
+msgstr "オーディオデバイス"
 
 #: ../ui/settings.glade:6062
 msgid "Audio Recording"
