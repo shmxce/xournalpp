@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-17 15:41+0000\n"
-"PO-Revision-Date: 2023-04-19 00:44\n"
+"PO-Revision-Date: 2023-04-19 01:39\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -699,7 +699,7 @@ msgstr "GNU GPLv2 以降"
 
 #: ../src/core/gui/dialog/AboutDialog.cpp:39
 msgid "GTK Version"
-msgstr ""
+msgstr "GTKバージョン"
 
 #: ../src/core/control/XournalMain.cpp:629
 msgid "Get version of xournalpp"
@@ -962,7 +962,7 @@ msgstr "ファイルを開く"
 
 #: ../src/core/control/jobs/PdfExportJob.cpp:15
 msgid "PDF Export"
-msgstr ""
+msgstr "PDFエクスポート"
 
 #: ../src/core/gui/toolbarMenubar/ToolPageSpinner.cpp:41
 msgid "PDF Page {1}"
@@ -1077,7 +1077,7 @@ msgstr ""
 
 #: ../src/core/undo/UndoRedoHandler.cpp:188
 msgid "Redo: "
-msgstr ""
+msgstr "やり直し: "
 
 #: ../src/core/control/Control.cpp:2330
 msgid "Remove PDF Background"
@@ -1203,7 +1203,7 @@ msgstr ""
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:26
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:88
 msgid "Select Object"
-msgstr ""
+msgstr "オブジェクトを選択"
 
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:68
 msgid "Select PDF Area Text"
@@ -1392,7 +1392,7 @@ msgstr ""
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:91
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:512
 msgid "Text"
-msgstr ""
+msgstr "テキスト"
 
 #: ../src/core/gui/SearchBar.cpp:79
 #, c-format
@@ -1531,7 +1531,7 @@ msgstr "元に戻す"
 
 #: ../src/core/undo/UndoRedoHandler.cpp:176
 msgid "Undo: "
-msgstr ""
+msgstr "取り消し: "
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:316
 msgid "Unexpected root tag: {1}"
@@ -1583,7 +1583,7 @@ msgstr ""
 
 #: ../src/core/gui/dialog/AboutDialog.cpp:33
 msgid "Version"
-msgstr ""
+msgstr "バージョン"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:537
 msgid "Vertical Space"
@@ -1748,20 +1748,20 @@ msgstr ""
 
 #: ../src/core/control/DeviceListHelper.cpp:104
 msgid "keyboard"
-msgstr ""
+msgstr "キーボード"
 
 #: ../src/core/undo/AddUndoAction.cpp:88
 #: ../src/core/undo/DeleteUndoAction.cpp:86
 msgid "latex"
-msgstr ""
+msgstr "latex"
 
 #: ../src/core/control/DeviceListHelper.cpp:95
 msgid "mouse"
-msgstr ""
+msgstr "マウス"
 
 #: ../src/core/control/DeviceListHelper.cpp:97
 msgid "pen"
-msgstr ""
+msgstr "ペン"
 
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:154
 msgid "show"
@@ -1789,15 +1789,15 @@ msgstr ""
 
 #: ../src/core/control/DeviceListHelper.cpp:108
 msgid "touchpad"
-msgstr ""
+msgstr "タッチパッド"
 
 #: ../src/core/control/DeviceListHelper.cpp:106
 msgid "touchscreen"
-msgstr ""
+msgstr "タッチスクリーン"
 
 #: ../src/core/control/DeviceListHelper.cpp:111
 msgid "trackpoint"
-msgstr ""
+msgstr "トラックポイント"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:318
 msgid "whiteout"
@@ -2675,7 +2675,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3018
 msgid "Icon Theme"
-msgstr ""
+msgstr "アイコンテーマ"
 
 #: ../ui/settings.glade:4965
 msgid "If activated, shapes that have been recognized by the shape recognizer will be snapped to the grid automatically. This may lead to unexpected results if you have the shape recognizer turned on while writing."
@@ -2775,7 +2775,7 @@ msgstr "左利き / 右利き"
 
 #: ../ui/about.glade:335
 msgid "License"
-msgstr ""
+msgstr "ライセンス"
 
 #: ../ui/latexSettings.glade:433
 msgid "Line numbers"
@@ -2783,7 +2783,7 @@ msgstr "行番号"
 
 #: ../ui/settings.glade:733
 msgid "Load / Save"
-msgstr ""
+msgstr "読み込み/保存"
 
 #: ../ui/images.glade:73
 msgid "Load file"
@@ -2791,7 +2791,7 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:54
 msgid "Load from file"
-msgstr ""
+msgstr "ファイルから読み込む"
 
 #: ../ui/settings.glade:3035
 msgid "Lucide"
@@ -2799,7 +2799,7 @@ msgstr "Lucide"
 
 #: ../ui/toolbarManageDialog.glade:9
 msgid "Manage Toolbar"
-msgstr ""
+msgstr "ツールバーの管理"
 
 #: ../ui/settings.glade:1115
 msgid "Mass"
@@ -2844,11 +2844,11 @@ msgstr ""
 
 #: ../ui/settings.glade:1460 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
-msgstr ""
+msgstr "マウス"
 
 #: ../ui/settings.glade:1429
 msgid "Mouse Buttons"
-msgstr ""
+msgstr "マウスボタン"
 
 #: ../ui/settingsDeviceClassConfig.glade:43
 msgid "Mouse+Keyboard Combo"
@@ -3096,11 +3096,11 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:40
 msgid "Save to file"
-msgstr ""
+msgstr "ファイルへ保存"
 
 #: ../ui/settings.glade:3556
 msgid "Scrollbars"
-msgstr ""
+msgstr "スクロールバー"
 
 #: ../ui/settings.glade:4482
 msgid "Scrolling outside the page"
@@ -3400,7 +3400,7 @@ msgstr ""
 
 #: ../ui/about.glade:242
 msgid "Website"
-msgstr ""
+msgstr "ウェブサイト"
 
 #: ../ui/settings.glade:3613
 msgid "When an element is selected and moved past the visible portion of the canvas, pan the screen by an amount equal to this percentage of the visible part of the canvas. "
@@ -3560,7 +3560,7 @@ msgstr ""
 
 #: ../ui/main.glade:237
 msgid "_Export as PDF"
-msgstr ""
+msgstr "PDFにエクスポート(_E)"
 
 #: ../ui/main.glade:152
 msgid "_File"
@@ -3576,7 +3576,7 @@ msgstr ""
 
 #: ../ui/main.glade:2151
 msgid "_Help"
-msgstr ""
+msgstr "ヘルプ(_H)"
 
 #: ../ui/main.glade:1432
 msgid "_Highlighter"
