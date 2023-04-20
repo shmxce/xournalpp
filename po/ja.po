@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-17 15:41+0000\n"
-"PO-Revision-Date: 2023-04-20 10:48\n"
+"PO-Revision-Date: 2023-04-20 11:49\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -707,7 +707,7 @@ msgstr "xournalppのバージョンを取得"
 
 #: ../src/core/gui/dialog/AboutDialog.cpp:46
 msgid "Git commit"
-msgstr ""
+msgstr "Git コミット"
 
 #: ../src/core/control/LatexController.cpp:76
 msgid "Global template file does not exist. Please check your settings."
@@ -743,7 +743,7 @@ msgstr "一番上のレイヤーに移動"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:24
 msgid "Graph"
-msgstr ""
+msgstr "グラフ"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:441
 msgid "Grid Snapping"
@@ -1607,7 +1607,7 @@ msgstr ""
 
 #: ../src/core/undo/InsertUndoAction.cpp:35
 msgid "Write text"
-msgstr ""
+msgstr "テキストを入力"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:1042
 msgid "Wrong count of points ({1})"
@@ -1721,7 +1721,7 @@ msgstr "デフォルトは有効"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:319
 msgid "delete stroke"
-msgstr ""
+msgstr "ストロークを削除"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:307
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:505
@@ -1785,7 +1785,7 @@ msgstr ""
 #: ../src/core/undo/AddUndoAction.cpp:91
 #: ../src/core/undo/DeleteUndoAction.cpp:89
 msgid "text"
-msgstr ""
+msgstr "テキスト"
 
 #: ../src/core/control/DeviceListHelper.cpp:108
 msgid "touchpad"
@@ -1952,23 +1952,23 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:245
 msgid "<b>Background Color</b>"
-msgstr ""
+msgstr "<b>背景色</b>"
 
 #: ../ui/pageTemplate.glade:258
 msgid "<b>Background</b>"
-msgstr ""
+msgstr "<b>背景</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:141
 msgid "<b>Color</b>"
-msgstr ""
+msgstr "<b>色</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:86
 msgid "<b>Default Tools</b>"
-msgstr ""
+msgstr "<b>デフォルトのツール</b>"
 
 #: ../ui/settings.glade:5521
 msgid "<b>Default</b>"
-msgstr ""
+msgstr "<b>デフォルト</b>"
 
 #: ../ui/exportSettings.glade:122
 msgid "<b>Document export settings</b>\n"
@@ -1987,15 +1987,15 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:135
 msgid "<b>Page size</b>"
-msgstr ""
+msgstr "<b>ページサイズ</b>"
 
 #: ../ui/pagesize.glade:142
 msgid "<b>Pagesize</b>"
-msgstr ""
+msgstr "<b>ページサイズ</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:196
 msgid "<b>Separators</b>"
-msgstr ""
+msgstr "<b>区切り文字</b>"
 
 #: ../ui/settings.glade:783
 msgid "<i>Assign device classes to each input device of your system. Only change these values if your devices are not correctly matched. (e.g. your pen shows up as touchscreen)</i>"
@@ -2019,7 +2019,7 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:240
 msgid "<i>Example:</i> 1-3 or 1,3,5-7 etc."
-msgstr ""
+msgstr "<i>例:</i> 1-3 or 1,3,5-7 etc."
 
 #: ../ui/settings.glade:362
 msgid "<i>If the document already was saved you can find it in the same folder with the extension .autosave.xoj\n"
@@ -2197,7 +2197,7 @@ msgstr ""
 
 #: ../ui/settings.glade:462
 msgid "Autosaving"
-msgstr ""
+msgstr "自動保存中"
 
 #: ../ui/settings.glade:610
 msgid "Available Placeholders"
@@ -2250,15 +2250,15 @@ msgstr ""
 
 #: ../ui/settings.glade:1851
 msgid "Button 1"
-msgstr ""
+msgstr "ボタン 1"
 
 #: ../ui/settings.glade:1889
 msgid "Button 2"
-msgstr ""
+msgstr "ボタン 2"
 
 #: ../ui/pageTemplate.glade:160
 msgid "Change"
-msgstr ""
+msgstr "変更"
 
 #: ../ui/latexSettings.glade:205
 msgid "Choose a global LaTeX template file"
@@ -2278,11 +2278,11 @@ msgstr ""
 
 #: ../ui/settings.glade:3034
 msgid "Color"
-msgstr ""
+msgstr "色"
 
 #: ../ui/settings.glade:3089
 msgid "Colors"
-msgstr ""
+msgstr "色"
 
 #: ../ui/texdialog.glade:163
 msgid "Command Output"
@@ -2314,15 +2314,15 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:190
 msgid "Current page"
-msgstr ""
+msgstr "現在のページ"
 
 #: ../ui/settings.glade:3410
 msgid "Cursor"
-msgstr ""
+msgstr "カーソル"
 
 #: ../ui/settings.glade:3144
 msgid "Cursor icon for pen"
-msgstr ""
+msgstr "ペンのカーソルアイコン"
 
 #: ../ui/settings.glade:1211
 msgid "Cusp detection"
@@ -2334,7 +2334,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2980
 msgid "Dark Theme (requires restart)"
-msgstr ""
+msgstr "ダークテーマ（再起動が必要です）"
 
 #: ../ui/settings.glade:243
 msgid "Deadzone"
@@ -2346,7 +2346,7 @@ msgstr ""
 
 #: ../ui/latexSettings.glade:119
 msgid "Default LaTeX Text"
-msgstr ""
+msgstr "デフォルトのLaTeXテキスト"
 
 #: ../ui/settings.glade:636
 msgid "Default Save Name"
@@ -2362,7 +2362,7 @@ msgstr ""
 
 #: ../ui/settings.glade:5561
 msgid "Defaults"
-msgstr ""
+msgstr "デフォルト"
 
 #: ../ui/main.glade:1301
 msgid "Delete Layer"
@@ -2370,7 +2370,7 @@ msgstr "レイヤーを削除"
 
 #: ../ui/settingsButtonConfig.glade:132
 msgid "Delete stroke"
-msgstr ""
+msgstr "ストロークを削除"
 
 #: ../ui/settingsButtonConfig.glade:25
 msgid "Device"
@@ -2536,7 +2536,7 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:56
 msgid "Export"
-msgstr ""
+msgstr "エクスポート"
 
 #: ../ui/main.glade:247
 msgid "Export as..."
@@ -2605,7 +2605,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3803
 msgid "Go Fullscreen"
-msgstr ""
+msgstr "全画面表示にする"
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
