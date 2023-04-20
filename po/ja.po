@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-17 15:41+0000\n"
-"PO-Revision-Date: 2023-04-19 09:07\n"
+"PO-Revision-Date: 2023-04-20 10:48\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -166,7 +166,7 @@ msgstr "前景に持って来る"
 
 #: ../src/core/gui/dialog/AboutDialog.cpp:36
 msgid "Built on"
-msgstr ""
+msgstr "ビルド"
 
 #: ../src/core/control/Control.cpp:2331 ../src/core/control/Control.cpp:2808
 #: ../src/core/control/XournalMain.cpp:176
@@ -1252,11 +1252,11 @@ msgstr ""
 
 #: ../src/core/gui/dialog/SelectBackgroundColorDialog.cpp:107
 msgid "Select background color"
-msgstr ""
+msgstr "背景色を選択"
 
 #: ../src/core/gui/toolbarMenubar/ColorToolItem.cpp:79
 msgid "Select color"
-msgstr ""
+msgstr "色を選択"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:97
 msgid "Select multi layer rect"
