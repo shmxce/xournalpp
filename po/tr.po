@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-22 07:13+0000\n"
-"PO-Revision-Date: 2023-04-22 07:14\n"
+"POT-Creation-Date: 2023-04-23 07:25+0000\n"
+"PO-Revision-Date: 2023-04-23 08:39\n"
 "Last-Translator: \n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File: /master/po/xournalpp.pot\n"
 "X-Crowdin-File-ID: 6\n"
 
-#: ../src/core/control/XournalMain.cpp:410
+#: ../src/core/control/XournalMain.cpp:411
 msgid "\n\n"
 "Will now attempt to run without this file."
 msgstr "\n\n"
@@ -51,7 +51,7 @@ msgstr ""
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
 msgstr "<b>Hiçbir aygıt bulunamadı. Bu bir sorun gibi görünüyor, bir hata raporu oluşturulsun mu?</b>"
 
-#: ../src/core/control/XournalMain.cpp:405
+#: ../src/core/control/XournalMain.cpp:406
 msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
 "<b>{1}</b></span>\n"
 "Could not find them at any location.\n"
@@ -73,7 +73,7 @@ msgstr "Eksik sayfa ekle"
 msgid "Add/Edit TeX"
 msgstr "TeX Ekle/Düzenle"
 
-#: ../src/core/control/XournalMain.cpp:684
+#: ../src/core/control/XournalMain.cpp:685
 msgid "Advanced export options"
 msgstr "Gelişmiş dışa aktarma seçenekleri"
 
@@ -169,7 +169,7 @@ msgid "Built on"
 msgstr "Üzerine inşa"
 
 #: ../src/core/control/Control.cpp:2336 ../src/core/control/Control.cpp:2813
-#: ../src/core/control/XournalMain.cpp:176
+#: ../src/core/control/XournalMain.cpp:188
 #: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
 msgstr "İptal"
@@ -361,7 +361,7 @@ msgstr "Varsayılan Araç"
 msgid "Delete"
 msgstr "Sil"
 
-#: ../src/core/control/XournalMain.cpp:175
+#: ../src/core/control/XournalMain.cpp:187
 msgid "Delete Logfile"
 msgstr "Log dosyasını Sil"
 
@@ -369,7 +369,7 @@ msgstr "Log dosyasını Sil"
 msgid "Delete current page"
 msgstr "Geçerli sayfayı sil"
 
-#: ../src/core/control/XournalMain.cpp:217
+#: ../src/core/control/XournalMain.cpp:218
 msgid "Delete file"
 msgstr "Dosyayı sil"
 
@@ -389,7 +389,7 @@ msgstr "Bu sayfayı sil"
 msgid "Discard"
 msgstr "Kaydetme"
 
-#: ../src/core/control/XournalMain.cpp:685
+#: ../src/core/control/XournalMain.cpp:686
 msgid "Display advanced export options"
 msgstr "Gelişmiş dışa aktarma seçeneklerini görüntüle"
 
@@ -579,17 +579,11 @@ msgstr "Hata: {1} normal bir dosya değil. Lütfen LaTeX şablon dosyası ayarla
 msgid "Error: {1}. Please check the contents of {2}"
 msgstr "Hata: {1}. Lütfen {2} içeriğini kontrol edin"
 
-#: ../src/core/control/XournalMain.cpp:195
-msgid "Errorlog cannot be deleted. You have to do it manually.\n"
-"Logfile: {1}"
-msgstr "Hata günlüğü silinemez. Elle yapmalısınız.\n"
-"Günlük dosyası: {1}"
-
-#: ../src/core/control/XournalMain.cpp:638
+#: ../src/core/control/XournalMain.cpp:639
 msgid "Export FILE as PDF"
 msgstr "Dosyayı PDF Olarak Dışa Aktar"
 
-#: ../src/core/control/XournalMain.cpp:640
+#: ../src/core/control/XournalMain.cpp:641
 msgid "Export FILE as image files (one per page)\n"
 "                                 Guess the output format from the extension of IMGFILE\n"
 "                                 Supported formats: .png, .svg"
@@ -605,7 +599,7 @@ msgstr "PDF olarak dışa aktar"
 msgid "Export as PDF"
 msgstr "PDF Olarak Dışa Aktar"
 
-#: ../src/core/control/XournalMain.cpp:654
+#: ../src/core/control/XournalMain.cpp:655
 msgid "Export layers progressively\n"
 "                                 In PDF export, Render layers progressively one by one.\n"
 "                                 This results in N export pages per page with N layers,\n"
@@ -617,7 +611,7 @@ msgstr "Katmanları kademeli olarak dışa aktar\n"
 "                                 sayfayla sonuçlanır ve katman yığınlarınıı kademeli olarak oluşturur.\n"
 "                                 Ortaya çıkan PDF dosyası sunum yapmak için kullanılabilir.\n"
 
-#: ../src/core/control/XournalMain.cpp:645
+#: ../src/core/control/XournalMain.cpp:646
 msgid "Export without background\n"
 "                                 The exported file has transparent or white background,\n"
 "                                 depending on what its format supports\n"
@@ -625,11 +619,15 @@ msgstr "Arka plan olmadan dışa aktar\n"
 "                                 Dışa aktarılan dosyanın arka planı,\n"
 "                                 biçiminin desteklediğine bağlı olarak saydam veya beyazdır\n"
 
-#: ../src/core/control/XournalMain.cpp:650
+#: ../src/core/control/XournalMain.cpp:651
 msgid "Export without ruling\n"
 "                                 The exported file has no paper ruling\n"
 msgstr "Çizgiler olmadan dışa aktar\n"
 "                                 Aktarılan dosyada kağıt çizgileri bulunmaz\n"
+
+#: ../src/core/control/XournalMain.cpp:146
+msgid "Failed to delete file: {1}"
+msgstr ""
 
 #: ../src/core/control/latex/LatexGenerator.cpp:83
 msgid "Failed to find LaTeX generator program in PATH: {1}"
@@ -714,7 +712,7 @@ msgstr "GNU GPLv2 veya üstü"
 msgid "GTK Version"
 msgstr "GTK Sürümü"
 
-#: ../src/core/control/XournalMain.cpp:629
+#: ../src/core/control/XournalMain.cpp:630
 msgid "Get version of xournalpp"
 msgstr "Xournalpp sürümünü edinin"
 
@@ -838,7 +836,7 @@ msgstr "İzometrik Noktalı"
 msgid "Isometric Graph"
 msgstr "İzometrik Grafik"
 
-#: ../src/core/control/XournalMain.cpp:625
+#: ../src/core/control/XournalMain.cpp:626
 msgid "Jump to Page (first Page: 1)"
 msgstr "Sayfaya Git (ilk Sayfa: 1)"
 
@@ -946,12 +944,12 @@ msgstr "Normal çizim"
 msgid "OK"
 msgstr "Tamam"
 
-#: ../src/core/control/XournalMain.cpp:665
+#: ../src/core/control/XournalMain.cpp:666
 msgid "On export, only export the layers specified by RANGE (e.g. \"2-3,5,7-\")\n"
 "                                 No effect without -p/--create-pdf or -i/--create-img"
 msgstr ""
 
-#: ../src/core/control/XournalMain.cpp:661
+#: ../src/core/control/XournalMain.cpp:662
 msgid "Only export the pages specified by RANGE (e.g. \"2-3,5,7-\")\n"
 "                                 No effect without -p/--create-pdf or -i/--create-img"
 msgstr "Yalnızca ARALIK kısmında belirtilen sayfaları dışa aktarın (ör. \"2-3,5,7-\")\n"
@@ -961,11 +959,11 @@ msgstr "Yalnızca ARALIK kısmında belirtilen sayfaları dışa aktarın (ör. 
 msgid "Open Image"
 msgstr "Resim Aç"
 
-#: ../src/core/control/XournalMain.cpp:173
+#: ../src/core/control/XournalMain.cpp:185
 msgid "Open Logfile"
 msgstr "Log Dosyası Aç"
 
-#: ../src/core/control/XournalMain.cpp:174
+#: ../src/core/control/XournalMain.cpp:186
 msgid "Open Logfile directory"
 msgstr "Günlük dosyası dizinini aç"
 
@@ -1060,6 +1058,10 @@ msgstr "Düz"
 msgid "Play Object"
 msgstr "Nesne Oynat"
 
+#: ../src/core/control/XournalMain.cpp:148
+msgid "Please delete the file manually"
+msgstr ""
+
 #: ../src/core/gui/dialog/ToolbarManageDialog.cpp:22
 msgid "Predefined"
 msgstr "Önceden tanımlanmış"
@@ -1117,7 +1119,7 @@ msgstr "Değiştir"
 msgid "Requested temporary file was not found for attachment {1}"
 msgstr "{1} eki için istenen geçici dosya bulunamadı"
 
-#: ../src/core/control/XournalMain.cpp:218
+#: ../src/core/control/XournalMain.cpp:219
 msgid "Restore file"
 msgstr "Dosyayı geri yükle"
 
@@ -1292,7 +1294,7 @@ msgstr "Bölge seç"
 msgid "Selection Combo"
 msgstr "Kombinasyonu seç"
 
-#: ../src/core/control/XournalMain.cpp:172
+#: ../src/core/control/XournalMain.cpp:184
 msgid "Send Bugreport"
 msgstr "Hata Raporu Gönder"
 
@@ -1308,13 +1310,13 @@ msgstr "En arkaya gönder"
 msgid "Separator"
 msgstr "Ayırıcı"
 
-#: ../src/core/control/XournalMain.cpp:669
+#: ../src/core/control/XournalMain.cpp:670
 msgid "Set DPI for PNG exports. Default is 300\n"
 "                                 No effect without -i/--create-img=foo.png"
 msgstr "PNG çıktısı için DPI ayarlayın. Varsayılan olarak 300\n"
 "                                   -i/--create-img=foo.png olmadan etkisi yoktur"
 
-#: ../src/core/control/XournalMain.cpp:679
+#: ../src/core/control/XournalMain.cpp:680
 msgid "Set page height for PNG exports\n"
 "                                 No effect without -i/--create-img=foo.png\n"
 "                                 Ignored if --export-png-dpi or --export-png-width is used"
@@ -1322,7 +1324,7 @@ msgstr "PNG dışarı aktarmaları için sayfa yüksekliği belirtin\n"
 "                                 -i/--create-img=foo.png şeklinde ise etkisizdir\n"
 "                                 --export-png-dpi yada --export-png-width şeklinde ise bu ayar gözardı edilir"
 
-#: ../src/core/control/XournalMain.cpp:673
+#: ../src/core/control/XournalMain.cpp:674
 msgid "Set page width for PNG exports\n"
 "                                 No effect without -i/--create-img=foo.png\n"
 "                                 Ignored if --export-png-dpi is used"
@@ -1350,13 +1352,13 @@ msgstr "Yalnızca kullanılmayan sayfaları göster (kullanılmayan bir sayfa)"
 msgid "Show only not used pages ({1} unused pages)"
 msgstr "Yalnızca kullanılmayan sayfaları göster ({1} kullanılmayan sayfa)"
 
-#: ../src/core/control/XournalMain.cpp:498
+#: ../src/core/control/XournalMain.cpp:499
 msgid "Sorry, Xournal++ can only open one file at once.\n"
 "Others are ignored."
 msgstr "Üzgünüz, Xournal++ bir kerede yalnızca bir dosyayı açabilir.\n"
 "Diğerleri yok sayılır."
 
-#: ../src/core/control/XournalMain.cpp:513
+#: ../src/core/control/XournalMain.cpp:514
 msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
 msgstr "Üzgünüz, Xournal++ şu anda uzak dosyaları açamıyor.\n"
@@ -1446,7 +1448,7 @@ msgstr "\"{1}\" Araç Çubuğu yapılandırması önceden tanımlandı, düzenle
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
 msgstr "Eklenmiş arka plan dosyası bulunamadı. Taşınmış, yeniden adlandırılmış veya silinmiş olabilir."
 
-#: ../src/core/control/XournalMain.cpp:244
+#: ../src/core/control/XournalMain.cpp:245
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted."
 msgstr ""
 
@@ -1484,17 +1486,17 @@ msgstr "Dosya geçerli bir .xopp dosyası değil (Sürüm dizesi bozuk): \"{1}\"
 msgid "The formula is empty when rendered or invalid."
 msgstr "Formül, oluşturulduğunda veya geçersiz olduğunda boştur."
 
-#: ../src/core/control/XournalMain.cpp:167
+#: ../src/core/control/XournalMain.cpp:178
 msgid "The most recent log file name: {1}"
 msgstr "En son günlük dosyası adı: {1}"
 
-#: ../src/core/control/XournalMain.cpp:162
-msgid "There are errorlogfiles from Xournal++. Please send a Bugreport, so the bug may be fixed."
-msgstr "Xournal++'dan hata günlüğü dosyaları var. Lütfen bir Hata Raporu gönderin, böylece hata düzeltilebilir."
+#: ../src/core/control/XournalMain.cpp:174
+msgid "There are errorlogfiles from Xournal++. Please file a Bugreport, so the bug may be fixed."
+msgstr ""
 
-#: ../src/core/control/XournalMain.cpp:161
-msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
-msgstr "Xournal++ 'dan bir hata günlüğü dosyası var. Lütfen bir Hata Raporu gönderin, böylece hata düzeltilebilir."
+#: ../src/core/control/XournalMain.cpp:173
+msgid "There is an errorlogfile from Xournal++. Please file a Bugreport, so the bug may be fixed."
+msgstr ""
 
 #: ../src/util/XojMsgBox.cpp:104
 msgid "There was an error displaying help: {1}"
@@ -1649,7 +1651,7 @@ msgstr "Xournal (Uyumluluk)"
 msgid "Xournal files"
 msgstr "Xournal dosyaları"
 
-#: ../src/core/control/XournalMain.cpp:212
+#: ../src/core/control/XournalMain.cpp:213
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr "Xournal++ son kez çöktü. Son düzenlenen dosyayı geri yüklemek ister misiniz?"
 
@@ -1669,9 +1671,9 @@ msgid "You don't have any PDF pages to select from. Cancel operation.\n"
 msgstr "Aralarından seçim yapabileceğiniz PDF sayfanız yok. İşlemi iptal edin.\n"
 "Lütfen başka bir arka plan türü seçin: Menü \"Günlük\" → \"Sayfa Şablonunu Yapılandır\"."
 
-#: ../src/core/control/XournalMain.cpp:164
-msgid "You're using \"{1}/{2}\" branch. Send Bugreport will direct you to this repo's issue tracker."
-msgstr "Programın {1}/{2} sürümünü kullanıyorsunuz. Hata raporu göndermek sizi bu yazılım deposunun sorun izleyicisine yönlendirecektir."
+#: ../src/core/control/XournalMain.cpp:176
+msgid "You're using \"{1}/{2}\" branch."
+msgstr ""
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:86
 msgid "Your current document does not contain PDF Page no {1}\n"
