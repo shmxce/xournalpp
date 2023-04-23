@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-22 07:13+0000\n"
-"PO-Revision-Date: 2023-04-22 07:14\n"
+"POT-Creation-Date: 2023-04-23 07:25+0000\n"
+"PO-Revision-Date: 2023-04-23 08:39\n"
 "Last-Translator: \n"
 "Language-Team: Afrikaans\n"
 "Language: af_ZA\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Crowdin-File: /master/po/xournalpp.pot\n"
 "X-Crowdin-File-ID: 6\n"
 
-#: ../src/core/control/XournalMain.cpp:410
+#: ../src/core/control/XournalMain.cpp:411
 msgid "\n\n"
 "Will now attempt to run without this file."
 msgstr "\n\n"
@@ -51,7 +51,7 @@ msgstr ""
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
 msgstr "<b>Geen toestelle was gevind nie. Hierdie lyk verkeerd - dalk wil U 'n fout rapporteer?</b>"
 
-#: ../src/core/control/XournalMain.cpp:405
+#: ../src/core/control/XournalMain.cpp:406
 msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
 "<b>{1}</b></span>\n"
 "Could not find them at any location.\n"
@@ -72,7 +72,7 @@ msgstr ""
 msgid "Add/Edit TeX"
 msgstr "Voeg by/Verander TeX"
 
-#: ../src/core/control/XournalMain.cpp:684
+#: ../src/core/control/XournalMain.cpp:685
 msgid "Advanced export options"
 msgstr "Gevorderde uitvoer opsies"
 
@@ -168,7 +168,7 @@ msgid "Built on"
 msgstr ""
 
 #: ../src/core/control/Control.cpp:2336 ../src/core/control/Control.cpp:2813
-#: ../src/core/control/XournalMain.cpp:176
+#: ../src/core/control/XournalMain.cpp:188
 #: ../src/core/gui/sidebar/Sidebar.cpp:94
 msgid "Cancel"
 msgstr "Kanselleer"
@@ -360,7 +360,7 @@ msgstr "Verstek Werktuig"
 msgid "Delete"
 msgstr "Verwyder"
 
-#: ../src/core/control/XournalMain.cpp:175
+#: ../src/core/control/XournalMain.cpp:187
 msgid "Delete Logfile"
 msgstr "Vee Logfile uit"
 
@@ -368,7 +368,7 @@ msgstr "Vee Logfile uit"
 msgid "Delete current page"
 msgstr "Verwyder huidige bladsy"
 
-#: ../src/core/control/XournalMain.cpp:217
+#: ../src/core/control/XournalMain.cpp:218
 msgid "Delete file"
 msgstr "Verwyder lêer"
 
@@ -388,7 +388,7 @@ msgstr "Verwyder hierdie bladsy"
 msgid "Discard"
 msgstr "Gooi weg"
 
-#: ../src/core/control/XournalMain.cpp:685
+#: ../src/core/control/XournalMain.cpp:686
 msgid "Display advanced export options"
 msgstr "Wys gevorderde uitvoer opsies"
 
@@ -578,17 +578,11 @@ msgstr "Fout: {1} is nie n normale lêer nie. Kyk asseblief na jou LaTeX templaa
 msgid "Error: {1}. Please check the contents of {2}"
 msgstr "Fout\" {1}. Kyk asseblief na die inhoud van {2}"
 
-#: ../src/core/control/XournalMain.cpp:195
-msgid "Errorlog cannot be deleted. You have to do it manually.\n"
-"Logfile: {1}"
-msgstr "Fout aanmelding kon nie verwyder word nie. Jy moet dit handmatig doen.\n"
-"Foutlêer: {1}"
-
-#: ../src/core/control/XournalMain.cpp:638
+#: ../src/core/control/XournalMain.cpp:639
 msgid "Export FILE as PDF"
 msgstr "Voer LÊER uit as PDF"
 
-#: ../src/core/control/XournalMain.cpp:640
+#: ../src/core/control/XournalMain.cpp:641
 msgid "Export FILE as image files (one per page)\n"
 "                                 Guess the output format from the extension of IMGFILE\n"
 "                                 Supported formats: .png, .svg"
@@ -604,7 +598,7 @@ msgstr "Voer PDF uit"
 msgid "Export as PDF"
 msgstr "Voer as PDF uit"
 
-#: ../src/core/control/XournalMain.cpp:654
+#: ../src/core/control/XournalMain.cpp:655
 msgid "Export layers progressively\n"
 "                                 In PDF export, Render layers progressively one by one.\n"
 "                                 This results in N export pages per page with N layers,\n"
@@ -616,7 +610,7 @@ msgstr "Voer lêers uit geleidelik   \n"
 "                                 bou die lae stapel geleidelik.\n"
 "                                 Die gevolglike PDF lêer kan gebruik word vir 'n voorlegging.\n"
 
-#: ../src/core/control/XournalMain.cpp:645
+#: ../src/core/control/XournalMain.cpp:646
 msgid "Export without background\n"
 "                                 The exported file has transparent or white background,\n"
 "                                 depending on what its format supports\n"
@@ -624,11 +618,15 @@ msgstr "Voer uit sonder agtergrond\n"
 "                                 Die uitgevoerde lêer het 'n deurskynende of wit agtergrond\n"
 "                                 afhangend van wat die formaat ondersteun\n"
 
-#: ../src/core/control/XournalMain.cpp:650
+#: ../src/core/control/XournalMain.cpp:651
 msgid "Export without ruling\n"
 "                                 The exported file has no paper ruling\n"
 msgstr "Voer uit sonder lyne\n"
 "                                 Die uitgevoerde lêer het nie papier lyne nie\n"
+
+#: ../src/core/control/XournalMain.cpp:146
+msgid "Failed to delete file: {1}"
+msgstr ""
 
 #: ../src/core/control/latex/LatexGenerator.cpp:83
 msgid "Failed to find LaTeX generator program in PATH: {1}"
@@ -713,7 +711,7 @@ msgstr "GNU GPLv2 of later"
 msgid "GTK Version"
 msgstr ""
 
-#: ../src/core/control/XournalMain.cpp:629
+#: ../src/core/control/XournalMain.cpp:630
 msgid "Get version of xournalpp"
 msgstr "Kry die weergawe van xournalpp"
 
@@ -837,7 +835,7 @@ msgstr "Isometries Gestippel"
 msgid "Isometric Graph"
 msgstr "Isometries Grafiek"
 
-#: ../src/core/control/XournalMain.cpp:625
+#: ../src/core/control/XournalMain.cpp:626
 msgid "Jump to Page (first Page: 1)"
 msgstr "Spring na bladsy (eerste Bladsy: 1)"
 
@@ -945,12 +943,12 @@ msgstr "Gewone tekening"
 msgid "OK"
 msgstr "OK"
 
-#: ../src/core/control/XournalMain.cpp:665
+#: ../src/core/control/XournalMain.cpp:666
 msgid "On export, only export the layers specified by RANGE (e.g. \"2-3,5,7-\")\n"
 "                                 No effect without -p/--create-pdf or -i/--create-img"
 msgstr ""
 
-#: ../src/core/control/XournalMain.cpp:661
+#: ../src/core/control/XournalMain.cpp:662
 msgid "Only export the pages specified by RANGE (e.g. \"2-3,5,7-\")\n"
 "                                 No effect without -p/--create-pdf or -i/--create-img"
 msgstr "Voer net die blaaie in die gespesifiseerde reeks uit (bv. \"2-3,5,7-\")\n"
@@ -960,11 +958,11 @@ msgstr "Voer net die blaaie in die gespesifiseerde reeks uit (bv. \"2-3,5,7-\")\
 msgid "Open Image"
 msgstr "Maak foto oop"
 
-#: ../src/core/control/XournalMain.cpp:173
+#: ../src/core/control/XournalMain.cpp:185
 msgid "Open Logfile"
 msgstr "Maak log-lêer oop"
 
-#: ../src/core/control/XournalMain.cpp:174
+#: ../src/core/control/XournalMain.cpp:186
 msgid "Open Logfile directory"
 msgstr "Maak Log-lêer gids oop"
 
@@ -1059,6 +1057,10 @@ msgstr "Eenvoudig"
 msgid "Play Object"
 msgstr "Speel objek"
 
+#: ../src/core/control/XournalMain.cpp:148
+msgid "Please delete the file manually"
+msgstr ""
+
 #: ../src/core/gui/dialog/ToolbarManageDialog.cpp:22
 msgid "Predefined"
 msgstr "Vooraf bepaal"
@@ -1116,7 +1118,7 @@ msgstr "Vervang"
 msgid "Requested temporary file was not found for attachment {1}"
 msgstr "Aangevraagde tydelike lêer was nie gevind vir aanhegting {1} nie"
 
-#: ../src/core/control/XournalMain.cpp:218
+#: ../src/core/control/XournalMain.cpp:219
 msgid "Restore file"
 msgstr "Herstel lêer"
 
@@ -1291,7 +1293,7 @@ msgstr "Kies gebied"
 msgid "Selection Combo"
 msgstr "Keuse Kombinasie"
 
-#: ../src/core/control/XournalMain.cpp:172
+#: ../src/core/control/XournalMain.cpp:184
 msgid "Send Bugreport"
 msgstr "Stuur foutverslag"
 
@@ -1307,13 +1309,13 @@ msgstr "Stuur na agter"
 msgid "Separator"
 msgstr "Verdeler"
 
-#: ../src/core/control/XournalMain.cpp:669
+#: ../src/core/control/XournalMain.cpp:670
 msgid "Set DPI for PNG exports. Default is 300\n"
 "                                 No effect without -i/--create-img=foo.png"
 msgstr "Stel DPI vir PNG uitvoerings. Standaard is 300\n"
 "                                 Geen effek sonder -i/--create-img=foo.png"
 
-#: ../src/core/control/XournalMain.cpp:679
+#: ../src/core/control/XournalMain.cpp:680
 msgid "Set page height for PNG exports\n"
 "                                 No effect without -i/--create-img=foo.png\n"
 "                                 Ignored if --export-png-dpi or --export-png-width is used"
@@ -1321,7 +1323,7 @@ msgstr "Stel bladsy hoogte vir PNG uitvoerings\n"
 "                                 Geen effek sonder -i/--create-img=foo.png\n"
 "                                 Geignoreer indien --export-png-dpi of --export-png-width gebruik word"
 
-#: ../src/core/control/XournalMain.cpp:673
+#: ../src/core/control/XournalMain.cpp:674
 msgid "Set page width for PNG exports\n"
 "                                 No effect without -i/--create-img=foo.png\n"
 "                                 Ignored if --export-png-dpi is used"
@@ -1349,13 +1351,13 @@ msgstr "Wys slegs ongebruikte blaaie (een ongebruikte bladsy)"
 msgid "Show only not used pages ({1} unused pages)"
 msgstr "Wys slegs ongebruikte blaaie ({1} ongebruikte bladsye)"
 
-#: ../src/core/control/XournalMain.cpp:498
+#: ../src/core/control/XournalMain.cpp:499
 msgid "Sorry, Xournal++ can only open one file at once.\n"
 "Others are ignored."
 msgstr "Jammer, Xournal++ kan slegs een lêer per slag oop maak.\n"
 "Ander is geïgnoreer."
 
-#: ../src/core/control/XournalMain.cpp:513
+#: ../src/core/control/XournalMain.cpp:514
 msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
 msgstr "Jammer, Xournal++ kan nie afstand lêers oop maak op die oomblik nie.\n"
@@ -1445,7 +1447,7 @@ msgstr "Die Nutsbalk-konfigurasie \"{1}\" is voorafgekies, wil jy 'n afskrif maa
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
 msgstr ""
 
-#: ../src/core/control/XournalMain.cpp:244
+#: ../src/core/control/XournalMain.cpp:245
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted."
 msgstr ""
 
@@ -1482,17 +1484,17 @@ msgstr "Die lêer is nie 'n geldige .xopp lêer nie (Version string corrputed): 
 msgid "The formula is empty when rendered or invalid."
 msgstr "Die formule is leeg wanneer gelewer word of is ongeldig."
 
-#: ../src/core/control/XournalMain.cpp:167
+#: ../src/core/control/XournalMain.cpp:178
 msgid "The most recent log file name: {1}"
 msgstr "Die langste log lêer naam: {1}"
 
-#: ../src/core/control/XournalMain.cpp:162
-msgid "There are errorlogfiles from Xournal++. Please send a Bugreport, so the bug may be fixed."
-msgstr "Daar is foutloglêers van Xournal++. Stuur asb 'n foutverslag, so dat die fout reggemaak dan word."
+#: ../src/core/control/XournalMain.cpp:174
+msgid "There are errorlogfiles from Xournal++. Please file a Bugreport, so the bug may be fixed."
+msgstr ""
 
-#: ../src/core/control/XournalMain.cpp:161
-msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
-msgstr "Daar is foutloglêers van Xournal++. Stuur asb 'n foutverslag, so dat die fout reggemaak dan word."
+#: ../src/core/control/XournalMain.cpp:173
+msgid "There is an errorlogfile from Xournal++. Please file a Bugreport, so the bug may be fixed."
+msgstr ""
 
 #: ../src/util/XojMsgBox.cpp:104
 msgid "There was an error displaying help: {1}"
@@ -1647,7 +1649,7 @@ msgstr ""
 msgid "Xournal files"
 msgstr "Xournal lêers"
 
-#: ../src/core/control/XournalMain.cpp:212
+#: ../src/core/control/XournalMain.cpp:213
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr ""
 
@@ -1666,8 +1668,8 @@ msgid "You don't have any PDF pages to select from. Cancel operation.\n"
 "Please select another background type: Menu \"Journal\" → \"Configure Page Template\"."
 msgstr ""
 
-#: ../src/core/control/XournalMain.cpp:164
-msgid "You're using \"{1}/{2}\" branch. Send Bugreport will direct you to this repo's issue tracker."
+#: ../src/core/control/XournalMain.cpp:176
+msgid "You're using \"{1}/{2}\" branch."
 msgstr ""
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:86
