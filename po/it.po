@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-04-24 15:13\n"
+"PO-Revision-Date: 2023-04-24 16:12\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -392,7 +392,7 @@ msgstr "Non salvare"
 
 #: ../src/core/control/XournalMain.cpp:686
 msgid "Display advanced export options"
-msgstr "Opzioni avanzate di esportazione"
+msgstr "Visualizza opzioni avanzate di esportazione"
 
 #: ../src/core/control/Control.cpp:2249
 msgid "Do not open Autosave files. They may will be overwritten!\n"
@@ -412,7 +412,7 @@ msgstr "Il file del documento è stato rimosso."
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:271
 msgid "Document is corrupted (no pages found in file)"
-msgstr "Il documento è danneggiato (nessuna pagina trovata nel file)"
+msgstr "Il documento è corrotto (nessuna pagina trovata nel file)"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:267
 msgid "Document is not complete (maybe the end is cut off?)"
