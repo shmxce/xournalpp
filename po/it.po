@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-04-23 08:39\n"
+"PO-Revision-Date: 2023-04-24 15:13\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -628,7 +628,7 @@ msgstr "Esporta senza rigatura\n"
 
 #: ../src/core/control/XournalMain.cpp:146
 msgid "Failed to delete file: {1}"
-msgstr ""
+msgstr "Eliminazione del file non riuscita: {1}"
 
 #: ../src/core/control/latex/LatexGenerator.cpp:83
 msgid "Failed to find LaTeX generator program in PATH: {1}"
@@ -1064,7 +1064,7 @@ msgstr "Riproduci Oggetto"
 
 #: ../src/core/control/XournalMain.cpp:148
 msgid "Please delete the file manually"
-msgstr ""
+msgstr "Si prega di eliminare il file manualmente"
 
 #: ../src/core/gui/dialog/ToolbarManageDialog.cpp:22
 msgid "Predefined"
@@ -1496,11 +1496,11 @@ msgstr "Il nome del log più recente: {1}"
 
 #: ../src/core/control/XournalMain.cpp:174
 msgid "There are errorlogfiles from Xournal++. Please file a Bugreport, so the bug may be fixed."
-msgstr ""
+msgstr "Ci sono dei log di errore generati da Xournal++. Per favore invia un report, così che l'eventuale bug possa essere risolto."
 
 #: ../src/core/control/XournalMain.cpp:173
 msgid "There is an errorlogfile from Xournal++. Please file a Bugreport, so the bug may be fixed."
-msgstr ""
+msgstr "C'è un log di errore generato da Xournal++. Per favore invia un report, così che l'eventuale bug possa essere risolto."
 
 #: ../src/util/XojMsgBox.cpp:104
 msgid "There was an error displaying help: {1}"
@@ -1677,7 +1677,7 @@ msgstr "Non hai nessuna pagina PDF da cui selezionare. Annulla l'operazione.\n"
 
 #: ../src/core/control/XournalMain.cpp:176
 msgid "You're using \"{1}/{2}\" branch."
-msgstr ""
+msgstr "Stai usando il branch \"{1}/{2}\"."
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:86
 msgid "Your current document does not contain PDF Page no {1}\n"
@@ -2282,7 +2282,7 @@ msgstr "Velocità di base"
 
 #: ../ui/settings.glade:3528
 msgid "Below preview"
-msgstr ""
+msgstr "Sotto l'anteprima"
 
 #: ../ui/settings.glade:3162
 msgctxt "stylus cursor uses a big pen icon"
@@ -2343,7 +2343,7 @@ msgstr "Colore del cerchio"
 
 #: ../ui/settings.glade:3529
 msgid "Circle background"
-msgstr ""
+msgstr "Sfondo del cerchio"
 
 #: ../ui/settings.glade:4021
 msgid "Clear cached paged while scrolling"
@@ -3025,7 +3025,7 @@ msgstr "P_recedente pagina annotata"
 
 #: ../ui/settings.glade:3512
 msgid "Page numbering  "
-msgstr ""
+msgstr "Numerazione delle pagine  "
 
 #: ../ui/exportSettings.glade:206
 msgid "Pages:"
@@ -3291,7 +3291,7 @@ msgstr "Mostra barra di scorrimento a sinistra"
 
 #: ../ui/settings.glade:3559
 msgid "Sidebar"
-msgstr ""
+msgstr "Barra laterale"
 
 #: ../ui/settings.glade:909
 msgid "Slower strokes are assigned a greater pressure than faster strokes, if pressure information is absent.\n\n"
@@ -3322,7 +3322,7 @@ msgstr "Velocità per un passo di zoom"
 
 #: ../ui/settings.glade:3530
 msgid "Square background"
-msgstr ""
+msgstr "Sfondo del quadrato"
 
 #: ../ui/settingsButtonConfig.glade:130
 msgid "Standard"
