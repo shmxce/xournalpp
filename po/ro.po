@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-04-26 13:43\n"
+"PO-Revision-Date: 2023-04-26 14:40\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -628,7 +628,7 @@ msgstr "Exportă fără liniere\n"
 
 #: ../src/core/control/XournalMain.cpp:146
 msgid "Failed to delete file: {1}"
-msgstr "Nu s-a putut șterge fișierul: {1}"
+msgstr "Nu s-a putut elimina fișierul: {1}"
 
 #: ../src/core/control/latex/LatexGenerator.cpp:83
 msgid "Failed to find LaTeX generator program in PATH: {1}"
@@ -2278,7 +2278,7 @@ msgstr "Viteza de deplasare"
 
 #: ../ui/settings.glade:3528
 msgid "Below preview"
-msgstr "Sub previzualizare"
+msgstr "Sub miniatură"
 
 #: ../ui/settings.glade:3162
 msgctxt "stylus cursor uses a big pen icon"
@@ -2339,7 +2339,7 @@ msgstr "Culoarea cercului"
 
 #: ../ui/settings.glade:3529
 msgid "Circle background"
-msgstr ""
+msgstr "Într-un cerc"
 
 #: ../ui/settings.glade:4021
 msgid "Clear cached paged while scrolling"
@@ -3021,7 +3021,7 @@ msgstr "Pagina anterioa_ră cu însemnări"
 
 #: ../ui/settings.glade:3512
 msgid "Page numbering  "
-msgstr ""
+msgstr "Numărul paginii  "
 
 #: ../ui/exportSettings.glade:206
 msgid "Pages:"
@@ -3318,7 +3318,7 @@ msgstr "Viteza pentru un pas de zoom"
 
 #: ../ui/settings.glade:3530
 msgid "Square background"
-msgstr ""
+msgstr "Într-un pătrat"
 
 #: ../ui/settingsButtonConfig.glade:130
 msgid "Standard"
