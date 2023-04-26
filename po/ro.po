@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-04-26 14:40\n"
+"PO-Revision-Date: 2023-04-26 15:42\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -514,7 +514,7 @@ msgstr "Activează sensibilitatea la apăsare sau estimarea forței de apăsare 
 #: ../src/core/undo/DeleteUndoAction.cpp:61
 #: ../src/core/undo/EraseUndoAction.cpp:60
 msgid "Erase stroke"
-msgstr "Șterge linia"
+msgstr "Elimină linia"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:89
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:315
@@ -1450,16 +1450,16 @@ msgstr "Configurarea benzii cu instrumente „{1}” este predefinită. Vrei să
 
 #: ../src/core/control/Control.cpp:2311
 msgid "The attached background file could not be found. It might have been moved, renamed or deleted."
-msgstr "Fișierul fondului atașat nu a putut fi găsit. Este posibil să fi fost mutat, redenumit sau șters."
+msgstr "Fișierul fondului atașat nu a putut fi găsit. Este posibil să fi fost mutat, redenumit sau eliminat."
 
 #: ../src/core/control/XournalMain.cpp:245
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted."
-msgstr "Fișierul fondului „{1}” nu a putut fi găsit. Este posibil să fi fost mutat, redenumit sau șters."
+msgstr "Fișierul fondului „{1}” nu a putut fi găsit. Este posibil să fi fost mutat, redenumit sau eliminat."
 
 #: ../src/core/control/Control.cpp:2314
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
 "It was last seen at: \"{2}\""
-msgstr "Fișierul fondului „{1}” nu a putut fi găsit. Este posibil să fi fost mutat, redenumit sau șters.\n"
+msgstr "Fișierul fondului „{1}” nu a putut fi găsit. Este posibil să fi fost mutat, redenumit sau eliminat.\n"
 "A fost văzut ultima dată în: „{2}”"
 
 #: ../src/core/control/jobs/BaseExportJob.cpp:52
@@ -1496,11 +1496,11 @@ msgstr "Cel mai recent nume de fișier jurnal: {1}"
 
 #: ../src/core/control/XournalMain.cpp:174
 msgid "There are errorlogfiles from Xournal++. Please file a Bugreport, so the bug may be fixed."
-msgstr "Există fișiere de erori de la Xournal++. Trimite un raport pentru ca eroarea să poată fi rezolvată."
+msgstr "Există jurnale de erori de la Xournal++. Trimite un raport pentru ca eroarea să poată fi rezolvată."
 
 #: ../src/core/control/XournalMain.cpp:173
 msgid "There is an errorlogfile from Xournal++. Please file a Bugreport, so the bug may be fixed."
-msgstr "Există un fișier de erori de la Xournal++. Trimite un raport pentru ca eroarea să poată fi rezolvată."
+msgstr "Există un jurnal de erori de la Xournal++. Trimite un raport pentru ca eroarea să poată fi rezolvată."
 
 #: ../src/util/XojMsgBox.cpp:104
 msgid "There was an error displaying help: {1}"
