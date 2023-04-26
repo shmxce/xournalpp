@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-04-26 13:43\n"
+"PO-Revision-Date: 2023-04-26 14:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -2343,7 +2343,7 @@ msgstr "Colore del cerchio"
 
 #: ../ui/settings.glade:3529
 msgid "Circle background"
-msgstr "Sfondo del cerchio"
+msgstr "In un cerchio"
 
 #: ../ui/settings.glade:4021
 msgid "Clear cached paged while scrolling"
@@ -3025,7 +3025,7 @@ msgstr "P_recedente pagina annotata"
 
 #: ../ui/settings.glade:3512
 msgid "Page numbering  "
-msgstr "Numerazione delle pagine  "
+msgstr "Numero di pagina  "
 
 #: ../ui/exportSettings.glade:206
 msgid "Pages:"
@@ -3322,7 +3322,7 @@ msgstr "Velocità per un passo di zoom"
 
 #: ../ui/settings.glade:3530
 msgid "Square background"
-msgstr "Sfondo del quadrato"
+msgstr "In un quadrato"
 
 #: ../ui/settingsButtonConfig.glade:130
 msgid "Standard"
