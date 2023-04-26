@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-04-26 12:26\n"
+"PO-Revision-Date: 2023-04-26 13:43\n"
 "Last-Translator: \n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -1496,11 +1496,11 @@ msgstr "Cel mai recent nume de fișier jurnal: {1}"
 
 #: ../src/core/control/XournalMain.cpp:174
 msgid "There are errorlogfiles from Xournal++. Please file a Bugreport, so the bug may be fixed."
-msgstr "Există fişiere de erori de la Xournal++. Trimite un raport pentru ca eroarea să poată fi rezolvată."
+msgstr "Există fișiere de erori de la Xournal++. Trimite un raport pentru ca eroarea să poată fi rezolvată."
 
 #: ../src/core/control/XournalMain.cpp:173
 msgid "There is an errorlogfile from Xournal++. Please file a Bugreport, so the bug may be fixed."
-msgstr ""
+msgstr "Există un fișier de erori de la Xournal++. Trimite un raport pentru ca eroarea să poată fi rezolvată."
 
 #: ../src/util/XojMsgBox.cpp:104
 msgid "There was an error displaying help: {1}"
@@ -1677,7 +1677,7 @@ msgstr "Nu ai nicio pagină PDF de ales. Anulează operațiunea.\n"
 
 #: ../src/core/control/XournalMain.cpp:176
 msgid "You're using \"{1}/{2}\" branch."
-msgstr ""
+msgstr "Folosești ramura „{1}/{2}”."
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:86
 msgid "Your current document does not contain PDF Page no {1}\n"
@@ -2278,7 +2278,7 @@ msgstr "Viteza de deplasare"
 
 #: ../ui/settings.glade:3528
 msgid "Below preview"
-msgstr ""
+msgstr "Sub previzualizare"
 
 #: ../ui/settings.glade:3162
 msgctxt "stylus cursor uses a big pen icon"
@@ -3287,7 +3287,7 @@ msgstr "Arată bara verticală de răsfoire în stânga"
 
 #: ../ui/settings.glade:3559
 msgid "Sidebar"
-msgstr ""
+msgstr "Miniaturi"
 
 #: ../ui/settings.glade:909
 msgid "Slower strokes are assigned a greater pressure than faster strokes, if pressure information is absent.\n\n"
