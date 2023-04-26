@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-04-26 12:26\n"
+"PO-Revision-Date: 2023-04-26 13:43\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -1496,11 +1496,11 @@ msgstr "Il nome del log più recente: {1}"
 
 #: ../src/core/control/XournalMain.cpp:174
 msgid "There are errorlogfiles from Xournal++. Please file a Bugreport, so the bug may be fixed."
-msgstr "Ci sono dei log di errore generati da Xournal++. Per favore invia un report, così che l'eventuale bug possa essere risolto."
+msgstr "Ci sono file di errore da Xournal++. Invia una segnalazione di errore, in modo che possa essere risolta."
 
 #: ../src/core/control/XournalMain.cpp:173
 msgid "There is an errorlogfile from Xournal++. Please file a Bugreport, so the bug may be fixed."
-msgstr "C'è un log di errore generato da Xournal++. Per favore invia un report, così che l'eventuale bug possa essere risolto."
+msgstr "C'è un file di errore da Xournal++. Invia una segnalazione di errore, in modo che possa essere risolta."
 
 #: ../src/util/XojMsgBox.cpp:104
 msgid "There was an error displaying help: {1}"
@@ -1677,7 +1677,7 @@ msgstr "Non hai nessuna pagina PDF da cui selezionare. Annulla l'operazione.\n"
 
 #: ../src/core/control/XournalMain.cpp:176
 msgid "You're using \"{1}/{2}\" branch."
-msgstr "Stai usando il branch \"{1}/{2}\"."
+msgstr "Stai usando il ramo \"{1}/{2}\"."
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:86
 msgid "Your current document does not contain PDF Page no {1}\n"
@@ -3291,7 +3291,7 @@ msgstr "Mostra barra di scorrimento a sinistra"
 
 #: ../ui/settings.glade:3559
 msgid "Sidebar"
-msgstr "Barra laterale"
+msgstr "Anteprime"
 
 #: ../ui/settings.glade:909
 msgid "Slower strokes are assigned a greater pressure than faster strokes, if pressure information is absent.\n\n"
