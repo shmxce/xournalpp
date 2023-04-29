@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-04-23 08:39\n"
+"PO-Revision-Date: 2023-04-29 23:06\n"
 "Last-Translator: \n"
 "Language-Team: Basque\n"
 "Language: eu_ES\n"
@@ -628,7 +628,7 @@ msgstr "Esportatu saretarik gabe\n"
 
 #: ../src/core/control/XournalMain.cpp:146
 msgid "Failed to delete file: {1}"
-msgstr ""
+msgstr "Ezin izan da fitxategia ezabatu: {1}"
 
 #: ../src/core/control/latex/LatexGenerator.cpp:83
 msgid "Failed to find LaTeX generator program in PATH: {1}"
@@ -1064,7 +1064,7 @@ msgstr "Erreproduzitu objektua"
 
 #: ../src/core/control/XournalMain.cpp:148
 msgid "Please delete the file manually"
-msgstr ""
+msgstr "Ezabatu fitxategia eskuz"
 
 #: ../src/core/gui/dialog/ToolbarManageDialog.cpp:22
 msgid "Predefined"
@@ -1496,11 +1496,11 @@ msgstr "Azken erregistro fitxategiaren izena: {1}"
 
 #: ../src/core/control/XournalMain.cpp:174
 msgid "There are errorlogfiles from Xournal++. Please file a Bugreport, so the bug may be fixed."
-msgstr ""
+msgstr "Xournal++-ren erroreen erregistro-fitxategiak daude. Aurkeztu akatsen txostena, akatsa konpontzeko."
 
 #: ../src/core/control/XournalMain.cpp:173
 msgid "There is an errorlogfile from Xournal++. Please file a Bugreport, so the bug may be fixed."
-msgstr ""
+msgstr "Xournal++-ren erroreen erregistro-fitxategiak daude. Aurkeztu akatsen txostena, akatsa konpontzeko."
 
 #: ../src/util/XojMsgBox.cpp:104
 msgid "There was an error displaying help: {1}"
@@ -1677,7 +1677,7 @@ msgstr "Ez daukazu PDF orririk hautatzeko. Utzi eragiketa.\n"
 
 #: ../src/core/control/XournalMain.cpp:176
 msgid "You're using \"{1}/{2}\" branch."
-msgstr ""
+msgstr "\"{1}/{2}\" adarra erabiltzen ari zara."
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:86
 msgid "Your current document does not contain PDF Page no {1}\n"
@@ -2277,7 +2277,7 @@ msgstr "Oinarrizko abiadura"
 
 #: ../ui/settings.glade:3528
 msgid "Below preview"
-msgstr ""
+msgstr "Aurrebistaren azpian"
 
 #: ../ui/settings.glade:3162
 msgctxt "stylus cursor uses a big pen icon"
@@ -2338,7 +2338,7 @@ msgstr "Zirkuluaren kolorea"
 
 #: ../ui/settings.glade:3529
 msgid "Circle background"
-msgstr ""
+msgstr "Zirkulua atzeko planoan"
 
 #: ../ui/settings.glade:4021
 msgid "Clear cached paged while scrolling"
@@ -3020,7 +3020,7 @@ msgstr "Aurreko ohar-orria"
 
 #: ../ui/settings.glade:3512
 msgid "Page numbering  "
-msgstr ""
+msgstr "Orriaren zenbakia  "
 
 #: ../ui/exportSettings.glade:206
 msgid "Pages:"
@@ -3286,7 +3286,7 @@ msgstr "Erakutsi korritze-barra bertikala ezker aldean"
 
 #: ../ui/settings.glade:3559
 msgid "Sidebar"
-msgstr ""
+msgstr "Alboko barra"
 
 #: ../ui/settings.glade:909
 msgid "Slower strokes are assigned a greater pressure than faster strokes, if pressure information is absent.\n\n"
@@ -3317,7 +3317,7 @@ msgstr "Zoomaren urratsen abiadura"
 
 #: ../ui/settings.glade:3530
 msgid "Square background"
-msgstr ""
+msgstr "Karratua atzeko planoan"
 
 #: ../ui/settingsButtonConfig.glade:130
 msgid "Standard"
