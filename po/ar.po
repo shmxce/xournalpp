@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-05-07 14:11\n"
+"PO-Revision-Date: 2023-05-07 15:38\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -2300,7 +2300,7 @@ msgstr "لون الإطار"
 
 #: ../ui/settings.glade:2906
 msgid "Border color for current page and other selections"
-msgstr "لون إطار الصفحة الحالية وتحديدات أخرى"
+msgstr "لون إطار الصفحة الحالية والتحديدات الأخرى"
 
 #: ../ui/main.glade:321
 msgid "Bring Forward"
@@ -3022,7 +3022,7 @@ msgstr "الصفحة المعلّق عليها ال_سابقة"
 
 #: ../ui/settings.glade:3512
 msgid "Page numbering  "
-msgstr ""
+msgstr "ترقيم الصفحات  "
 
 #: ../ui/exportSettings.glade:206
 msgid "Pages:"
