@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-04-23 08:39\n"
+"PO-Revision-Date: 2023-05-11 10:56\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -365,7 +365,7 @@ msgstr "ログファイルを削除"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:489
 msgid "Delete current page"
-msgstr ""
+msgstr "現在のページを削除"
 
 #: ../src/core/control/XournalMain.cpp:218
 msgid "Delete file"
@@ -846,7 +846,7 @@ msgstr ""
 
 #: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
 msgid "Layer Preview"
-msgstr ""
+msgstr "レイヤーのプレビュー"
 
 #: ../src/core/control/layer/LayerController.cpp:375
 msgid "Layer {1}"
@@ -854,7 +854,7 @@ msgstr "レイヤー {1}"
 
 #: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:78
 msgid "Layerstack Preview"
-msgstr ""
+msgstr "レイヤースタックのプレビュー"
 
 #: ../src/core/gui/PageView.cpp:849
 #: ../src/core/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:97
@@ -864,7 +864,7 @@ msgstr "読み込み中…"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:454
 msgid "Manage Toolbars"
-msgstr ""
+msgstr "ツールバーの管理"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:606
 msgid "Medium"
@@ -969,7 +969,7 @@ msgstr "PDF ページ {1}"
 
 #: ../src/core/control/PdfCache.cpp:123
 msgid "PDF background missing"
-msgstr ""
+msgstr "PDFの背景がありません"
 
 #: ../src/core/control/ExportHelper.cpp:120
 msgid "PDF file successfully created"
@@ -999,7 +999,7 @@ msgstr "ページのプレビュー"
 
 #: ../src/core/undo/PageBackgroundChangedUndoAction.cpp:84
 msgid "Page background changed"
-msgstr ""
+msgstr "ページの背景が変更されました"
 
 #: ../src/core/undo/InsertDeletePageUndoAction.cpp:100
 msgid "Page deleted"
@@ -1028,7 +1028,7 @@ msgstr "貼り付け"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:549
 msgid "Pause / Play"
-msgstr ""
+msgstr "一時停止/再生"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:88
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:296
@@ -1037,7 +1037,7 @@ msgstr "ぺン"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:20
 msgid "Plain"
-msgstr ""
+msgstr "装飾なし"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:538
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:27
@@ -1120,7 +1120,7 @@ msgstr ""
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:21
 msgid "Ruled"
-msgstr ""
+msgstr "罫線"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:22
 msgid "Ruled with vertical line"
