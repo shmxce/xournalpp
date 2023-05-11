@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-05-11 13:13\n"
+"PO-Revision-Date: 2023-05-11 14:28\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -3294,7 +3294,7 @@ msgstr ""
 #: ../ui/settings.glade:3163
 msgctxt "stylus cursor uses system cursor"
 msgid "System cursor"
-msgstr ""
+msgstr "システムカーソル"
 
 #: ../ui/main.glade:949
 msgid "T_oolbars"
@@ -3306,7 +3306,7 @@ msgstr ""
 
 #: ../ui/latexSettings.glade:265
 msgid "Template file settings"
-msgstr ""
+msgstr "テンプレートファイルの設定"
 
 #: ../ui/pagesize.glade:101
 msgid "Template:"
@@ -3487,67 +3487,67 @@ msgstr ""
 
 #: ../ui/main.glade:742
 msgid "_1 Column"
-msgstr ""
+msgstr "_1 列"
 
 #: ../ui/main.glade:847
 msgid "_1 Row"
-msgstr ""
+msgstr "_1 行"
 
 #: ../ui/main.glade:753
 msgid "_2 Columns"
-msgstr ""
+msgstr "_2 列"
 
 #: ../ui/main.glade:858
 msgid "_2 Rows"
-msgstr ""
+msgstr "_2 行"
 
 #: ../ui/main.glade:764
 msgid "_3 Columns"
-msgstr ""
+msgstr "_3 列"
 
 #: ../ui/main.glade:869
 msgid "_3 Rows"
-msgstr ""
+msgstr "_3 行"
 
 #: ../ui/main.glade:775
 msgid "_4 Columns"
-msgstr ""
+msgstr "_4 列"
 
 #: ../ui/main.glade:880
 msgid "_4 Rows"
-msgstr ""
+msgstr "_4 行"
 
 #: ../ui/main.glade:786
 msgid "_5 Columns"
-msgstr ""
+msgstr "_5 列"
 
 #: ../ui/main.glade:891
 msgid "_5 Rows"
-msgstr ""
+msgstr "_5 行"
 
 #: ../ui/main.glade:797
 msgid "_6 Columns"
-msgstr ""
+msgstr "_6 列"
 
 #: ../ui/main.glade:902
 msgid "_6 Rows"
-msgstr ""
+msgstr "_6 行"
 
 #: ../ui/main.glade:808
 msgid "_7 Columns"
-msgstr ""
+msgstr "_7 列"
 
 #: ../ui/main.glade:913
 msgid "_7 Rows"
-msgstr ""
+msgstr "_7 行"
 
 #: ../ui/main.glade:819
 msgid "_8 Columns"
-msgstr ""
+msgstr "_8 列"
 
 #: ../ui/main.glade:924
 msgid "_8 Rows"
-msgstr ""
+msgstr "_8 行"
 
 #: ../ui/main.glade:196
 msgid "_Annotate PDF"
@@ -3559,19 +3559,19 @@ msgstr ""
 
 #: ../ui/main.glade:717
 msgid "_Cols/Rows"
-msgstr ""
+msgstr "列/行(_C)"
 
 #: ../ui/main.glade:977
 msgid "_Customize"
-msgstr ""
+msgstr "カスタマイズ(_C)"
 
 #: ../ui/main.glade:1468
 msgid "_Default Tools"
-msgstr ""
+msgstr "デフォルトツール(_D)"
 
 #: ../ui/main.glade:1273
 msgid "_Delete Page"
-msgstr ""
+msgstr "ページを削除(_D)"
 
 #: ../ui/main.glade:292
 msgid "_Edit"
@@ -3579,7 +3579,7 @@ msgstr "編集(_E)"
 
 #: ../ui/main.glade:1396
 msgid "_Eraser"
-msgstr ""
+msgstr "消しゴム(_E)"
 
 #: ../ui/main.glade:237
 msgid "_Export as PDF"
@@ -3591,7 +3591,7 @@ msgstr "ファイル(_F)"
 
 #: ../ui/main.glade:1076
 msgid "_First Page"
-msgstr ""
+msgstr "最初のページ(_F)"
 
 #: ../ui/main.glade:1098
 msgid "_Goto Page"
@@ -3611,7 +3611,7 @@ msgstr ""
 
 #: ../ui/main.glade:1456
 msgid "_Image"
-msgstr ""
+msgstr "画像(_I)"
 
 #: ../ui/main.glade:1201
 msgid "_Journal"
@@ -3619,7 +3619,7 @@ msgstr ""
 
 #: ../ui/main.glade:1120
 msgid "_Last Page"
-msgstr ""
+msgstr "最後のページ(_L)"
 
 #: ../ui/main.glade:662
 msgid "_Left to Right"
@@ -3627,7 +3627,7 @@ msgstr ""
 
 #: ../ui/main.glade:967
 msgid "_Manage"
-msgstr ""
+msgstr "管理(_M)"
 
 #: ../ui/main.glade:1065
 msgid "_Navigation"
@@ -3635,11 +3635,11 @@ msgstr "ナビゲーション(_N)"
 
 #: ../ui/main.glade:1148
 msgid "_Next Layer"
-msgstr ""
+msgstr "次のレイヤー(_N)"
 
 #: ../ui/main.glade:1109
 msgid "_Next Page"
-msgstr ""
+msgstr "次のページ(_N)"
 
 #: ../ui/main.glade:557
 msgid "_Pair Pages"
@@ -3647,7 +3647,7 @@ msgstr ""
 
 #: ../ui/main.glade:1384
 msgid "_Pen"
-msgstr ""
+msgstr "ペン(_P)"
 
 #: ../ui/main.glade:2126
 msgid "_Plugin"
@@ -3655,15 +3655,15 @@ msgstr "プラグイン(_P)"
 
 #: ../ui/main.glade:567
 msgid "_Presentation Mode"
-msgstr ""
+msgstr "プレゼンテーションモード(_P)"
 
 #: ../ui/main.glade:1137
 msgid "_Previous Layer"
-msgstr ""
+msgstr "前のレイヤー(_P)"
 
 #: ../ui/main.glade:1087
 msgid "_Previous Page"
-msgstr ""
+msgstr "前のページ(_P)"
 
 #: ../ui/main.glade:673
 msgid "_Right to Left"
@@ -3675,7 +3675,7 @@ msgstr "図形認識(_S)"
 
 #: ../ui/main.glade:1444
 msgid "_Text"
-msgstr ""
+msgstr "テキスト(_T)"
 
 #: ../ui/main.glade:1373
 msgid "_Tools"
