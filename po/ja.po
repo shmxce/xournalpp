@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-05-11 11:58\n"
+"PO-Revision-Date: 2023-05-11 13:13\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -3123,31 +3123,31 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:177
 msgid "Select Background Color"
-msgstr ""
+msgstr "背景色を選択"
 
 #: ../ui/settings.glade:5731
 msgid "Select Folder"
-msgstr ""
+msgstr "フォルダを選択"
 
 #: ../ui/images.glade:8
 msgid "Select Image"
-msgstr ""
+msgstr "画像を選択"
 
 #: ../ui/main.glade:1408
 msgid "Select Linear Text"
-msgstr ""
+msgstr "線形テキストを選択"
 
 #: ../ui/pdfpages.glade:8
 msgid "Select PDF Page"
-msgstr ""
+msgstr "PDFページを選択"
 
 #: ../ui/main.glade:1420
 msgid "Select Text In Rectangle"
-msgstr ""
+msgstr "長方形でのテキストの選択"
 
 #: ../ui/settings.glade:3906
 msgid "Select toolbar:"
-msgstr ""
+msgstr "ツールバーを選択:"
 
 #: ../ui/settings.glade:2957
 msgid "Selection Color (Text, Stroke Selection etc.)"
@@ -3171,55 +3171,55 @@ msgstr ""
 
 #: ../ui/main.glade:730
 msgid "Set Columns"
-msgstr ""
+msgstr "列の設定"
 
 #: ../ui/main.glade:835
 msgid "Set Rows"
-msgstr ""
+msgstr "行の設定"
 
 #: ../ui/settings.glade:5306
 msgid "Settings:"
-msgstr ""
+msgstr "値の受け渡し"
 
 #: ../ui/settings.glade:5315
 msgid "Show Floating Toolbox"
-msgstr ""
+msgstr "フローティングツールボックスを表示"
 
 #: ../ui/settings.glade:3754 ../ui/settings.glade:3837
 msgid "Show Menubar"
-msgstr ""
+msgstr "メニューバーを表示"
 
 #: ../ui/settings.glade:2825
 msgid "Show Menubar on Startup"
-msgstr ""
+msgstr "起動時にメニューバーを表示"
 
 #: ../ui/main.glade:589 ../ui/settings.glade:3786 ../ui/settings.glade:3869
 msgid "Show Sidebar"
-msgstr ""
+msgstr "サイドバーを表示"
 
 #: ../ui/settings.glade:3770 ../ui/settings.glade:3853
 msgid "Show Toolbar"
-msgstr ""
+msgstr "ツールバーを表示"
 
 #: ../ui/main.glade:605
 msgid "Show Toolbars"
-msgstr ""
+msgstr "ツールバーを表示"
 
 #: ../ui/settings.glade:2862
 msgid "Show filepath in title bar"
-msgstr ""
+msgstr "タイトルバーにファイルパスを表示"
 
 #: ../ui/settings.glade:3439
 msgid "Show sidebar on the right side"
-msgstr ""
+msgstr "右側にサイドバーを表示"
 
 #: ../ui/settings.glade:3455
 msgid "Show vertical scrollbar on the left side"
-msgstr ""
+msgstr "左側に垂直スクロールバーを表示する"
 
 #: ../ui/settings.glade:3559
 msgid "Sidebar"
-msgstr ""
+msgstr "サイドバー"
 
 #: ../ui/settings.glade:909
 msgid "Slower strokes are assigned a greater pressure than faster strokes, if pressure information is absent.\n\n"
@@ -3237,7 +3237,7 @@ msgstr ""
 
 #: ../ui/about.glade:270
 msgid "Source Code / Bug Tracker"
-msgstr ""
+msgstr "ソースコード/バグトラッカー"
 
 #: ../ui/settings.glade:4134
 msgid "Speed for Ctrl + Scroll"
@@ -3253,7 +3253,7 @@ msgstr ""
 
 #: ../ui/settingsButtonConfig.glade:130
 msgid "Standard"
-msgstr ""
+msgstr "標準"
 
 #: ../ui/settings.glade:2531
 msgid "Start zooming after a distance "
@@ -3310,15 +3310,15 @@ msgstr ""
 
 #: ../ui/pagesize.glade:101
 msgid "Template:"
-msgstr ""
+msgstr "テンプレート:"
 
 #: ../ui/settings.glade:2390 ../ui/settings.glade:2403
 msgid "Test"
-msgstr ""
+msgstr "テスト"
 
 #: ../ui/latexSettings.glade:318
 msgid "Test configuration"
-msgstr ""
+msgstr "テストの設定"
 
 #: ../ui/latexSettings.glade:322
 msgid "Test if the current configuration is valid by running the LaTeX generation command on the global template file with a test formula."
