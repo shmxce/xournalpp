@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-05-11 10:56\n"
+"PO-Revision-Date: 2023-05-11 11:58\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -1124,7 +1124,7 @@ msgstr "罫線"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:22
 msgid "Ruled with vertical line"
-msgstr ""
+msgstr "罫線（分割）"
 
 #: ../src/core/control/jobs/CustomExportJob.cpp:28
 msgid "SVG graphics"
@@ -1247,11 +1247,11 @@ msgstr ""
 
 #: ../src/core/control/Control.cpp:2334
 msgid "Select another PDF"
-msgstr ""
+msgstr "他のPDFを選択"
 
 #: ../src/util/XojMsgBox.cpp:85
 msgid "Select another name"
-msgstr ""
+msgstr "他の名前を選択"
 
 #: ../src/core/gui/dialog/SelectBackgroundColorDialog.cpp:107
 msgid "Select background color"
@@ -1356,7 +1356,7 @@ msgstr ""
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:552
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:140
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:47
@@ -1606,7 +1606,7 @@ msgstr "極太"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:32
 msgid "With PDF background"
-msgstr ""
+msgstr "PDF背景あり"
 
 #: ../src/core/undo/InsertUndoAction.cpp:35
 msgid "Write text"
@@ -2317,7 +2317,7 @@ msgstr ""
 
 #: ../ui/main.glade:2777
 msgid "Copy selected text"
-msgstr ""
+msgstr "選択したテキストをコピー"
 
 #: ../ui/pageTemplate.glade:192
 msgid "Copy the background of the current page instead of using the background set above."
@@ -2588,7 +2588,7 @@ msgstr ""
 
 #: ../ui/latexSettings.glade:549
 msgid "Font: "
-msgstr ""
+msgstr "フォント: "
 
 #: ../ui/main.glade:578 ../ui/settings.glade:3808
 msgid "Fullscreen"
@@ -2596,7 +2596,7 @@ msgstr "全画面表示"
 
 #: ../ui/settings.glade:5946
 msgid "Gain"
-msgstr ""
+msgstr "ゲイン"
 
 #: ../ui/settings.glade:1146 ../ui/settings.glade:1166
 msgid "Gaussian parameter: the higher, the more stabilization and the more lag between your cursor and the painting tip."
@@ -2608,7 +2608,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3107
 msgid "Global"
-msgstr ""
+msgstr "グローバル"
 
 #: ../ui/latexSettings.glade:154
 msgid "Global template file path"
@@ -2750,11 +2750,11 @@ msgstr ""
 
 #: ../ui/main.glade:2940
 msgid "Insert Page After"
-msgstr ""
+msgstr "ページの後に挿入"
 
 #: ../ui/main.glade:2932
 msgid "Insert Page Before"
-msgstr ""
+msgstr "ページの前に挿入"
 
 #: ../ui/settings.glade:6169
 msgid "LaTeX"
