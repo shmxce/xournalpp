@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-04-23 08:39\n"
+"PO-Revision-Date: 2023-05-14 17:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -68,7 +68,7 @@ msgstr "<span foreground='red' size='x-large'>Brakuje wymaganego pliku UI:\n"
 
 #: ../src/core/gui/PageView.cpp:914
 msgid "Add missing page"
-msgstr ""
+msgstr "Dodaj brakującą stronę"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:513
 msgid "Add/Edit TeX"
@@ -197,7 +197,7 @@ msgstr "Zmień grubość kreski"
 
 #: ../src/core/gui/menus/menubar/RecentDocumentsSubmenu.cpp:65
 msgid "Clear list"
-msgstr ""
+msgstr "Wyczyść listę"
 
 #: ../src/core/control/xojfile/LoadHandlerHelper.cpp:96
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
@@ -205,7 +205,7 @@ msgstr "Nie rozpoznano koloru \"{1}\" (nie zdefiniowany w domyślnych)!"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:541
 msgid "Compass"
-msgstr ""
+msgstr "Kompas"
 
 #: ../src/core/gui/sidebar/indextree/SidebarIndexPage.cpp:169
 msgid "Contents"
@@ -628,7 +628,7 @@ msgstr "Eksport bez linii\n"
 
 #: ../src/core/control/XournalMain.cpp:146
 msgid "Failed to delete file: {1}"
-msgstr ""
+msgstr "Nie udało się usunąć pliku: {1}"
 
 #: ../src/core/control/latex/LatexGenerator.cpp:83
 msgid "Failed to find LaTeX generator program in PATH: {1}"
@@ -710,7 +710,7 @@ msgstr "GNU GPLv2 lub nowsza"
 
 #: ../src/core/gui/dialog/AboutDialog.cpp:39
 msgid "GTK Version"
-msgstr ""
+msgstr "Wersja GTK"
 
 #: ../src/core/control/XournalMain.cpp:630
 msgid "Get version of xournalpp"
@@ -801,11 +801,11 @@ msgstr "Wstaw kopię tej strony poniżej"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:95
 msgid "Insert after current page"
-msgstr ""
+msgstr "Wstaw po bieżącej stronie"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:96
 msgid "Insert at end"
-msgstr ""
+msgstr "Wstaw na końcu"
 
 #: ../src/core/undo/InsertUndoAction.cpp:82
 msgid "Insert elements"
@@ -933,7 +933,7 @@ msgstr "Brak dostępnych stron pdf do dodania. Może być konieczne ponowne otwa
 
 #: ../src/core/gui/menus/menubar/RecentDocumentsSubmenu.cpp:56
 msgid "No recent files"
-msgstr ""
+msgstr "Brak ostatnio używanych plików"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:128
 msgid "Normal drawing"
@@ -1061,7 +1061,7 @@ msgstr "Odtwórz Obiekt"
 
 #: ../src/core/control/XournalMain.cpp:148
 msgid "Please delete the file manually"
-msgstr ""
+msgstr "Proszę usunąć plik ręcznie"
 
 #: ../src/core/gui/dialog/ToolbarManageDialog.cpp:22
 msgid "Predefined"
@@ -1164,7 +1164,7 @@ msgstr "Zapisz plik"
 
 #: ../src/core/control/jobs/SaveJob.cpp:117
 msgid "Save file error, can't backup: {1}"
-msgstr ""
+msgstr "Błąd zapisu pliku, nie można stworzyć kopii zapasowej: {1}"
 
 #: ../src/core/control/jobs/CustomExportJob.cpp:125
 #: ../src/core/control/jobs/SaveJob.cpp:131
@@ -1177,7 +1177,7 @@ msgstr "Skaluj"
 
 #: ../src/core/gui/PageView.cpp:912
 msgid "Scroll to page {1}"
-msgstr ""
+msgstr "Przewiń do strony {1}"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:434
 msgid "Search"
@@ -2201,7 +2201,7 @@ msgstr "Wszystkie trzy warunki muszą być spełnione przed zignorowaniem śladu
 #: ../ui/settings.glade:1998
 msgctxt "eraser is always visible"
 msgid "Always"
-msgstr ""
+msgstr "Zawsze"
 
 #: ../ui/latexSettings.glade:45
 msgid "Always check LaTeX dependencies before running"
@@ -2273,7 +2273,7 @@ msgstr "Prędkość podstawowa"
 
 #: ../ui/settings.glade:3528
 msgid "Below preview"
-msgstr ""
+msgstr "Poniżej podglądu"
 
 #: ../ui/settings.glade:3162
 msgctxt "stylus cursor uses a big pen icon"
@@ -2410,7 +2410,7 @@ msgstr "Promień martwej strefy"
 
 #: ../ui/latexSettings.glade:119
 msgid "Default LaTeX Text"
-msgstr ""
+msgstr "Domyślny tekst LaTeX"
 
 #: ../ui/settings.glade:636
 msgid "Default Save Name"
@@ -2530,7 +2530,7 @@ msgstr "Duplikuj"
 
 #: ../ui/main.glade:1243
 msgid "Duplicate Page"
-msgstr ""
+msgstr "Duplikuj stronę"
 
 #: ../ui/main.glade:2985
 msgid "Edit (not implemented yet)"
@@ -2602,7 +2602,7 @@ msgstr "Typ gumki - nie zmieniaj"
 
 #: ../ui/settings.glade:2024
 msgid "Eraser visibility"
-msgstr ""
+msgstr "Widoczność gumki"
 
 #: ../ui/exportSettings.glade:56
 msgid "Export"
@@ -2675,7 +2675,7 @@ msgstr "Globalna ścieżka pliku szablonu"
 
 #: ../ui/settings.glade:3885
 msgid "Go Fullscreen"
-msgstr ""
+msgstr "Włącz pełny ekran"
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
@@ -2954,7 +2954,7 @@ msgstr "N_astępna adnotowana strona"
 #: ../ui/settings.glade:1997
 msgctxt "eraser is never visible"
 msgid "Never"
-msgstr ""
+msgstr "Nigdy"
 
 #: ../ui/main.glade:1222
 msgid "New Page _After"
@@ -3261,7 +3261,7 @@ msgstr "Pokaż pasek boczny"
 
 #: ../ui/settings.glade:3770 ../ui/settings.glade:3853
 msgid "Show Toolbar"
-msgstr ""
+msgstr "Pokaż pasek narzędzi"
 
 #: ../ui/main.glade:605
 msgid "Show Toolbars"
