@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-05-15 11:08\n"
+"PO-Revision-Date: 2023-05-15 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -807,7 +807,7 @@ msgstr "Beszúrás a jelenlegi oldal után"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:96
 msgid "Insert at end"
-msgstr ""
+msgstr "Beszúrás a végére"
 
 #: ../src/core/undo/InsertUndoAction.cpp:82
 msgid "Insert elements"
@@ -1063,7 +1063,7 @@ msgstr "Objektum lejátszása"
 
 #: ../src/core/control/XournalMain.cpp:148
 msgid "Please delete the file manually"
-msgstr ""
+msgstr "Kérjük, kézzel törölje a fájlt"
 
 #: ../src/core/gui/dialog/ToolbarManageDialog.cpp:22
 msgid "Predefined"
@@ -1166,7 +1166,7 @@ msgstr "Fájl mentése"
 
 #: ../src/core/control/jobs/SaveJob.cpp:117
 msgid "Save file error, can't backup: {1}"
-msgstr ""
+msgstr "Fájl mentése hiba, nem lehet biztonsági másolatot készíteni: {1}"
 
 #: ../src/core/control/jobs/CustomExportJob.cpp:125
 #: ../src/core/control/jobs/SaveJob.cpp:131
@@ -1179,7 +1179,7 @@ msgstr "Méretezés"
 
 #: ../src/core/gui/PageView.cpp:912
 msgid "Scroll to page {1}"
-msgstr ""
+msgstr "Görgessen a(z) {1}. oldalra"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:434
 msgid "Search"
@@ -1205,18 +1205,18 @@ msgstr "Lineáris PDF-szöveg kijelölése"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:535
 msgid "Select Multi-Layer Rect"
-msgstr ""
+msgstr "Többrétegű téglalap kijelölése"
 
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:24
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:76
 msgid "Select Multi-Layer Rectangle"
-msgstr ""
+msgstr "Többrétegű téglalap kijelölése"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:534
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:25
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:82
 msgid "Select Multi-Layer Region"
-msgstr ""
+msgstr "Többrétegű régió kijelölése"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:536
 #: ../src/core/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:26
@@ -1279,11 +1279,11 @@ msgstr "Szín kijelölése"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:97
 msgid "Select multi layer rect"
-msgstr ""
+msgstr "Többrétegű téglalap kijelölése"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:96
 msgid "Select multi layer region"
-msgstr ""
+msgstr "Többrétegű régió kijelölése"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:95
 msgid "Select rectangle"
@@ -1369,7 +1369,7 @@ msgstr "Elnézést, a Xournal++ jelenleg nem tud távoli fájlokat megnyitni.\n"
 
 #: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:58
 msgid "Spacer"
-msgstr ""
+msgstr "Távtartó"
 
 #: ../src/core/control/pagetype/PageTypeHandler.cpp:23
 msgid "Staves"
@@ -1453,7 +1453,7 @@ msgstr "A csatolt háttérfájl nem található. Lehet, hogy áthelyezték, átn
 
 #: ../src/core/control/XournalMain.cpp:245
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted."
-msgstr ""
+msgstr "A(z) „{1}” háttérfájl nem található. Lehet, hogy áthelyezték, átnevezték vagy törölték."
 
 #: ../src/core/control/Control.cpp:2314
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
@@ -1495,11 +1495,11 @@ msgstr "A legfrissebb eseménynapló neve: {1}"
 
 #: ../src/core/control/XournalMain.cpp:174
 msgid "There are errorlogfiles from Xournal++. Please file a Bugreport, so the bug may be fixed."
-msgstr ""
+msgstr "Vannak hibanaplófájlok a Xournal++ alkalmazásból. Kérjük, küldjön hibajelentést, hogy a hiba kijavítható legyen."
 
 #: ../src/core/control/XournalMain.cpp:173
 msgid "There is an errorlogfile from Xournal++. Please file a Bugreport, so the bug may be fixed."
-msgstr ""
+msgstr "Van egy hibanaplófájl a Xournal++ alkalmazásból. Kérjük, küldjön hibajelentést, hogy a hiba kijavítható legyen."
 
 #: ../src/util/XojMsgBox.cpp:104
 msgid "There was an error displaying help: {1}"
@@ -1676,7 +1676,7 @@ msgstr "Nincsenek PDF-oldalak, amelyek közül választhat. A művelet megszakí
 
 #: ../src/core/control/XournalMain.cpp:176
 msgid "You're using \"{1}/{2}\" branch."
-msgstr ""
+msgstr "Ön a(z) „{1}/{2}” ágat használja."
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:86
 msgid "Your current document does not contain PDF Page no {1}\n"
@@ -2049,7 +2049,7 @@ msgstr "<b>Oldalméret</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:196
 msgid "<b>Separators</b>"
-msgstr ""
+msgstr "<b>Elválasztók</b>"
 
 #: ../ui/settings.glade:783
 msgid "<i>Assign device classes to each input device of your system. Only change these values if your devices are not correctly matched. (e.g. your pen shows up as touchscreen)</i>"
@@ -2204,7 +2204,7 @@ msgstr "A vonásírás figyelmen kívül hagyása előtt mindhárom feltételnek
 #: ../ui/settings.glade:1998
 msgctxt "eraser is always visible"
 msgid "Always"
-msgstr ""
+msgstr "Mindig"
 
 #: ../ui/latexSettings.glade:45
 msgid "Always check LaTeX dependencies before running"
@@ -2252,7 +2252,7 @@ msgstr "Automatikus betöltés"
 
 #: ../ui/settings.glade:4729
 msgid "Automatically Add Empty Last Page (excluding PDFs)"
-msgstr ""
+msgstr "Üres utolsó oldal automatikus hozzáadása (a PDF-fájlok kivételével)"
 
 #: ../ui/settings.glade:462
 msgid "Autosaving"
@@ -2276,7 +2276,7 @@ msgstr "Alapsebesség"
 
 #: ../ui/settings.glade:3528
 msgid "Below preview"
-msgstr ""
+msgstr "Előnézet alatt"
 
 #: ../ui/settings.glade:3162
 msgctxt "stylus cursor uses a big pen icon"
@@ -2337,7 +2337,7 @@ msgstr "Kör színe"
 
 #: ../ui/settings.glade:3529
 msgid "Circle background"
-msgstr ""
+msgstr "Kör háttér"
 
 #: ../ui/settings.glade:4021
 msgid "Clear cached paged while scrolling"
@@ -2605,7 +2605,7 @@ msgstr "Radír típusa - ne változzon"
 
 #: ../ui/settings.glade:2024
 msgid "Eraser visibility"
-msgstr ""
+msgstr "Radír láthatósága"
 
 #: ../ui/exportSettings.glade:56
 msgid "Export"
@@ -2678,7 +2678,7 @@ msgstr "Globális sablonfájl elérési útja"
 
 #: ../ui/settings.glade:3885
 msgid "Go Fullscreen"
-msgstr ""
+msgstr "Teljes képernyő megjelenítése"
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
@@ -2957,7 +2957,7 @@ msgstr "_Következő széljegyzeteket tartalmazó lap"
 #: ../ui/settings.glade:1997
 msgctxt "eraser is never visible"
 msgid "Never"
-msgstr ""
+msgstr "Soha"
 
 #: ../ui/main.glade:1222
 msgid "New Page _After"
@@ -3019,7 +3019,7 @@ msgstr "_Előző széljegyzeteket tartalmazó lap"
 
 #: ../ui/settings.glade:3512
 msgid "Page numbering  "
-msgstr ""
+msgstr "Oldalszámozás  "
 
 #: ../ui/exportSettings.glade:206
 msgid "Pages:"
@@ -3253,7 +3253,7 @@ msgstr "Lebegő eszköztár megjelenítése"
 
 #: ../ui/settings.glade:3754 ../ui/settings.glade:3837
 msgid "Show Menubar"
-msgstr ""
+msgstr "Menüsor megjelenítése"
 
 #: ../ui/settings.glade:2825
 msgid "Show Menubar on Startup"
@@ -3265,7 +3265,7 @@ msgstr "Oldalsáv megjelenítése"
 
 #: ../ui/settings.glade:3770 ../ui/settings.glade:3853
 msgid "Show Toolbar"
-msgstr ""
+msgstr "Eszköztár megjelenítése"
 
 #: ../ui/main.glade:605
 msgid "Show Toolbars"
@@ -3285,7 +3285,7 @@ msgstr "Függőleges görgetősáv megjelenítése a bal oldalon"
 
 #: ../ui/settings.glade:3559
 msgid "Sidebar"
-msgstr ""
+msgstr "Oldalsáv"
 
 #: ../ui/settings.glade:909
 msgid "Slower strokes are assigned a greater pressure than faster strokes, if pressure information is absent.\n\n"
@@ -3316,7 +3316,7 @@ msgstr "Nagyítási lépés sebessége"
 
 #: ../ui/settings.glade:3530
 msgid "Square background"
-msgstr ""
+msgstr "Szögletes háttér"
 
 #: ../ui/settingsButtonConfig.glade:130
 msgid "Standard"
@@ -3348,7 +3348,7 @@ msgstr "Mutató gombok"
 
 #: ../ui/settings.glade:1981
 msgid "Stylus-based eraser is visible"
-msgstr ""
+msgstr "A ceruza alapú radír látható"
 
 #: ../ui/settings.glade:5254
 msgid "Successive (ms)"
@@ -3505,12 +3505,12 @@ msgstr "Amikor érintéssel rajzol, a nézet pásztázására szolgáló kétujj
 #: ../ui/settings.glade:1999
 msgctxt "eraser is only visible when floating"
 msgid "When floating"
-msgstr ""
+msgstr "Amikor lebegő"
 
 #: ../ui/settings.glade:2000
 msgctxt "eraser is only visible when touching the screen"
 msgid "When touching"
-msgstr ""
+msgstr "Amikor érintkező"
 
 #: ../ui/settings.glade:5394
 msgid "When zoomed in on a high-resolution PDF, each re-render can take a long time. Setting this to a large value causes these re-renders to happen less often.\n\n"
@@ -3800,7 +3800,7 @@ msgstr "ki_fehéredés"
 
 #: ../ui/settings.glade:4709
 msgid "disabled"
-msgstr ""
+msgstr "letilva"
 
 #: ../ui/exportSettings.glade:310
 msgid "dpi"
@@ -3838,9 +3838,9 @@ msgstr "nagy_on vastag"
 
 #: ../ui/settings.glade:4694
 msgid "when drawing on last page"
-msgstr ""
+msgstr "amikor rajzolás az utolsó oldalra"
 
 #: ../ui/settings.glade:4679
 msgid "when scrolling to end of last page"
-msgstr ""
+msgstr "amikor görgetés az utolsó oldal végére"
 
