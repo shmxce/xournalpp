@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-05-11 14:28\n"
+"PO-Revision-Date: 2023-05-16 23:26\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -344,7 +344,7 @@ msgstr "ツールバーをカスタマイズ"
 
 #: ../src/core/gui/dialog/ToolbarManageDialog.cpp:34
 msgid "Customized"
-msgstr ""
+msgstr "カスタマイズ"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:430
 msgid "Cut"
@@ -352,7 +352,7 @@ msgstr "切り取り"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:515
 msgid "Default Tool"
-msgstr ""
+msgstr "デフォルトのツール"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:436
 #: ../src/core/undo/DeleteUndoAction.cpp:64
@@ -1295,7 +1295,7 @@ msgstr "最背面に移動"
 
 #: ../src/core/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:57
 msgid "Separator"
-msgstr ""
+msgstr "分割線"
 
 #: ../src/core/control/XournalMain.cpp:670
 msgid "Set DPI for PNG exports. Default is 300\n"
@@ -2361,7 +2361,7 @@ msgstr "デフォルトのLaTeXテキスト"
 
 #: ../ui/settings.glade:636
 msgid "Default Save Name"
-msgstr ""
+msgstr "デフォルトの保存名"
 
 #: ../ui/settings.glade:6044
 msgid "Default Seek Time (in seconds)"
@@ -2369,7 +2369,7 @@ msgstr ""
 
 #: ../ui/settings.glade:524
 msgid "Default name: "
-msgstr ""
+msgstr "デフォルトの名前: "
 
 #: ../ui/settings.glade:5643
 msgid "Defaults"
