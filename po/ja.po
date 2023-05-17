@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-05-16 23:26\n"
+"PO-Revision-Date: 2023-05-17 00:21\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -332,11 +332,11 @@ msgstr "新規レイヤーを作成"
 
 #: ../src/core/gui/dialog/FormatDialog.cpp:71
 msgid "Custom"
-msgstr ""
+msgstr "カスタム"
 
 #: ../src/core/control/jobs/CustomExportJob.cpp:24
 msgid "Custom Export"
-msgstr ""
+msgstr "カスタムエクスポート"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:455
 msgid "Customize Toolbars"
@@ -471,7 +471,7 @@ msgstr "ストロークを描く"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:126
 msgid "Drawing Type - don't change"
-msgstr ""
+msgstr "描画の種類 - 変更しない"
 
 #: ../src/core/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:29
 msgid "Drawing Type Combo"
@@ -781,19 +781,19 @@ msgstr "画像"
 
 #: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:74
 msgid "Insert a copy of the current layer below"
-msgstr ""
+msgstr "現在のレイヤーのコピーを下に挿入"
 
 #: ../src/core/gui/sidebar/previews/page/SidebarPreviewPages.cpp:81
 msgid "Insert a copy of the current page below"
-msgstr ""
+msgstr "現在のページのコピーを下に挿入"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:95
 msgid "Insert after current page"
-msgstr ""
+msgstr "現在のページの後に挿入"
 
 #: ../src/core/gui/sidebar/Sidebar.cpp:96
 msgid "Insert at end"
-msgstr ""
+msgstr "最後に挿入"
 
 #: ../src/core/undo/InsertUndoAction.cpp:82
 msgid "Insert elements"
@@ -872,7 +872,7 @@ msgstr "中"
 
 #: ../src/core/undo/MergeLayerDownUndoAction.cpp:32
 msgid "Merge layer down"
-msgstr ""
+msgstr "下のレイヤーと結合"
 
 #: ../src/core/undo/MoveUndoAction.cpp:19
 msgid "Move"
@@ -884,11 +884,11 @@ msgstr "レイヤーを移動"
 
 #: ../src/core/undo/SwapUndoAction.cpp:68
 msgid "Move page downwards"
-msgstr ""
+msgstr "ページを下に移動"
 
 #: ../src/core/undo/SwapUndoAction.cpp:68
 msgid "Move page upwards"
-msgstr ""
+msgstr "ページを上に移動"
 
 #: ../src/core/gui/dialog/ToolbarManageDialog.cpp:75
 msgid "New"
@@ -1210,19 +1210,19 @@ msgstr "オブジェクトを選択"
 
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:68
 msgid "Select PDF Area Text"
-msgstr ""
+msgstr "PDFエリアのテキストを選択"
 
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:61
 msgid "Select PDF Text"
-msgstr ""
+msgstr "PDFテキストを選択"
 
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:24
 msgid "Select PDF Text In Rectangle"
-msgstr ""
+msgstr "長方形でPDFテキストを選択"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:521
 msgid "Select PDF Text in Rectangle"
-msgstr ""
+msgstr "長方形でPDFテキストを選択"
 
 #: ../src/core/gui/toolbarMenubar/ToolPdfCombocontrol.cpp:83
 msgid "Select Pdf Text"
@@ -1370,7 +1370,7 @@ msgstr ""
 
 #: ../src/core/control/stockdlg/XojOpenDlg.cpp:97
 msgid "Supported files"
-msgstr ""
+msgstr "サポートされたファイル"
 
 #: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:72
 msgid "Swap the current layer with the one above"
@@ -1747,7 +1747,7 @@ msgstr "ファイル: {1}"
 #: ../src/core/undo/AddUndoAction.cpp:85
 #: ../src/core/undo/DeleteUndoAction.cpp:83
 msgid "image"
-msgstr ""
+msgstr "画像"
 
 #: ../src/core/control/DeviceListHelper.cpp:104
 msgid "keyboard"
@@ -1774,12 +1774,12 @@ msgstr ""
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:317
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:501
 msgid "standard"
-msgstr ""
+msgstr "標準"
 
 #: ../src/core/undo/AddUndoAction.cpp:82
 #: ../src/core/undo/DeleteUndoAction.cpp:80
 msgid "stroke"
-msgstr ""
+msgstr "ストローク"
 
 #: ../src/core/control/DeviceListHelper.cpp:113
 msgid "tablet pad"
@@ -1804,7 +1804,7 @@ msgstr "トラックポイント"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:318
 msgid "whiteout"
-msgstr ""
+msgstr "ホワイトアウト"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:1058
 msgid "xoj-File: {1}"
@@ -1820,27 +1820,27 @@ msgstr ""
 
 #: ../src/xoj-preview-extractor/xournalpp-thumbnailer.cpp:142
 msgid "xoj-preview-extractor: file \"{1}\" contains no preview"
-msgstr ""
+msgstr "xoj-preview-extractor: ファイル \"{1}\" にプレビューが含まれていません"
 
 #: ../src/xoj-preview-extractor/xournalpp-thumbnailer.cpp:134
 msgid "xoj-preview-extractor: file \"{1}\" is not .xoj file"
-msgstr ""
+msgstr "xoj-preview-extractor: ファイル \"{1}\" は .xoj ファイルではありません"
 
 #: ../src/xoj-preview-extractor/xournalpp-thumbnailer.cpp:147
 msgid "xoj-preview-extractor: no preview and page found, maybe an invalid file?"
-msgstr ""
+msgstr "xoj-preview-extractor: プレビューとページが見つかりません、おそらく無効なファイルの可能性があります"
 
 #: ../src/xoj-preview-extractor/xournalpp-thumbnailer.cpp:138
 msgid "xoj-preview-extractor: opening input file \"{1}\" failed"
-msgstr ""
+msgstr "xoj-preview-extractor: 入力ファイル \"{1}\" を開けませんでした"
 
 #: ../src/xoj-preview-extractor/xournalpp-thumbnailer.cpp:202
 msgid "xoj-preview-extractor: opening output file \"{1}\" failed"
-msgstr ""
+msgstr "xoj-preview-extractor: 出力ファイル \"{1}\" を開けませんでした"
 
 #: ../src/xoj-preview-extractor/xournalpp-thumbnailer.cpp:209
 msgid "xoj-preview-extractor: successfully extracted"
-msgstr ""
+msgstr "xoj-preview-extractor: 正常に抽出されました"
 
 #: ../src/util/PathUtil.cpp:255
 msgid "xournalpp-{1}"
@@ -2204,7 +2204,7 @@ msgstr "自動保存中"
 
 #: ../ui/settings.glade:610
 msgid "Available Placeholders"
-msgstr ""
+msgstr "利用可能なプレースホルダー"
 
 #: ../ui/settings.glade:973
 msgid "Averaging method"
@@ -2393,7 +2393,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2711
 msgid "Disable GTK's built-in inertial scroll functionality (requires restart)."
-msgstr ""
+msgstr "GTK内蔵の慣性スクロール機能を無効にする(再起動が必要です)。"
 
 #: ../ui/settingsButtonConfig.glade:50
 msgid "Disable drawing for this device"
@@ -2413,7 +2413,7 @@ msgstr ""
 
 #: ../ui/settings.glade:4348
 msgid "Display DPI Calibration"
-msgstr ""
+msgstr "画面のDPIの調整"
 
 #: ../ui/settings.glade:5178
 msgid "Do not draw for inputs of short time and length unless it comes in short succession. Instead, show floating toolbox."
@@ -2451,7 +2451,7 @@ msgstr ""
 
 #: ../ui/main.glade:1551
 msgid "Draw _Line"
-msgstr ""
+msgstr "線を描く(_L)"
 
 #: ../ui/settings.glade:3192
 msgid "Draw a transparent circle around the cursor"
@@ -2479,7 +2479,7 @@ msgstr ""
 
 #: ../ui/latexSettings.glade:606
 msgid "Editor settings"
-msgstr ""
+msgstr "エディターの設定"
 
 #: ../ui/settings.glade:2345
 msgid "Enable"
@@ -2535,11 +2535,11 @@ msgstr ""
 
 #: ../ui/main.glade:1845
 msgid "Eraser Optio_ns"
-msgstr ""
+msgstr "消しゴムのオプション(_n)"
 
 #: ../ui/settingsButtonConfig.glade:129
 msgid "Eraser Type - don't change"
-msgstr ""
+msgstr "消しゴムの種類 - 変更しない"
 
 #: ../ui/settings.glade:2024
 msgid "Eraser visibility"
@@ -2620,7 +2620,7 @@ msgstr "全画面表示にする"
 
 #: ../ui/goto.glade:14
 msgid "Go to Page"
-msgstr ""
+msgstr "ページを移動"
 
 #: ../ui/settings.glade:5002
 msgid "Grid size"
@@ -3003,7 +3003,7 @@ msgstr ""
 
 #: ../ui/latexSettings.glade:564
 msgid "Pick the Editor's Font"
-msgstr ""
+msgstr "エディターのフォントを選択"
 
 #: ../ui/settings.glade:6098
 msgid "Playback Settings"
@@ -3391,7 +3391,7 @@ msgstr ""
 
 #: ../ui/latexSettings.glade:529
 msgid "Use font from system theme."
-msgstr ""
+msgstr "システムテーマのフォントを使用する"
 
 #: ../ui/settings.glade:5043
 msgid "Use snapping for recognized shapes"
@@ -3595,7 +3595,7 @@ msgstr "最初のページ(_F)"
 
 #: ../ui/main.glade:1098
 msgid "_Goto Page"
-msgstr ""
+msgstr "ページを移動(_G)"
 
 #: ../ui/main.glade:2151
 msgid "_Help"
