@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-05-17 00:21\n"
+"PO-Revision-Date: 2023-05-17 08:53\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -244,11 +244,11 @@ msgstr "pagetemplates.ini ファイルを読み込めませんでした"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:846
 msgid "Could not open attachment: {1}. Error message: Could not read file"
-msgstr ""
+msgstr "添付ファイルを開くことができませんでした: {1}. エラーメッセージ: ファイルを読み込めませんでした"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:855
 msgid "Could not open attachment: {1}. Error message: Could not write file"
-msgstr ""
+msgstr "添付ファイルを開くことができませんでした: {1}. エラーメッセージ: ファイルを書き込めませんでした"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:827
 #: ../src/core/control/xojfile/LoadHandler.cpp:1155
@@ -544,11 +544,11 @@ msgstr ""
 
 #: ../src/core/control/jobs/ImageExport.cpp:168
 msgid "Error save image #1"
-msgstr ""
+msgstr "画像保存エラー #1"
 
 #: ../src/core/control/jobs/ImageExport.cpp:197
 msgid "Error save image #2"
-msgstr ""
+msgstr "画像保存エラー #2"
 
 #: ../src/core/control/jobs/AutosaveJob.cpp:21
 msgid "Error while autosaving: {1}"
@@ -617,7 +617,7 @@ msgstr ""
 
 #: ../src/core/control/XournalMain.cpp:146
 msgid "Failed to delete file: {1}"
-msgstr ""
+msgstr "ファイルの削除に失敗しました: {1}"
 
 #: ../src/core/control/latex/LatexGenerator.cpp:83
 msgid "Failed to find LaTeX generator program in PATH: {1}"
@@ -1076,7 +1076,7 @@ msgstr "録音を開始できませんでした。"
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:426
 #: ../src/core/undo/UndoRedoHandler.cpp:193
 msgid "Redo"
-msgstr ""
+msgstr "やり直し"
 
 #: ../src/core/undo/UndoRedoHandler.cpp:188
 msgid "Redo: "
@@ -2762,11 +2762,11 @@ msgstr "LaTeX"
 
 #: ../ui/latexSettings.glade:354
 msgid "LaTeX executable settings"
-msgstr ""
+msgstr "LaTeX 実行可能ファイルの設定"
 
 #: ../ui/latexSettings.glade:297
 msgid "LaTeX generation command"
-msgstr ""
+msgstr "LaTeX 生成コマンド"
 
 #: ../ui/settings.glade:6258 ../ui/settings.glade:6306
 msgid "Language"
@@ -2798,7 +2798,7 @@ msgstr "読み込み/保存"
 
 #: ../ui/images.glade:73
 msgid "Load file"
-msgstr ""
+msgstr "ファイルを読み込む"
 
 #: ../ui/pageTemplate.glade:54
 msgid "Load from file"
@@ -2847,7 +2847,7 @@ msgstr ""
 
 #: ../ui/settings.glade:1583
 msgid "Minimum Pressure:"
-msgstr ""
+msgstr "最小圧力:"
 
 #: ../ui/settings.glade:5102
 msgid "Minimum Stroke Size"
@@ -2867,7 +2867,7 @@ msgstr ""
 
 #: ../ui/main.glade:2895 ../ui/main.glade:2970
 msgid "Move Down"
-msgstr ""
+msgstr "下へ"
 
 #: ../ui/main.glade:490
 msgid "Move Selection Layer Down"
@@ -2879,7 +2879,7 @@ msgstr ""
 
 #: ../ui/main.glade:2887 ../ui/main.glade:2962
 msgid "Move Up"
-msgstr ""
+msgstr "上へ"
 
 #: ../ui/settings.glade:3708
 msgid "Multiply the panning speed by up to this amount, based on how much of the selected element is out of view."
@@ -3055,11 +3055,11 @@ msgstr ""
 
 #: ../ui/settings.glade:3276
 msgid "Radius"
-msgstr ""
+msgstr "半径"
 
 #: ../ui/exportSettings.glade:160
 msgid "Range"
-msgstr ""
+msgstr "範囲"
 
 #: ../ui/settings.glade:5397
 msgid "Re-render when the page's zoom changes by more than "
@@ -3067,7 +3067,7 @@ msgstr ""
 
 #: ../ui/main.glade:187
 msgid "Recent _Documents"
-msgstr ""
+msgstr "最近のドキュメント(_D)"
 
 #: ../ui/main.glade:2062
 msgid "Record / Stop"
@@ -3455,11 +3455,11 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:29
 msgid "Width"
-msgstr ""
+msgstr "幅"
 
 #: ../ui/pagesize.glade:189
 msgid "Width:"
-msgstr ""
+msgstr "幅:"
 
 #: ../ui/about.glade:307
 msgid "With help from the community"
