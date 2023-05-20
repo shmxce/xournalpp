@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-05-20 11:25\n"
+"PO-Revision-Date: 2023-05-20 12:34\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -2338,7 +2338,7 @@ msgstr "Farbe des Kreises"
 
 #: ../ui/settings.glade:3529
 msgid "Circle background"
-msgstr ""
+msgstr "Kreis auf Hintergrund"
 
 #: ../ui/settings.glade:4021
 msgid "Clear cached paged while scrolling"
@@ -3020,7 +3020,7 @@ msgstr "Vorherige beschriftete Seite"
 
 #: ../ui/settings.glade:3512
 msgid "Page numbering  "
-msgstr ""
+msgstr "Seitennummern  "
 
 #: ../ui/exportSettings.glade:206
 msgid "Pages:"
@@ -3286,7 +3286,7 @@ msgstr "Vertikale Bildlaufleiste auf der linken Seite anzeigen"
 
 #: ../ui/settings.glade:3559
 msgid "Sidebar"
-msgstr ""
+msgstr "Seitenleiste"
 
 #: ../ui/settings.glade:909
 msgid "Slower strokes are assigned a greater pressure than faster strokes, if pressure information is absent.\n\n"
@@ -3317,7 +3317,7 @@ msgstr "Geschwindigkeit für Zoomstufe"
 
 #: ../ui/settings.glade:3530
 msgid "Square background"
-msgstr ""
+msgstr "Rechteck auf Hintergrund"
 
 #: ../ui/settingsButtonConfig.glade:130
 msgid "Standard"
