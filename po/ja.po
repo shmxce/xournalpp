@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-05-17 08:53\n"
+"PO-Revision-Date: 2023-05-20 23:55\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -403,7 +403,7 @@ msgstr ""
 
 #: ../src/core/control/Control.cpp:2804
 msgid "Document file was removed."
-msgstr ""
+msgstr "ドキュメントファイルが削除されました。"
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:271
 msgid "Document is corrupted (no pages found in file)"
@@ -527,11 +527,11 @@ msgstr ""
 
 #: ../src/core/control/Control.cpp:2367
 msgid "Error opening file \"{1}\""
-msgstr ""
+msgstr "ファイル \"{1}\" の展開中にエラー"
 
 #: ../src/util/OutputStream.cpp:24
 msgid "Error opening file: \"{1}\""
-msgstr ""
+msgstr "ファイルの展開中のエラー: \"{1}\""
 
 #: ../src/core/control/xojfile/LoadHandler.cpp:489
 #: ../src/core/control/xojfile/LoadHandler.cpp:509
@@ -892,7 +892,7 @@ msgstr "ページを上に移動"
 
 #: ../src/core/gui/dialog/ToolbarManageDialog.cpp:75
 msgid "New"
-msgstr ""
+msgstr "新規"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:413
 msgid "New Xournal"
@@ -1420,7 +1420,7 @@ msgstr "テキストが見つかりません"
 
 #: ../src/core/gui/SearchBar.cpp:139
 msgid "Text not found, searched on all pages"
-msgstr ""
+msgstr "テキストが見つかりません。すべてのページで検索されました。"
 
 #: ../src/core/control/Control.cpp:1257
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
@@ -1432,12 +1432,12 @@ msgstr ""
 
 #: ../src/core/control/XournalMain.cpp:245
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted."
-msgstr ""
+msgstr "背景ファイル \"{1}\" が見つかりませんでした。ファイルの移動、名前の変更または削除された可能性があります。"
 
 #: ../src/core/control/Control.cpp:2314
 msgid "The background file \"{1}\" could not be found. It might have been moved, renamed or deleted.\n"
 "It was last seen at: \"{2}\""
-msgstr ""
+msgstr "背景ファイル \"{1}\" が見つかりませんでした。ファイルの移動、名前の変更または削除された可能性があります。最後に確認された場所: \"{2}\""
 
 #: ../src/core/control/jobs/BaseExportJob.cpp:52
 msgid "The check for overwriting the background failed with:\n"
@@ -1501,7 +1501,7 @@ msgstr "全画面表示の切り替え"
 
 #: ../src/core/gui/dialog/ButtonConfigGui.cpp:87
 msgid "Tool - don't change"
-msgstr ""
+msgstr "ツール - 変更しない"
 
 #: ../src/core/gui/toolbarMenubar/model/ToolbarData.cpp:104
 msgid "Toolbar found: {1}"
@@ -1667,7 +1667,7 @@ msgstr "ズームスライダー"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:459
 msgid "Zoom fit to screen"
-msgstr ""
+msgstr "画面に合わせる"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:458
 msgid "Zoom in"
@@ -1768,7 +1768,7 @@ msgstr "ペン"
 
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:154
 msgid "show"
-msgstr ""
+msgstr "表示"
 
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:298
 #: ../src/core/gui/toolbarMenubar/ToolMenuHandler.cpp:317
