@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-05-12 15:14\n"
+"PO-Revision-Date: 2023-05-23 13:16\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
@@ -2340,7 +2340,7 @@ msgstr "لون الدائرة"
 
 #: ../ui/settings.glade:3529
 msgid "Circle background"
-msgstr ""
+msgstr "خلفية دائرية"
 
 #: ../ui/settings.glade:4021
 msgid "Clear cached paged while scrolling"
@@ -3319,7 +3319,7 @@ msgstr "خطوة التكبير والتصغير"
 
 #: ../ui/settings.glade:3530
 msgid "Square background"
-msgstr ""
+msgstr "خلفية مربعة"
 
 #: ../ui/settingsButtonConfig.glade:130
 msgid "Standard"
