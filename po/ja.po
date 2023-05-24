@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-05-24 08:49\n"
+"PO-Revision-Date: 2023-05-24 14:54\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -37,7 +37,7 @@ msgstr ""
 #: ../src/core/gui/toolbarMenubar/ToolPageSpinner.cpp:37
 msgctxt "Page {pagenumber} \"of {pagecount}\""
 msgid " of {1}"
-msgstr " of {1}"
+msgstr " / {1}"
 
 #: ../src/core/control/settings/Settings.cpp:143
 msgid "%F-Note-%H-%M"
@@ -2122,11 +2122,11 @@ msgstr ""
 
 #: ../ui/settings.glade:4483
 msgid "Add additional horizontal space of"
-msgstr ""
+msgstr "水平方向のスペースを追加:"
 
 #: ../ui/settings.glade:4461
 msgid "Add additional vertical space of"
-msgstr ""
+msgstr "垂直方向のスペースを追加:"
 
 #: ../ui/settings.glade:4864
 msgid "After resizing a selection, the line width of all strokes will be the same as before the resizing operation. "
@@ -2172,7 +2172,7 @@ msgstr "オーディオデバイス"
 
 #: ../ui/settings.glade:6144
 msgid "Audio Recording"
-msgstr "音声録音"
+msgstr "録音"
 
 #: ../ui/pluginEntry.glade:57
 msgid "Author: "
@@ -2321,7 +2321,7 @@ msgstr "選択したテキストをコピー"
 
 #: ../ui/pageTemplate.glade:192
 msgid "Copy the background of the current page instead of using the background set above."
-msgstr ""
+msgstr "背景設定の代わりに、現在のページの背景をコピーします。"
 
 #: ../ui/exportSettings.glade:190
 msgid "Current page"
@@ -3031,7 +3031,7 @@ msgstr ""
 
 #: ../ui/main.glade:532
 msgid "Preferences"
-msgstr ""
+msgstr "環境設定"
 
 #: ../ui/settings.glade:1180
 msgid "Preprocessor"
