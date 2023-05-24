@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-23 07:25+0000\n"
-"PO-Revision-Date: 2023-05-20 23:55\n"
+"PO-Revision-Date: 2023-05-24 08:49\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -1521,7 +1521,7 @@ msgstr ""
 
 #: ../src/core/gui/PageView.cpp:371
 msgid "Unable to play audio recording {1}"
-msgstr ""
+msgstr "録音した音声 {1} を再生できません"
 
 #: ../src/core/control/Control.cpp:1481
 msgid "Unable to retrieve pdf page."
@@ -2172,7 +2172,7 @@ msgstr "オーディオデバイス"
 
 #: ../ui/settings.glade:6144
 msgid "Audio Recording"
-msgstr ""
+msgstr "音声録音"
 
 #: ../ui/pluginEntry.glade:57
 msgid "Author: "
@@ -2225,7 +2225,7 @@ msgstr ""
 #: ../ui/settings.glade:3162
 msgctxt "stylus cursor uses a big pen icon"
 msgid "Big pen icon"
-msgstr ""
+msgstr "大きいペン"
 
 #: ../ui/settings.glade:3367
 msgid "Border Color"
@@ -2273,7 +2273,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3210 ../ui/settings.glade:3353
 msgid "Choose the color to use for \"Highlight cursor position\""
-msgstr ""
+msgstr "カーソル位置をハイライト表示するときに使用する色を選択"
 
 #: ../ui/settings.glade:3224
 msgid "Circle Color"
@@ -2660,7 +2660,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3187
 msgid "Highlight cursor position"
-msgstr ""
+msgstr "カーソルの位置をハイライト表示する"
 
 #: ../ui/main.glade:2799
 msgid "Highlight selected text"
@@ -2913,7 +2913,7 @@ msgstr ""
 #: ../ui/settings.glade:3160
 msgctxt "stylus cursor uses no icon"
 msgid "No icon"
-msgstr ""
+msgstr "アイコンなし"
 
 #: ../ui/exportSettings.glade:46
 msgid "No ruling"
@@ -3071,11 +3071,11 @@ msgstr "最近のドキュメント(_D)"
 
 #: ../ui/main.glade:2062
 msgid "Record / Stop"
-msgstr ""
+msgstr "録音/停止"
 
 #: ../ui/settings.glade:6011
 msgid "Recording Quality"
-msgstr ""
+msgstr "録音品質"
 
 #: ../ui/main.glade:1323
 msgid "Rename Layer"
@@ -3229,7 +3229,7 @@ msgstr ""
 #: ../ui/settings.glade:3161
 msgctxt "stylus cursor uses a small dot"
 msgid "Small dot icon"
-msgstr ""
+msgstr "小さいドット"
 
 #: ../ui/settings.glade:5065
 msgid "Snapping"
