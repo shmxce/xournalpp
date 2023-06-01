@@ -9,8 +9,8 @@
  * @license GNU GPLv2
  */
 
-#include "control/CrashHandler.h"  // for installCrashHandlers
-#include "control/XournalMain.h"   // for run
+#include "control/CrashHandler.h" // for installCrashHandlers
+#include "control/XournalMain.h"  // for run
 
 #ifdef __APPLE__
 #include "osx/setup-env.h"
@@ -22,9 +22,10 @@
 #include "win32/console.h"
 #endif
 
-auto main(int argc, char* argv[]) -> int {
+auto main(int argc, char *argv[]) -> int {
 #ifdef _WIN32
-    // Attach to the console here. Otherwise, gspawn-win32-helper will create annoying console popups.
+    // Attach to the console here. Otherwise, gspawn-win32-helper will create
+    // annoying console popups.
     attachConsole();
 #endif
 
@@ -39,9 +40,9 @@ auto main(int argc, char* argv[]) -> int {
     // Switch to the FontConfig backend for Pango - See #3371
     _putenv_s("PANGOCAIRO_BACKEND", "fc");
 #endif
-
 #ifdef __APPLE__
-    // Setup the environment variables, in particular so that the pixbuf loaders are found
+    // Setup the environment variables, in particular so that the pixbuf loaders
+    // are found
     setupEnvironment();
 #endif
 

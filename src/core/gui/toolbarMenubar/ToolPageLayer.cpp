@@ -27,14 +27,13 @@ ToolPageLayer::ToolPageLayer(LayerController* lc, ActionHandler* handler, std::s
         menu(gtk_menu_new()),
         iconNameHelper(iconNameHelper) {
     this->layerLabel = gtk_label_new(_("Loading..."));
-    this->layerButton = gtk_button_new_with_label("⌄");
+    this->layerButton = gtk_button_new_with_label("L1");
 
     xoj::util::PangoAttrListSPtr attrs(pango_attr_list_new(), xoj::util::adopt);
     pango_attr_list_insert(attrs.get(), pango_attr_weight_new(PANGO_WEIGHT_BOLD));
     gtk_label_set_attributes(GTK_LABEL(this->layerLabel), attrs.get());
 
     popupMenuButton = new PopupMenuButton(this->layerButton, menu);
-
     LayerCtrlListener::registerListener(lc);
 }
 
@@ -231,7 +230,8 @@ void ToolPageLayer::updateLayerData() {
 
     inMenuUpdate = false;
 
-    gtk_label_set_text(GTK_LABEL(layerLabel), lc->getCurrentLayerName().c_str());
+    //gtk_label_set_text(GTK_LABEL(layerLabel), lc->getCurrentLayerName().c_str());
+    gtk_button_set_label(GTK_BUTTON(layerButton), lc->getCurrentLayerName().c_str());
 }
 
 auto ToolPageLayer::getToolDisplayName() const -> std::string { return _("Layer Combo"); }
@@ -248,9 +248,9 @@ auto ToolPageLayer::newItem() -> GtkToolItem* {
     GtkToolItem* it = gtk_tool_item_new();
 
     GtkWidget* hbox = gtk_box_new(GTK_ORIENTATION_HORIZONTAL, 1);
-    gtk_box_pack_start(GTK_BOX(hbox), gtk_label_new(_("Layer")), false, false, 7);
+    //gtk_box_pack_start(GTK_BOX(hbox), gtk_label_new(_("")), false, false, 0);
 
-    gtk_box_pack_start(GTK_BOX(hbox), this->layerLabel, false, false, 0);
+    //gtk_box_pack_start(GTK_BOX(hbox), this->layerLabel, false, false, 0);
     gtk_box_pack_start(GTK_BOX(hbox), this->layerButton, false, false, 0);
 
     gtk_container_add(GTK_CONTAINER(it), hbox);

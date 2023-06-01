@@ -7,7 +7,7 @@ include(Gettext)
 
 if (XGETTEXT_FOUND)
 
-  set(potfile "${PROJECT_NAME}.pot")
+  set(potfile "zh.po")
 
   gettext_create_pot ("${potfile}"
           PACKAGE ${PROJECT_NAME}

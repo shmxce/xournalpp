@@ -34,12 +34,13 @@ void ToolPageSpinner::setPageInfo(const size_t pageCount, const size_t pdfPage) 
 }
 
 void ToolPageSpinner::updateLabels() {
-    std::string ofString = FS(C_F("Page {pagenumber} \"of {pagecount}\"", " of {1}") % this->pageCount);
+    // std::string ofString = FS(C_F("Page {pagenumber} \"of {pagecount}\"", " of {1}") % this->pageCount);
+    std::string ofString = FS(C_F("/{pagecount}", "/ {1}") % this->pageCount);
     if (this->orientation == GTK_ORIENTATION_HORIZONTAL) {
         std::string pdfString;
-        if (this->pdfPage > 0) {  // zero means that theres no pdf currently
-            pdfString = std::string(", ") + FS(_F("PDF Page {1}") % this->pdfPage);
-        }
+        // if (this->pdfPage > 0) {  // zero means that theres no pdf currently
+        //     pdfString = std::string(", ") + FS(_F("PDF Page {1}") % this->pdfPage);
+        // }
         gtk_label_set_text(GTK_LABEL(lbPageNo), (ofString + pdfString).c_str());
     } else {
         gtk_label_set_text(GTK_LABEL(lbPageNo), ofString.c_str());
@@ -85,7 +86,7 @@ auto ToolPageSpinner::newItem() -> GtkToolItem* {
         g_clear_object(&this->lbVerticalPdfPage);
     }
 
-    GtkWidget* pageLabel = gtk_label_new(_("Page"));
+    GtkWidget* pageLabel = gtk_label_new(_(""));
     if (orientation == GTK_ORIENTATION_HORIZONTAL) {
         gtk_widget_set_valign(pageLabel, GTK_ALIGN_BASELINE);
         gtk_widget_set_valign(spinner, GTK_ALIGN_BASELINE);
@@ -105,7 +106,7 @@ auto ToolPageSpinner::newItem() -> GtkToolItem* {
     }
     this->box = gtk_box_new(orientation, 1);
     g_object_ref_sink(this->box);
-    gtk_box_pack_start(GTK_BOX(box), pageLabel, false, false, 7);
+    gtk_box_pack_start(GTK_BOX(box), pageLabel, false, false, 0);
     gtk_box_pack_start(GTK_BOX(box), spinner, false, false, 0);
     gtk_box_pack_start(GTK_BOX(box), this->lbPageNo, false, false, 7);
 

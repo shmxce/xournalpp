@@ -822,7 +822,7 @@ msgstr "LaTeX 生成器遇到了一个错误:{1}(退出代码: {2})"
 
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:250
 msgid "Layer"
-msgstr "图层"
+msgstr "Layer"
 
 #: ../src/core/gui/toolbarMenubar/ToolPageLayer.cpp:236
 msgid "Layer Combo"
@@ -834,7 +834,7 @@ msgstr "图层预览"
 
 #: ../src/core/control/layer/LayerController.cpp:375
 msgid "Layer {1}"
-msgstr "{1}图层"
+msgstr "L{1}"
 
 #: ../src/core/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:82
 msgid "Layerstack Preview"
